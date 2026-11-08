@@ -11,7 +11,7 @@
   ],
   "regions": [],
   "level": "clean",
-  "period": null,
+  "period": "sec. XIX",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -28,9 +28,21 @@
       "original_text": "trăsni-l-ar Dumnezeŭ",
       "verification": "verified",
       "notes": "atestare folclorică/literară; abreviere sursă primară: Scriban"
+    },
+    {
+      "title": "Fragmente (Caragiale)",
+      "url": "https://ro.wikisource.org/wiki/Fragmente_(Caragiale)",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Fragmente (Caragiale)",
+      "regions": [],
+      "original_text": "trăzni-o-ar Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,
   "translation": "May God strike him with lightning",
-  "notes": null
+  "notes": "Apare și ca: „Trăzni-o-ar Dumnezeu”."
 }

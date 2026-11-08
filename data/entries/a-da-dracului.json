@@ -10,7 +10,7 @@
   ],
   "regions": [],
   "level": "clean",
-  "period": null,
+  "period": "1901",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -27,9 +27,21 @@
       "original_text": "a da dracului",
       "verification": "verified",
       "notes": "forma DEX: «A trimite (pe cineva) la dracul sau a da dracului»"
+    },
+    {
+      "title": "Proverbele românilor, vol. 7",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-7-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "A'1 dă dracului",
+      "verification": "verified",
+      "notes": "Zanne vol. 7; după A. Pann II p. 108 și Hințescu p. 169"
     }
   ],
-  "explanation": null,
+  "explanation": "Adică a scăpa de cineva, a-l alunga.",
   "translation": "To give someone to the devil",
-  "notes": null
+  "notes": "Apare și ca: „A-l da dracului”."
 }

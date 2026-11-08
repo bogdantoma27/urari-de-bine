@@ -7,7 +7,8 @@
   "affliction": null,
   "themes": [
     "church",
-    "sexual"
+    "sexual",
+    "nature_elements"
   ],
   "regions": [],
   "level": "vulgar",
@@ -28,9 +29,21 @@
       "original_text": "futu-ț tuarta cerului",
       "verification": "verified",
       "notes": "idem; „tuarta” = probabil toarta"
+    },
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română (VICE România)",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Gabriel Botezatu",
+      "year": 2015,
+      "page": null,
+      "informant": "răspunsuri la ancheta Atlasului Lingvistic Român (supliment, 1942), citate de VICE",
+      "regions": [],
+      "original_text": "futu-ț tuarta cerului",
+      "verification": "verified",
+      "notes": "grafia surselor din Atlas, transcrisă de VICE; regiunea per formulă nu e dată"
     }
   ],
   "explanation": null,
   "translation": "Fuck the handle of the sky",
-  "notes": null
+  "notes": "Apare și ca: „Futu-ți tuarta cerului”."
 }

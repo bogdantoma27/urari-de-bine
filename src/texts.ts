@@ -121,8 +121,8 @@ const T = {
     en: "List entries, with filters and pagination",
   },
   "list.description": {
-    ro: "Întoarce formulele paginat, în ordine alfabetică după `id`, sau cu cele vulgare întâi dacă pui `sort=vulgar`. Implicit vin doar cele găsite într-o sursă, din toate nivelurile. Cu `level=clean` primești doar cele curate. Insultele la adresa unor etnii sau grupuri apar și ele. Le scoți cu `sensitive=false`.",
-    en: "Returns attested entries of all levels by default. Add `level=clean` to get only the clean ones. Sensitive entries are included by default. Add `sensitive=false` to leave them out. Sorted alphabetically by `id`, or vulgar first with `sort=vulgar`.",
+    ro: "Întoarce formulele paginat, în ordine alfabetică după `id`, sau cu cele vulgare întâi dacă pui `sort=vulgar`. Implicit vin doar cele găsite într-o sursă.",
+    en: "Returns attested entries, a page at a time, sorted alphabetically by `id`, or vulgar first with `sort=vulgar`.",
   },
   "list.200": { ro: "O pagină de rezultate", en: "A page of results" },
 
@@ -141,8 +141,8 @@ const T = {
     en: "A random entry",
   },
   "random.description": {
-    ro: "Are aceleași filtre ca lista. Insultele la adresa unor etnii sau grupuri sunt incluse, dacă nu pui `sensitive=false`. Alege mai întâi dintre formulele haioase. Dacă filtrele nu lasă niciuna, alege dintre toate cele care se potrivesc. Pentru doar text, adaugă `?format=text` sau trimite `Accept: text/plain`.",
-    en: "Same filters as the list. Sensitive entries are included unless you add `sensitive=false`. It picks from the funny entries first. If the filters leave none, it picks from everything that matches. For just the text, add `?format=text` or send `Accept: text/plain`.",
+    ro: "Are aceleași filtre ca lista. Alege mai întâi dintre formulele haioase. Dacă filtrele nu lasă niciuna, alege dintre toate cele care se potrivesc. Pentru doar text, adaugă `?format=text` sau trimite `Accept: text/plain`.",
+    en: "Same filters as the list. It picks from the funny entries first. If the filters leave none, it picks from everything that matches. For just the text, add `?format=text` or send `Accept: text/plain`.",
   },
   "random.200": {
     ro: "O formulă (JSON) sau doar textul ei",

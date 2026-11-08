@@ -4,12 +4,12 @@
 
 <br>
 
-**Peste 1.400 de blesteme, înjurături și insulte românești, adunate din cărți vechi, dicționare și de pe internet. La fiecare scrie de unde e luată.**<br>
+**Aproape 1.400 de blesteme, înjurături și insulte românești, adunate din cărți vechi, dicționare și de pe internet. La fiecare scrie de unde e luată.**<br>
 Le poți citi pe site sau le poți lua din API.
 
 <br>
 
-[![Intrări](https://img.shields.io/badge/intr%C4%83ri-1.448-a3271c?style=flat-square)](data/entries/)
+[![Intrări](https://img.shields.io/badge/intr%C4%83ri-1.389-a3271c?style=flat-square)](data/entries/)
 [![Surse](https://img.shields.io/badge/surse-317-7a5a33?style=flat-square)](https://api.uraridebine.ro/v1/sources)
 [![API](https://img.shields.io/badge/API-documenta%C8%9Bie-2b1a10?style=flat-square)](https://api.uraridebine.ro/docs)
 [![Date](https://img.shields.io/badge/date-CC%20BY--SA%204.0-c9a24d?style=flat-square)](data/LICENSE)

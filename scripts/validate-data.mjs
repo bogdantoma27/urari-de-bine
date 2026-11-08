@@ -44,6 +44,13 @@ for (const f of files) {
   if (e.text.trim() !== e.text || e.text.endsWith(".")) errors.push(`${f}: text has surrounding spaces or a trailing period`);
 }
 
+// redirects: old id -> an id that exists, and the old id must not be an entry again
+const redirects = JSON.parse(readFileSync(join(root, "data", "redirects.json"), "utf8"));
+for (const [from, to] of Object.entries(redirects)) {
+  if (ids.has(from)) errors.push(`redirects.json: "${from}" is still an entry`);
+  if (!ids.has(to)) errors.push(`redirects.json: "${from}" points to "${to}", which does not exist`);
+}
+
 if (errors.length) {
   console.error(`${errors.length} errors in ${files.length} files:`);
   for (const error of errors.slice(0, 200)) console.error("  " + error);

@@ -7,7 +7,8 @@
   "affliction": "pământul",
   "themes": [
     "sickness_death",
-    "family"
+    "family",
+    "nature_elements"
   ],
   "regions": [
     "moldavia"
@@ -32,9 +33,21 @@
       "original_text": "Mînca-te-ar pămîntul",
       "verification": "verified",
       "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1; „Mai ales zic mamele la copii. Moldova”"
+    },
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mânca-l-ar pământul",
+      "verification": "verified",
+      "notes": "vol. 1, la capitolul despre pământ; pagina nedeterminată din OCR"
     }
   ],
   "explanation": null,
   "translation": "May the earth eat you",
-  "notes": null
+  "notes": "Apare și ca: „Mânca-l-ar pământul”."
 }

@@ -7,7 +7,8 @@
   "affliction": "lupii",
   "themes": [
     "farm_animals",
-    "birds_of_prey"
+    "birds_of_prey",
+    "sickness_death"
   ],
   "regions": [
     "bukovina"
@@ -30,9 +31,21 @@
       "original_text": "manca-te-ar lupil",
       "verification": "verified",
       "notes": "Marian, Ornitologia poporană I; la sursă: «mânca-te-ar Ciahlăul ca și mânca-te-ar lupii»; Ciahlăul = nume de munte (Ceahlău)"
+    },
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-o-ar lupii",
+      "verification": "verified",
+      "notes": null
     }
   ],
   "explanation": null,
   "translation": "May the wolves eat you",
-  "notes": "informator: „români din Bucovina (Polana-Stampii)” (Marian, Ornitologia)"
+  "notes": "informator: „români din Bucovina (Polana-Stampii)” (Marian, Ornitologia) Apare și ca: „Mânca-o-ar lupii”."
 }

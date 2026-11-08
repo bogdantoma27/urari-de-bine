@@ -6,11 +6,12 @@
   "form": "optative",
   "affliction": "moliile",
   "themes": [
-    "farm_animals"
+    "farm_animals",
+    "sickness_death"
   ],
   "regions": [],
   "level": "clean",
-  "period": null,
+  "period": "1861",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -27,9 +28,21 @@
       "original_text": "Mînca-te-ar moliile",
       "verification": "verified",
       "notes": "atestare folclorică/literară; abreviere sursă primară: DLR, glumeț; MARIAN, INS. 304"
+    },
+    {
+      "title": "Cucoana Chirița în voiaj",
+      "url": "https://ro.wikisource.org/wiki/Cucoana_Chiri%C8%9Ba_%C3%AEn_voiaj",
+      "author": "Vasile Alecsandri",
+      "year": 1861,
+      "page": null,
+      "informant": "Vasile Alecsandri, Cucoana Chirița în voiaj",
+      "regions": [],
+      "original_text": "mânca-l-ar moliile",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,
   "translation": "May the moths eat you",
-  "notes": null
+  "notes": "Apare și ca: „Mânca-l-ar moliile”."
 }

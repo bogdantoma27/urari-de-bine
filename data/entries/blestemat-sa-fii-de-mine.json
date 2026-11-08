@@ -4,15 +4,16 @@
   "original_text": "Blestemat să fii de mine",
   "type": "curse",
   "form": "subjunctive",
-  "affliction": null,
+  "affliction": "mama",
   "themes": [
-    "modern"
+    "modern",
+    "family"
   ],
   "regions": [
     "ukraine"
   ],
   "level": "clean",
-  "period": null,
+  "period": "sec. XIX",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -31,9 +32,21 @@
       "original_text": "Blestemat să fii de mine",
       "verification": "verified",
       "notes": "nord-bucovinean. cântec"
+    },
+    {
+      "title": "Blăstăm de mamă",
+      "url": "https://ro.wikisource.org/wiki/Bl%C4%83st%C4%83m_de_mam%C4%83",
+      "author": "George Coșbuc",
+      "year": null,
+      "page": null,
+      "informant": "George Coșbuc, Blăstăm de mamă",
+      "regions": [],
+      "original_text": "Blăstămat să fii de mine",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,
   "translation": "May you be cursed by me",
-  "notes": null
+  "notes": "Apare și ca: „Blăstămat să fii de mine”."
 }

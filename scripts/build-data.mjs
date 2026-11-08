@@ -13,4 +13,6 @@ entries.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
 const outDir = join(root, "src", "generated");
 mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, "data.json"), JSON.stringify(entries));
+// old ids of entries that were merged into another one: old id -> the id that holds it now
+writeFileSync(join(outDir, "redirects.json"), readFileSync(join(root, "data", "redirects.json"), "utf8"));
 console.log(`data.json: ${entries.length} entries`);

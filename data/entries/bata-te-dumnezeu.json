@@ -51,9 +51,69 @@
       "original_text": "bată-te Dumnezeu",
       "verification": "unverified",
       "notes": "Șăineanu (1929): bată-l Dumnezeu"
+    },
+    {
+      "title": "dexonline.ro, DEXI; CADE",
+      "url": "https://dexonline.ro/definitie/bate",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-l Dumnezeu",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    },
+    {
+      "title": "dexonline.ro, Scriban",
+      "url": "https://dexonline.ro/definitie/imprecație",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l Dumnezeŭ!",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Ion, partea I Glasul pământului",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/1._Glasul_p%C4%83m%C3%A2ntului",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea I Glasul pământului",
+      "regions": [],
+      "original_text": "bată-l Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "dexonline.ro, Scriban (1939); Șăineanu ed. VI (1929)",
+      "url": "https://dexonline.ro/text/în blesteme",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l Dumnezeu",
+      "verification": "unverified",
+      "notes": null
+    },
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Bată-te Dumnezău!",
+      "verification": "transcribed",
+      "notes": null
     }
   ],
   "explanation": null,
   "translation": "May God strike you",
-  "notes": null
+  "notes": "Apare și ca: „Bată-l Dumnezeu”, „Bată-te Dumnezău!”."
 }

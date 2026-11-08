@@ -6,7 +6,8 @@
   "form": "optative",
   "affliction": null,
   "themes": [
-    "nature_elements"
+    "nature_elements",
+    "sickness_death"
   ],
   "regions": [],
   "level": "clean",
@@ -27,9 +28,21 @@
       "original_text": "duce-te-ai pe apa Sîmbetei",
       "verification": "verified",
       "notes": null
+    },
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Duce-te-ai cu apa sîmbetei!",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: S. Fl. Marian, Înmormântarea la români, Saeculum 2009, p. 341"
     }
   ],
   "explanation": "Adică să te duci de tot, pe lumea cealaltă.",
   "translation": "May you be gone on the Saturday water",
-  "notes": null
+  "notes": "Apare și ca: „Duce-te-ai cu apa sâmbetei”."
 }

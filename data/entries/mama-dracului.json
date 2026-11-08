@@ -11,7 +11,7 @@
   ],
   "regions": [],
   "level": "clean",
-  "period": null,
+  "period": "sec. XIX",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -28,9 +28,21 @@
       "original_text": "Mama-dracului",
       "verification": "verified",
       "notes": "(în imprecații și exclamații)"
+    },
+    {
+      "title": "Mărul Discordiei",
+      "url": "https://ro.wikisource.org/wiki/M%C4%83rul_Discordiei",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Mărul Discordiei",
+      "regions": [],
+      "original_text": "muma dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": "Mai rea decât dracul; apare des în înjurături.",
   "translation": "The devil's mother",
-  "notes": null
+  "notes": "Apare și ca: „Muma dracului”."
 }

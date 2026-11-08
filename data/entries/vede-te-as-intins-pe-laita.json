@@ -8,9 +8,11 @@
   "themes": [
     "sickness_death"
   ],
-  "regions": [],
+  "regions": [
+    "moldavia"
+  ],
   "level": "clean",
-  "period": null,
+  "period": "1892",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -27,9 +29,23 @@
       "original_text": "Vede-te-aș întins pe laiță!",
       "verification": "verified",
       "notes": "Sursa primară citată de Nasta: S. Fl. Marian, Înmormântarea la români, Saeculum 2009, p. 59"
+    },
+    {
+      "title": "Înmormântarea la români",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Simion_Florea_Marian_-_%C3%8Enmorm%C3%A2ntarea_la_rom%C3%A2ni_-_Studiu_etnografic.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1892,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "vede-te-a0 intinsa pe laga",
+      "verification": "verified",
+      "notes": "Marian, Înmormântarea la români; OCR „laga” = laiță"
     }
   ],
   "explanation": "Laiță = banca lungă de lemn pe care se punea mortul.",
   "translation": "May I see you laid out on the bench",
-  "notes": null
+  "notes": "Apare și ca: „Vede-te-aș întinsă pe laiță”."
 }

@@ -6,7 +6,8 @@
   "form": "optative",
   "affliction": null,
   "themes": [
-    "sickness_death"
+    "sickness_death",
+    "other"
   ],
   "regions": [],
   "level": "clean",
@@ -27,9 +28,21 @@
       "original_text": "În pustiu ducă-s-ar, ducă",
       "verification": "verified",
       "notes": "Alecsandri, Poezii populare; balada cu baba blestemată"
+    },
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/pustii",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "În pustiu ducă-s-ar, ducă!",
+      "verification": "verified",
+      "notes": null
     }
   ],
   "explanation": "Așa e blestemată baba dintr-o baladă.",
   "translation": "May she go off to the wilderness, may she go",
-  "notes": null
+  "notes": "Apare și ca: „În pustiu ducă-s-ar, ducă”."
 }

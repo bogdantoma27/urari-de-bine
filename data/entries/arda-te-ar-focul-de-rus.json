@@ -31,9 +31,23 @@
       "original_text": "Ardă-te-ar focul de rus",
       "verification": "verified",
       "notes": "nord-bucovinean. cântec"
+    },
+    {
+      "title": "Țara Fagilor XVI (2007)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-XVI-2007.pdf",
+      "author": null,
+      "year": 2007,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Ardă-l-ar focul de rus",
+      "verification": "verified",
+      "notes": "nord-bucovinean. cântec din Crasna"
     }
   ],
   "explanation": "Insultă la adresa rușilor.",
   "translation": "May the fire burn you, Russian",
-  "notes": null
+  "notes": "Apare și ca: „Ardă-l-ar focul de rus”."
 }

@@ -4,6 +4,7 @@ import {
   THEMES,
   TYPES,
   byId,
+  redirects,
   countBy,
   entries,
   filterEntries,
@@ -373,7 +374,10 @@ const html = (body: string, status: 200 | 404 = 200) =>
   new Response(body, { status, headers: { "Content-Type": "text/html; charset=utf-8" } });
 
 site.get("/e/:id", async (c) => {
-  const e = byId.get(c.req.param("id"));
+  const id = c.req.param("id");
+  const moved = redirects.get(id);
+  if (moved) return c.redirect(`/e/${encodeURIComponent(moved)}${new URL(c.req.url).search}`, 301);
+  const e = byId.get(id);
   if (!e) {
     if (c.env?.ASSETS) {
       const r = await c.env.ASSETS.fetch(new Request(new URL("/404.html", c.req.url)));

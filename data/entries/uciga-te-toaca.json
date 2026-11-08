@@ -6,13 +6,17 @@
   "form": "imperative",
   "affliction": "toaca",
   "themes": [
-    "church"
+    "church",
+    "sickness_death",
+    "devil_hell"
   ],
-  "regions": [],
+  "regions": [
+    "transylvania"
+  ],
   "level": "clean",
   "period": "2022",
   "attested": true,
-  "verification": "transcribed",
+  "verification": "verified",
   "sensitive": false,
   "funny": true,
   "sources": [
@@ -27,9 +31,83 @@
       "original_text": "Uciga-te toaca!",
       "verification": "transcribed",
       "notes": null
+    },
+    {
+      "title": "dexonline.ro, CADE (1926-1931); Șăineanu ed. VI (1929)",
+      "url": "https://dexonline.ro/definitie/cruce",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ucigă-l-toaca",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/cruce",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "UCIGĂ-L-TOACA",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    },
+    {
+      "title": "Proverbele românilor, vol. 7",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-7-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "Ion Berbece, com. Bran, Făgăraș, Transilvania",
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Ucigă'l toca",
+      "verification": "verified",
+      "notes": "Zanne vol. 7, nr. 15896"
+    },
+    {
+      "title": "Pădureanca",
+      "url": "https://ro.wikisource.org/wiki/P%C4%83dureanca",
+      "author": "Ioan Slavici",
+      "year": 1884,
+      "page": null,
+      "informant": "Ioan Slavici, Pădureanca",
+      "regions": [],
+      "original_text": "ucigă-l-toaca",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "Cercetare critică asupra teatrului românesc",
+      "url": "https://ro.wikisource.org/wiki/Cercetare_critic%C4%83_asupra_teatrului_rom%C3%A2nesc",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Cercetare critică asupra teatrului românesc",
+      "regions": [],
+      "original_text": "Ucigă-l-toaca",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "dexonline.ro, DLRLC, s.v. toaca",
+      "url": "https://dexonline.ro/definitie/toaca/934372",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ucigă-i toaca",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; ȘEZ. III 75"
     }
   ],
   "explanation": "Toaca = scândura bătută la biserică.",
   "translation": "May the toaca kill you",
-  "notes": null
+  "notes": "Apare și ca: „Ucigă-l toaca”, „Ucigă-i toaca”."
 }

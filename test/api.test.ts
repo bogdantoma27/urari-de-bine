@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import app, { clock } from "../src/index";
-import { bucharestDate, entries, THEMES } from "../src/data";
+import { bucharestDate, entries, redirects, THEMES } from "../src/data";
 import { TEXTS } from "../src/texts";
 import { esc } from "../src/site";
 import { readFileSync } from "node:fs";
@@ -177,6 +177,26 @@ describe("/v1/random", () => {
     const c = await get("/v1/random", { headers: { Accept: "application/json, text/plain" } });
     expect(c.headers.get("content-type")).toContain("application/json");
     expect((await get("/v1/random?format=xml")).status).toBe(400);
+  });
+});
+
+describe("merged entries", () => {
+  it("/v1/entries/<old id> redirects to the entry that holds it now", async () => {
+    const r = await get("/v1/entries/bata-l-norocu");
+    expect(r.status).toBe(301);
+    expect(r.headers.get("location")).toBe("/v1/entries/bata-te-norocul");
+  });
+  it("every redirect points to an entry, and no old id is an entry", () => {
+    const ids = new Set(entries.map((e) => e.id));
+    for (const [from, to] of redirects) {
+      expect(ids.has(from), from).toBe(false);
+      expect(ids.has(to), `${from} -> ${to}`).toBe(true);
+    }
+  });
+  it("the merged entry keeps the sources of the ones merged into it", () => {
+    const e = entries.find((x) => x.id === "bata-te-norocul")!;
+    expect(e.sources.length).toBeGreaterThan(1);
+    expect(e.notes).toContain("Bat-o norocu");
   });
 });
 
@@ -784,6 +804,12 @@ describe("server-rendered pages", () => {
     for (const id of ids) expect(entries.find((e) => e.id === id)!.level).toBe("vulgar");
     const prison = await (await page("/all?theme=prison")).text();
     expect(countLinks(prison)).toBeGreaterThan(0); // a theme with no vulgar wish still lists its wishes
+  });
+
+  it("/e/<old id> of a merged entry redirects to the entry that holds it now", async () => {
+    const r = await page("/e/bata-l-norocu?lang=en");
+    expect(r.status).toBe(301);
+    expect(r.headers.get("location")).toBe("/e/bata-te-norocul?lang=en");
   });
 
   it("esc escapes HTML special characters", () => {

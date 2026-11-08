@@ -40,9 +40,57 @@
       "original_text": "bat-o pustia",
       "verification": "verified",
       "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "dexonline.ro, CADE, s.v. bate",
+      "url": "https://dexonline.ro/definitie/bate/1336139",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l pustia",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: CADE"
+    },
+    {
+      "title": "Sultănica",
+      "url": "https://ro.wikisource.org/wiki/Sult%C4%83nica",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1885,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Sultănica",
+      "regions": [],
+      "original_text": "bată-l pustia",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/pustii",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-le pustia",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Poruncă domnească",
+      "url": "https://ro.wikisource.org/wiki/Porunc%C4%83_domneasc%C4%83",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Poruncă domnească",
+      "regions": [],
+      "original_text": "bată-le pustia",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": "Pustia = pustiul, nenorocul.",
   "translation": "May the wasteland strike her",
-  "notes": null
+  "notes": "Apare și ca: „Bată-l pustia”, „Bată-le pustia”."
 }

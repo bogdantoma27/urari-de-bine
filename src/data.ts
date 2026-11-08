@@ -1,4 +1,5 @@
 import raw from "./generated/data.json";
+import rawRedirects from "./generated/redirects.json";
 
 export interface Source {
   title: string;
@@ -40,6 +41,8 @@ export class HttpError extends Error {
 
 export const entries = raw as unknown as Entry[];
 export const byId = new Map(entries.map((e) => [e.id, e]));
+/** Ids of entries that were merged into another entry, so old links still lead somewhere. */
+export const redirects = new Map(Object.entries(rawRedirects as Record<string, string>));
 
 export const TYPES = ["curse", "swear", "insult", "euphemism", "expression"];
 export const LEVELS = ["clean", "mild", "vulgar"];

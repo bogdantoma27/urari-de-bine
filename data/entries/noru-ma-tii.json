@@ -1,15 +1,16 @@
 {
-  "id": "bata-te-dumnezau",
-  "text": "Bată-te Dumnezău!",
-  "original_text": "Bată-te Dumnezău!",
-  "type": "curse",
-  "form": "imperative",
-  "affliction": "Dumnezău",
+  "id": "noru-ma-tii",
+  "text": "Noru' mă-tii",
+  "original_text": "noru' ma-tiii",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
   "themes": [
-    "church"
+    "family",
+    "nature_elements"
   ],
   "regions": [],
-  "level": "clean",
+  "level": "mild",
   "period": "2022",
   "attested": true,
   "verification": "transcribed",
@@ -22,14 +23,14 @@
       "author": null,
       "year": 2022,
       "page": null,
-      "informant": "utilizator Reddit",
+      "informant": "utilizator Reddit; bunicul comentatorului",
       "regions": [],
-      "original_text": "Bată-te Dumnezău!",
+      "original_text": "noru' ma-tiii",
       "verification": "transcribed",
       "notes": null
     }
   ],
   "explanation": null,
-  "translation": "May God strike you!",
+  "translation": "Your mother's cloud",
   "notes": null
 }

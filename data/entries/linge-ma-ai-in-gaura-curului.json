@@ -6,7 +6,8 @@
   "form": "optative",
   "affliction": null,
   "themes": [
-    "sexual"
+    "sexual",
+    "body"
   ],
   "regions": [
     "wallachia"
@@ -31,9 +32,21 @@
       "original_text": "Linge-m-ai în gaura curului!",
       "verification": "verified",
       "notes": "citat indirect, studiul original neconsultat"
+    },
+    {
+      "title": "Înjurături românești care-ți arată că se poate și mai rău decât în Teambuilding sau Taximetriști (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturi-romanesti-amuzante-dure-istorie/",
+      "author": "Răzvan Băltărețu",
+      "year": 2023,
+      "page": null,
+      "informant": "Erling Schøller, „Cuvinte și expresii obscene în limba română”, Revue Romane 1971, citat de VICE",
+      "regions": [],
+      "original_text": "Linge-m-ai în gaura curului",
+      "verification": "verified",
+      "notes": null
     }
   ],
   "explanation": null,
   "translation": "Lick me in the asshole!",
-  "notes": "variantă a lui «Linge-m-ai în gaura curului»"
+  "notes": "variantă a lui «Linge-m-ai în gaura curului» Apare și ca: „Linge-m-ai în gaura curului”."
 }

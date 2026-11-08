@@ -39,9 +39,21 @@
       "original_text": "Lua-te-ar dracu!",
       "verification": "verified",
       "notes": null
+    },
+    {
+      "title": "Sfânt-Ion",
+      "url": "https://ro.wikisource.org/wiki/Sf%C3%A2nt-Ion",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Sfânt-Ion",
+      "regions": [],
+      "original_text": "lua-l-ar dracu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,
   "translation": "May the devil take you",
-  "notes": null
+  "notes": "Apare și ca: „Lua-l-ar dracu”."
 }

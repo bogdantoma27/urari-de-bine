@@ -27,9 +27,33 @@
       "original_text": "fire-ar al dracului",
       "verification": "verified",
       "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "Fir-ar a dracului",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Ghiorghiaș 2003 (sursă literară: nenorocitele ăstea de motoare)"
+    },
+    {
+      "title": "Răscoala, vol. Focurile",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Focurile",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Focurile",
+      "regions": [],
+      "original_text": "fire-ar a dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,
   "translation": "May it be the devil's",
-  "notes": null
+  "notes": "Apare și ca: „Fir-ar a dracului”, „Fire-ar a dracului”."
 }

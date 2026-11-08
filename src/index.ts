@@ -7,6 +7,7 @@ import {
   THEMES,
   bucharestDate,
   byId,
+  redirects,
   filterEntries,
   entryOfTheDay,
   countBy,
@@ -357,6 +358,8 @@ app.openapi(
   }),
   ((c: Context) => {
     const id = c.req.param("id") ?? "";
+    const moved = redirects.get(id);
+    if (moved) return c.redirect(`/v1/entries/${encodeURIComponent(moved)}`, 301);
     const e = byId.get(id);
     if (!e) throw new HttpError(404, `No entry with id "${id}".`);
     return c.json(e);
