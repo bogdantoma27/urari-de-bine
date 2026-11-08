@@ -11,14 +11,14 @@ export const DICT = {
   /* ---------- common ---------- */
   'lang.label': { ro: 'Limba', en: 'Language' },
   'site.name': { ro: 'Urări de bine', en: 'Urări de bine' },
-  'site.subtitle': { ro: 'Blesteme, înjurături și insulte românești, cu tot cu sursa', en: 'Romanian curses, oaths and insults, sources included' },
+  'site.subtitle': { ro: 'Blesteme, înjurături și insulte românești, cu tot cu sursă', en: 'Romanian curses, oaths and insults, sources included' },
   'footer.colophon': { ro: '✠ Aici se sfârșesc urările ✠', en: '✠ Here endeth the good wishes ✠' },
   'footer.data': { ro: 'Datele:', en: 'Data:' },
   'footer.code': { ro: 'Codul: MIT', en: 'Code: MIT' },
   'footer.coffee': { ro: 'Cumpără-mi o cafea', en: 'Buy me a coffee' },
   'var.total': { ro: 'Peste o mie', en: 'Over a thousand' },
   'in.romanian': { ro: '', en: 'in Romanian' },
-  'generated': { ro: 'generat, nu atestat', en: 'made up, not attested' },
+  'generated': { ro: 'Urare generată, fără sursă reală', en: 'Generated wish, no real source' },
   // on the leaf, the list and the dialog the level reads like the menu on the home page
   'level.badge.clean': { ro: 'de spus la masă', en: 'for Sunday lunch' },
   'level.badge.mild': { ro: 'de spus în trafic', en: 'for traffic jams' },
@@ -104,7 +104,7 @@ export const DICT = {
 
   /* ---------- home page ---------- */
   'home.meta.title': {
-    ro: 'Urări de bine · blesteme, înjurături și insulte românești, cu tot cu sursa',
+    ro: 'Urări de bine · blesteme, înjurături și insulte românești, cu tot cu sursă',
     en: 'Urări de bine · Romanian curses, oaths and insults, sources included',
   },
   'home.meta.desc': {

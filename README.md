@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/banner-ro.png" alt="Urări de bine: blesteme, înjurături și insulte românești, cu tot cu sursa" width="100%">
+<img src=".github/assets/banner-ro.png" alt="Urări de bine: blesteme, înjurături și insulte românești, cu tot cu sursă" width="100%">
 
 <br>
 
