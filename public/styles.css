@@ -133,7 +133,8 @@ code { font-family: var(--f-code); font-size: .92em; }
 }
 
 /* "I want a [merciless] wish about [anything]": the settings are one sentence with two inline selects */
-.settings { margin: 1.5rem 0 0; }
+/* the sentence comes right before the red button it sets up */
+.settings { margin: 1.25rem 0 0; }
 .settings__sentence {
   margin: 0;
   font-size: 1.05rem;
@@ -141,7 +142,7 @@ code { font-family: var(--f-code); font-size: .92em; }
   color: var(--text-dim);
 }
 /* on a phone the sentence takes two lines in either language, so what follows stays put */
-@media (max-width: 639.98px) { .settings__sentence { min-height: 4.2rem; } }
+@media (max-width: 639.98px) { .settings__sentence { min-height: 3.8rem; line-height: 1.8; text-align: center; } }
 .inline-select {
   appearance: none;
   font: italic 500 1.05rem/1.4 var(--f-text);
@@ -651,7 +652,6 @@ code { font-family: var(--f-code); font-size: .92em; }
   list-style: none; margin: 0; padding: 0;
   display: flex; flex-wrap: wrap; justify-content: center; gap: .3rem 1.4rem;
 }
-.footer__licenses li + li::before { content: "·"; margin-right: 1.4rem; margin-left: -1.4rem; color: var(--gold); position: relative; left: .7rem; }
 .footer__licenses a { color: var(--paper); text-underline-offset: 3px; }
 .footer__note { margin: 1rem auto 0; max-width: 32rem; font-style: italic; opacity: .85; font-size: .88rem; }
 
@@ -687,21 +687,20 @@ code { font-family: var(--f-code); font-size: .92em; }
   display: flex; align-items: center; gap: .1rem;
   font-size: .85rem;
 }
+/* one small pill that shows the language you switch to: "EN" on the Romanian page, "RO" on the English one */
 .language button {
-  font: 500 .85rem var(--f-text);
-  letter-spacing: .08em;
-  color: var(--text-dim);
+  font: 600 .8rem var(--f-text);
+  letter-spacing: .12em;
+  color: var(--gold-pale);
   background: none;
-  border: 0;
-  padding: .45rem .5rem;
-  min-width: 2.5rem; min-height: 2.25rem;
+  border: 1px solid #c9a24d80;
+  border-radius: 999px;
+  padding: .3rem .8rem .3rem .92rem;
+  min-width: 2.75rem; min-height: 2.25rem;
   cursor: pointer;
-  text-decoration: underline dotted transparent; text-underline-offset: 4px;
 }
-.language button + button::before { content: "·"; color: var(--gold); margin-right: .6rem; }
-.language button:hover { color: var(--paper); }
-.language button[aria-pressed="true"] { color: var(--paper); text-decoration-color: var(--gold); cursor: default; }
-.language button:focus-visible { outline-offset: -1px; }
+.language button:hover { color: var(--paper); border-color: var(--gold); }
+.language button:focus-visible { outline-offset: 2px; }
 
 /* ---------- The "Meaning and source" dialog ---------- */
 
@@ -959,6 +958,8 @@ html { scrollbar-color: #c9a24d73 #120c08; }
 /* ---------- Phone: the red button is in sight on first load ---------- */
 @media (max-width: 639px) {
   .header { padding-top: .9rem; }
+  /* the back link (or the site name on the 404 page) sits level with RO · EN */
+  .header.header--small { padding-top: 1.3rem; }
   .header:not(.header--small) { padding-bottom: .5rem; }
   .header__desc { margin-top: .75rem; }
   .altar { padding-top: .5rem; }
@@ -971,5 +972,7 @@ html { scrollbar-color: #c9a24d73 #120c08; }
   .card__head { padding-left: 1.5rem; }
   .card .card__body { margin-top: .5rem; }
   .card__actions { margin-bottom: 1.3rem; }
-  .main-actions { margin-top: .75rem; }
+  .settings { margin-top: .9rem; }
+  .main-actions { margin-top: .6rem; }
+  .browse { text-align: center; }
 }

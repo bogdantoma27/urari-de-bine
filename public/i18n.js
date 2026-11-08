@@ -349,8 +349,10 @@ export function apply(root = document) {
     alt.setAttribute('content', currentLanguage === 'en' ? 'ro_RO' : 'en_US');
   }
   setCanonical();
+  // one switch: only the button of the other language is shown
   for (const b of document.querySelectorAll('[data-lang]')) {
-    b.setAttribute('aria-pressed', String(b.dataset.lang === currentLanguage));
+    b.hidden = b.dataset.lang === currentLanguage;
+    b.removeAttribute('aria-pressed');
   }
 }
 
@@ -387,6 +389,7 @@ export function setLanguage(l, { persist = true } = {}) {
 export function initLanguage({ title, desc }) {
   meta = { title, desc };
   for (const b of document.querySelectorAll('[data-lang]')) {
+    if (b.title) b.setAttribute('aria-label', b.title); // "English" / "Română", not "EN" / "RO"
     b.addEventListener('click', () => setLanguage(b.dataset.lang));
   }
   const l = initialLanguage();
