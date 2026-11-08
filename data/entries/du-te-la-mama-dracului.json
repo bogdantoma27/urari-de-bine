@@ -1,0 +1,35 @@
+{
+  "id": "du-te-la-mama-dracului",
+  "text": "Du-te la mama dracului",
+  "original_text": "Du-te la mama dracului",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 1",
+      "url": "https://archive.org/details/datinele-si-credintele-poporului-roman-vol.-1-elena-niculita-voronca",
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 436,
+      "informant": null,
+      "regions": [],
+      "original_text": "Du-te la mama dracului",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1; „se zice când îl alungi pe cineva”"
+    }
+  ],
+  "explanation": null,
+  "translation": "Go to the devil's mother",
+  "notes": null
+}

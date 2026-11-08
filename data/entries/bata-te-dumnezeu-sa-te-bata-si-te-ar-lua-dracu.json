@@ -1,0 +1,48 @@
+{
+  "id": "bata-te-dumnezeu-sa-te-bata-si-te-ar-lua-dracu",
+  "text": "Bată-te Dumnezeu să te bată și te-ar lua dracu",
+  "original_text": "Bată-te Dumnezeu să te bată și te-ar lua dracu",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te Dumnezeu să te bată și te-ar lua dracu",
+      "verification": "verified",
+      "notes": "(În imprecații)"
+    },
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te dumnezeu să te bată și te-ar lua dracu",
+      "verification": "verified",
+      "notes": "(În imprecații); verificat pe textul sursei"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God strike you, strike you, and may the devil take you",
+  "notes": null
+}

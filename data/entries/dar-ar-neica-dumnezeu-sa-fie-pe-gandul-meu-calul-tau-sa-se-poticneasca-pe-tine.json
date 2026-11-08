@@ -1,0 +1,40 @@
+{
+  "id": "dar-ar-neica-dumnezeu-sa-fie-pe-gandul-meu-calul-tau-sa-se-poticneasca-pe-tine",
+  "text": "Dar-ar, neică, Dumnezeu, să fie pe gândul meu, calul tău să-l poticnească, pe tine să te trântească",
+  "original_text": "Dar'ar, neica, Dumnecjeii, SA fie pe gandul meii, Calul ted sal poticnescA, Pe tine sa te trantescA",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "body",
+    "farm_animals"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 319,
+      "informant": "Chr. N. Țapu de la Ion Mihai, București",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Dar'ar, neica, Dumnecjeii, SA fie pe gandul meii, Calul ted sal poticnescA, Pe tine sa te trantescA",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); p. 319, «Drum pe deal și pe vale»"
+    }
+  ],
+  "explanation": "Dar-ar = să dea, formă veche.",
+  "translation": "May God grant, darling, that it be my wish: may your horse stumble and throw you",
+  "notes": null
+}

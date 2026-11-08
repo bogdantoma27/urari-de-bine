@@ -1,0 +1,35 @@
+{
+  "id": "al-dracului-mai-esti-mai-ioane",
+  "text": "Al dracului mai ești, măi Ioane",
+  "original_text": "Al dracului mai ești, măi Ioane",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1920",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ion, partea I Glasul pământului",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/1._Glasul_p%C4%83m%C3%A2ntului",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea I Glasul pământului",
+      "regions": [],
+      "original_text": "Al dracului mai ești, măi Ioane",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Zis cu admirație, în glumă.",
+  "translation": "You're the devil's own, hey Ion",
+  "notes": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "bata-v-ar-mama-lui-dumnezeu",
+  "text": "Bată-v-ar mama lui Dumnezeu!",
+  "original_text": "Bată-v-ar mama lui Dumnezeu!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "mama lui Dumnezeu",
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "1870",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Tezaur (dexonline, secțiunea de la «mamă»)",
+      "url": "https://dexonline.ro/definitie/mamă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-v-ar mama lui Dumnezeu!",
+      "verification": "verified",
+      "notes": "văzut doar ca menționare, secțiune trunchiată"
+    },
+    {
+      "title": "Făt-Frumos din lacrimă",
+      "url": "https://ro.wikisource.org/wiki/F%C4%83t-Frumos_din_lacrim%C4%83",
+      "author": "Mihai Eminescu",
+      "year": 1870,
+      "page": null,
+      "informant": "Mihai Eminescu, Făt-Frumos din lacrimă",
+      "regions": [],
+      "original_text": "bată-v-ar mama lui Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the mother of God strike you!",
+  "notes": "Sursă netranscrisă complet"
+}

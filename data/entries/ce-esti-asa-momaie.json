@@ -1,0 +1,35 @@
+{
+  "id": "ce-esti-asa-momaie",
+  "text": "Ce ești așa momaie",
+  "original_text": "ce esti asa momaie",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicii comentatorului",
+      "regions": [],
+      "original_text": "ce esti asa momaie",
+      "verification": "transcribed",
+      "notes": "pentru cine se mișcă încet"
+    }
+  ],
+  "explanation": "Momâie = sperietoare; se zice cuiva care se mișcă greu.",
+  "translation": "What are you, such a scarecrow",
+  "notes": null
+}

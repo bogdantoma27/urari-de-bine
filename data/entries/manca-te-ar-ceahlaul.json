@@ -1,0 +1,40 @@
+{
+  "id": "manca-te-ar-ceahlaul",
+  "text": "Mânca-te-ar Ciahlăul",
+  "original_text": "m A, n- ca-te-ar Ciahlgii",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Ceahlăul",
+  "themes": [
+    "farm_animals",
+    "nature_elements"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1883",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Ornitologia poporană română, vol. 1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Simion_Florea_Marian_-_Ornitologia_poporan%C4%83_rom%C3%A2n%C4%83._Volumul_1.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1883,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "m A, n- ca-te-ar Ciahlgii",
+      "verification": "verified",
+      "notes": "Marian, Ornitologia I; OCR „m A, n- ca-te-ar” = mânca-te-ar, cuvânt rupt la capăt de rând"
+    }
+  ],
+  "explanation": "Se zice vitelor, în Bucovina. Ceahlăul e un munte.",
+  "translation": "May Ceahlau eat you",
+  "notes": null
+}

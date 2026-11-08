@@ -1,0 +1,36 @@
+{
+  "id": "manca-te-ar-focul-moarte",
+  "text": "Mânca-te-ar focul, moarte",
+  "original_text": "mînca-te-ar focul, moarte",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "focul",
+  "themes": [
+    "sickness_death",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR, s.v. mânca",
+      "url": "https://dexonline.ro/definitie/mânca/1330762",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-te-ar focul, moarte",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR; MARIAN, Î. 120"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire eat you, death",
+  "notes": null
+}

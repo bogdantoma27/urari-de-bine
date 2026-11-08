@@ -1,0 +1,35 @@
+{
+  "id": "du-te-la-naiba",
+  "text": "Du-te la naiba",
+  "original_text": "Du-te la naiba!",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC; NODEX (2002)",
+      "url": "https://dexonline.ro/definitie/naiba",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Du-te la naiba!",
+      "verification": "verified",
+      "notes": "Fam."
+    }
+  ],
+  "explanation": null,
+  "translation": "Go to hell",
+  "notes": null
+}

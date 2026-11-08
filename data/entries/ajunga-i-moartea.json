@@ -1,0 +1,35 @@
+{
+  "id": "ajunga-i-moartea",
+  "text": "Ajungă-i moartea!",
+  "original_text": "ajungă-i moartea!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "moartea",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/ajunge",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ajungă-i moartea!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May death reach him!",
+  "notes": null
+}

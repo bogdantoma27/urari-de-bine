@@ -1,0 +1,35 @@
+{
+  "id": "dar-bine-ghiavole-aici-ti-i-scaldatul",
+  "text": "Dar bine, ghiavole, aici ți-i scăldatul",
+  "original_text": "Dar bine, ghiavole, aici ți-i scăldatul",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: mătușa Mărioara)",
+      "regions": [],
+      "original_text": "Dar bine, ghiavole, aici ți-i scăldatul",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Ghiavol = diavol, regional.",
+  "translation": "Well now, devil, here is your bath",
+  "notes": null
+}

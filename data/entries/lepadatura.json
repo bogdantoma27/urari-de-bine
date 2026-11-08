@@ -1,0 +1,35 @@
+{
+  "id": "lepadatura",
+  "text": "Lepădătură",
+  "original_text": "lepădătură",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98; NODEX; DOOM 3",
+      "url": "https://dexonline.ro/definitie/lepădătură",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "lepădătură",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om de nimic, lepădat.",
+  "translation": "Reject / castaway",
+  "notes": null
+}

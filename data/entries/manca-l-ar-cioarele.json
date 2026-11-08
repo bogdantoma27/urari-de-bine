@@ -1,0 +1,40 @@
+{
+  "id": "manca-l-ar-cioarele",
+  "text": "Mânca-l-ar cioarele",
+  "original_text": "Mînca-l-ar cioarele",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "cioarele",
+  "themes": [
+    "sickness_death",
+    "birds_of_prey"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 1",
+      "url": "https://archive.org/details/datinele-si-credintele-poporului-roman-vol.-1-elena-niculita-voronca",
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 119,
+      "informant": null,
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Mînca-l-ar cioarele",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1; în sursă: „Blăstăm ca să rămâie neîngropat”"
+    }
+  ],
+  "explanation": "Să rămână neîngropat și să-l mănânce ciorile.",
+  "translation": "May the crows eat him",
+  "notes": null
+}

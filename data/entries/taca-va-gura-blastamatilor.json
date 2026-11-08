@@ -1,0 +1,35 @@
+{
+  "id": "taca-va-gura-blastamatilor",
+  "text": "Tacă-vă gura, blăstămaților",
+  "original_text": "Tacă-vă gura, blăstămaților",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "1850",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Chirița în Iași",
+      "url": "https://ro.wikisource.org/wiki/Chiri%C8%9Ba_%C3%AEn_Ia%C8%99i",
+      "author": "Vasile Alecsandri",
+      "year": 1850,
+      "page": null,
+      "informant": "Vasile Alecsandri, Chirița în Iași",
+      "regions": [],
+      "original_text": "Tacă-vă gura, blăstămaților",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Shut your mouths, you damned ones",
+  "notes": null
+}

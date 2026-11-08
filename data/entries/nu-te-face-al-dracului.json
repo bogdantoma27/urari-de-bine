@@ -1,0 +1,35 @@
+{
+  "id": "nu-te-face-al-dracului",
+  "text": "Nu te face al dracului",
+  "original_text": "Nu te face al dracului",
+  "type": "expression",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Tot Mitică",
+      "url": "https://ro.wikisource.org/wiki/Tot_Mitic%C4%83",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Tot Mitică",
+      "regions": [],
+      "original_text": "Nu te face al dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Don't make yourself the devil's",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "vai-de-mama-ta-ciocoi",
+  "text": "Vai de mama ta, ciocoi",
+  "original_text": "Vai de mama ta, ciocoi!",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mama",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Vai de mama ta, ciocoi!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Ciocoi = parvenit arogant, nou-îmbogățit.",
+  "translation": "Woe to your mother, you upstart",
+  "notes": null
+}

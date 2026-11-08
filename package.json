@@ -1,0 +1,29 @@
+{
+  "name": "urari-de-bine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Romanian curses, swears and insults, each with its source.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test:data": "node scripts/validate-data.mjs",
+    "test:i18n": "node scripts/check-i18n.mjs",
+    "build:data": "node scripts/build-data.mjs",
+    "dev": "npm run build:data && wrangler dev --port 8787",
+    "dev:lan": "npm run build:data && wrangler dev --ip 0.0.0.0 --port 8787",
+    "test": "npm run build:data && vitest run && npm run test:data && npm run test:i18n",
+    "deploy": "npm test && npm run typecheck && wrangler deploy",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0",
+    "wrangler": "^4.158.0"
+  },
+  "dependencies": {
+    "@hono/zod-openapi": "^1.6.3",
+    "hono": "^4.13.16",
+    "zod": "^4.6.7"
+  }
+}

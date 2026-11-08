@@ -1,0 +1,35 @@
+{
+  "id": "sa-mi-sara-ochii",
+  "text": "Să-mi sară ochii",
+  "original_text": "Să-mi sară ochii!",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "ochii",
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestem (blog Adevărul)",
+      "url": "https://adevarul.ro/blogurile-adevarul/blestem-1755471.html",
+      "author": "blogger Adevărul",
+      "year": null,
+      "page": null,
+      "informant": "rude ale autorului, cartier nespecificat",
+      "regions": [],
+      "original_text": "Să-mi sară ochii!",
+      "verification": "verified",
+      "notes": "folosit ca întăritură"
+    }
+  ],
+  "explanation": "Jurământ: te blestemi singur, ca să fii crezut.",
+  "translation": "May my eyes pop out",
+  "notes": null
+}

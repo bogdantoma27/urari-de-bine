@@ -1,0 +1,35 @@
+{
+  "id": "stupi-te-ar-matile-si-cainii",
+  "text": "Stupi-te-ar mâțile și câinii",
+  "original_text": "Stupi-te-ar mîțile şi cînii",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "mâțile și câinii",
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 415,
+      "informant": null,
+      "regions": [],
+      "original_text": "Stupi-te-ar mîțile şi cînii",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2, capitolul Stupitul"
+    }
+  ],
+  "explanation": "A stupi = a scuipa, după sursă.",
+  "translation": "May the cats and the dogs spit on you",
+  "notes": null
+}

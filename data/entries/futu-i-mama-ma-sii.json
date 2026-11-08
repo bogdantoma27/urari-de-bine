@@ -1,0 +1,36 @@
+{
+  "id": "futu-i-mama-ma-sii",
+  "text": "Futu-i mama mă-sii",
+  "original_text": "futu-i (mama mă-sii)!",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/mamă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "futu-i (mama mă-sii)!",
+      "verification": "verified",
+      "notes": "marcat obs.; forma din sursă între paranteze"
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck his mother's mother",
+  "notes": null
+}

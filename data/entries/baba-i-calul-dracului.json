@@ -1,0 +1,35 @@
+{
+  "id": "baba-i-calul-dracului",
+  "text": "Baba-i calul dracului",
+  "original_text": "Baba-i calul dracului",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Baba Cloanța",
+      "url": "https://ro.wikisource.org/wiki/Baba_Cloan%C8%9Ba",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Baba Cloanța",
+      "regions": [],
+      "original_text": "Baba-i calul dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The old woman is the devil's horse",
+  "notes": null
+}

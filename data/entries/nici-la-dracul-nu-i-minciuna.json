@@ -1,0 +1,35 @@
+{
+  "id": "nici-la-dracul-nu-i-minciuna",
+  "text": "Nici la dracul nu-i minciună",
+  "original_text": "nici la dracul nu-i minciună",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1875",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Popa Tanda",
+      "url": "https://ro.wikisource.org/wiki/Popa_Tanda",
+      "author": "Ioan Slavici",
+      "year": 1875,
+      "page": null,
+      "informant": "Ioan Slavici, Popa Tanda",
+      "regions": [],
+      "original_text": "nici la dracul nu-i minciună",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Zicătoare: adevărul rămâne adevăr.",
+  "translation": "Not even at the devil's is there a lie",
+  "notes": null
+}

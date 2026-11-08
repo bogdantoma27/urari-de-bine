@@ -1,0 +1,35 @@
+{
+  "id": "manca-l-ar-serpii-si-pe-el-sa-l-manance",
+  "text": "Mânca-l-ar șerpii și pe el să-l mănânce",
+  "original_text": "mânca-l-ar șerpii și pe el să-l mănânce",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "șerpii",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1932",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Răscoala, vol. Focurile",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Focurile",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Focurile",
+      "regions": [],
+      "original_text": "mânca-l-ar șerpii și pe el să-l mănânce",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the snakes eat him and may he be eaten",
+  "notes": null
+}

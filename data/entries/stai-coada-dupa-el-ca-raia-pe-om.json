@@ -1,0 +1,35 @@
+{
+  "id": "stai-coada-dupa-el-ca-raia-pe-om",
+  "text": "Stai coada după el ca râia pe om",
+  "original_text": "Stai coada după el ca râia pe om",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul comentatorului",
+      "regions": [],
+      "original_text": "Stai coada după el ca râia pe om",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "You stay tail behind him like scabies on a person",
+  "notes": null
+}

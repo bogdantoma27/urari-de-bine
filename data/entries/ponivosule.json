@@ -1,0 +1,35 @@
+{
+  "id": "ponivosule",
+  "text": "Ponivosule",
+  "original_text": "ponivosule",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. ponivos",
+      "url": "https://dexonline.ro/definitie/ponivos/932857",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ponivosule",
+      "verification": "verified",
+      "notes": "DLRLC: mai ales ca termen de ocară; REBREANU, I. 73 (formă la vocativ din definiție)"
+    }
+  ],
+  "explanation": "Ponivos = prostănac.",
+  "translation": "You dolt",
+  "notes": null
+}

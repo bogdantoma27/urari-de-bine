@@ -1,0 +1,40 @@
+{
+  "id": "fire-ati-voi-cai-blestemati-de-mine-si-de-dumnezeu",
+  "text": "Fire-ați voi, cai, blestemați, de mine și de Dumnezeu",
+  "original_text": "Fire-aţ voi, cai, blăstămaţ, D'e min şt de Dumezău",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "farm_animals"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1915",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Graiul din Țara Hațegului",
+      "url": "https://archive.org/details/ovid-densusianu-graiul-din-tara-hategului-1915",
+      "author": "Ovid Densusianu",
+      "year": 1915,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Fire-aţ voi, cai, blăstămaţ, D'e min şt de Dumezău",
+      "verification": "verified",
+      "notes": "Densusianu, Graiul din Țara Hațegului, text dialectal (Hațeg); transcriere fonetică; variantă a blestemului din Marian, Legendele Maicii Domnului"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you, horses, be cursed by me and by God",
+  "notes": "Transcriere dialectală din Țara Hațegului, păstrată ca în intrare."
+}

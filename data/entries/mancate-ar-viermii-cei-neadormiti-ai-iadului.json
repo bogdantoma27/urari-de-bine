@@ -1,0 +1,41 @@
+{
+  "id": "mancate-ar-viermii-cei-neadormiti-ai-iadului",
+  "text": "Mâncate-ar viermii cei neadormiți ai Iadului!",
+  "original_text": "Mâncate-ar viermii cei neadormiţi ai Iadului!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "viermii",
+  "themes": [
+    "church",
+    "sickness_death",
+    "devil_hell"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum își blestemă românii dușmanii",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/cum-isi-blestema-romanii-dusmanii-1145715.html",
+      "author": "Monika (Adevărul)",
+      "year": 2010,
+      "page": null,
+      "informant": "folclorist Paul Buță, citat; Cavadinești, jud. Galați",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Mâncate-ar viermii cei neadormiţi ai Iadului!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Viermii neadormiți = viermii iadului, care nu mor niciodată.",
+  "translation": "May the sleepless worms of Hell eat you!",
+  "notes": null
+}

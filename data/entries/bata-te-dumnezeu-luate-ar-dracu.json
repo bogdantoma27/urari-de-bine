@@ -1,0 +1,36 @@
+{
+  "id": "bata-te-dumnezeu-luate-ar-dracu",
+  "text": "Bată-te Dumnezeu, luate-ar dracu",
+  "original_text": "bată-te dumnezeu, luate-ar dracu",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, MDTL",
+      "url": "https://dexonline.ro/definitie/imprecație",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-te dumnezeu, luate-ar dracu",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May God strike you, may the devil take you",
+  "notes": null
+}

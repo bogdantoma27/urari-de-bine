@@ -1,0 +1,8 @@
+node_modules/
+# local working material (full source texts, intermediate files) stays local
+cercetare/
+*.log
+.wrangler/
+.dev.vars
+src/generated/
+.tmp-logs/

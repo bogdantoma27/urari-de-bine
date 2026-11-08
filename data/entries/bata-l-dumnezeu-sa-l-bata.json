@@ -1,0 +1,51 @@
+{
+  "id": "bata-l-dumnezeu-sa-l-bata",
+  "text": "Bată-l Dumnezeu să-l bată",
+  "original_text": "Bata-1 Dumnecleil sal bata",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": "Chr. N. Țapu de la Stancu Ion, Cucuieți, Teleorman",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Bata-1 Dumnecleil sal bata",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); strigătură «Bată-l Dumnezeu să-l bată pe Costică barbă lată»"
+    },
+    {
+      "title": "Proverbele românilor, vol. 9",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-9-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-/ Dumnegi, săl bată",
+      "verification": "verified",
+      "notes": "Zanne vol. 9, rubrica „Pentru Blesteme”; OCR: «Bată-/ Dumnegi, săl bată»"
+    }
+  ],
+  "explanation": "Strigătură, zisă în glumă.",
+  "translation": "May God strike him, may he strike him",
+  "notes": "Text refăcut din OCR defectuos"
+}

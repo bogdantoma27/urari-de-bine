@@ -1,0 +1,35 @@
+{
+  "id": "taci-bre-necazule-ca-te-las-lat-in-lanu-de-cucuruz",
+  "text": "Taci bre necazule că te las lat în lanu' de cucuruz",
+  "original_text": "Taci bre necazule ca te las lat in lanu de cucuruz",
+  "type": "expression",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Taci bre necazule ca te las lat in lanu de cucuruz",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "A lăsa lat = a bate până cade lat la pământ.",
+  "translation": "Shut up, you pest, or I'll lay you flat in the cornfield",
+  "notes": null
+}

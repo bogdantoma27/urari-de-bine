@@ -1,0 +1,35 @@
+{
+  "id": "duca-se-pe-pustiu",
+  "text": "Ducă-se pe pustiu",
+  "original_text": "ducă-se pe pustiu!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/pustii",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ducă-se pe pustiu!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May he go to the wasteland",
+  "notes": null
+}

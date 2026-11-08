@@ -1,0 +1,35 @@
+{
+  "id": "te-ai-imbatat-ticalosule",
+  "text": "Te-ai îmbătat, ticălosule",
+  "original_text": "Te-ai îmbătat, ticălosule",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Comoara",
+      "url": "https://ro.wikisource.org/wiki/Comoara_(Slavici)",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Comoara",
+      "regions": [],
+      "original_text": "Te-ai îmbătat, ticălosule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "You got drunk, you scoundrel",
+  "notes": null
+}

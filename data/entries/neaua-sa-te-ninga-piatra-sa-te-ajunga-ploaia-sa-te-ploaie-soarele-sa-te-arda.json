@@ -1,0 +1,39 @@
+{
+  "id": "neaua-sa-te-ninga-piatra-sa-te-ajunga-ploaia-sa-te-ploaie-soarele-sa-te-arda",
+  "text": "Neaua să te ningă, piatra să te-ajungă, ploaia să te ploaie, soarele să te ardă, vântul să te bată",
+  "original_text": "Neaua să te ningă",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "neaua",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1915",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Graiul din Țara Hațegului",
+      "url": "https://archive.org/details/ovid-densusianu-graiul-din-tara-hategului-1915",
+      "author": "Ovid Densusianu",
+      "year": 1915,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Neaua să te ningă",
+      "verification": "verified",
+      "notes": "Densusianu, Graiul din Țara Hațegului, descântec; în sursă „Rău te-a blestemat”; OCR „te-alingă”"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the snow snow on you, may the stone reach you, may the rain rain on you, may the sun burn you, may the wind beat you",
+  "notes": null
+}

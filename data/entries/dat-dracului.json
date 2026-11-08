@@ -1,0 +1,35 @@
+{
+  "id": "dat-dracului",
+  "text": "Dat dracului",
+  "original_text": "dat dracului / naibii",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/naiba",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "dat dracului / naibii",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Given to the devil",
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "taca-ti-muia",
+  "text": "Tacă-ți muia",
+  "original_text": "Tacă-ți muia",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; cuplu din Moldova",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Tacă-ți muia",
+      "verification": "transcribed",
+      "notes": "când cineva vorbește prea tare"
+    }
+  ],
+  "explanation": null,
+  "translation": "Shut your muia",
+  "notes": null
+}

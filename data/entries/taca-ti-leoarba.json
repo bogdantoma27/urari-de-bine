@@ -1,0 +1,35 @@
+{
+  "id": "taca-ti-leoarba",
+  "text": "Tacă-ți leoarba",
+  "original_text": "Tacă-ți leoarba",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "1883",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Moș Ion Roată și Vodă Cuza",
+      "url": "https://ro.wikisource.org/wiki/Ioan_Roat%C4%83_%C8%99i_Vod%C4%83_Cuza",
+      "author": "Ion Creangă",
+      "year": 1883,
+      "page": null,
+      "informant": "Ion Creangă, Moș Ion Roată și Vodă Cuza",
+      "regions": [],
+      "original_text": "Tacă-ți leoarba",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Leoarbă = gură, în argou.",
+  "translation": "Shut your trap",
+  "notes": null
+}

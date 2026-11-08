@@ -1,0 +1,35 @@
+{
+  "id": "ba-are-dracu-pofta-mare-pofta",
+  "text": "Ba are dracu poftă, mare poftă",
+  "original_text": "Ba are dracu poftă, mare poftă",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1884",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Pădureanca",
+      "url": "https://ro.wikisource.org/wiki/P%C4%83dureanca",
+      "author": "Ioan Slavici",
+      "year": 1884,
+      "page": null,
+      "informant": "Ioan Slavici, Pădureanca",
+      "regions": [],
+      "original_text": "Ba are dracu poftă, mare poftă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Adică: nici gând.",
+  "translation": "No, the devil has an appetite, a big appetite",
+  "notes": null
+}

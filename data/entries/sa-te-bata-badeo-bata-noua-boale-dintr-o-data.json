@@ -1,0 +1,37 @@
+{
+  "id": "sa-te-bata-badeo-bata-noua-boale-dintr-o-data",
+  "text": "Să te bată, badeo, bată",
+  "original_text": "Să te bată, badeo, bată,",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "boalele",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1944",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Folklorul medical român comparat (cap. Farmece, vrăji și blesteme, § Blestemele)",
+      "url": "https://archive.org/details/candrea-ioan-aurel-folclorul-medical-roman-comparat_202405",
+      "author": "Ion Aurel Candrea",
+      "year": 1944,
+      "page": 205,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să te bată, badeo, bată,",
+      "verification": "verified",
+      "notes": "Candrea, Folklorul medical, § Blestemele; poezie din Transilvania; OCR pe două coloane intercalate; citat după Jarnik-Bârseanu, Doine, 265 urm."
+    }
+  ],
+  "explanation": "Bade = iubitul; boale = boli.",
+  "translation": "May nine diseases beat you, my lover, all at once",
+  "notes": "nota sursei (Candrea): „poezie din Transilvania”"
+}

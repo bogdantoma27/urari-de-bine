@@ -1,0 +1,35 @@
+{
+  "id": "dare-ar-domnul-dumnezeu",
+  "text": "Dare-ar Domnul Dumnezeu",
+  "original_text": "Dare-ar Domnul Dumnezeu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Domnul Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestemul",
+      "url": "https://ro.wikisource.org/wiki/Blestemul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Blestemul",
+      "regions": [],
+      "original_text": "Dare-ar Domnul Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); poezie populară culeasă de Alecsandri"
+    }
+  ],
+  "explanation": "Dare-ar = să dea, formă veche.",
+  "translation": "May the Lord God grant",
+  "notes": null
+}

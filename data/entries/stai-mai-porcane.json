@@ -1,0 +1,35 @@
+{
+  "id": "stai-mai-porcane",
+  "text": "Stai, măi porcane",
+  "original_text": "Stai, măi porcane",
+  "type": "insult",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: mătușa Mărioara)",
+      "regions": [],
+      "original_text": "Stai, măi porcane",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "Stay, you pig",
+  "notes": null
+}

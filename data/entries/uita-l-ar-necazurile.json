@@ -1,0 +1,35 @@
+{
+  "id": "uita-l-ar-necazurile",
+  "text": "Uita-l-ar necazurile",
+  "original_text": "uita-l-ar necazurile",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "necazurile",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1932",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Răscoala, vol. Se mișcă țara!",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Se_mi%C8%99c%C4%83_%C8%9Bara!",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Se mișcă țara!",
+      "regions": [],
+      "original_text": "uita-l-ar necazurile",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the troubles forget him",
+  "notes": null
+}

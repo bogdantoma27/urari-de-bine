@@ -1,0 +1,36 @@
+{
+  "id": "a-l-apuca-damblaua-dracii-pandaliile",
+  "text": "A-l apuca damblaua / dracii / pandaliile",
+  "original_text": "a-l apuca damblaua / dracii / pandaliile",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/dambla",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a-l apuca damblaua / dracii / pandaliile",
+      "verification": "verified",
+      "notes": "pop."
+    }
+  ],
+  "explanation": "Dambla = apoplexie, paralizie; se zice și când pe cineva îl apucă furia.",
+  "translation": "To be seized by the damblaua / the devils / the pandalii",
+  "notes": null
+}

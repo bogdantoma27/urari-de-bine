@@ -1,0 +1,52 @@
+{
+  "id": "du-te-n-ma-ta-n-cur",
+  "text": "Du-te-n mă-ta-n cur",
+  "original_text": "Du-te-n mă-ta-n cur",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "vulgar",
+  "period": "1971",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Înjurături românești care-ți arată că se poate și mai rău decât în Teambuilding sau Taximetriști (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturi-romanesti-amuzante-dure-istorie/",
+      "author": "Răzvan Băltărețu",
+      "year": 2023,
+      "page": null,
+      "informant": "Erling Schøller, „Cuvinte și expresii obscene în limba română”, Revue Romane 1971, citat de VICE",
+      "regions": [],
+      "original_text": "Du-te-n mă-ta-n cur",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Lumea fabuloasă a înjurăturilor românești...",
+      "url": "https://vice.com/ro/article/93b958/originea-injuraturilor-romanesti-latina-daci-romani",
+      "author": "Vice România",
+      "year": null,
+      "page": null,
+      "informant": "Erling Schøller, studiu 1971, dialectul muntean (București)",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Du-te-n mă-ta-n cur!",
+      "verification": "verified",
+      "notes": "citat indirect, studiul original neconsultat"
+    }
+  ],
+  "explanation": null,
+  "translation": "Go into your mother's ass",
+  "notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "le-dau-dracului-toate",
+  "text": "Le dau dracului toate",
+  "original_text": "Le dau dracului toate",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Moara cu noroc",
+      "url": "https://ro.wikisource.org/wiki/Moara_cu_noroc",
+      "author": "Ioan Slavici",
+      "year": 1881,
+      "page": null,
+      "informant": "Ioan Slavici, Moara cu noroc",
+      "regions": [],
+      "original_text": "Le dau dracului toate",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "Pădureanca",
+      "url": "https://ro.wikisource.org/wiki/P%C4%83dureanca",
+      "author": "Ioan Slavici",
+      "year": 1884,
+      "page": null,
+      "informant": "Ioan Slavici, Pădureanca",
+      "regions": [],
+      "original_text": "le dau dracului toate",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "I'm giving them all to the devil",
+  "notes": null
+}

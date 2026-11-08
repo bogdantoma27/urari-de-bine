@@ -1,0 +1,39 @@
+{
+  "id": "arda-para-focului-pa-muntii-rogului",
+  "text": "Ardă para focului pă munții Rogului",
+  "original_text": "Ardă para focului Pă munţii Rrogului",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "para focului",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Doine și strigături din Ardeal",
+      "url": "https://archive.org/details/victor-onisor-doine-si-strigaturi-din-ardeal",
+      "author": "Victor Onișor",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Ardă para focului Pă munţii Rrogului",
+      "verification": "verified",
+      "notes": "Onișor, Doine și strigături; OCR „Rrogului” = Rogului (?)"
+    }
+  ],
+  "explanation": "Para = flacără",
+  "translation": "May the flame of fire burn on the mountains of Rog",
+  "notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "omul-dracului",
+  "text": "Omul dracului",
+  "original_text": "Omul dracului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 41,
+      "informant": null,
+      "regions": [],
+      "original_text": "Omul dracului",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2; apare cu „Om cu draci. Om îndrăcit.”"
+    },
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957); Scriban (1939)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Omul dracului / salba dracului",
+      "verification": "unverified",
+      "notes": "Scriban: salba dracului, iron., despre nepot"
+    }
+  ],
+  "explanation": "Om rău, cu draci în el.",
+  "translation": "The devil's man",
+  "notes": null
+}

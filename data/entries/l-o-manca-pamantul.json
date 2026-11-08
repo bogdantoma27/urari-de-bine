@@ -1,0 +1,36 @@
+{
+  "id": "l-o-manca-pamantul",
+  "text": "L-o mânca pământul",
+  "original_text": "L'o mâncă pământul",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pământul",
+  "themes": [
+    "sickness_death",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "L'o mâncă pământul",
+      "verification": "verified",
+      "notes": "vol. 1, același loc; pagina nedeterminată"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the earth eat him",
+  "notes": null
+}

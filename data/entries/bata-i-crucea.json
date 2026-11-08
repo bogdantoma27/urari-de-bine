@@ -1,0 +1,35 @@
+{
+  "id": "bata-i-crucea",
+  "text": "Bată-i crucea",
+  "original_text": "Bată-i crucea",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "crucea",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1844",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Iorgu de la Sadagura",
+      "url": "https://ro.wikisource.org/wiki/Iorgu_de_la_Sadagura",
+      "author": "Vasile Alecsandri",
+      "year": 1844,
+      "page": null,
+      "informant": "Vasile Alecsandri, Iorgu de la Sadagura",
+      "regions": [],
+      "original_text": "Bată-i crucea",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); vizează un grup etnic (evrei)"
+    }
+  ],
+  "explanation": "Dintr-o operă literară, unde e zis despre evrei. Crucea e aici pedeapsa lui Dumnezeu.",
+  "translation": "May the cross strike them",
+  "notes": "Vizează un grup etnic (evrei)"
+}

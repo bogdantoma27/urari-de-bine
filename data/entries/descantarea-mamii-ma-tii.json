@@ -1,0 +1,35 @@
+{
+  "id": "descantarea-mamii-ma-tii",
+  "text": "Descântarea mamii mă-tii",
+  "original_text": "Descântarea mamii ma-tii",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul comentatorului",
+      "regions": [],
+      "original_text": "Descântarea mamii ma-tii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "The incantation of your mother's mother",
+  "notes": null
+}

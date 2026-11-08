@@ -1,0 +1,35 @@
+{
+  "id": "sa-l-ia-dracu-de-bagaj",
+  "text": "Să-l ia dracu de bagaj",
+  "original_text": "Să-l ia dracu de bagaj!",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "dracu",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să-l ia dracu de bagaj!",
+      "verification": "verified",
+      "notes": "(În imprecații)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil take him with his luggage",
+  "notes": null
+}

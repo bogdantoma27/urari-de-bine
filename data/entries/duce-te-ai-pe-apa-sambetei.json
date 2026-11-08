@@ -1,0 +1,35 @@
+{
+  "id": "duce-te-ai-pe-apa-sambetei",
+  "text": "Duce-te-ai pe apa Sâmbetei",
+  "original_text": "duce-te-ai pe apa Sîmbetei",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/apă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "duce-te-ai pe apa Sîmbetei",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Adică să te duci de tot, pe lumea cealaltă.",
+  "translation": "May you be gone on the Saturday water",
+  "notes": null
+}

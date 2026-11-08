@@ -1,0 +1,35 @@
+{
+  "id": "serpe-afurisit",
+  "text": "Șerpe afurisit",
+  "original_text": "Şerpe—afurisite",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Insectele în limba, credințele și obiceiurile românilor",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Simion_Florea_Marian_-_Insectele_in_limba%2C_credintele_si_obiceiurile_romanilor_-_1903.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1903,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Şerpe—afurisite",
+      "verification": "verified",
+      "notes": "Marian, Insectele; adresare cu afurisit în descântec"
+    }
+  ],
+  "explanation": null,
+  "translation": "Accursed snake",
+  "notes": null
+}

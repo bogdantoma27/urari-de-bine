@@ -1,0 +1,35 @@
+{
+  "id": "manca-l-ar-pestii-dunarii-de-zgarcit-si-afumat",
+  "text": "Mânca-l-ar peștii Dunării de zgârcit și afumat",
+  "original_text": "mânca-l-ar peștii Dunării de zgârcit și afumat",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "peștii Dunării",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1920",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Ion, partea I Glasul pământului",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/1._Glasul_p%C4%83m%C3%A2ntului",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea I Glasul pământului",
+      "regions": [],
+      "original_text": "mânca-l-ar peștii Dunării de zgârcit și afumat",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fish of the Danube eat him, the miser and smoky one",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a-l-lua-mama-dracului",
+  "text": "A-l lua mama dracului",
+  "original_text": "A \"1 luă mama dracului",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "D-na V. Budișteanu, jud. Ilfov",
+      "regions": [],
+      "original_text": "A \"1 luă mama dracului",
+      "verification": "verified",
+      "notes": "Zanne vol. 6, capitolul despre Drac; OCR „A '1”"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil's mother take him",
+  "notes": null
+}

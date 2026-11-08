@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-vina",
+  "text": "Bată-l vina!",
+  "original_text": "Bată-l vina!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "vina",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEXI",
+      "url": "https://dexonline.ro/definitie/bate",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-l vina!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May guilt strike him!",
+  "notes": null
+}

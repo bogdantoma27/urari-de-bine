@@ -1,0 +1,35 @@
+{
+  "id": "nu-necinsti-pe-parintii-tai-ca-cazi-sub-blestemul-lor",
+  "text": "Nu necinsti pă părinții tăi, că cadi sub blestemul lor",
+  "original_text": "Nu necinsti pă părinții t&i, că cadi sub blestemul lor",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 8",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-8-1900",
+      "author": "Iuliu A. Zanne",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Nu necinsti pă părinții t&i, că cadi sub blestemul lor",
+      "verification": "verified",
+      "notes": "Zanne vol. 8 (Golescu); rubrica exactă nenotată"
+    }
+  ],
+  "explanation": null,
+  "translation": "Do not dishonour your parents, for you will fall under their curse",
+  "notes": null
+}

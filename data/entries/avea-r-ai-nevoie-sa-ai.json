@@ -1,0 +1,35 @@
+{
+  "id": "avea-r-ai-nevoie-sa-ai",
+  "text": "Avea-r-ai nevoie să ai",
+  "original_text": "avea-r-ai nevoie sa ai",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul comentatorului",
+      "regions": [],
+      "original_text": "avea-r-ai nevoie sa ai",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May you need to have",
+  "notes": null
+}

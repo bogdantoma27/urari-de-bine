@@ -1,0 +1,35 @@
+{
+  "id": "afurisitul-de-neamt",
+  "text": "Afurisitul de neamț",
+  "original_text": "afurisitul de neamț",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1894",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mara, cap. Verboncul",
+      "url": "https://ro.wikisource.org/wiki/Mara/Verboncul",
+      "author": "Ioan Slavici",
+      "year": 1894,
+      "page": null,
+      "informant": "Ioan Slavici, Mara, cap. Verboncul",
+      "regions": [],
+      "original_text": "afurisitul de neamț",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); vizează etnia neamț"
+    }
+  ],
+  "explanation": "Neamț = german; afurisit = blestemat",
+  "translation": "The cursed German",
+  "notes": null
+}

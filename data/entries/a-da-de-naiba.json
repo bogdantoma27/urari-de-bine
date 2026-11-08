@@ -1,0 +1,35 @@
+{
+  "id": "a-da-de-naiba",
+  "text": "A da de naiba",
+  "original_text": "A da de naiba",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; MDA2; DLRLC; NODEX",
+      "url": "https://dexonline.ro/definitie/naiba",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "A da de naiba",
+      "verification": "verified",
+      "notes": "Fam."
+    }
+  ],
+  "explanation": "A da de naiba = a da de belea; naiba e dracul, zis pe ocolite.",
+  "translation": "To run into the devil",
+  "notes": null
+}

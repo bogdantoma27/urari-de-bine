@@ -1,0 +1,47 @@
+{
+  "id": "la-dracu",
+  "text": "La dracu!",
+  "original_text": "La dracu!",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "La dracu!",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "la dracu!",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    }
+  ],
+  "explanation": null,
+  "translation": "To the devil!",
+  "notes": null
+}

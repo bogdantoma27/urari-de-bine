@@ -1,0 +1,35 @@
+{
+  "id": "afurisitilor",
+  "text": "Afurisiților",
+  "original_text": "Afurisiților",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Kir Ianulea",
+      "url": "https://ro.wikisource.org/wiki/Kir_Ianulea",
+      "author": "Ion Luca Caragiale",
+      "year": 1892,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Kir Ianulea",
+      "regions": [],
+      "original_text": "Afurisiților",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Afurisit = blestemat, osândit",
+  "translation": "You cursed ones",
+  "notes": null
+}

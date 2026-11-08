@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-scarba-sa-l-bata",
+  "text": "Bată-l scârba să-l bată",
+  "original_text": "bată-l scârba să-l bată",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "scârba",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Prostia omenească",
+      "url": "https://ro.wikisource.org/wiki/Prostia_omeneasc%C4%83",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Prostia omenească",
+      "regions": [],
+      "original_text": "bată-l scârba să-l bată",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Scârbă = silă; aici e ceva care te lovește.",
+  "translation": "May disgust strike him, may it strike him",
+  "notes": null
+}

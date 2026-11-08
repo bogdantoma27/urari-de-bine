@@ -1,0 +1,47 @@
+{
+  "id": "nemernic",
+  "text": "Nemernic",
+  "original_text": "nemernic",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98; DLRLC; NODEX; MDA2",
+      "url": "https://dexonline.ro/definitie/nemernic",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "nemernic",
+      "verification": "verified",
+      "notes": "nemarcat ca insultă în sursă"
+    },
+    {
+      "title": "dexonline.ro, DEX '09; MDA2; CADE; DLRLC",
+      "url": "https://dexonline.ro/definitie/nemernic",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "NEMERNIC",
+      "verification": "verified",
+      "notes": "nemarcat ca insultă în sursă; verificat pe textul sursei"
+    }
+  ],
+  "explanation": "Ticălos, om de nimic.",
+  "translation": "Scoundrel",
+  "notes": null
+}

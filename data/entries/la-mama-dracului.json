@@ -1,0 +1,36 @@
+{
+  "id": "la-mama-dracului",
+  "text": "La mama dracului",
+  "original_text": "la mama dracului",
+  "type": "euphemism",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98; Argou (2007)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "la mama dracului",
+      "verification": "verified",
+      "notes": "Argou: pop."
+    }
+  ],
+  "explanation": "Foarte departe.",
+  "translation": "To the devil's mother",
+  "notes": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "fute-ti-as-dumnezeul-tau",
+  "text": "Fute-ți-aș Dumnezeul tău",
+  "original_text": "Fute-ți-aș Dumnezeu’ tău",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sexual"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "vulgar",
+  "period": "1971",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Înjurături românești care-ți arată că se poate și mai rău decât în Teambuilding sau Taximetriști (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturi-romanesti-amuzante-dure-istorie/",
+      "author": "Răzvan Băltărețu",
+      "year": 2023,
+      "page": null,
+      "informant": "Erling Schøller, „Cuvinte și expresii obscene în limba română”, Revue Romane 1971, citat de VICE",
+      "regions": [],
+      "original_text": "Fute-ți-aș Dumnezeu’ tău",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Lumea fabuloasă a înjurăturilor românești...",
+      "url": "https://vice.com/ro/article/93b958/originea-injuraturilor-romanesti-latina-daci-romani",
+      "author": "Vice România",
+      "year": null,
+      "page": null,
+      "informant": "Erling Schøller, studiu 1971, dialectul muntean (București)",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Fute-ți-aș Dumnezeu’ tău!",
+      "verification": "verified",
+      "notes": "citat indirect, studiul original neconsultat"
+    }
+  ],
+  "explanation": null,
+  "translation": "I'd fuck your God",
+  "notes": null
+}

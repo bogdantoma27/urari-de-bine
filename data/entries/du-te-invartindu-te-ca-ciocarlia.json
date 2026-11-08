@@ -1,0 +1,35 @@
+{
+  "id": "du-te-invartindu-te-ca-ciocarlia",
+  "text": "Du-te învârtindu-te ca ciocârlia",
+  "original_text": "Du-te invartindu-te ca ciocarlia.",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Du-te invartindu-te ca ciocarlia.",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Go spinning yourself like the lark",
+  "notes": null
+}

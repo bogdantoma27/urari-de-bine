@@ -1,0 +1,35 @@
+{
+  "id": "in-pustiu-duca-se-ar-duca",
+  "text": "În pustiu ducă-se-ar, ducă",
+  "original_text": "În pustiu ducă-s-ar, ducă",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Poezii populare ale românilor",
+      "url": "https://archive.org/details/alecsandri-poezii-populare",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "În pustiu ducă-s-ar, ducă",
+      "verification": "verified",
+      "notes": "Alecsandri, Poezii populare; balada cu baba blestemată"
+    }
+  ],
+  "explanation": "Așa e blestemată baba dintr-o baladă.",
+  "translation": "May she go off to the wilderness, may she go",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tune-dracu-n-tin-sa-tune-astazi",
+  "text": "Tune dracu-n tin' să tune astăzi",
+  "original_text": "Tune dracu-n tin' să tune astazi!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "dracu",
+  "themes": [
+    "devil_hell",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Tune dracu-n tin' să tune astazi!",
+      "verification": "transcribed",
+      "notes": "„uzuală în zona mea”, zonă nedeclarată"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil thunder into you so that it thunders today",
+  "notes": null
+}

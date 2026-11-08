@@ -1,0 +1,35 @@
+{
+  "id": "a-i-veni-dracii",
+  "text": "A-i veni dracii",
+  "original_text": "a-i veni dracii",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a-i veni dracii",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "A i se urca sângele la cap, a se înfuria",
+  "translation": "To get the devils come upon one",
+  "notes": null
+}

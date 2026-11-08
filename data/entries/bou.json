@@ -1,0 +1,47 @@
+{
+  "id": "bou",
+  "text": "Bou",
+  "original_text": "Bou",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; MDA2 (2010); DEXI (2007); CADE (1926-1931); NODEX (2002); Scriban (1939)",
+      "url": "https://dexonline.ro/definitie/bou",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bou",
+      "verification": "verified",
+      "notes": "DEX '09: epitet injurios; MDA2: termen injurios pentru bărbați"
+    },
+    {
+      "title": "dexonline.ro, DEX '09; MDA2; DEXI; CADE",
+      "url": "https://dexonline.ro/definitie/bou",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "BOU",
+      "verification": "verified",
+      "notes": "DEX '09: epitet injurios; MDA2: termen injurios pentru bărbați; verificat pe textul sursei"
+    }
+  ],
+  "explanation": null,
+  "translation": "Ox",
+  "notes": null
+}

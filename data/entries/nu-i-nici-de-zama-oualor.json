@@ -1,0 +1,39 @@
+{
+  "id": "nu-i-nici-de-zama-oualor",
+  "text": "Nu-i nici de zama ouălor",
+  "original_text": "Nu-i nici de zama oualor",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica comentatorului, de lângă Bacău",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Nu-i nici de zama oualor",
+      "verification": "transcribed",
+      "notes": "= nu-i bun de nimic"
+    }
+  ],
+  "explanation": "Nu e bun de nimic.",
+  "translation": "He's not even good for the egg broth",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "spanzuratule",
+  "text": "Spânzuratule",
+  "original_text": "spânzuratule",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: tata)",
+      "regions": [],
+      "original_text": "spânzuratule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "You hanged one",
+  "notes": null
+}

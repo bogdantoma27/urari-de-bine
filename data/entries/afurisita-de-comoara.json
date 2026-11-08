@@ -1,0 +1,35 @@
+{
+  "id": "afurisita-de-comoara",
+  "text": "Afurisită de comoară",
+  "original_text": "Afurisită de comoară",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Comoara",
+      "url": "https://ro.wikisource.org/wiki/Comoara_(Slavici)",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Comoara",
+      "regions": [],
+      "original_text": "Afurisită de comoară",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Afurisit = blestemat",
+  "translation": "Cursed treasure",
+  "notes": null
+}

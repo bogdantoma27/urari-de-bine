@@ -1,0 +1,36 @@
+{
+  "id": "paraclisierul-anafura-si-cristosu-ma-tii",
+  "text": "Paraclisierul, anafura și Cristosu' mă-tii",
+  "original_text": "Paraclisieru’, anafura și Cristosu’ mă-tii",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "Paraclisieru’, anafura și Cristosu’ mă-tii",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Paraclisier = cel care îngrijește biserica; anafură = pâine sfințită.",
+  "translation": "The sacristan, the communion bread and your mother's Christ",
+  "notes": null
+}

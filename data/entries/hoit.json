@@ -1,0 +1,35 @@
+{
+  "id": "hoit",
+  "text": "Hoit",
+  "original_text": "hoit",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; MDA2; DEX '96; NODEX",
+      "url": "https://dexonline.ro/definitie/hoit",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "hoit",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Hoit = stârv. Se zice unui om mare și greoi.",
+  "translation": "Carcass",
+  "notes": null
+}

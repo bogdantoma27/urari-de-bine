@@ -1,0 +1,35 @@
+{
+  "id": "manca-te-ar-moliile",
+  "text": "Mânca-te-ar moliile",
+  "original_text": "Mînca-te-ar moliile",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "moliile",
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR (1913-2010), s.v. molie",
+      "url": "https://dexonline.ro/definitie/molie/1336751",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-te-ar moliile",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR, glumeț; MARIAN, INS. 304"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the moths eat you",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "putrezi-mi-ti-ar-trupsorul-intocmai-ca-merisorul",
+  "text": "Putrezi-mi-ți-ar trupșorul întocmai ca merișorul",
+  "original_text": "Putrezi-mi-ti-ar trupşorul Întocmai ca merișorul",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "trupșorul",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Poezii populare române, vol. I-III (ed. Minerva, după colecția din 1885)",
+      "url": null,
+      "author": "George Dem. Teodorescu",
+      "year": 1885,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Putrezi-mi-ti-ar trupşorul Întocmai ca merișorul",
+      "verification": "verified",
+      "notes": "Teodorescu, Poezii populare române; OCR „mi-ti” = mi-ți"
+    }
+  ],
+  "explanation": null,
+  "translation": "May your little body rot just like the little apple",
+  "notes": null
+}

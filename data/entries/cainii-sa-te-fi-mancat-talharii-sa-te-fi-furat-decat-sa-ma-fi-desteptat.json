@@ -1,0 +1,35 @@
+{
+  "id": "cainii-sa-te-fi-mancat-talharii-sa-te-fi-furat-decat-sa-ma-fi-desteptat",
+  "text": "Câinii să te fi mâncat, tâlharii să te fi furat, decât să mă fi deșteptat",
+  "original_text": "Cînii să te fi fost mîncat, Talharii să te fi furat",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "câinii",
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 163,
+      "informant": null,
+      "regions": [],
+      "original_text": "Cînii să te fi fost mîncat, Talharii să te fi furat",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2, cântec haiducesc; «Rău pe murg l-a blestemat»"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the dogs have eaten you, may thieves have stolen you, rather than wake me",
+  "notes": null
+}

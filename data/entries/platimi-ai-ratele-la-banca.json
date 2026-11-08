@@ -1,0 +1,36 @@
+{
+  "id": "platimi-ai-ratele-la-banca",
+  "text": "Plătimi-ai ratele la bancă",
+  "original_text": "Platimi-ai ratele la banca!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "modern",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Platimi-ai ratele la banca!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May you pay my loan instalments at the bank",
+  "notes": "formă „Plătimi-ai” neclară, păstrată din sursă"
+}

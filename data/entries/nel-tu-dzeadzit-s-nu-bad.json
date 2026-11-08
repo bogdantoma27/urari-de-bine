@@ -1,0 +1,39 @@
+{
+  "id": "nel-tu-dzeadzit-s-nu-bad",
+  "text": "Nel tu dzeadzit s-nu baḑ!",
+  "original_text": "Nel tu dzeádzit s-nu baḑ!",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [
+    "aromanian"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Urarea și blestemul în albaneză și în graiul fărșerot al dialectului aromân. Concordanțe frazeologice și semantice (Lucrările Simpozionului Internațional de Lingvistică, ed. a 6-a, 2015)",
+      "url": "https://www.diacronia.ro/indexing/details/V4246/pdf",
+      "author": "Daniela-Carmen Stoica",
+      "year": 2017,
+      "page": "171-174",
+      "informant": "vorbitori fărșeroți din zona Korcea, Albania (anchete 2011-2013)",
+      "regions": [
+        "aromanian"
+      ],
+      "original_text": "Nel tu dzeádzit s-nu baḑ!",
+      "verification": "verified",
+      "notes": "grai fărșerot plisot; grafia sursei păstrată, normalizare minimă"
+    }
+  ],
+  "explanation": "Aromână, la fărșeroți: să nu-ți pui verigheta pe deget.",
+  "translation": "May you not put it on the finger!",
+  "notes": null
+}

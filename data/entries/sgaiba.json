@@ -1,0 +1,35 @@
+{
+  "id": "sgaiba",
+  "text": "Sgaibă",
+  "original_text": "sgaibă",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DER (1958-1966), s.v. sgaibă",
+      "url": "https://dexonline.ro/definitie/sgaibă/507966",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "sgaibă",
+      "verification": "verified",
+      "notes": "DER: demon, termen de ocară"
+    }
+  ],
+  "explanation": "Sgaibă = drac, cuvânt vechi.",
+  "translation": "Demon",
+  "notes": null
+}

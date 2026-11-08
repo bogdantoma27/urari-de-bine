@@ -1,0 +1,39 @@
+{
+  "id": "sa-ti-i-manance-corbii-toti",
+  "text": "Să ți-i mănânce corbii toți",
+  "original_text": "SA ti-If mance corbil totl",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "corbii",
+  "themes": [
+    "birds_of_prey"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": "Chr. N. Țapu de la Ion Cepariu, Ocnele Sibiului, Transilvania",
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "SA ti-If mance corbil totl",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); „ti-If” citit din OCR = ți-i"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the ravens eat them all for you",
+  "notes": null
+}

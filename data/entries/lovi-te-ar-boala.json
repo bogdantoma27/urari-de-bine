@@ -1,0 +1,35 @@
+{
+  "id": "lovi-te-ar-boala",
+  "text": "Lovi-te-ar boala",
+  "original_text": "Lovi-te-ar boala",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "boala",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1944",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Folklorul medical român comparat (cap. Farmece, vrăji și blesteme, § Blestemele)",
+      "url": "https://archive.org/details/candrea-ioan-aurel-folclorul-medical-roman-comparat_202405",
+      "author": "Ion Aurel Candrea",
+      "year": 1944,
+      "page": 205,
+      "informant": null,
+      "regions": [],
+      "original_text": "Lovi-te-ar boala",
+      "verification": "verified",
+      "notes": "Candrea, Folklorul medical, § Blestemele, p. 204-205; citat la Pamfile, Boli și leacuri p. 2"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the sickness strike you",
+  "notes": null
+}

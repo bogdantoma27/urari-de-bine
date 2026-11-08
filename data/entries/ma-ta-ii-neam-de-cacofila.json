@@ -1,0 +1,36 @@
+{
+  "id": "ma-ta-ii-neam-de-cacofila",
+  "text": "Mă-ta îi neam de cacofilă",
+  "original_text": "Mă-ta îi neam de cacofilă",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "body",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "sec. XXI",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Disfemismul ca proces lexical (Buletin Științific, Fasc. Filologie, Seria A, XXVII, 2018)",
+      "url": "https://diacronia.ro/indexing/details/A29098/pdf",
+      "author": "Roxana Pașca",
+      "year": 2018,
+      "page": "~132-133",
+      "informant": "utilizator de forum",
+      "regions": [],
+      "original_text": "Mă-ta îi neam de cacofilă",
+      "verification": "verified",
+      "notes": "Citat de autoare de pe forumul lordzcs.myforum.ro/injuraturi-vt85.html (sursă primară, nedatată)"
+    }
+  ],
+  "explanation": "Cacofil e inventat, ca „iubitor de caca”, în glumă.",
+  "translation": "Your mother is of the cacophile kin",
+  "notes": null
+}

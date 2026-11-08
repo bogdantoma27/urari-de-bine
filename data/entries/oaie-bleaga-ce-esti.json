@@ -1,0 +1,35 @@
+{
+  "id": "oaie-bleaga-ce-esti",
+  "text": "Oaie bleagă ce ești",
+  "original_text": "oaie bleagă ce ești",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XXI",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Disfemismul ca proces lexical (Buletin Științific, Fasc. Filologie, Seria A, XXVII, 2018)",
+      "url": "https://diacronia.ro/indexing/details/A29098/pdf",
+      "author": "Roxana Pașca",
+      "year": 2018,
+      "page": "~132-133",
+      "informant": "utilizator de forum",
+      "regions": [],
+      "original_text": "oaie bleagă ce ești",
+      "verification": "verified",
+      "notes": "Citat din ziare.com (comentariu), prin Pașca 2018"
+    }
+  ],
+  "explanation": "Bleagă = proastă, fără minte.",
+  "translation": "You silly sheep you",
+  "notes": null
+}

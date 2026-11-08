@@ -1,0 +1,35 @@
+{
+  "id": "taranoi",
+  "text": "Țărănoi",
+  "original_text": "țărănoi",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98; DLRLC; NODEX",
+      "url": "https://dexonline.ro/definitie/țărănoi",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "țărănoi",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Insultă la adresa țăranilor.",
+  "translation": "Boorish peasant",
+  "notes": null
+}

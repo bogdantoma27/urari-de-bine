@@ -1,0 +1,35 @@
+{
+  "id": "dracu-sa-va-ia-de-guri-multe",
+  "text": "Dracu să vă ia de guri multe",
+  "original_text": "Dracu să vă ia de guri multe",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "dracu",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Săracilor mîni multe!",
+      "url": "https://ro.wikisource.org/wiki/S%C4%83racilor_m%C3%AEni_multe!",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Săracilor mîni multe!",
+      "regions": [],
+      "original_text": "Dracu să vă ia de guri multe",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil take you by your many mouths",
+  "notes": null
+}

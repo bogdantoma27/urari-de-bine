@@ -1,0 +1,35 @@
+{
+  "id": "da-l-dracului",
+  "text": "Dă-l dracului",
+  "original_text": "Dă-l dracului",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, MDA2 (2010)",
+      "url": "https://dexonline.ro/text/în imprecații",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Dă-l dracului",
+      "verification": "verified",
+      "notes": "text cu «~»; cuvântul-titlu nu e în clar în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "Give him to the devil",
+  "notes": null
+}

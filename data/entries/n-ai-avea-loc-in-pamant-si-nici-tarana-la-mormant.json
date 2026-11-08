@@ -1,0 +1,35 @@
+{
+  "id": "n-ai-avea-loc-in-pamant-si-nici-tarana-la-mormant",
+  "text": "N-ai avea loc în pământ și nici țărână la mormânt",
+  "original_text": "N-ai avea loc în pămînt și nici țărînă la mormînt",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "N-ai avea loc în pămînt și nici țărînă la mormînt",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: Lazăr Șăineanu, Basmele române, Minerva 1978, p. 582"
+    }
+  ],
+  "explanation": "Să nu fii îngropat.",
+  "translation": "May you have no place in the earth nor soil on your grave",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "vine-dracu-sa-te-umfle",
+  "text": "Vine dracu să te umfle",
+  "original_text": "vine dracu să te umfle",
+  "type": "curse",
+  "form": "other",
+  "affliction": "dracu",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Ion Păpușarul (Cântecel comic)",
+      "url": "https://ro.wikisource.org/wiki/Ion_P%C4%83pu%C8%99arul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Ion Păpușarul (Cântecel comic)",
+      "regions": [],
+      "original_text": "vine dracu să te umfle",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The devil is coming to swell you up",
+  "notes": null
+}

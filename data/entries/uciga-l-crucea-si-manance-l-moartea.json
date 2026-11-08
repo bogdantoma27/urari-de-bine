@@ -1,0 +1,36 @@
+{
+  "id": "uciga-l-crucea-si-manance-l-moartea",
+  "text": "Ucigă-l crucea și mănânce-l moartea",
+  "original_text": "ucigă-l crucea și mănânce-l moartea",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "crucea, moartea",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1870",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Făt-Frumos din lacrimă",
+      "url": "https://ro.wikisource.org/wiki/F%C4%83t-Frumos_din_lacrim%C4%83",
+      "author": "Mihai Eminescu",
+      "year": 1870,
+      "page": null,
+      "informant": "Mihai Eminescu, Făt-Frumos din lacrimă",
+      "regions": [],
+      "original_text": "ucigă-l crucea și mănânce-l moartea",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the cross kill him and may death eat him",
+  "notes": null
+}

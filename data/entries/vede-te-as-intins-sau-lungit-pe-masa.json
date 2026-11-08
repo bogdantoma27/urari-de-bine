@@ -1,0 +1,35 @@
+{
+  "id": "vede-te-as-intins-sau-lungit-pe-masa",
+  "text": "Vede-te-aș întins sau lungit pe masă",
+  "original_text": "Vede-te-aș întins sau lungit pe masă!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": false,
+  "verification": "unverified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Vede-te-aș întins sau lungit pe masă!",
+      "verification": "unverified",
+      "notes": "Sursa primară citată de Nasta: S. Fl. Marian, Înmormântarea la români, Saeculum 2009, p. 59"
+    }
+  ],
+  "explanation": null,
+  "translation": "May I see you laid out or stretched on the table",
+  "notes": null
+}

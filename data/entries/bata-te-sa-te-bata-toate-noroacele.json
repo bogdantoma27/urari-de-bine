@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-sa-te-bata-toate-noroacele",
+  "text": "Bată-te să te bată toate noroacele",
+  "original_text": "bată-te să te bată toate noroacele",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "noroacele",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1932",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Răscoala, vol. Se mișcă țara!",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Se_mi%C8%99c%C4%83_%C8%9Bara!",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Se mișcă țara!",
+      "regions": [],
+      "original_text": "bată-te să te bată toate noroacele",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Noroacele stau aici pe dos, în loc de ghinioane.",
+  "translation": "May all the lucks strike you, may they strike you",
+  "notes": null
+}

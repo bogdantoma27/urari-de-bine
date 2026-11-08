@@ -1,0 +1,39 @@
+{
+  "id": "sa-fii-subt-blestem-si-anaftimizat-ca-o-piatra-ce-nu-putrezesti",
+  "text": "Să fii subt blestem și anaftimizat ca o piatră ce nu putrezești",
+  "original_text": "să fii subt blestem şi anaftimizat ca o piatră ce nu putrezeşti",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1429-1859 (intervalul corpusului)",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Maria Mocanu, Însemnări de pe manuscrise și cărți vechi din Țara Moldovei I-IV, un corpus editat de I. Caproșu și E. Chiaburu. Blestemul – între magie și credință, AUI Lingvistică LX, 2014, citând corpusul Caproșu-Chiaburu, Iași, Demiurg, 2008-2009, vol. și pagina III, 554",
+      "url": "https://www.diacronia.ro/indexing/details/A7001/pdf",
+      "author": "Maria Mocanu (citat din Caproșu, Chiaburu)",
+      "year": 2014,
+      "page": "III, 554",
+      "informant": "însemnare pe carte veche (donator/copist)",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "să fii subt blestem şi anaftimizat ca o piatră ce nu putrezeşti",
+      "verification": "verified",
+      "notes": "citat în articolul lui Mocanu; ortografie modernizată în corpus; volum, pagină în corpusul editat: III, 554"
+    }
+  ],
+  "explanation": "Subt = sub; anaftimizat = anatemizat.",
+  "translation": "May you be under a curse and anathematized like a stone that doesn't rot",
+  "notes": null
+}

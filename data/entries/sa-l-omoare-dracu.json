@@ -1,0 +1,36 @@
+{
+  "id": "sa-l-omoare-dracu",
+  "text": "Să-l omoare dracu",
+  "original_text": "să-l omuoră dracu",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "dracu",
+  "themes": [
+    "sickness_death",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română (VICE România)",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Gabriel Botezatu",
+      "year": 2015,
+      "page": null,
+      "informant": "răspunsuri la ancheta Atlasului Lingvistic Român (supliment, 1942), citate de VICE",
+      "regions": [],
+      "original_text": "să-l omuoră dracu",
+      "verification": "verified",
+      "notes": "grafia surselor din Atlas, transcrisă de VICE; regiunea per formulă nu e dată"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil kill him",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "al-dracului-neamtul",
+  "text": "Al dracului neamțul",
+  "original_text": "Al dracului neamțul",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1880",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Budulea Taichii",
+      "url": "https://ro.wikisource.org/wiki/Budulea_Taichii",
+      "author": "Ioan Slavici",
+      "year": 1880,
+      "page": null,
+      "informant": "Ioan Slavici, Budulea Taichii",
+      "regions": [],
+      "original_text": "Al dracului neamțul",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); ocară legată de etnia neamțului"
+    }
+  ],
+  "explanation": "Neamț = german",
+  "translation": "The devil's German",
+  "notes": null
+}

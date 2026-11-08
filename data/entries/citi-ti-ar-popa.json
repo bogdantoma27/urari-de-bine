@@ -1,0 +1,36 @@
+{
+  "id": "citi-ti-ar-popa",
+  "text": "Citi-ți-ar popa",
+  "original_text": "citi-ți-ar popa",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "popa",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1944",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Folklorul medical român comparat (cap. Farmece, vrăji și blesteme, § Blestemele)",
+      "url": "https://archive.org/details/candrea-ioan-aurel-folclorul-medical-roman-comparat_202405",
+      "author": "Ion Aurel Candrea",
+      "year": 1944,
+      "page": 205,
+      "informant": null,
+      "regions": [],
+      "original_text": "citi-ți-ar popa",
+      "verification": "verified",
+      "notes": "Candrea, Folklorul medical, § Blestemele, p. 204-205; citat la Pamfile, Boli și leacuri p. 2"
+    }
+  ],
+  "explanation": "Adică să-ți citească popa slujba de înmormântare.",
+  "translation": "May the priest read over you",
+  "notes": null
+}

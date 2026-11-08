@@ -1,0 +1,35 @@
+{
+  "id": "fir-ar-sa-fie",
+  "text": "Fir-ar să fie",
+  "original_text": "fir-ar să fie",
+  "type": "euphemism",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "„Să nu [în]juri strâmb…” – înjurături românești care conțin antroponime (I): schițe. Philologica Jassyensia XI/2 (22)",
+      "url": "https://www.diacronia.ro/indexing/details/A22763/pdf",
+      "author": "Daiana Felecan, Alina Bugheșiu",
+      "year": 2015,
+      "page": "57-67",
+      "informant": null,
+      "regions": [],
+      "original_text": "fir-ar să fie",
+      "verification": "verified",
+      "notes": "citat prin Zafiu 2015"
+    }
+  ],
+  "explanation": null,
+  "translation": "May it be",
+  "notes": null
+}

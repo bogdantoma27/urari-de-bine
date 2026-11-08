@@ -1,0 +1,35 @@
+{
+  "id": "nemernicilor-ce-sunteti",
+  "text": "Nemernicilor ce sunteți",
+  "original_text": "nemernicilor ce sunteți",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Făt-Frumos cu părul de aur",
+      "url": "https://ro.wikisource.org/wiki/F%C4%83t-Frumos_cu_p%C4%83rul_de_aur",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Făt-Frumos cu părul de aur",
+      "regions": [],
+      "original_text": "nemernicilor ce sunteți",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Nemernic = ticălos.",
+  "translation": "You scoundrels that you are",
+  "notes": null
+}

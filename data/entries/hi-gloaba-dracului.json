@@ -1,0 +1,35 @@
+{
+  "id": "hi-gloaba-dracului",
+  "text": "Hi, gloaba dracului",
+  "original_text": "Hi, gloaba dracului!",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Hi, gloaba dracului!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Gloabă = cal slab, scheletic.",
+  "translation": "Hey, you devil's nag",
+  "notes": null
+}

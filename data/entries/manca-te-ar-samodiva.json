@@ -1,0 +1,51 @@
+{
+  "id": "manca-te-ar-samodiva",
+  "text": "Mânca-te-ar Samodiva",
+  "original_text": "mânca-te-ar Samodiva",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Samodiva",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, Șăineanu, ed. VI (1929), s.v. samodiva",
+      "url": "https://dexonline.ro/definitie/samodiva/817385",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "mânca-te-ar Samodiva",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: Șăineanu, ed. VI; sursa spune: se aude în Turnu-Severin"
+    },
+    {
+      "title": "dexonline.ro, DLR (1913-2010), s.v. samodiva",
+      "url": "https://dexonline.ro/definitie/samodiva/1225335",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Minca-te-ar samodiva",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR; ap. CIHAC, II, 95"
+    }
+  ],
+  "explanation": "Samodiva = zână rea, din credințele sud-slave.",
+  "translation": "May the Samodiva eat you",
+  "notes": null
+}

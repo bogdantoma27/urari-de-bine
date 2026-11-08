@@ -1,0 +1,36 @@
+{
+  "id": "sa-fie-rata-ma-sa-gaina",
+  "text": "Să fie rață? Mă-sa găină!",
+  "original_text": "Să fie rață? — Mă-sa găină",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să fie rață? — Mă-sa găină",
+      "verification": "verified",
+      "notes": "proverb nr. 2444, vol. 1"
+    }
+  ],
+  "explanation": null,
+  "translation": "Let it be a duck? His mother a hen!",
+  "notes": "replică ironică despre cei neîndemânatici"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bata-le-de-povesti",
+  "text": "Bată-le de povești",
+  "original_text": "bată-le de povești",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. bate",
+      "url": "https://dexonline.ro/definitie/bate/897317",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-le de povești",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; VLAHUȚĂ, O. A. 49"
+    }
+  ],
+  "explanation": "Povești = minciuni, vorbe goale",
+  "translation": "May stories strike them",
+  "notes": null
+}

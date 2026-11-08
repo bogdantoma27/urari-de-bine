@@ -1,0 +1,36 @@
+{
+  "id": "ce-umbli-cu-cazmaua-parca-dai-in-buba-din-spinarea-ma-tii",
+  "text": "Ce umbli cu cazmaua parcă dai în buba din spinarea mă-tii",
+  "original_text": "Ce umbli cu cazmaua parcă dai în buba din spinarea mă-tii",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "body",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Comoara",
+      "url": "https://ro.wikisource.org/wiki/Comoara_(Slavici)",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Comoara",
+      "regions": [],
+      "original_text": "Ce umbli cu cazmaua parcă dai în buba din spinarea mă-tii",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Why are you digging with the hoe as if hitting the boil on your mother's back",
+  "notes": null
+}

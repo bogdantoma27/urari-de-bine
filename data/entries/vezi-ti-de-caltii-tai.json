@@ -1,0 +1,35 @@
+{
+  "id": "vezi-ti-de-caltii-tai",
+  "text": "Vezi-ți de câlții tăi",
+  "original_text": "vezi-ti de câlții tai",
+  "type": "expression",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica autorului",
+      "regions": [],
+      "original_text": "vezi-ti de câlții tai",
+      "verification": "transcribed",
+      "notes": "= vezi-ți de treaba ta"
+    }
+  ],
+  "explanation": "Câlți = firele rămase de la cânepă sau in; adică vezi-ți de treaba ta.",
+  "translation": "Mind your tow",
+  "notes": null
+}

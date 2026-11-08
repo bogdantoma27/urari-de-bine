@@ -1,0 +1,35 @@
+{
+  "id": "umfla-te-ar-rusaliile",
+  "text": "Umfla-te-ar rusaliile",
+  "original_text": "Umfla-te-ar rusaliile",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "rusaliile",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1874",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Cucoana Chirița în balon",
+      "url": "https://ro.wikisource.org/wiki/Cucoana_Chiri%C8%9Ba_%C3%AEn_balon",
+      "author": "Vasile Alecsandri",
+      "year": 1874,
+      "page": null,
+      "informant": "Vasile Alecsandri, Cucoana Chirița în balon",
+      "regions": [],
+      "original_text": "Umfla-te-ar rusaliile",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Rusaliile = duhuri rele din credința populară, care îmbolnăvesc.",
+  "translation": "May the Rusalii swell you up",
+  "notes": null
+}

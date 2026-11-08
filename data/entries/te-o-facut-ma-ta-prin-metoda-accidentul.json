@@ -1,0 +1,35 @@
+{
+  "id": "te-o-facut-ma-ta-prin-metoda-accidentul",
+  "text": "Te-o făcut mă-ta prin metoda accidentul",
+  "original_text": "Te-o facut ma-ta prin metoda accidentul",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Te-o facut ma-ta prin metoda accidentul",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Your mother made you by the accident method",
+  "notes": null
+}

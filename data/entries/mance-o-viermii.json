@@ -1,0 +1,35 @@
+{
+  "id": "mance-o-viermii",
+  "text": "Mânce-o viermii!",
+  "original_text": "mînce-o viermii!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "viermii",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînce-o viermii!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the worms eat her!",
+  "notes": null
+}

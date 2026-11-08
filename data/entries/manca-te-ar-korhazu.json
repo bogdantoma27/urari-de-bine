@@ -1,0 +1,35 @@
+{
+  "id": "manca-te-ar-korhazu",
+  "text": "Mânca-te-ar kórházu",
+  "original_text": "Manca-te-ar kórházu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "kórházu",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Manca-te-ar kórházu",
+      "verification": "transcribed",
+      "notes": "kórház = spital (maghiară); probabil Transilvania, nedeclarat"
+    }
+  ],
+  "explanation": "Kórház = spital, pe ungurește.",
+  "translation": "May the hospital eat you",
+  "notes": null
+}

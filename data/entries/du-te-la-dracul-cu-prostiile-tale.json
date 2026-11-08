@@ -1,0 +1,35 @@
+{
+  "id": "du-te-la-dracul-cu-prostiile-tale",
+  "text": "Du-te la dracul cu prostiile tale",
+  "original_text": "du-te la dracul cu prostiile tale",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ion... (Caragiale)",
+      "url": "https://ro.wikisource.org/wiki/Ion..._(Caragiale)",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Ion... (Caragiale)",
+      "regions": [],
+      "original_text": "du-te la dracul cu prostiile tale",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Go to the devil with your nonsense",
+  "notes": null
+}

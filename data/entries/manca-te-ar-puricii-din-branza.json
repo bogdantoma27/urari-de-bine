@@ -1,0 +1,35 @@
+{
+  "id": "manca-te-ar-puricii-din-branza",
+  "text": "Mâncă-te-ar puricii din brânză",
+  "original_text": "Mâncă-te-ar puricii din brânză",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "puricii",
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Insectele în limba, credințele și obiceiurile românilor",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Simion_Florea_Marian_-_Insectele_in_limba%2C_credintele_si_obiceiurile_romanilor_-_1903.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1903,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mâncă-te-ar puricii din brânză",
+      "verification": "verified",
+      "notes": "Marian, Insectele (art. Purice); OCR: «Mâncă-te-ar puricii din brânză!»"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fleas from the cheese eat you",
+  "notes": null
+}

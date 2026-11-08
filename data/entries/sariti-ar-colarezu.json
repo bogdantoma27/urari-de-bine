@@ -1,0 +1,35 @@
+{
+  "id": "sariti-ar-colarezu",
+  "text": "Săriți-ar colarezu'",
+  "original_text": "Sariti-ar colarezu'",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "colarezu'",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Sariti-ar colarezu'",
+      "verification": "transcribed",
+      "notes": "sens neclar"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the colarez jump you",
+  "notes": "Sens neclar în sursă."
+}

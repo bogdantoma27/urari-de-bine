@@ -1,0 +1,35 @@
+{
+  "id": "iei-bataie-ca-porcul-cand-a-pierdut-lantul",
+  "text": "Iei bătaie ca porcul când a pierdut lanțul",
+  "original_text": "iei bătaie ca porcul când a pierdut lanțul!",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "iei bătaie ca porcul când a pierdut lanțul!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "You'll get a beating like the pig that lost its chain",
+  "notes": null
+}

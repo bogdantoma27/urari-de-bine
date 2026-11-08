@@ -1,0 +1,35 @@
+{
+  "id": "esti-o-vaca-proasta",
+  "text": "Ești o vacă proastă",
+  "original_text": "Ești o vacă proastă",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XXI",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Disfemismul ca proces lexical (Buletin Științific, Fasc. Filologie, Seria A, XXVII, 2018)",
+      "url": "https://diacronia.ro/indexing/details/A29098/pdf",
+      "author": "Roxana Pașca",
+      "year": 2018,
+      "page": "~132-133",
+      "informant": "utilizator de forum",
+      "regions": [],
+      "original_text": "Ești o vacă proastă",
+      "verification": "verified",
+      "notes": "Citat din forum 9am.ro, prin Pașca 2018"
+    }
+  ],
+  "explanation": null,
+  "translation": "You're a stupid cow",
+  "notes": null
+}

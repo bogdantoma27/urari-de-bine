@@ -1,0 +1,59 @@
+{
+  "id": "ce-dracu",
+  "text": "Ce dracu",
+  "original_text": "Ce dracu!",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban (1939); NODEX (2002)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ce dracu!",
+      "verification": "verified",
+      "notes": "NODEX: «Ce dracul!»"
+    },
+    {
+      "title": "dexonline.ro, CADE; Scriban",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ce dracu!",
+      "verification": "verified",
+      "notes": "NODEX: «Ce dracul!»; verificat pe textul sursei"
+    },
+    {
+      "title": "Moara cu noroc",
+      "url": "https://ro.wikisource.org/wiki/Moara_cu_noroc",
+      "author": "Ioan Slavici",
+      "year": 1881,
+      "page": null,
+      "informant": "Ioan Slavici, Moara cu noroc",
+      "regions": [],
+      "original_text": "Ce dracu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "What the devil",
+  "notes": null
+}

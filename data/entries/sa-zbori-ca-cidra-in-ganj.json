@@ -1,0 +1,36 @@
+{
+  "id": "sa-zbori-ca-cidra-in-ganj",
+  "text": "Să zbori ca cidra în gânj",
+  "original_text": "Să sbori ca cidra 'n gânj",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "other",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 9",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-9-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "Gavr. Onișor, prof., Crângu, jud. Tutova",
+      "regions": [],
+      "original_text": "Să sbori ca cidra 'n gânj",
+      "verification": "verified",
+      "notes": "Zanne vol. 9, proverb nr. 7190; în sursă: «Este un blestem al părinților...»"
+    }
+  ],
+  "explanation": "Gânj = colac de nuiele.",
+  "translation": "May you fly like the cidra in the wicker hoop",
+  "notes": null
+}

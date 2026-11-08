@@ -1,0 +1,47 @@
+{
+  "id": "bata-te-varga-lui-dumnezeu",
+  "text": "Bată-te varga lui Dumnezeu!",
+  "original_text": "bată-te varga lui Dumnezeu!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "varga lui Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/bate",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-te varga lui Dumnezeu!",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Datinele și credințele poporului român, vol. 1",
+      "url": "https://archive.org/details/datinele-si-credintele-poporului-roman-vol.-1-elena-niculita-voronca",
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 176,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te varga lui Dumnezeu",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1, la capitolul Varga"
+    }
+  ],
+  "explanation": "Varga = nuiaua cu care Dumnezeu pedepsește",
+  "translation": "May the rod of God strike you!",
+  "notes": null
+}

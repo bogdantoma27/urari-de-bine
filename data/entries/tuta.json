@@ -1,0 +1,35 @@
+{
+  "id": "tuta",
+  "text": "Tută",
+  "original_text": "tută",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98; DOOM 3; DOOM 2",
+      "url": "https://dexonline.ro/definitie/tută",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "tută",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Tută = femeie proastă.",
+  "translation": "Dumb woman",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "la-iad-spurcatule",
+  "text": "La iad, spurcatule",
+  "original_text": "La iad, spurcatule",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ion Păpușarul (Cântecel comic)",
+      "url": "https://ro.wikisource.org/wiki/Ion_P%C4%83pu%C8%99arul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Ion Păpușarul (Cântecel comic)",
+      "regions": [],
+      "original_text": "La iad, spurcatule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "To hell, you filthy one",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "giofule-manca-te-ar-boala",
+  "text": "Giofule, mânca-te-ar boala",
+  "original_text": "Giofule, mânca-te-ar bâla",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "boala",
+  "themes": [
+    "sickness_death",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": 393,
+      "informant": null,
+      "regions": [],
+      "original_text": "Giofule, mânca-te-ar bâla",
+      "verification": "verified",
+      "notes": "proverb nr. 1637; pagina după antetul OCR 'Despre animale 393'; 'bâla' din OCR"
+    }
+  ],
+  "explanation": "Giof = o pasăre, ciocârlia după sursă.",
+  "translation": "Giof, may the disease eat you",
+  "notes": null
+}

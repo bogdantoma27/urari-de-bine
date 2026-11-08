@@ -1,0 +1,39 @@
+{
+  "id": "sa-fie-blastemat-de-318-parinti-din-necheia",
+  "text": "Să fie blăstemat de 318 Părinți din Necheia",
+  "original_text": "să fie blăstemat de 318 Părinţi din Necheia",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "cei 318 Părinți din Necheia",
+  "themes": [
+    "church"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "sec. XV-XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Însemnări de pe manuscrise și cărți vechi din Țara Moldovei I-IV, un corpus editat de I. Caproșu și E. Chiaburu. Blestemul – între magie și credință (AUI, Lingvistică, LX, 2014)",
+      "url": "https://diacronia.ro/indexing/details/A7001/pdf",
+      "author": "Maria Mocanu",
+      "year": 2014,
+      "page": "205-",
+      "informant": "însemnător pe carte veche",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "să fie blăstemat de 318 Părinţi din Necheia",
+      "verification": "verified",
+      "notes": "Citat din corpusul Caproșu-Chiaburu, Însemnări de pe manuscrise și cărți vechi din Țara Moldovei, vol. I, p. 441 (însemnări 1429-1859); blestem de danie/proprietate pe carte"
+    }
+  ],
+  "explanation": "Cei 318 părinți de la Sinodul din Niceea. Formula apare des pe cărțile vechi.",
+  "translation": "May he be cursed by the 318 Fathers of Nicaea",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "imbecil-nemernic",
+  "text": "Imbecil nemernic",
+  "original_text": "imbecil nemernic",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ab irato",
+      "url": "https://ro.wikisource.org/wiki/Ab_irato",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Ab irato",
+      "regions": [],
+      "original_text": "imbecil nemernic",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Nemernic = ticălos, om de nimic.",
+  "translation": "Imbecile, scoundrel",
+  "notes": null
+}

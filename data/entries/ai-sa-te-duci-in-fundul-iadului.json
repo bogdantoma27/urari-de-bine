@@ -1,0 +1,35 @@
+{
+  "id": "ai-sa-te-duci-in-fundul-iadului",
+  "text": "Ai să te duci în fundul iadului",
+  "original_text": "Ai să te duci în fundul iadului",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: mama)",
+      "regions": [],
+      "original_text": "Ai să te duci în fundul iadului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "You will go to the bottom of hell",
+  "notes": null
+}

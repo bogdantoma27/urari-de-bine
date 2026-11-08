@@ -1,0 +1,36 @@
+{
+  "id": "ptiu-bata-te-pardalnicu-sa-te-bata-nevola-lumii",
+  "text": "Ptiu! Bată-te pârdalnicu să te bată, nevola lumii!",
+  "original_text": "Ptiu! bată-te pârdalnicu să te bată, nevola lumii",
+  "type": "insult",
+  "form": "imperative",
+  "affliction": "pârdalnicul",
+  "themes": [
+    "other",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ptiu! bată-te pârdalnicu să te bată, nevola lumii",
+      "verification": "verified",
+      "notes": "vol. 6; pagina nedeterminată"
+    }
+  ],
+  "explanation": "Pârdalnic = diavol; nevola = necaz, nevoie",
+  "translation": "Ptui! May the cursed one strike you, may he strike you, you plague of the world",
+  "notes": null
+}

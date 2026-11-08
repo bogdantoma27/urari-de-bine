@@ -1,0 +1,36 @@
+{
+  "id": "bata-i-focul-de-ochi",
+  "text": "Bată-i focul de ochi",
+  "original_text": "bată-i focul de ochi",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "focul",
+  "themes": [
+    "body",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1910",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Luceafărul (Delavrancea)",
+      "url": "https://ro.wikisource.org/wiki/Luceaf%C4%83rul_(Delavrancea)",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1910,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Luceafărul (Delavrancea)",
+      "regions": [],
+      "original_text": "bată-i focul de ochi",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire strike their eyes",
+  "notes": null
+}

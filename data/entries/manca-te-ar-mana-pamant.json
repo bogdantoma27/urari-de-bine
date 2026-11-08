@@ -1,0 +1,36 @@
+{
+  "id": "manca-te-ar-mana-pamant",
+  "text": "Mânca-te-ar mana, pământ",
+  "original_text": "Mînca-te-ar mana, pămînt",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "mana",
+  "themes": [
+    "farm_animals",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR (1913-2010), s.v. mană",
+      "url": "https://dexonline.ro/definitie/mană/1251785",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-te-ar mana, pămînt",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR, popular, în imprecații; ȘEZ. XVIII 31"
+    }
+  ],
+  "explanation": "Mana = boală a plantelor.",
+  "translation": "May the blight eat you, earth",
+  "notes": null
+}

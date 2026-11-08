@@ -1,0 +1,39 @@
+{
+  "id": "rau-maica-m-ai-blestemat",
+  "text": "Rău, maică, m-ai blestemat",
+  "original_text": "REU MAICĂ M’AI BLESTEMAT",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Doine și strigături din Ardeal",
+      "url": "https://archive.org/details/victor-onisor-doine-si-strigaturi-din-ardeal",
+      "author": "Victor Onișor",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "REU MAICĂ M’AI BLESTEMAT",
+      "verification": "verified",
+      "notes": "Onișor, Doine și strigături, nr. CLXIX; OCR zgomotos"
+    }
+  ],
+  "explanation": null,
+  "translation": "Badly, mother, you cursed me",
+  "notes": null
+}

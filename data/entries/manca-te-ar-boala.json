@@ -1,0 +1,35 @@
+{
+  "id": "manca-te-ar-boala",
+  "text": "Mânca-te-ar boala",
+  "original_text": "mînca-te-ar boala",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "boala",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-te-ar boala",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the sickness eat you",
+  "notes": null
+}

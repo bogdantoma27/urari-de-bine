@@ -1,0 +1,35 @@
+{
+  "id": "seca-le-ar-samanta",
+  "text": "Seca-le-ar sămânța",
+  "original_text": "seca-le-ar sămînța",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/matele",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "seca-le-ar sămînța",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May their seed dry up",
+  "notes": null
+}

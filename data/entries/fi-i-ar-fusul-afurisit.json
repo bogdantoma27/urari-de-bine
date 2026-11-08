@@ -1,0 +1,35 @@
+{
+  "id": "fi-i-ar-fusul-afurisit",
+  "text": "Fi-i-ar fusul afurisit",
+  "original_text": "Fi-i-ar fusu afurisit",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "fusul",
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fi-i-ar fusu afurisit",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons)"
+    }
+  ],
+  "explanation": "Blestem pe fusul unei leneșe, că nu spornește la tors.",
+  "translation": "May his accursed spindle be on him",
+  "notes": null
+}

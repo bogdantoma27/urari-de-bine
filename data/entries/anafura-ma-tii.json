@@ -1,0 +1,60 @@
+{
+  "id": "anafura-ma-tii",
+  "text": "Anafura mă-tii",
+  "original_text": "anafura mă-tii",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "anafura mă-tii",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Lumea fabuloasă a înjurăturilor românești...",
+      "url": "https://vice.com/ro/article/93b958/originea-injuraturilor-romanesti-latina-daci-romani",
+      "author": "Vice România",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "anafura mă-tii",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; tatăl comentatorului",
+      "regions": [],
+      "original_text": "Anafura ma-tii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Anafură = pâine sfințită împărțită la biserică",
+  "translation": "Your mother's anafura",
+  "notes": null
+}

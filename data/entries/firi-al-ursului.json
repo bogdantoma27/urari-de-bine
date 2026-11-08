@@ -1,0 +1,35 @@
+{
+  "id": "firi-al-ursului",
+  "text": "Firi-al ursului",
+  "original_text": "Firi-al ursului",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica comentatorului (90 de ani)",
+      "regions": [],
+      "original_text": "Firi-al ursului",
+      "verification": "transcribed",
+      "notes": "folosită de tot neamul"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you be the bear's",
+  "notes": null
+}

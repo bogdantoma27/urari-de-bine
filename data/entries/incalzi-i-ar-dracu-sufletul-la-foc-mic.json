@@ -1,0 +1,35 @@
+{
+  "id": "incalzi-i-ar-dracu-sufletul-la-foc-mic",
+  "text": "Încălzi-i-ar Dracu sufletul la foc mic",
+  "original_text": "încălzi-i-ar Dracu sufletul la foc mic",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dracu",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "încălzi-i-ar Dracu sufletul la foc mic",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Tănase 1995, p. 82"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the Devil warm his soul over a low fire",
+  "notes": null
+}

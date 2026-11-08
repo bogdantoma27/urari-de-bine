@@ -1,0 +1,35 @@
+{
+  "id": "pe-dracu",
+  "text": "Pe dracu'",
+  "original_text": "pe dracu'",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "O inspecțiune",
+      "url": "https://ro.wikisource.org/wiki/O_inspec%C8%9Biune",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, O inspecțiune",
+      "regions": [],
+      "original_text": "pe dracu'",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The hell with it",
+  "notes": null
+}

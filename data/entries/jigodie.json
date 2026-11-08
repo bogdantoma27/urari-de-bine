@@ -1,0 +1,35 @@
+{
+  "id": "jigodie",
+  "text": "Jigodie",
+  "original_text": "jigodie",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, NODEX; Argou; DGS; Sinonime82",
+      "url": "https://dexonline.ro/definitie/jigodie",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "jigodie",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Câine bolnav de râie; om de nimic.",
+  "translation": "Mangy cur",
+  "notes": null
+}

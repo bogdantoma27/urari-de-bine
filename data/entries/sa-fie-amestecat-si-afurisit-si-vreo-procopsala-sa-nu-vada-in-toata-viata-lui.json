@@ -1,0 +1,39 @@
+{
+  "id": "sa-fie-amestecat-si-afurisit-si-vreo-procopsala-sa-nu-vada-in-toata-viata-lui",
+  "text": "Să fie amestecat și afurisit și vreo procopsală să nu vadă în toată viața lui",
+  "original_text": "să fie amestecat şi afurisit şi vreo procopsală să nu vadă în toată viaţa lui",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "poverty"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1429-1859 (intervalul corpusului)",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Maria Mocanu, Însemnări de pe manuscrise și cărți vechi din Țara Moldovei I-IV, un corpus editat de I. Caproșu și E. Chiaburu. Blestemul – între magie și credință, AUI Lingvistică LX, 2014, citând corpusul Caproșu-Chiaburu, Iași, Demiurg, 2008-2009, vol. și pagina III, 425",
+      "url": "https://www.diacronia.ro/indexing/details/A7001/pdf",
+      "author": "Maria Mocanu (citat din Caproșu, Chiaburu)",
+      "year": 2014,
+      "page": "III, 425",
+      "informant": "însemnare pe carte veche (donator/copist)",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "să fie amestecat şi afurisit şi vreo procopsală să nu vadă în toată viaţa lui",
+      "verification": "verified",
+      "notes": "citat în articolul lui Mocanu; ortografie modernizată în corpus; volum, pagină în corpusul editat: III, 425"
+    }
+  ],
+  "explanation": "Procopseală = noroc, spor.",
+  "translation": "May he be mixed up and accursed and never see any prosperity in his whole life",
+  "notes": "sensul lui „amestecat” nesigur"
+}

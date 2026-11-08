@@ -1,0 +1,41 @@
+{
+  "id": "futu-ti-grijania-ma-tii",
+  "text": "Futu-ți grijania mă-tii",
+  "original_text": "futu-ți grijania mă-tii",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family",
+    "sexual"
+  ],
+  "regions": [
+    "republic_of_moldova"
+  ],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul comentatorului, din Republica Moldova",
+      "regions": [
+        "republic_of_moldova"
+      ],
+      "original_text": "futu-ți grijania mă-tii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Grijanie = împărtășanie.",
+  "translation": "Fuck your mother's grijania",
+  "notes": null
+}

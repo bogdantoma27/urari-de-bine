@@ -1,0 +1,36 @@
+{
+  "id": "al-dracului-ca-cupilul-lui-tat-sau",
+  "text": "Al dracului ca cupilul lui tat-său",
+  "original_text": "Al dracului ca cupilul lui tat-său",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1910",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Luceafărul (Delavrancea)",
+      "url": "https://ro.wikisource.org/wiki/Luceaf%C4%83rul_(Delavrancea)",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1910,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Luceafărul (Delavrancea)",
+      "regions": [],
+      "original_text": "Al dracului ca cupilul lui tat-său",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Cupil = copil (formă regională)",
+  "translation": "The devil's, like his father's child",
+  "notes": null
+}

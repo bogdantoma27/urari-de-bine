@@ -1,0 +1,35 @@
+{
+  "id": "ce-carciuma-dracului-mai-e-si-asta",
+  "text": "Ce cârciuma dracului mai e și asta",
+  "original_text": "Ce cârciuma dracului mai e și asta",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Moara cu noroc",
+      "url": "https://ro.wikisource.org/wiki/Moara_cu_noroc",
+      "author": "Ioan Slavici",
+      "year": 1881,
+      "page": null,
+      "informant": "Ioan Slavici, Moara cu noroc",
+      "regions": [],
+      "original_text": "Ce cârciuma dracului mai e și asta",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "What a devil's tavern this is",
+  "notes": null
+}

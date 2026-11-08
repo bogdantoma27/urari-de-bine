@@ -1,0 +1,36 @@
+{
+  "id": "fire-ar-al-dracului-de-porc",
+  "text": "Fire-ar al dracului de porc",
+  "original_text": "Fire-ar al dracului de porc",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX-XX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Crucile roșii",
+      "url": "https://ro.wikisource.org/wiki/Crucile_ro%C8%99ii",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Crucile roșii",
+      "regions": [],
+      "original_text": "Fire-ar al dracului de porc",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil's pig be damned",
+  "notes": null
+}

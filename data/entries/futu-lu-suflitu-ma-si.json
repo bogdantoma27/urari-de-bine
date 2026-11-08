@@ -1,0 +1,36 @@
+{
+  "id": "futu-lu-suflitu-ma-si",
+  "text": "Futu-lu-suflitu mă-sî",
+  "original_text": "futu-lu-suflitu mă-sî",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română (VICE România)",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Gabriel Botezatu",
+      "year": 2015,
+      "page": null,
+      "informant": "răspunsuri la ancheta Atlasului Lingvistic Român (supliment, 1942), citate de VICE",
+      "regions": [],
+      "original_text": "futu-lu-suflitu mă-sî",
+      "verification": "verified",
+      "notes": "grafia surselor din Atlas, transcrisă de VICE; regiunea per formulă nu e dată"
+    }
+  ],
+  "explanation": "Suflitu = sufletul, cum se zice în grai.",
+  "translation": "Fuck his mother's soul",
+  "notes": null
+}

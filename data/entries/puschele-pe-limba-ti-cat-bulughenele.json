@@ -1,0 +1,36 @@
+{
+  "id": "puschele-pe-limba-ti-cat-bulughenele",
+  "text": "Pușchele pe limbă-ți cât bulughenele",
+  "original_text": "Puschele pe limbă-ți cât bulughenele",
+  "type": "curse",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 2",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-2-1897",
+      "author": "Iuliu A. Zanne",
+      "year": 1897,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Puschele pe limbă-ți cât bulughenele",
+      "verification": "verified",
+      "notes": "proverb nr. 5724, vol. 2; 'bulughenele' din OCR, sens nesigur"
+    }
+  ],
+  "explanation": "Pușchea = bubă pe limbă; bulughene = cartofi, regional. Se zice cuiva care cobește.",
+  "translation": "Blisters on your tongue as big as potatoes",
+  "notes": null
+}

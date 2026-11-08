@@ -1,0 +1,36 @@
+{
+  "id": "duca-se-dracului-si-camp-si-grau-si-tot",
+  "text": "Ducă-se dracului și câmp, și grâu, și tot",
+  "original_text": "Ducă-se dracului și cîmp, şi grîu, şi tot",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 1",
+      "url": "https://archive.org/details/datinele-si-credintele-poporului-roman-vol.-1-elena-niculita-voronca",
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 168,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ducă-se dracului și cîmp, şi grîu, şi tot",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1; în poveste"
+    }
+  ],
+  "explanation": null,
+  "translation": "May it all go to the devil, field and wheat and everything",
+  "notes": null
+}

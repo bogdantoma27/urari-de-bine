@@ -1,0 +1,39 @@
+{
+  "id": "sa-te-duce-la-spital",
+  "text": "Să te duce la spital",
+  "original_text": "SA te duce la spitaiii",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 320,
+      "informant": "Chr. N. Țapu de la D. Brezulescu, Novaci",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "SA te duce la spitaiii",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); p. 320-321; apare și în varianta «Printre țări, printr-amândouă» de la Nic. Frățilă (p. 321)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you be taken to the hospital",
+  "notes": "Forma „te duce” e păstrată din sursă (OCR/grafie populară)."
+}

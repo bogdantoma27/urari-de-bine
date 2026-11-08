@@ -1,0 +1,35 @@
+{
+  "id": "sa-se-bage-dracu-n-pielea-lui-de-hot",
+  "text": "Să se bage dracu-n pielea lui de hoț",
+  "original_text": "Să se bage dracu-n pielea lui de hoț",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "dracu",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1920",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Ion, partea a II-a Glasul iubirii",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/2._Glasul_iubirii",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea a II-a Glasul iubirii",
+      "regions": [],
+      "original_text": "Să se bage dracu-n pielea lui de hoț",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil get into his thief's skin",
+  "notes": null
+}

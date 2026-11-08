@@ -1,0 +1,35 @@
+{
+  "id": "bati-la-el-ea-ca-la-fasole",
+  "text": "Bati la el/ea ca la fasole",
+  "original_text": "Bati la el/ea ca la fasole",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Bati la el/ea ca la fasole",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "A bate fasolea = a bate cu putere",
+  "translation": "Beat him/her like beans",
+  "notes": null
+}

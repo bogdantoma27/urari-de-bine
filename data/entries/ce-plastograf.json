@@ -1,0 +1,35 @@
+{
+  "id": "ce-plastograf",
+  "text": "Ce plastograf",
+  "original_text": "Ce plastograf",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1884",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "O scrisoare pierdută",
+      "url": "https://ro.wikisource.org/wiki/O_scrisoare_pierdut%C4%83",
+      "author": "I. L. Caragiale",
+      "year": 1884,
+      "page": null,
+      "informant": "I. L. Caragiale, O scrisoare pierdută (replica: Trahanache)",
+      "regions": [],
+      "original_text": "Ce plastograf",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Plastograf = falsificator de acte.",
+  "translation": "What a forger",
+  "notes": null
+}

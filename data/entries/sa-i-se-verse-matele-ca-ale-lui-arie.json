@@ -1,0 +1,36 @@
+{
+  "id": "sa-i-se-verse-matele-ca-ale-lui-arie",
+  "text": "Să i se verse mațele ca ale lui Arie",
+  "original_text": "sd d se verse maţele ca ale lui Arie",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "sd d se verse maţele ca ale lui Arie",
+      "verification": "verified",
+      "notes": "Zanne vol. 6; OCR „sd d” = să i"
+    }
+  ],
+  "explanation": "Arie = ereticul Arius, care, zice legenda, și-a vărsat mațele.",
+  "translation": "May his guts spill out like Arius's",
+  "notes": null
+}

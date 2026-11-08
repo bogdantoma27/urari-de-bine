@@ -1,0 +1,35 @@
+{
+  "id": "a-imparti-urari-de-mama",
+  "text": "A împărți urări de mamă",
+  "original_text": "a împărți urări de mamă",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/mamă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a împărți urări de mamă",
+      "verification": "verified",
+      "notes": "marcat glum., eufem."
+    }
+  ],
+  "explanation": "Adică a înjura de mamă, zis în glumă.",
+  "translation": "To hand out mother-wishes",
+  "notes": null
+}

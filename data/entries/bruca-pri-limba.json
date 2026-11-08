@@ -1,0 +1,39 @@
+{
+  "id": "bruca-pri-limba",
+  "text": "Bruca pri limbă",
+  "original_text": "Bruca pri limbă",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [
+    "megleno_romanian"
+  ],
+  "level": "clean",
+  "period": "1935",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Th. Capidan, Meglenoromânii III. Dicționar meglenoromân, 1935 (glosar)",
+      "url": "https://ebib.inst-puscariu.ro/bibliotecadigitala/bibliotecamuzeistilor/pdf/475950-BJC-Meglenoromanii-vol-3-Capidan-sa.pdf",
+      "author": "Th. Capidan",
+      "year": 1935,
+      "page": "s.v. Bruca",
+      "informant": null,
+      "regions": [
+        "megleno_romanian"
+      ],
+      "original_text": "Bruca pri limbă",
+      "verification": "verified",
+      "notes": "citată cu ref. ALR 2116; formula incompletă în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "Bruca on the tongue",
+  "notes": "Autorul o glosează ca blestem, dar sensul literal nu e dat și formula e incompletă; „bruca” neexplicat."
+}

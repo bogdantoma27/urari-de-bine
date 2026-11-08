@@ -1,0 +1,35 @@
+{
+  "id": "manca-l-ar-moartea",
+  "text": "Mânca-l-ar moartea",
+  "original_text": "mânca-l-ar moartea",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "moartea",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestemele simple, sugestii negative sau forțe",
+      "url": "https://adevarul.ro/stiri-locale/oradea/blestemele-simple-sugestii-negative-sau-forte-1619743.html",
+      "author": "Adevărul Oradea",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mânca-l-ar moartea",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May death eat him",
+  "notes": null
+}

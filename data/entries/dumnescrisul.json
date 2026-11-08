@@ -1,0 +1,35 @@
+{
+  "id": "dumnescrisul",
+  "text": "Dumnescrisul",
+  "original_text": "Dumnescrisul",
+  "type": "expression",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "Dumnescrisul",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Cuvinte bisericești lipite într-unul, pentru înjurat.",
+  "translation": "Dumnescrisul",
+  "notes": null
+}

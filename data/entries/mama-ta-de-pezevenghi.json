@@ -1,0 +1,35 @@
+{
+  "id": "mama-ta-de-pezevenghi",
+  "text": "Mama ta de pezevenghi!",
+  "original_text": "Mama ta de pezevenghi!",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mama",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mama ta de pezevenghi!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Pezevenghi = proxenet, om netrebnic.",
+  "translation": "Your mother of a pimp!",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "am-s-o-dau-dracului-de-pomana",
+  "text": "Am s-o dau dracului de pomană",
+  "original_text": "am s-o dau dracului de pomană",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Povestea lui Stan Pățitul",
+      "url": "https://ro.wikisource.org/wiki/Povestea_lui_Stan_P%C4%83%C8%9Bitul",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Povestea lui Stan Pățitul (replica: Stan)",
+      "regions": [],
+      "original_text": "am s-o dau dracului de pomană",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "A da de pomană = a da ceva pentru sufletul mortului; aici, a renunța de ciudă.",
+  "translation": "I'll give her to the devil as alms",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sa-te-bata-vanturile-ca-pe-june-gandurile",
+  "text": "Să te bată vânturile, ca pe june gândurile",
+  "original_text": "Să te bată vînturile Ca pe june gîndurile",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "vânturile",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 1",
+      "url": "https://archive.org/details/datinele-si-credintele-poporului-roman-vol.-1-elena-niculita-voronca",
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 69,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să te bată vînturile Ca pe june gîndurile",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1, Bulzești; cântec"
+    }
+  ],
+  "explanation": "June = tânăr. Să te bată vânturile cum îl frământă gândurile pe un tânăr.",
+  "translation": "May the winds beat you, as thoughts beat a young man",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ucide-l-ar-pietrile-de-schimonosit",
+  "text": "Ucide-l-ar pietrile de schimonosit",
+  "original_text": "Ucide-l-ar pietrile de schimonosit",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pietrile",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. ucide",
+      "url": "https://dexonline.ro/definitie/ucide/938116",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ucide-l-ar pietrile de schimonosit",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; GORJAN, H. IV 173"
+    }
+  ],
+  "explanation": "Schimonosit = urâțit, deformat.",
+  "translation": "May the stones kill him, the disfigured one",
+  "notes": null
+}

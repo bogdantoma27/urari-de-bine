@@ -1,0 +1,35 @@
+{
+  "id": "sa-fie-al-dracului-cel-ce-a-ochit-si-nu-te-a-nemerit",
+  "text": "Să fie al dracului cel ce-a ochit și nu te-a nemerit",
+  "original_text": "Să fie al dracului cel ce-a ochit și nu te-a nemerit",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX-XX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Dăscălașul",
+      "url": "https://ro.wikisource.org/wiki/D%C4%83sc%C4%83la%C8%99ul",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Dăscălașul",
+      "regions": [],
+      "original_text": "Să fie al dracului cel ce-a ochit și nu te-a nemerit",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May he be the devil's, the one who aimed and didn't hit you",
+  "notes": null
+}

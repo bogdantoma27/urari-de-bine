@@ -1,0 +1,35 @@
+{
+  "id": "puscaria-te-ar-manca",
+  "text": "Pușcăria te-ar mânca",
+  "original_text": "pușcăria te-ar mînca",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pușcăria",
+  "themes": [
+    "prison"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "pușcăria te-ar mînca",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May prison eat you",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "iesi-afara-mojicule",
+  "text": "Ieși afară, mojicule",
+  "original_text": "Ieși afară, mojicule",
+  "type": "insult",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Kir Ianulea",
+      "url": "https://ro.wikisource.org/wiki/Kir_Ianulea",
+      "author": "Ion Luca Caragiale",
+      "year": 1892,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Kir Ianulea",
+      "regions": [],
+      "original_text": "Ieși afară, mojicule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Mojic = om necioplit, grosolan.",
+  "translation": "Get out, you lout",
+  "notes": null
+}

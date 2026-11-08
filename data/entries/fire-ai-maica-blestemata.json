@@ -1,0 +1,51 @@
+{
+  "id": "fire-ai-maica-blestemata",
+  "text": "Fire-ai, maică, blestemată",
+  "original_text": "Fire-al, maTca, blestemata",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 315,
+      "informant": "Chr. N. Țapu de la I. Negoescu, Bogați, Dâmbovița",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Fire-al, maTca, blestemata",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); p. 315-316, doina «Foaie verde trei lalele»"
+    },
+    {
+      "title": "Vieața păstorească în poesia noastră populară, vol. 1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ovid_Densusianu_-_Viea%C8%9Ba_p%C4%83storeasc%C4%83_%C3%AEn_poesia_noastr%C4%83_popular%C4%83._Volumul_1.pdf",
+      "author": "Ovid Densusianu",
+      "year": 1913,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fire-ai, maie, blestematg",
+      "verification": "verified",
+      "notes": "Densusianu, Vieața păstorească I; OCR „blestematg”; „maie” = maică; "
+    }
+  ],
+  "explanation": null,
+  "translation": "May you be cursed, mother",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "afurisita-de-turbinca",
+  "text": "Afurisita de turbincă",
+  "original_text": "afurisita de turbincă",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1880",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ivan Turbincă",
+      "url": "https://ro.wikisource.org/wiki/Ivan_Turbinc%C4%83",
+      "author": "Ion Creangă",
+      "year": 1880,
+      "page": null,
+      "informant": "Ion Creangă, Ivan Turbincă (replica: Moartea)",
+      "regions": [],
+      "original_text": "afurisita de turbincă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Turbincă = sac de cerșetor (din povestea lui Creangă); afurisit = blestemat",
+  "translation": "Cursed turbinca",
+  "notes": null
+}

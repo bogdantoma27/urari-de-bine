@@ -1,0 +1,35 @@
+{
+  "id": "da-le-dracu-de-capre",
+  "text": "Dă-le dracu’ de capre",
+  "original_text": "Dă-le dracu’ de capre",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "Dă-le dracu’ de capre",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Verdeș 2000, p. 194"
+    }
+  ],
+  "explanation": null,
+  "translation": "Give the devil the goats",
+  "notes": null
+}

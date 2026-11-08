@@ -1,0 +1,39 @@
+{
+  "id": "bou-de-mere-si-de-pere-lasa-painea-in-capistere",
+  "text": "Bou de mere și de pere, lasă pâinea în căpistere",
+  "original_text": "Bou de mere si de pere, lasa painea in capistere!",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul comentatorului, din Teleorman",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Bou de mere si de pere, lasa painea in capistere!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Ox of apples and pears, leave the bread in the halter",
+  "notes": null
+}

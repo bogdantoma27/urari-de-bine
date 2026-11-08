@@ -1,0 +1,35 @@
+{
+  "id": "sa-fiti-ai-dracului-cu-totii",
+  "text": "Să fiți ai dracului cu toții",
+  "original_text": "Să fiți ai dracului cu toții",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX-XX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Crucile roșii",
+      "url": "https://ro.wikisource.org/wiki/Crucile_ro%C8%99ii",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Crucile roșii",
+      "regions": [],
+      "original_text": "Să fiți ai dracului cu toții",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you all be the devil's",
+  "notes": null
+}

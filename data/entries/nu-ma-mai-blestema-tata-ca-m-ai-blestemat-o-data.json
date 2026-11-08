@@ -1,0 +1,35 @@
+{
+  "id": "nu-ma-mai-blestema-tata-ca-m-ai-blestemat-o-data",
+  "text": "Nu mă mai blestema, tată, că m-ai blestemat o dată",
+  "original_text": "Nu mă mai blestema, tată, Că m-ai blestemat o dată",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Poezii populare române, vol. I-III (ed. Minerva, după colecția din 1885)",
+      "url": null,
+      "author": "George Dem. Teodorescu",
+      "year": 1885,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Nu mă mai blestema, tată, Că m-ai blestemat o dată",
+      "verification": "verified",
+      "notes": "Teodorescu, Poezii populare române; după Petrea Crețul Șolean"
+    }
+  ],
+  "explanation": null,
+  "translation": "Stop cursing me, father, for you have cursed me once already",
+  "notes": null
+}

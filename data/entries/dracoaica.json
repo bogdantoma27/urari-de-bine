@@ -1,0 +1,35 @@
+{
+  "id": "dracoaica",
+  "text": "Drăcoaica",
+  "original_text": "drăcoaica",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. drăcoaică",
+      "url": "https://dexonline.ro/definitie/drăcoaică/909728",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "drăcoaica",
+      "verification": "verified",
+      "notes": "DLRLC: termen de ocară pentru o ființă de sex feminin"
+    }
+  ],
+  "explanation": null,
+  "translation": "She-devil",
+  "notes": null
+}

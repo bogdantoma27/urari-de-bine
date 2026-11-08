@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-crucea",
+  "text": "Bată-l crucea!",
+  "original_text": "bată-l crucea!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "crucea",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE (1926-1931); MDA2 (2010)",
+      "url": "https://dexonline.ro/definitie/cruce",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l crucea!",
+      "verification": "verified",
+      "notes": "MDA2: (În blesteme)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the cross strike him!",
+  "notes": null
+}

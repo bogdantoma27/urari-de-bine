@@ -1,0 +1,35 @@
+{
+  "id": "gasca",
+  "text": "Gâscă",
+  "original_text": "gâscă",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou",
+      "url": "https://dexonline.ro/definitie/gâscă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "gâscă",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Se zice unei femei proaste.",
+  "translation": "Goose",
+  "notes": null
+}

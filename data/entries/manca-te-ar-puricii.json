@@ -1,0 +1,36 @@
+{
+  "id": "manca-te-ar-puricii",
+  "text": "Mâncă-te-ar puricii",
+  "original_text": "Măncă-te-ar puricii",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "puricii",
+  "themes": [
+    "body",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Insectele în limba, credințele și obiceiurile românilor",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Simion_Florea_Marian_-_Insectele_in_limba%2C_credintele_si_obiceiurile_romanilor_-_1903.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1903,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Măncă-te-ar puricii",
+      "verification": "verified",
+      "notes": "Marian, Insectele, p. ~495-496 (articolul Purice); la sursă: „Blestem popular, ce se zice în glumă”"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fleas eat you",
+  "notes": null
+}

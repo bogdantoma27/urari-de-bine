@@ -1,0 +1,35 @@
+{
+  "id": "uita-mi-te-ar-binele",
+  "text": "Uită-mi-te-ar binele",
+  "original_text": "Uită-mi-te-ar binele",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "binele",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Insectele în limba, credințele și obiceiurile românilor",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Simion_Florea_Marian_-_Insectele_in_limba%2C_credintele_si_obiceiurile_romanilor_-_1903.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1903,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Uită-mi-te-ar binele",
+      "verification": "verified",
+      "notes": "Marian, Insectele; același fragment cu țiganul"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the good forget you",
+  "notes": null
+}

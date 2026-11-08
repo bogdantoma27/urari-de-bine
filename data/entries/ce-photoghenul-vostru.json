@@ -1,0 +1,35 @@
+{
+  "id": "ce-photoghenul-vostru",
+  "text": "Ce photoghenul vostru",
+  "original_text": "Ce photoghenul vostru!",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "modern"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Ce photoghenul vostru!",
+      "verification": "transcribed",
+      "notes": "photoghen = petrol de lampă"
+    }
+  ],
+  "explanation": "Fotogen = petrol lampant, cuvânt vechi.",
+  "translation": "What the photogen of yours",
+  "notes": null
+}

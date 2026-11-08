@@ -1,0 +1,60 @@
+{
+  "id": "manca-te-ar-corbii",
+  "text": "Mânca-te-ar corbii!",
+  "original_text": "Mînca-te-ar corbii!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "corbii",
+  "themes": [
+    "sickness_death",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-te-ar corbii!",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: Elena Niculiță-Voronca, Datinele și credințele poporului român, vol. II, Saeculum 1998, p. 77"
+    },
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/corb",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-te-ar corbii!",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 98,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-te-ar corbii",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2, la capitolul Corbul"
+    }
+  ],
+  "explanation": "Să rămâi neîngropat, hrană pentru corbi.",
+  "translation": "May the ravens eat you!",
+  "notes": null
+}

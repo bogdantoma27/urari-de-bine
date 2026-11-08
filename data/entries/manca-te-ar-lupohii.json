@@ -1,0 +1,35 @@
+{
+  "id": "manca-te-ar-lupohii",
+  "text": "Mânca-te-ar lupohii",
+  "original_text": "mînca-te-ar lupohii",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "lupohii",
+  "themes": [
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE (1926-1931), s.v. haram",
+      "url": "https://dexonline.ro/definitie/haram/1384713",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-te-ar lupohii",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: CADE; D.-ZAMF."
+    }
+  ],
+  "explanation": null,
+  "translation": "May the lupohii eat you",
+  "notes": null
+}

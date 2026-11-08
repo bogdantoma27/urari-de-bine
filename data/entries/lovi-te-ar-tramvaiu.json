@@ -1,0 +1,36 @@
+{
+  "id": "lovi-te-ar-tramvaiu",
+  "text": "Lovi-te-ar tramvaiu'!",
+  "original_text": "Lovi-te-ar tramvaiu'!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "tramvaiu'",
+  "themes": [
+    "sickness_death",
+    "modern"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Lovi-te-ar tramvaiu'!",
+      "verification": "verified",
+      "notes": "Exemple date de Nasta ca blesteme stradale; citează Kernbach, Dicționar de mitologie generală, 1995, s.v. înjurătură, pentru încadrare"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the tram hit you!",
+  "notes": null
+}

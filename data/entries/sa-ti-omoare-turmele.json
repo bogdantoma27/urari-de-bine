@@ -1,0 +1,36 @@
+{
+  "id": "sa-ti-omoare-turmele",
+  "text": "Să-ți omoare turmele",
+  "original_text": "Să-ți omoare turmele",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "farm_animals",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR - tomul X",
+      "url": "https://dexonline.ro/definitie/omorî",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să-ți omoare turmele",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May it kill your flocks",
+  "notes": null
+}

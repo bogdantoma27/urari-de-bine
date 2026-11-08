@@ -1,0 +1,35 @@
+{
+  "id": "pui-de-zgarie-branza",
+  "text": "Pui de zgârie-brânză",
+  "original_text": "pui de zgârie-brânză",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: naratorul)",
+      "regions": [],
+      "original_text": "pui de zgârie-brânză",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Zgârie-brânză = om foarte zgârcit.",
+  "translation": "Cheese-scratcher's offspring",
+  "notes": null
+}

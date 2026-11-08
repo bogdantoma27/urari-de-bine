@@ -1,0 +1,35 @@
+{
+  "id": "al-dracului-baiat",
+  "text": "Al dracului băiat",
+  "original_text": "Al dracului băiat",
+  "type": "euphemism",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Povestea lui Stan Pățitul",
+      "url": "https://ro.wikisource.org/wiki/Povestea_lui_Stan_P%C4%83%C8%9Bitul",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Povestea lui Stan Pățitul (replica: personaj)",
+      "regions": [],
+      "original_text": "Al dracului băiat",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Aici e laudă: al dracului = grozav.",
+  "translation": "The devil's boy",
+  "notes": null
+}

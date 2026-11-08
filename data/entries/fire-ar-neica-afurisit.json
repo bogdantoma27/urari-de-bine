@@ -1,0 +1,39 @@
+{
+  "id": "fire-ar-neica-afurisit",
+  "text": "Fire-ar neică afurisit",
+  "original_text": "Fire-ar nerc' afurisit",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 323,
+      "informant": "Chr. N. Țapu de la N. Firulescu, Grecești, Mehedinți",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Fire-ar nerc' afurisit",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); p. 323, doina «Fire-ai neică afurisit»"
+    }
+  ],
+  "explanation": "Neică = iubit, om drag; afurisit = blestemat.",
+  "translation": "May he be accursed, dear one",
+  "notes": null
+}

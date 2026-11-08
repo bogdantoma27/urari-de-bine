@@ -1,0 +1,35 @@
+{
+  "id": "haram-sa-ti-fie-de-cap-sa-ti-ramaie",
+  "text": "Haram să-ți fie, de cap să-ți rămâie",
+  "original_text": "Haram să-țĭ fie, de cap să-țĭ rămîĭe",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban (1939); Șăineanu ed. VI (1929)",
+      "url": "https://dexonline.ro/text/în blesteme",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Haram să-țĭ fie, de cap să-țĭ rămîĭe",
+      "verification": "verified",
+      "notes": "Șăineanu: «haram de capul vostru!»; text ca în sursa raportată"
+    }
+  ],
+  "explanation": "Haram = agonisit pe cale rea, nedreaptă.",
+  "translation": "May it be haram to you, may it stay on your head",
+  "notes": null
+}

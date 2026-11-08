@@ -1,0 +1,35 @@
+{
+  "id": "sfrijitule",
+  "text": "Sfrijitule",
+  "original_text": "sfrijitule",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. sfrijit",
+      "url": "https://dexonline.ro/definitie/sfrijit/943094",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "sfrijitule",
+      "verification": "verified",
+      "notes": "DLRLC; ALECSANDRI, T. 399"
+    }
+  ],
+  "explanation": "Sfrijit = slab, uscățiv.",
+  "translation": "You shriveled one",
+  "notes": null
+}

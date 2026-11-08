@@ -1,0 +1,36 @@
+{
+  "id": "lua-ti-as-mortii-familia-la-dans",
+  "text": "Lua-ți-aș morții / familia la dans",
+  "original_text": "Lua-ti-as mortii / familia la dans",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Lua-ti-as mortii / familia la dans",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "I'd take your dead / your family to dance",
+  "notes": null
+}

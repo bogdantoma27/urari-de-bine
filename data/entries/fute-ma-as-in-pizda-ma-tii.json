@@ -1,0 +1,40 @@
+{
+  "id": "fute-ma-as-in-pizda-ma-tii",
+  "text": "Fute-mă-aș în pizda mă-tii",
+  "original_text": "Fute-m-aș în pizda mă-tii!",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "vulgar",
+  "period": "1971",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Lumea fabuloasă a înjurăturilor românești...",
+      "url": "https://vice.com/ro/article/93b958/originea-injuraturilor-romanesti-latina-daci-romani",
+      "author": "Vice România",
+      "year": null,
+      "page": null,
+      "informant": "Erling Schøller, studiu 1971, dialectul muntean (București)",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Fute-m-aș în pizda mă-tii!",
+      "verification": "verified",
+      "notes": "citat indirect, studiul original neconsultat"
+    }
+  ],
+  "explanation": null,
+  "translation": "I'd fuck myself in your mother's cunt",
+  "notes": null
+}

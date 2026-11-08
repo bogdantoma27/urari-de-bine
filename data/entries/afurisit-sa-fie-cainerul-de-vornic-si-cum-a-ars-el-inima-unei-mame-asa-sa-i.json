@@ -1,0 +1,40 @@
+{
+  "id": "afurisit-sa-fie-cainerul-de-vornic-si-cum-a-ars-el-inima-unei-mame-asa-sa-i",
+  "text": "Afurisit să fie câinerul de vornic, și cum a ars el inima unei mame, așa să-i ardă inima Sfântul Foca de astăzi, lui și tuturor părtașilor săi",
+  "original_text": "Afurisit să fie câinerul de vornic, și cum a ars el inima unei mame, așa să-i ardă inima Sfântul Foca de astăzi, lui și tuturor părtașilor săi",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "Sfântul Foca",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DERC, s.v. arde",
+      "url": "https://dexonline.ro/definitie/arde/1371035",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Afurisit să fie câinerul de vornic, și cum a ars el inima unei mame, așa să-i ardă inima Sfântul Foca de astăzi, lui și tuturor părtașilor săi",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DERC, citat din I. CREANGĂ, Amintiri din copilărie"
+    }
+  ],
+  "explanation": "Sfântul Foca e ținut de popor drept sfântul focului; vornic = dregător.",
+  "translation": "Cursed be the dog-keeper of the steward, and as he burned a mother's heart, so may Saint Foca burn the heart of him and all his accomplices today",
+  "notes": null
+}

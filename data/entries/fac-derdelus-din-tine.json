@@ -1,0 +1,35 @@
+{
+  "id": "fac-derdelus-din-tine",
+  "text": "Fac derdeluș din tine",
+  "original_text": "Fac derdeluș din tine",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "Fac derdeluș din tine",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "I'll make a sledding hill out of you",
+  "notes": null
+}

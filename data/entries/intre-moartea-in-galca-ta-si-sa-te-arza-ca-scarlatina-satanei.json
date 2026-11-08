@@ -1,0 +1,40 @@
+{
+  "id": "intre-moartea-in-galca-ta-si-sa-te-arza-ca-scarlatina-satanei",
+  "text": "Între moartea în gâlca ta și să te arză ca scarlatina Satanei",
+  "original_text": "Intre moartea-n gâlca ta şi să te arză ca scarlatina Satanei",
+  "type": "curse",
+  "form": "other",
+  "affliction": "moartea",
+  "themes": [
+    "sickness_death",
+    "devil_hell"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum își blestemă românii dușmanii",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/cum-isi-blestema-romanii-dusmanii-1145715.html",
+      "author": "Monika (Adevărul)",
+      "year": 2010,
+      "page": null,
+      "informant": "folclorist Paul Buță, citat; Cavadinești, jud. Galați",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Intre moartea-n gâlca ta şi să te arză ca scarlatina Satanei",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Gâlcă = gât, gâtlej.",
+  "translation": "Let death be between you and your throat and may you burn like Satan's scarlet fever",
+  "notes": null
+}

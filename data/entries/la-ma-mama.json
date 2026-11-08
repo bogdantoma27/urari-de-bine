@@ -1,0 +1,35 @@
+{
+  "id": "la-ma-mama",
+  "text": "Lă-mă-mamă",
+  "original_text": "Lă-mă-mamă",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban (1939)",
+      "url": "https://dexonline.ro/definitie/mamă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Lă-mă-mamă",
+      "verification": "verified",
+      "notes": "marcat pop., iron."
+    }
+  ],
+  "explanation": "Om molatic sau prost.",
+  "translation": "Leave-me-mother",
+  "notes": null
+}

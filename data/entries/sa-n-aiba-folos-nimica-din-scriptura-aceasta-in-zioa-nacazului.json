@@ -1,0 +1,39 @@
+{
+  "id": "sa-n-aiba-folos-nimica-din-scriptura-aceasta-in-zioa-nacazului",
+  "text": "Să n-aibă folos nimică din scriptura aceasta în zioa năcazului",
+  "original_text": "să n-aibă folos nimică din scriptura aceasta în zioa năcazului",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "poverty"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "sec. XV-XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Însemnări de pe manuscrise și cărți vechi din Țara Moldovei I-IV, un corpus editat de I. Caproșu și E. Chiaburu. Blestemul – între magie și credință (AUI, Lingvistică, LX, 2014)",
+      "url": "https://diacronia.ro/indexing/details/A7001/pdf",
+      "author": "Maria Mocanu",
+      "year": 2014,
+      "page": "205-",
+      "informant": "însemnător pe carte veche",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "să n-aibă folos nimică din scriptura aceasta în zioa năcazului",
+      "verification": "verified",
+      "notes": "Citat din corpusul Caproșu-Chiaburu, Însemnări de pe manuscrise și cărți vechi din Țara Moldovei, vol. II, p. 341 (însemnări 1429-1859); blestem de danie/proprietate pe carte"
+    }
+  ],
+  "explanation": "Scriptura = cartea; zioa năcazului = ziua necazului.",
+  "translation": "May nothing from this scripture be of use to him on the day of trouble",
+  "notes": null
+}

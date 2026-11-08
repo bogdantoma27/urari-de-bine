@@ -1,0 +1,35 @@
+{
+  "id": "fir-ar-sa-fie-de-pivnita-si-de-indolenta",
+  "text": "Fir-ar să fie de pivniță și de indolență",
+  "original_text": "Fir-ar să fie de pivniţă şi de indolenţă",
+  "type": "euphemism",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "Fir-ar să fie de pivniţă şi de indolenţă",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Țuculescu 1995, p. 164"
+    }
+  ],
+  "explanation": null,
+  "translation": "Damn it, over the cellar and the indolence",
+  "notes": null
+}

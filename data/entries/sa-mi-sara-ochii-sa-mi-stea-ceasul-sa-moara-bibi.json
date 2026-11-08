@@ -1,0 +1,36 @@
+{
+  "id": "sa-mi-sara-ochii-sa-mi-stea-ceasul-sa-moara-bibi",
+  "text": "Să-mi sară ochii, să-mi stea ceasul, să moară Bibi",
+  "original_text": "Sa-mi sara ochii, sa-mi stea ceasul, sa moara Bibi",
+  "type": "expression",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum au aparut asemenea injuraturi in RO ? (Forumul Softpedia)",
+      "url": "https://forum.softpedia.com/topic/1174878-cum-au-aparut-asemenea-injuraturi-in-ro/",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": "utilizator forum Softpedia",
+      "regions": [],
+      "original_text": "Sa-mi sara ochii, sa-mi stea ceasul, sa moara Bibi",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Jurăminte în care te blestemi singur.",
+  "translation": "May my eyes pop out, may my watch stop, may Bibi die",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a-si-face-blestem-cu-cineva",
+  "text": "A-și face blestem cu cineva",
+  "original_text": "a-și face blestem cu cineva",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957); MDA2 (2010)",
+      "url": "https://dexonline.ro/definitie/blestem",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a-și face blestem cu cineva",
+      "verification": "verified",
+      "notes": "MDA2: pop., fam., iron."
+    }
+  ],
+  "explanation": "Adică a-l supăra sau a-și bate joc de el.",
+  "translation": "To make a curse with someone",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lovi-te-ar-jigodia",
+  "text": "Lovi-te-ar jigodia",
+  "original_text": "Lovi-te-ar jigodia",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "jigodia",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. jigodie",
+      "url": "https://dexonline.ro/definitie/jigodie/915602",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Lovi-te-ar jigodia",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC (autor neidentificat în text)"
+    }
+  ],
+  "explanation": "Jigodie = o boală a câinilor.",
+  "translation": "May the mange strike you",
+  "notes": null
+}

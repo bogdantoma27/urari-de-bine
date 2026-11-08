@@ -1,0 +1,35 @@
+{
+  "id": "cum-dracu-l-o-vopsi",
+  "text": "Cum dracu l-o vopsi",
+  "original_text": "cum dracu l-o vopsi",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Boiangiul și snovosul",
+      "url": "https://ro.wikisource.org/wiki/Boiangiul_%C8%99i_snovosul",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Boiangiul și snovosul",
+      "regions": [],
+      "original_text": "cum dracu l-o vopsi",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "How the devil will he paint it",
+  "notes": null
+}

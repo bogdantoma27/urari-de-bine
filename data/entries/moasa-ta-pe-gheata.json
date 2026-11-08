@@ -1,0 +1,35 @@
+{
+  "id": "moasa-ta-pe-gheata",
+  "text": "Moașă-ta pe gheață",
+  "original_text": "moașă-ta pe gheață",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2016",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cele mai dure înjurături românești și ce poți înțelege din ele (VICE România)",
+      "url": "https://www.vice.com/ro/article/cele-mai-dure-injuraturi-romanesti/",
+      "author": "Mihai Popescu",
+      "year": 2016,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "moașă-ta pe gheață",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Moașă = bunică.",
+  "translation": "Your granny on ice",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "al-dracului-venetic-si-ceapcan-de-popa",
+  "text": "Al dracului venetic și ceapcân de popă",
+  "original_text": "Al dracului venetic și ceapcân de popă",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: copiii din clasă)",
+      "regions": [],
+      "original_text": "Al dracului venetic și ceapcân de popă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Venetic = venit din altă parte; ceapcân = pungaș, înșelător",
+  "translation": "The devil's stranger and swindler of a priest",
+  "notes": null
+}

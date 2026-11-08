@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    (function (d) {
+      try {
+        var q = new URLSearchParams(location.search).get('lang'), s = null;
+        try { s = localStorage.getItem('language'); } catch (e) {}
+        var l = (q === 'ro' || q === 'en') ? q : (s === 'ro' || s === 'en') ? s : 'ro';
+        d.lang = l;
+        if (l === 'en') d.classList.add('i18n-pending');
+      } catch (e) {}
+    })(document.documentElement);
+  </script>
+  <title>Pagină negăsită · Urări de bine</title>
+  <meta name="description" content="Pagina căutată nu e în carte. Întoarce-te la blesteme sau răsfoiește toate intrările.">
+  <meta property="og:title" content="Pagină negăsită · Urări de bine">
+  <meta property="og:description" content="Pagina căutată nu e în carte. Întoarce-te la blesteme sau răsfoiește toate intrările.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ro_RO">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://uraridebine.ro/og.jpg">
+  <meta property="og:image" content="https://uraridebine.ro/og.jpg">
+  <meta name="twitter:title" content="Pagină negăsită · Urări de bine">
+  <meta name="twitter:description" content="Pagina căutată nu e în carte. Întoarce-te la blesteme sau răsfoiește toate intrările.">
+  <meta name="theme-color" content="#2a1d14">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="preload" href="/fonts/alegreya-normal-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/alegreya-normal-latin-ext-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/kurale-normal-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/kurale-normal-latin-ext-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/grenze-gotisch-normal-latin-500.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/grenze-gotisch-normal-latin-ext-500.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/fonts/fonts.css">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="modulepreload" href="/i18n.js">
+  <script type="module">
+    import { initLanguage } from '/i18n.js';
+    initLanguage({ title: '404.meta.title', desc: '404.meta.desc' });
+  </script>
+</head>
+<body class="page-404">
+  <nav class="language" data-i18n-attr="aria-label:lang.label" aria-label="Limba">
+    <button type="button" data-lang="ro" lang="ro" title="Română">RO</button>
+    <button type="button" data-lang="en" lang="en" title="English">EN</button>
+  </nav>
+
+  <header class="header header--small">
+    <p class="header__eyebrow" data-i18n="site.name" lang="ro">Urări de bine</p>
+    <h1 class="header__title" data-i18n="404.code">Eroarea 404</h1>
+  </header>
+
+  <main class="register">
+    <article class="card card--404">
+      <div class="error">
+        <p class="error__sign" aria-hidden="true">†</p>
+        <h2 class="error__title" data-i18n="404.title">Pagina asta lipsește din carte.</h2>
+        <p class="error__text" data-i18n="404.text">A rupt-o cineva, a mâncat-o șoarecele sau n-a fost scrisă niciodată. Nici bunica nu-și amintește așa ceva.</p>
+      </div>
+      <div class="actions-404">
+        <a class="main-button" href="/"><span class="main-button__seal" aria-hidden="true">✠</span> <span data-i18n="404.home">Înapoi la blesteme</span></a>
+        <a class="secondary-button" href="/all" data-i18n="home.browse">Răsfoiește toate intrările</a>
+      </div>
+    </article>
+  </main>
+
+  <footer class="footer">
+    <p class="footer__colophon" data-i18n="footer.colophon">✠ Aici se sfârșesc urările ✠</p>
+  </footer>
+</body>
+</html>

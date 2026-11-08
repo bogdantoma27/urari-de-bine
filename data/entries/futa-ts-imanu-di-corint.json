@@ -1,0 +1,40 @@
+{
+  "id": "futa-ts-imanu-di-corint",
+  "text": "Futâ-ts imanu di corint",
+  "original_text": "futâ-ts imanu di corint",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sexual"
+  ],
+  "regions": [
+    "megleno_romanian"
+  ],
+  "level": "vulgar",
+  "period": "1935",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Th. Capidan, Meglenoromânii III. Dicționar meglenoromân, 1935 (glosar)",
+      "url": "https://ebib.inst-puscariu.ro/bibliotecadigitala/bibliotecamuzeistilor/pdf/475950-BJC-Meglenoromanii-vol-3-Capidan-sa.pdf",
+      "author": "Th. Capidan",
+      "year": 1935,
+      "page": "s.v. Iman",
+      "informant": null,
+      "regions": [
+        "megleno_romanian"
+      ],
+      "original_text": "futâ-ts imanu di corint",
+      "verification": "verified",
+      "notes": "notată ALR 4918; „corint” neexplicat în sursă; grafie OCR"
+    }
+  ],
+  "explanation": "Meglenoromână. Iman = credință, din turcă; „corint” nu e explicat în sursă.",
+  "translation": "Fuck your faith of corint",
+  "notes": null
+}

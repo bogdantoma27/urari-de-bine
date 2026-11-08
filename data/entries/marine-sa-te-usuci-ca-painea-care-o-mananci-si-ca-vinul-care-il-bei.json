@@ -1,0 +1,39 @@
+{
+  "id": "marine-sa-te-usuci-ca-painea-care-o-mananci-si-ca-vinul-care-il-bei",
+  "text": "Marine, să te usuci ca pâinea care o mănânci și ca vinul care îl bei",
+  "original_text": "Marine, sA te usucr Ca parnea care o manancr",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 317,
+      "informant": "Chr. N. Țapu de la Nicolae Zănescu, Vlădimir, Gorj",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Marine, sA te usucr Ca parnea care o manancr",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); p. 317, «Ai, puică, la Severin»"
+    }
+  ],
+  "explanation": "Se zice unui bărbat care a mințit.",
+  "translation": "Marin, may you wither like the bread you eat and the wine you drink",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pula-calului-in-curul-tau",
+  "text": "Pula calului în curul tău",
+  "original_text": "Pula calului în curul tău",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "farm_animals",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2023",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Înjurături românești care-ți arată că se poate și mai rău decât în Teambuilding sau Taximetriști (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturi-romanesti-amuzante-dure-istorie/",
+      "author": "Răzvan Băltărețu",
+      "year": 2023,
+      "page": null,
+      "informant": "Radu Cosașu, Dilema veche, citat de VICE",
+      "regions": [],
+      "original_text": "Pula calului în curul tău",
+      "verification": "verified",
+      "notes": "înjurătură atribuită maghiarilor de Cosașu"
+    }
+  ],
+  "explanation": null,
+  "translation": "Horse's cock in your ass",
+  "notes": null
+}

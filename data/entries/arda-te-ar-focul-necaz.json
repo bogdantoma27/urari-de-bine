@@ -1,0 +1,39 @@
+{
+  "id": "arda-te-ar-focul-necaz",
+  "text": "Ardă-te-ar focul necaz",
+  "original_text": "Ardă-te-ar focul necaz",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "focul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Țara Fagilor V (1996)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-V-1996.pdf",
+      "author": null,
+      "year": 1996,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Ardă-te-ar focul necaz",
+      "verification": "verified",
+      "notes": "nord-bucovinean. cântec din secțiunea Folclor bucovinean"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire burn you, trouble",
+  "notes": null
+}

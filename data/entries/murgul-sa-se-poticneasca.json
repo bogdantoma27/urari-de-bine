@@ -1,0 +1,35 @@
+{
+  "id": "murgul-sa-se-poticneasca",
+  "text": "Murgul să se poticnească",
+  "original_text": "Murgul să se poticnească",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "murgul",
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestemul",
+      "url": "https://ro.wikisource.org/wiki/Blestemul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Blestemul",
+      "regions": [],
+      "original_text": "Murgul să se poticnească",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Murg = cal de culoare închisă.",
+  "translation": "May the dark horse stumble",
+  "notes": null
+}

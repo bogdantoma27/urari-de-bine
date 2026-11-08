@@ -1,0 +1,35 @@
+{
+  "id": "dar-te-blastam-blastam-greu",
+  "text": "Dar te blăstăm, blăstăm greu",
+  "original_text": "Dar te blăstăm, blăstăm greu",
+  "type": "curse",
+  "form": "other",
+  "affliction": "mama",
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blăstăm de mamă",
+      "url": "https://ro.wikisource.org/wiki/Bl%C4%83st%C4%83m_de_mam%C4%83",
+      "author": "George Coșbuc",
+      "year": null,
+      "page": null,
+      "informant": "George Coșbuc, Blăstăm de mamă",
+      "regions": [],
+      "original_text": "Dar te blăstăm, blăstăm greu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "But I curse you, I curse you heavily",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a-l-strange-dumnezeu-de-pe-pamant",
+  "text": "A-l strânge Dumnezeu de pe pământ",
+  "original_text": "a-l strânge Dumnezeu de pe pământ",
+  "type": "expression",
+  "form": "other",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/dumnezeu",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a-l strânge Dumnezeu de pe pământ",
+      "verification": "verified",
+      "notes": "pop."
+    }
+  ],
+  "explanation": "Adică a muri.",
+  "translation": "May God gather him up from the earth",
+  "notes": null
+}

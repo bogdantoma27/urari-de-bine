@@ -1,0 +1,35 @@
+{
+  "id": "fire-ar-sa-nu-i-fie-de-diochi",
+  "text": "Fire-ar să nu-i fie de diochi",
+  "original_text": "Fire-ar să nu-i fie de diochi",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1884",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Pădureanca",
+      "url": "https://ro.wikisource.org/wiki/P%C4%83dureanca",
+      "author": "Ioan Slavici",
+      "year": 1884,
+      "page": null,
+      "informant": "Ioan Slavici, Pădureanca",
+      "regions": [],
+      "original_text": "Fire-ar să nu-i fie de diochi",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Nu e blestem: se zice ca să nu fie deocheat.",
+  "translation": "May it be, so that no evil eye befalls it",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "baaai-experiment-esuat",
+  "text": "Baaai experiment eșuat",
+  "original_text": "Baaai experiment esuat",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Baaai experiment esuat",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Baaai, failed experiment",
+  "notes": null
+}

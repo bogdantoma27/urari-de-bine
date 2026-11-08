@@ -1,0 +1,40 @@
+{
+  "id": "ard-o-focu-batalie",
+  "text": "Ard-o focu' bătălie",
+  "original_text": "Ard-o focu’ bătălie",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "focu'",
+  "themes": [
+    "family",
+    "nature_elements"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Țara Fagilor XV (2006)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-XV-2006.pdf",
+      "author": null,
+      "year": 2006,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Ard-o focu’ bătălie",
+      "verification": "verified",
+      "notes": "nord-bucovinean. vorbă de blestem citată într-o amintire"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire burn her, battle",
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a-l-lua-samodiva",
+  "text": "A-l lua Samodiva",
+  "original_text": "A'l luă Samodiva",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Samodiva",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 7",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-7-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "G. Poboran, înst., jud. Olt",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "A'l luă Samodiva",
+      "verification": "verified",
+      "notes": "Zanne vol. 7, nr. 15733"
+    }
+  ],
+  "explanation": "Samodiva = zână din mitologia sud-slavă; în blestem, moartea.",
+  "translation": "May the Samodiva take him",
+  "notes": null
+}

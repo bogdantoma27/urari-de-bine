@@ -1,0 +1,35 @@
+{
+  "id": "fi-i-ar-ulul-dracului-mormanul",
+  "text": "Fi-i-ar ulul dracului mormanul",
+  "original_text": "Fi-i-ar ul dracului mormanul",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Poezii populare române, vol. I-III (ed. Minerva, după colecția din 1885)",
+      "url": null,
+      "author": "George Dem. Teodorescu",
+      "year": 1885,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fi-i-ar ul dracului mormanul",
+      "verification": "verified",
+      "notes": "Teodorescu, Poezii populare române; OCR „ul” incert"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil's \"ul\" be his heap",
+  "notes": "Sursă OCR, cuvântul „ul” incert."
+}

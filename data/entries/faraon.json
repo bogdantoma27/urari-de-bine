@@ -1,0 +1,35 @@
+{
+  "id": "faraon",
+  "text": "Faraon",
+  "original_text": "faraon",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica comentatorului",
+      "regions": [],
+      "original_text": "faraon",
+      "verification": "transcribed",
+      "notes": "folosit cu sensul de drac, pentru copii obraznici"
+    }
+  ],
+  "explanation": "Li se zice copiilor obraznici, în loc de drac.",
+  "translation": "Pharaoh",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pice-ti-carnea-de-pe-oase",
+  "text": "Pice-ți carnea de pe oase",
+  "original_text": "Pice-ți carnea de pe oase!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "carnea",
+  "themes": [
+    "sickness_death",
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Pice-ți carnea de pe oase!",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: Elena Niculiță-Voronca, Datinele și credințele poporului român, vol. II, Saeculum 1998, p. 13"
+    }
+  ],
+  "explanation": null,
+  "translation": "May your flesh fall off your bones",
+  "notes": null
+}

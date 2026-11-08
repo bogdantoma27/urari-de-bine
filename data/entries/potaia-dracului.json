@@ -1,0 +1,36 @@
+{
+  "id": "potaia-dracului",
+  "text": "Potaia dracului",
+  "original_text": "potaia dracului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/potaie",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "potaia dracului",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Potaie = câine corcit.",
+  "translation": "The devil's mutt",
+  "notes": null
+}

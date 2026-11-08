@@ -1,0 +1,40 @@
+{
+  "id": "osandi-te-ar-si-te-ar-bate",
+  "text": "Osândi-te-ar și te-ar bate",
+  "original_text": "Osandi-te-ar §i te-ar bate",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "other",
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 315,
+      "informant": "Chr. N. Țapu de la Ion Cazacu, Ștefănești, Gorj",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Osandi-te-ar §i te-ar bate",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); p. 315, secțiunea Blestem; titlul doinei: «Osândi-te-ar și te-ar bate»"
+    }
+  ],
+  "explanation": "A osândi = a pedepsi.",
+  "translation": "May condemnation strike you and beat you",
+  "notes": null
+}

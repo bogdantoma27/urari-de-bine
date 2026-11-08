@@ -1,0 +1,36 @@
+{
+  "id": "lup-sa-te-manance",
+  "text": "Lup să te mănânce",
+  "original_text": "Lup sl to mAnance",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "lupul",
+  "themes": [
+    "farm_animals",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Lup sl to mAnance",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); din cântec haiducesc: «Calul blestema: Murgule, Murgule, Lup să te mănânce»"
+    }
+  ],
+  "explanation": null,
+  "translation": "May a wolf eat you",
+  "notes": null
+}

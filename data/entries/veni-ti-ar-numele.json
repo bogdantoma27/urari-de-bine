@@ -1,0 +1,35 @@
+{
+  "id": "veni-ti-ar-numele",
+  "text": "Veni-ți-ar numele",
+  "original_text": "Veni-ți-ar numele",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "numele",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX &#039;98 (1998), s.v. veni",
+      "url": "https://dexonline.ro/definitie/veni/21013",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Veni-ți-ar numele",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DEX '98, în imprecații"
+    }
+  ],
+  "explanation": "Adică să ți se pomenească numele ca la morți.",
+  "translation": "May your name come to you",
+  "notes": null
+}

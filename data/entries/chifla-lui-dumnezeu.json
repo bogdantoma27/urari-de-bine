@@ -1,0 +1,35 @@
+{
+  "id": "chifla-lui-dumnezeu",
+  "text": "Chifla lui Dumnezeu",
+  "original_text": "kifla lu dumnezeu",
+  "type": "expression",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Vice România",
+      "year": 2015,
+      "page": null,
+      "informant": "chestionar ALR, 1942",
+      "regions": [],
+      "original_text": "kifla lu dumnezeu",
+      "verification": "verified",
+      "notes": "fragment, context neconfirmat în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "God's bun",
+  "notes": "fragment, context neconfirmat"
+}

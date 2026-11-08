@@ -1,0 +1,35 @@
+{
+  "id": "trasni-te-ar-din-senin",
+  "text": "Trăsni-te-ar din senin",
+  "original_text": "Trăsni-te-ar din senin",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 180,
+      "informant": null,
+      "regions": [],
+      "original_text": "Trăsni-te-ar din senin",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2, capitolul Tunetul"
+    }
+  ],
+  "explanation": null,
+  "translation": "May lightning strike you from a clear sky",
+  "notes": null
+}

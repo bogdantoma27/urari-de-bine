@@ -1,0 +1,47 @@
+{
+  "id": "manca-l-ar-branca-sa-l-manance",
+  "text": "Mânca-l-ar brânca să-l mânânce",
+  "original_text": "Mînca-l-ar brînca să-l mînînce",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "brânca",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1876",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-l-ar brînca să-l mînînce",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Povestea porcului",
+      "url": "https://ro.wikisource.org/wiki/Povestea_porcului",
+      "author": "Ion Creangă",
+      "year": 1876,
+      "page": null,
+      "informant": "Ion Creangă, Povestea porcului",
+      "regions": [],
+      "original_text": "mânca-l-ar brânca să-l mănânce",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Brânca = boală a animalelor.",
+  "translation": "May the anthrax eat him, may it eat him",
+  "notes": null
+}

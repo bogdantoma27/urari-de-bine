@@ -1,0 +1,35 @@
+{
+  "id": "canta-ti-ar-dracul-la-ureche",
+  "text": "Cânta-ți-ar dracul la ureche",
+  "original_text": "cînta-ți-ar dracul la ureche",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "dracul",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1944",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Folklorul medical român comparat (cap. Farmece, vrăji și blesteme, § Blestemele)",
+      "url": "https://archive.org/details/candrea-ioan-aurel-folclorul-medical-roman-comparat_202405",
+      "author": "Ion Aurel Candrea",
+      "year": 1944,
+      "page": 205,
+      "informant": null,
+      "regions": [],
+      "original_text": "cînta-ți-ar dracul la ureche",
+      "verification": "verified",
+      "notes": "Candrea, Folklorul medical, § Blestemele, p. 204-205; citat la Pamfile, Boli și leacuri p. 2"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil sing in your ear",
+  "notes": null
+}

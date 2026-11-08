@@ -1,0 +1,36 @@
+{
+  "id": "pastele-ma-sii-pe-gheata",
+  "text": "Paștele mă-sii pe gheață",
+  "original_text": "PAȘTELE MĂ-SII PE GHEAȚĂ",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2016",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cele mai dure înjurături românești și ce poți înțelege din ele (VICE România)",
+      "url": "https://www.vice.com/ro/article/cele-mai-dure-injuraturi-romanesti/",
+      "author": "Mihai Popescu",
+      "year": 2016,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "PAȘTELE MĂ-SII PE GHEAȚĂ",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Your mother's Easter on the ice",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "prostul-pietrele-si-lemnele-le-blestema-cand-se-manie",
+  "text": "Prostul pietrele și lemnele le blestemă când se mânie",
+  "original_text": "Prostul pietrele și lemnele le blestemă când s& mânie",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 8",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-8-1900",
+      "author": "Iuliu A. Zanne",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Prostul pietrele și lemnele le blestemă când s& mânie",
+      "verification": "verified",
+      "notes": "Zanne vol. 8 (Golescu)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The fool curses stones and logs when he's angry",
+  "notes": null
+}

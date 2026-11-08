@@ -1,0 +1,35 @@
+{
+  "id": "nici-dracul-nu-ti-o-mai-face",
+  "text": "Nici dracul nu ți-o mai face",
+  "original_text": "nici dracul nu ți-o mai face",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cei trei frați împărați",
+      "url": "https://ro.wikisource.org/wiki/Cei_trei_fra%C8%9Bi_%C3%AEmp%C4%83ra%C8%9Bi",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Cei trei frați împărați",
+      "regions": [],
+      "original_text": "nici dracul nu ți-o mai face",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Not even the devil would do it to you anymore",
+  "notes": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "bata-te-mania-lui-dumnezeu",
+  "text": "Bată-te mânia lui Dumnezeu!",
+  "original_text": "bată-te mînia lui Dumnezeu!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "mânia lui Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/bate",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-te mînia lui Dumnezeu!",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Datinele și credințele poporului român, vol. 1",
+      "url": "https://archive.org/details/datinele-si-credintele-poporului-roman-vol.-1-elena-niculita-voronca",
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 176,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te mânia lui Dumnezeu",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1, la capitolul Varga"
+    },
+    {
+      "title": "Ion, partea I Glasul pământului",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/1._Glasul_p%C4%83m%C3%A2ntului",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea I Glasul pământului",
+      "regions": [],
+      "original_text": "bată-te mânia lui Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the wrath of God strike you!",
+  "notes": null
+}

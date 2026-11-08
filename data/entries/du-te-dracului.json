@@ -1,0 +1,47 @@
+{
+  "id": "du-te-dracului",
+  "text": "Du-te dracului",
+  "original_text": "Du-te dracului",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "Du-te dracului",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: exemplu de tipar"
+    },
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Du-te dracului!",
+      "verification": "verified",
+      "notes": "(În imprecații)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Go to the devil",
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "vede-te-as-cu-mainile-pe-piept",
+  "text": "Vede-te-aș cu mâinile pe piept",
+  "original_text": "vede-te-a0 cu mande pe pieptit",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Înmormântarea la români",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Simion_Florea_Marian_-_%C3%8Enmorm%C3%A2ntarea_la_rom%C3%A2ni_-_Studiu_etnografic.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1892,
+      "page": null,
+      "informant": "Mihoveni, com. de Corvin",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "vede-te-a0 cu mande pe pieptit",
+      "verification": "verified",
+      "notes": "Marian, Înmormântarea la români; OCR „mande” = mâini; „pieptit” = piept"
+    }
+  ],
+  "explanation": null,
+  "translation": "May I see you with your hands on your chest",
+  "notes": null
+}

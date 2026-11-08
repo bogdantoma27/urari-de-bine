@@ -1,0 +1,36 @@
+{
+  "id": "sa-te-futa-rex",
+  "text": "Să te fută Rex",
+  "original_text": "Sa te futa rex",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": "Rex",
+  "themes": [
+    "farm_animals",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Sa te futa rex",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May Rex fuck you",
+  "notes": null
+}

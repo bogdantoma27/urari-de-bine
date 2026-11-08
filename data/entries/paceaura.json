@@ -1,0 +1,35 @@
+{
+  "id": "paceaura",
+  "text": "Paceaură",
+  "original_text": "paceaură",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Șăineanu, ed. VI (1929), s.v. paceaură",
+      "url": "https://dexonline.ro/definitie/paceaură/805474",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "paceaură",
+      "verification": "verified",
+      "notes": "Șăineanu ed. VI: femeie neonestă, ca înjurătură; din turc. paçavra"
+    }
+  ],
+  "explanation": "Paceaură = cârpă veche; se zice unei femei.",
+  "translation": "Rag, slut",
+  "notes": null
+}

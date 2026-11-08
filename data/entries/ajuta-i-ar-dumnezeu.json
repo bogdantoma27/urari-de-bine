@@ -1,0 +1,35 @@
+{
+  "id": "ajuta-i-ar-dumnezeu",
+  "text": "Ajută-i-ar Dumnezeu",
+  "original_text": "Ajuta-i-ar Dumnezeu",
+  "type": "expression",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Schiță de călătorie",
+      "url": "https://ro.wikisource.org/wiki/Schi%C8%9B%C4%83_de_c%C4%83l%C4%83torie",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Schiță de călătorie",
+      "regions": [],
+      "original_text": "Ajuta-i-ar Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Pare urare, dar e zis în ironie sau ca amenințare.",
+  "translation": "May God help them",
+  "notes": null
+}

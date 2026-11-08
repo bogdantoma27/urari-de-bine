@@ -1,0 +1,35 @@
+{
+  "id": "te-bat-de-caci-cuie-cu-jar",
+  "text": "Te bat de caci cuie cu jar",
+  "original_text": "Te bat de caci cuie cu jar",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Te bat de caci cuie cu jar",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "I beat you until you shit nails with embers",
+  "notes": "Grafie/sens neclare în sursă."
+}

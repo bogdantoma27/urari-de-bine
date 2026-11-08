@@ -1,0 +1,35 @@
+{
+  "id": "vino-n-coace-proclete",
+  "text": "Vino-n coace, proclete",
+  "original_text": "Vino-n-coace, proclete",
+  "type": "insult",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Kir Ianulea",
+      "url": "https://ro.wikisource.org/wiki/Kir_Ianulea",
+      "author": "Ion Luca Caragiale",
+      "year": 1892,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Kir Ianulea",
+      "regions": [],
+      "original_text": "Vino-n-coace, proclete",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Coace = încoace; proclet = blestemat.",
+  "translation": "Come over here, you damned one",
+  "notes": null
+}

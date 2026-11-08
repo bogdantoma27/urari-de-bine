@@ -1,0 +1,40 @@
+{
+  "id": "blestema-te-ar-dumnezeu-cand-vei-face-cuibul-tau",
+  "text": "Blestema-te-ar Dumnezeu, când vei face cuibul tău",
+  "original_text": "Blestema-te-ar Dumnecjeti, Cand vel face cuibul teti",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "birds_of_prey"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": "Chr. N. Țapu de la Ion Cepariu, Ocnele Sibiului, Transilvania",
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Blestema-te-ar Dumnecjeti, Cand vel face cuibul teti",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); „Pasăre galbenă în cioc”"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God curse you when you build your nest",
+  "notes": null
+}

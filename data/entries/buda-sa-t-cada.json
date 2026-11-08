@@ -1,0 +1,39 @@
+{
+  "id": "buda-sa-t-cada",
+  "text": "Buda să-ț cadă",
+  "original_text": "Búḑa să-ț cádă!",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "aromanian"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Urarea și blestemul în albaneză și în graiul fărșerot al dialectului aromân. Concordanțe frazeologice și semantice (Lucrările Simpozionului Internațional de Lingvistică, ed. a 6-a, 2015)",
+      "url": "https://www.diacronia.ro/indexing/details/V4246/pdf",
+      "author": "Daniela-Carmen Stoica",
+      "year": 2017,
+      "page": "171-174",
+      "informant": "vorbitori fărșeroți din zona Korcea, Albania (anchete 2011-2013)",
+      "regions": [
+        "aromanian"
+      ],
+      "original_text": "Búḑa să-ț cádă!",
+      "verification": "verified",
+      "notes": "grai fărșerot plisot; grafia sursei păstrată, normalizare minimă"
+    }
+  ],
+  "explanation": "Aromână: să-ți cadă buza (buda), adică să paralizezi.",
+  "translation": "May your lip fall off",
+  "notes": "grafia aromână păstrată"
+}

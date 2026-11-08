@@ -1,0 +1,36 @@
+{
+  "id": "uciga-i-toaca",
+  "text": "Ucigă-i toaca",
+  "original_text": "ucigă-i toaca",
+  "type": "euphemism",
+  "form": "imperative",
+  "affliction": "toaca",
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. toaca",
+      "url": "https://dexonline.ro/definitie/toaca/934372",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ucigă-i toaca",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; ȘEZ. III 75"
+    }
+  ],
+  "explanation": "Ucigă-i toaca = dracul, zis pe ocolite. Toaca = scândura bătută la biserică.",
+  "translation": "May the toaca kill him",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ai-dracului-guzgani",
+  "text": "Ai dracului guzgani",
+  "original_text": "ai dracului guzgani",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1910",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Luceafărul (Delavrancea)",
+      "url": "https://ro.wikisource.org/wiki/Luceaf%C4%83rul_(Delavrancea)",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1910,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Luceafărul (Delavrancea)",
+      "regions": [],
+      "original_text": "ai dracului guzgani",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Guzgan = șobolan mare",
+  "translation": "You devil's rats",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "crucea-lui-de-pai-al-dracului",
+  "text": "Crucea lui de pai al dracului",
+  "original_text": "Crucea lui de pai al dracului",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Descoperirea hoției cu paiele",
+      "url": "https://ro.wikisource.org/wiki/Descoperirea_ho%C8%9Biei_cu_paiele",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Descoperirea hoției cu paiele",
+      "regions": [],
+      "original_text": "Crucea lui de pai al dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "His straw cross, the devil's",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "n-ai-mai-ajunge-sa-ti-cante-cucul-la-anul",
+  "text": "N-ai mai ajunge să-ți cânte cucul la anul",
+  "original_text": "N-ai mai ajunge să-ți cînte cucul la anul",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1944",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Folklorul medical român comparat (cap. Farmece, vrăji și blesteme, § Blestemele)",
+      "url": "https://archive.org/details/candrea-ioan-aurel-folclorul-medical-roman-comparat_202405",
+      "author": "Ion Aurel Candrea",
+      "year": 1944,
+      "page": 205,
+      "informant": null,
+      "regions": [],
+      "original_text": "N-ai mai ajunge să-ți cînte cucul la anul",
+      "verification": "verified",
+      "notes": "Candrea, Folklorul medical, § Blestemele, p. 204-205; citat la Pamfile, Boli și leacuri p. 2"
+    }
+  ],
+  "explanation": "Adică să mori până la anul.",
+  "translation": "May you not live to hear the cuckoo sing for you next year",
+  "notes": null
+}

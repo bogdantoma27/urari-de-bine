@@ -1,0 +1,36 @@
+{
+  "id": "trasneasca-o-sfantul-palinca",
+  "text": "Trăsnească-o sfântul Palincă",
+  "original_text": "Trăsneasc-o sfîntul palincă",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "sfântul Palincă",
+  "themes": [
+    "church",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/trăsni",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Trăsneasc-o sfîntul palincă",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Sfântul Palincă e inventat, în glumă, după palincă.",
+  "translation": "May Saint Palincă strike her with lightning",
+  "notes": null
+}

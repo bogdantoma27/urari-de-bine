@@ -1,0 +1,36 @@
+{
+  "id": "mama-dracului",
+  "text": "Mama dracului",
+  "original_text": "Mama-dracului",
+  "type": "euphemism",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/definitie/mamă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mama-dracului",
+      "verification": "verified",
+      "notes": "(în imprecații și exclamații)"
+    }
+  ],
+  "explanation": "Mai rea decât dracul; apare des în înjurături.",
+  "translation": "The devil's mother",
+  "notes": null
+}

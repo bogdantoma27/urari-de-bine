@@ -1,0 +1,36 @@
+{
+  "id": "trasni-l-ar-dumnezeu",
+  "text": "Trăsni-l-ar Dumnezeu",
+  "original_text": "trăsni-l-ar Dumnezeŭ",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban, s.v. trăsni",
+      "url": "https://dexonline.ro/definitie/trăsni/725464",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "trăsni-l-ar Dumnezeŭ",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: Scriban"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God strike him with lightning",
+  "notes": null
+}

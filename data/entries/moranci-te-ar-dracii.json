@@ -1,0 +1,35 @@
+{
+  "id": "moranci-te-ar-dracii",
+  "text": "Morânci-te-ar dracii",
+  "original_text": "Morînci-te-ar dracii",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "dracii",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR (1913-2010), s.v. morînci",
+      "url": "https://dexonline.ro/definitie/morînci/1339557",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Morînci-te-ar dracii",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR, în imprecații; TOMESCU, GL."
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devils torment you",
+  "notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mojicule",
+  "text": "Mojicule",
+  "original_text": "mojicule",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1883",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC; DLR",
+      "url": "https://dexonline.ro/definitie/mojic",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mojicule",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Moș Ion Roată și Vodă Cuza",
+      "url": "https://ro.wikisource.org/wiki/Ioan_Roat%C4%83_%C8%99i_Vod%C4%83_Cuza",
+      "author": "Ion Creangă",
+      "year": 1883,
+      "page": null,
+      "informant": "Ion Creangă, Moș Ion Roată și Vodă Cuza",
+      "regions": [],
+      "original_text": "mojicule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Mojic = bădăran.",
+  "translation": "You boor",
+  "notes": null
+}

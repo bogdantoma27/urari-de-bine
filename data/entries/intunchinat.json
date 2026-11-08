@@ -1,0 +1,39 @@
+{
+  "id": "intunchinat",
+  "text": "Întunchinat",
+  "original_text": "întunchinat",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "întunchinat",
+      "verification": "transcribed",
+      "notes": "„din Moldova”: om nu prea inteligent"
+    }
+  ],
+  "explanation": "În Moldova, om nu prea isteț.",
+  "translation": "Dim-witted one",
+  "notes": null
+}

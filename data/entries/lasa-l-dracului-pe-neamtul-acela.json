@@ -1,0 +1,35 @@
+{
+  "id": "lasa-l-dracului-pe-neamtul-acela",
+  "text": "Lasă-l dracului pe neamțul acela",
+  "original_text": "Lasă-l dracului pe neamțul acela",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": "dracu'",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1894",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mara, cap. Zbuciumare",
+      "url": "https://ro.wikisource.org/wiki/Mara/Zbuciumare",
+      "author": "Ioan Slavici",
+      "year": 1894,
+      "page": null,
+      "informant": "Ioan Slavici, Mara, cap. Zbuciumare",
+      "regions": [],
+      "original_text": "Lasă-l dracului pe neamțul acela",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); vizează etnia neamț"
+    }
+  ],
+  "explanation": null,
+  "translation": "Leave that German to the devil",
+  "notes": null
+}

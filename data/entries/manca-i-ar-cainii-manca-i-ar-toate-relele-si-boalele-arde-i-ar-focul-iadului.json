@@ -1,0 +1,37 @@
+{
+  "id": "manca-i-ar-cainii-manca-i-ar-toate-relele-si-boalele-arde-i-ar-focul-iadului",
+  "text": "Mânca-i-ar câinii! Mânca-i-ar toate relele și boalele! Arde-i-ar focul iadului",
+  "original_text": "mânca-i-ar câinii! Mânca-i-ar toate relele și boalele! Arde-i-ar focul iadului",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "câinii",
+  "themes": [
+    "sickness_death",
+    "devil_hell",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1932",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Răscoala, vol. Focurile",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Focurile",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Focurile",
+      "regions": [],
+      "original_text": "mânca-i-ar câinii! Mânca-i-ar toate relele și boalele! Arde-i-ar focul iadului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the dogs eat them! May all evils and diseases eat them! May the fire of hell burn them",
+  "notes": null
+}

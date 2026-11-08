@@ -1,0 +1,36 @@
+{
+  "id": "futu-ti-toarta-cerului",
+  "text": "Futu-ți toarta cerului",
+  "original_text": "futu-ț tuarta cerului",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Vice România",
+      "year": 2015,
+      "page": null,
+      "informant": "chestionar ALR, 1942",
+      "regions": [],
+      "original_text": "futu-ț tuarta cerului",
+      "verification": "verified",
+      "notes": "idem; „tuarta” = probabil toarta"
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck the handle of the sky",
+  "notes": null
+}

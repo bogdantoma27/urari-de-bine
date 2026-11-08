@@ -1,0 +1,35 @@
+{
+  "id": "afurisita-casa",
+  "text": "Afurisită casă",
+  "original_text": "Afurisită casă",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX-XX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Hanul ciorilor",
+      "url": "https://ro.wikisource.org/wiki/Hanul_ciorilor",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Hanul ciorilor",
+      "regions": [],
+      "original_text": "Afurisită casă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Afurisit = blestemat; casă bântuită",
+  "translation": "Cursed house",
+  "notes": null
+}

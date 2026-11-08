@@ -1,0 +1,35 @@
+{
+  "id": "ticaloaselor",
+  "text": "Ticăloaselor",
+  "original_text": "ticăloaselor",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1875",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Soacra cu trei nurori",
+      "url": "https://ro.wikisource.org/wiki/Soacra_cu_trei_nurori",
+      "author": "Ion Creangă",
+      "year": 1875,
+      "page": null,
+      "informant": "Ion Creangă, Soacra cu trei nurori (replica: soacra)",
+      "regions": [],
+      "original_text": "ticăloaselor",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "You wretched women",
+  "notes": null
+}

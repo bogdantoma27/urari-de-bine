@@ -1,0 +1,35 @@
+{
+  "id": "batu-l-ar-pardalnicu-de-loaza-imbaierata",
+  "text": "Bătu-l-ar pârdalnicu de loază îmbăierată",
+  "original_text": "bătu-l-ar pîrdalnicu de loază îmbăierată",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pârdalnicul",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. pârdalnic",
+      "url": "https://dexonline.ro/definitie/pârdalnic/930970",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bătu-l-ar pîrdalnicu de loază îmbăierată",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; GORJAN, H. IV 176"
+    }
+  ],
+  "explanation": "Pârdalnic = diavol; loază = ticălos.",
+  "translation": "May the cursed one strike him, the dirty wretch",
+  "notes": "Sensul lui „îmbăierată” nu este clar"
+}

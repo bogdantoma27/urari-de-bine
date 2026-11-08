@@ -1,0 +1,48 @@
+{
+  "id": "a-trage-pe-dracul-de-coada",
+  "text": "A trage pe dracul de coadă",
+  "original_text": "a trage pe dracul de coadă",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a trage pe dracul de coadă",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98; DLRLC",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "A trage pe dracul de coadă",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    }
+  ],
+  "explanation": null,
+  "translation": "To pull the devil by the tail",
+  "notes": null
+}

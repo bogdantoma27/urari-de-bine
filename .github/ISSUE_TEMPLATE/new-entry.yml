@@ -1,0 +1,80 @@
+name: New entry
+description: Know an attested Romanian curse, swear or insult? Send it here.
+title: "[New] "
+labels: ["new-entry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! Please read the [rules](../blob/main/CONTRIBUTING.en.md) first: a source is required ("heard from …" counts), nothing that targets real people, and don't "improve" the wording. The wording itself stays in Romanian.
+  - type: input
+    id: original_text
+    attributes:
+      label: The exact wording, as it appears in the source or as you heard it (in Romanian)
+      placeholder: "Mînca-te-ar gherla!"
+    validations:
+      required: true
+  - type: input
+    id: text
+    attributes:
+      label: Same wording, with today's spelling (optional, in Romanian)
+      placeholder: "Mânca-te-ar gherla!"
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: "curse, swear, insult, euphemism or expression"
+      options: [curse, swear, insult, euphemism, expression]
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      description: "clean = no body parts, no F-verb, nothing sexual; mild = medium; vulgar"
+      options: [clean, mild, vulgar]
+    validations:
+      required: true
+  - type: dropdown
+    id: themes
+    attributes:
+      label: Themes
+      multiple: true
+      options: [church, devil_hell, sickness_death, farm_animals, prison, birds_of_prey, nature_elements, family, body, sexual, places, modern, poverty, other]
+  - type: dropdown
+    id: regions
+    attributes:
+      label: Region, only if attested
+      multiple: true
+      options: [general, moldavia, bukovina, maramures, transylvania, crisana, banat, oltenia, wallachia, dobruja, republic_of_moldova, serbia, ukraine, hungary, aromanian, megleno_romanian, istro_romanian]
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: "Book or article: title, author, year, page or link. Oral: who told you and where they're from."
+      placeholder: "Heard from my grandmother, Breaza village, Suceava county, 1990s"
+    validations:
+      required: true
+  - type: input
+    id: period
+    attributes:
+      label: Year or period
+      placeholder: "1942, 19th century, the 80s"
+  - type: textarea
+    id: explanation
+    attributes:
+      label: Explanation, in your own words (Romanian is fine)
+      description: What the old or regional words mean, what it alludes to, when people said it.
+  - type: input
+    id: translation
+    attributes:
+      label: Literal English translation (optional)
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: It's attested, I read or heard it, I didn't make it up.
+          required: true
+        - label: It doesn't target a real person.
+          required: true

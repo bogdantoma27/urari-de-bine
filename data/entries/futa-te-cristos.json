@@ -1,0 +1,36 @@
+{
+  "id": "futa-te-cristos",
+  "text": "Fută-te Cristos",
+  "original_text": "Fută-te Cristos",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "„Să nu [în]juri strâmb…” Înjurături românești care conțin antroponime (II): niveluri constitutive și semantic-referențiale. Philologica Jassyensia XII/1 (23)",
+      "url": "https://www.diacronia.ro/indexing/details/A24464/pdf",
+      "author": "Daiana Felecan, Alina Bugheșiu",
+      "year": 2016,
+      "page": "47-55",
+      "informant": null,
+      "regions": [],
+      "original_text": "Fută-te Cristos",
+      "verification": "verified",
+      "notes": "Corpus de autor (probabil Baia Mare/Maramureș, folclor urban); sursa primară nu e dată"
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck yourself, Christ",
+  "notes": null
+}

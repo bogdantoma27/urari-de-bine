@@ -1,0 +1,35 @@
+{
+  "id": "sageata-sageata-fire-ai-blestemata",
+  "text": "Săgeată, săgeată, fire-ai blestemată",
+  "original_text": "Săgeată, săgeată, Fire-ai blestemată",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Poezii populare române, vol. I-III (ed. Minerva, după colecția din 1885)",
+      "url": null,
+      "author": "George Dem. Teodorescu",
+      "year": 1885,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Săgeată, săgeată, Fire-ai blestemată",
+      "verification": "verified",
+      "notes": "Teodorescu, Poezii populare române, ed. Minerva; fără pagină (OCR arhivă)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Arrow, arrow, may you be cursed",
+  "notes": null
+}

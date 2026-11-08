@@ -1,0 +1,35 @@
+{
+  "id": "taran-viclean-si-mojic-ce-esti",
+  "text": "Țăran viclean și mojic ce ești",
+  "original_text": "țăran viclean și mojic ce ești",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Fata săracului cea isteață",
+      "url": "https://ro.wikisource.org/wiki/Fata_s%C4%83racului_cea_istea%C8%9B%C4%83",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Fata săracului cea isteață",
+      "regions": [],
+      "original_text": "țăran viclean și mojic ce ești",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "You cunning and boorish peasant",
+  "notes": null
+}

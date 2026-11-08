@@ -1,0 +1,35 @@
+{
+  "id": "a-si-vinde-sufletul-diavolului",
+  "text": "A-și vinde sufletul diavolului",
+  "original_text": "a-și vinde sufletul diavolului / dracului",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a-și vinde sufletul diavolului / dracului",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "To sell oneself's soul to the devil",
+  "notes": null
+}

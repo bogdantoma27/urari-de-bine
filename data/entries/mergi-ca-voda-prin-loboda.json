@@ -1,0 +1,35 @@
+{
+  "id": "mergi-ca-voda-prin-loboda",
+  "text": "Mergi ca Vodă prin lobodă",
+  "original_text": "Mergi ca Voda prin loboda",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Mergi ca Voda prin loboda",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Merge nepăsător, ca un domn. Lobodă = o buruiană.",
+  "translation": "You walk like the Prince through the orache weed",
+  "notes": null
+}

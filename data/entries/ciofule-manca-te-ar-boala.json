@@ -1,0 +1,35 @@
+{
+  "id": "ciofule-manca-te-ar-boala",
+  "text": "Ciofule, mânca-te-ar boala",
+  "original_text": "Ciofule, mînca-te-ar boala",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "boala",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR, s.v. mânca",
+      "url": "https://dexonline.ro/definitie/mânca/1330762",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ciofule, mînca-te-ar boala",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR; MARIAN, O. I 229"
+    }
+  ],
+  "explanation": null,
+  "translation": "Ciof, may the illness eat you",
+  "notes": null
+}

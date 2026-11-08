@@ -1,0 +1,36 @@
+{
+  "id": "bata-mi-te-ciuha-neagra-nici-dracului-nu-esti-draga",
+  "text": "Bată-mi-te ciuha neagră, nici dracului nu ești dragă",
+  "original_text": "Bată-mi-te ciuha '* neagră, Nici dracului nu ești dragă",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "ciuha",
+  "themes": [
+    "sickness_death",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Poezii populare ale românilor",
+      "url": "https://archive.org/details/alecsandri-poezii-populare",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-mi-te ciuha '* neagră, Nici dracului nu ești dragă",
+      "verification": "verified",
+      "notes": "Alecsandri, Poezii populare ale românilor; „ciuha” = ciuma; ediția din arhivă, anul nenotat"
+    }
+  ],
+  "explanation": "Ciuha = ciuma (formă regională)",
+  "translation": "May the plague strike you, black plague, you're not dear even to the devil",
+  "notes": null
+}

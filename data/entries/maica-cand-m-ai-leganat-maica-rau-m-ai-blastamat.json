@@ -1,0 +1,39 @@
+{
+  "id": "maica-cand-m-ai-leganat-maica-rau-m-ai-blastamat",
+  "text": "Maică, când m-ai legănat, maică, rău m-ai blăstămat",
+  "original_text": "Maică, când mai legănată, Maică, răă mai blăstămată",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Nașterea la români",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Simion_Florea_Marian_-_Nasterea_la_romani_-_1892.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1892,
+      "page": 330,
+      "informant": null,
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Maică, când mai legănată, Maică, răă mai blăstămată",
+      "verification": "verified",
+      "notes": "Marian, Nașterea la români (1892), p. ~330; ‘ă’ pentru ‘u’ în grafia veche (legănată = legănat)"
+    }
+  ],
+  "explanation": "Din cântec: copilul îi reproșează mamei că l-a blestemat.",
+  "translation": "Mother, when you rocked me, mother, you cursed me badly",
+  "notes": null
+}

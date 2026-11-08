@@ -1,0 +1,36 @@
+{
+  "id": "manca-o-ar-lupii",
+  "text": "Mânca-o-ar lupii",
+  "original_text": "mînca-o-ar lupii",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "lupii",
+  "themes": [
+    "sickness_death",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-o-ar lupii",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the wolves eat her",
+  "notes": null
+}

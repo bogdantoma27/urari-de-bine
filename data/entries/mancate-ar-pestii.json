@@ -1,0 +1,39 @@
+{
+  "id": "mancate-ar-pestii",
+  "text": "Mâncate-ar peștii!",
+  "original_text": "Mâncate-ar peștii!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "peștii",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [
+    "dobruja"
+  ],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [
+        "dobruja"
+      ],
+      "original_text": "Mâncate-ar peștii!",
+      "verification": "transcribed",
+      "notes": "comentatorul notează „(Dobrogea)”"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fish eat you!",
+  "notes": null
+}

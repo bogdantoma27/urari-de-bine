@@ -1,0 +1,36 @@
+{
+  "id": "du-te-n-pula-cui-te-a-facut",
+  "text": "Du-te-n pula cui te-a făcut",
+  "original_text": "du-te-m pula cui t-o făcut",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Vice România",
+      "year": 2015,
+      "page": null,
+      "informant": "chestionar ALR, 1942",
+      "regions": [],
+      "original_text": "du-te-m pula cui t-o făcut",
+      "verification": "verified",
+      "notes": "grafie nesigură"
+    }
+  ],
+  "explanation": null,
+  "translation": "Go into the dick of whoever made you",
+  "notes": null
+}

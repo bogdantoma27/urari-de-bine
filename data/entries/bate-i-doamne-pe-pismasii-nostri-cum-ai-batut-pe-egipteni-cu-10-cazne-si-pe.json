@@ -1,0 +1,35 @@
+{
+  "id": "bate-i-doamne-pe-pismasii-nostri-cum-ai-batut-pe-egipteni-cu-10-cazne-si-pe",
+  "text": "Bate-i Doamne pe pismașii noștri, cum ai bătut pe Egipteni cu 10 cazne și pe Faraon",
+  "original_text": "Bate-i Doamne pe pismașii noștri, cum ai bătut pe Egipteni cu 10 cazne și pe Faraon",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Doamne",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bate-i Doamne pe pismașii noștri, cum ai bătut pe Egipteni cu 10 cazne și pe Faraon",
+      "verification": "verified",
+      "notes": "Citat de Nasta după Bădescu, Cărțile de blestem (2013), prin Mazilu; nu e folclor oral"
+    }
+  ],
+  "explanation": "Pismaș = dușman, invidios. E din cărțile de blestem.",
+  "translation": "Strike them, Lord, our enviers, as You struck the Egyptians with 10 plagues, and Pharaoh",
+  "notes": null
+}

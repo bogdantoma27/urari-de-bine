@@ -1,0 +1,36 @@
+{
+  "id": "trasneasca-l-dumnezeu",
+  "text": "Trăsnească-l Dumnezeu",
+  "original_text": "Trăsnească-l Dumnezeu",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, MDA2",
+      "url": "https://dexonline.ro/definitie/trăsni",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Trăsnească-l Dumnezeu",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May God strike him with lightning",
+  "notes": null
+}

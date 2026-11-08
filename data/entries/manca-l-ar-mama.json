@@ -1,0 +1,35 @@
+{
+  "id": "manca-l-ar-mama",
+  "text": "Mânca-l-ar mama!",
+  "original_text": "mînca-l-ar mama!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "mama",
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-l-ar mama!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the mother eat him!",
+  "notes": null
+}

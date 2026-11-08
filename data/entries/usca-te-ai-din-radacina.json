@@ -1,0 +1,39 @@
+{
+  "id": "usca-te-ai-din-radacina",
+  "text": "Usca-te-ai din rădăcină",
+  "original_text": "Usca-te-ai din rădăcină",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Țara Fagilor IX (2000)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-IX-2000.pdf",
+      "author": null,
+      "year": 2000,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Usca-te-ai din rădăcină",
+      "verification": "verified",
+      "notes": "nord-bucovinean. cântec („Pelinaș, floare pelină”)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you dry up from the root",
+  "notes": null
+}

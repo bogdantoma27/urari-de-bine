@@ -1,0 +1,35 @@
+{
+  "id": "am-io-ac-de-cojocu-tau",
+  "text": "Am io ac de cojocu tău!",
+  "original_text": "Am io ac de cojocu tău!",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; străbunica comentatorului",
+      "regions": [],
+      "original_text": "Am io ac de cojocu tău!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "I've got a needle for your fur coat!",
+  "notes": "Sens neclar; ar putea fi o amenințare sau o ripostă"
+}

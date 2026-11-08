@@ -1,0 +1,40 @@
+{
+  "id": "du-te-duce-te-as-prin-targul-cucului-cu-nasul-taiat",
+  "text": "Du-te, duce-te-aș prin Târgul Cucului cu nasul tăiat",
+  "original_text": "Du-te, duce-te-aş prin Tirgu-Cucului cu nasu tăiat",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "body",
+    "poverty"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "G. Bănulescu, înv., Beszdead, Runcu, jud. Dâmbovița",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Du-te, duce-te-aş prin Tirgu-Cucului cu nasu tăiat",
+      "verification": "verified",
+      "notes": "Zanne vol. 6, nr. 14333"
+    }
+  ],
+  "explanation": "Târgul Cucului = locul unde se adunau cerșetorii, ologii și orbii.",
+  "translation": "Go, may I send you through the Cuckoo's Market with your nose cut off",
+  "notes": null
+}

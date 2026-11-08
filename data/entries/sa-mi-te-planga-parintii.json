@@ -1,0 +1,35 @@
+{
+  "id": "sa-mi-te-planga-parintii",
+  "text": "Să mi te plângă părinții",
+  "original_text": "Să mi te plângă părinții",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "părinții",
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestemul",
+      "url": "https://ro.wikisource.org/wiki/Blestemul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Blestemul",
+      "regions": [],
+      "original_text": "Să mi te plângă părinții",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May your parents mourn you",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fi-v-ar-balega-a-dracu",
+  "text": "Fi-v-ar balega a dracu'",
+  "original_text": "Fi-v-ar balega a dracu’",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Fi-v-ar balega a dracu’",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil's dung be on you",
+  "notes": null
+}

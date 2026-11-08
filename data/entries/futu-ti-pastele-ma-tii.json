@@ -1,0 +1,49 @@
+{
+  "id": "futu-ti-pastele-ma-tii",
+  "text": "Futu-ți Paștele mă-tii",
+  "original_text": "futu-ți Paștele mă-tii",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2016",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cele mai dure înjurături românești și ce poți înțelege din ele (VICE România)",
+      "url": "https://www.vice.com/ro/article/cele-mai-dure-injuraturi-romanesti/",
+      "author": "Mihai Popescu",
+      "year": 2016,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "futu-ți Paștele mă-tii",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; tatăl comentatorului",
+      "regions": [],
+      "original_text": "fututi pastele matii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck your mother's Easter",
+  "notes": null
+}

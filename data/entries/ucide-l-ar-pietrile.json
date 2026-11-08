@@ -1,0 +1,36 @@
+{
+  "id": "ucide-l-ar-pietrile",
+  "text": "Ucide-l-ar pietrile",
+  "original_text": "Ucide-l-ar pietrile",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pietrile",
+  "themes": [
+    "sickness_death",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/ucide",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ucide-l-ar pietrile",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the stones kill him",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "suler",
+  "text": "Șuler",
+  "original_text": "ȘULER",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. șuler",
+      "url": "https://dexonline.ro/definitie/șuler/956049",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ȘULER",
+      "verification": "verified",
+      "notes": "DLRLC: persoană care înșală la cărți; termen de ocară"
+    }
+  ],
+  "explanation": "Șuler = trișor la cărți.",
+  "translation": "Cardsharp",
+  "notes": null
+}

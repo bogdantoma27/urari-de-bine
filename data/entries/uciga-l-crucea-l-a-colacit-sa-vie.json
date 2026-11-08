@@ -1,0 +1,36 @@
+{
+  "id": "uciga-l-crucea-l-a-colacit-sa-vie",
+  "text": "Ucigă-l-crucea l-a colăcit să vie",
+  "original_text": "Ucigă-l-crucea l-a colăcit să vie",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: copiii din clasă)",
+      "regions": [],
+      "original_text": "Ucigă-l-crucea l-a colăcit să vie",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Ucigă-l crucea = dracul, zis pe ocolite.",
+  "translation": "The cross-kill-him has coiled him to come",
+  "notes": null
+}

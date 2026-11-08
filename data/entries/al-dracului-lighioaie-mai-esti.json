@@ -1,0 +1,36 @@
+{
+  "id": "al-dracului-lighioaie-mai-esti",
+  "text": "Al dracului lighioaie mai ești",
+  "original_text": "Al dracului lighioaie mai ești",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Povestea lui Harap-Alb",
+      "url": "https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Povestea lui Harap-Alb (replica: personaj)",
+      "regions": [],
+      "original_text": "Al dracului lighioaie mai ești",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Lighioaie = fiară, animal sălbatic",
+  "translation": "The devil's creature you are",
+  "notes": null
+}

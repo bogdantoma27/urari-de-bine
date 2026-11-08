@@ -1,0 +1,35 @@
+{
+  "id": "afurisit-sa-fie-repausul-dominical",
+  "text": "Afurisit să fie repausul dominical",
+  "original_text": "Afurisit să fie repausul dominical",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Repaosul dominical",
+      "url": "https://ro.wikisource.org/wiki/Repaosul_dominical",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Repaosul dominical",
+      "regions": [],
+      "original_text": "Afurisit să fie repausul dominical",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Afurisit = blestemat; repaus dominical = odihna de duminică",
+  "translation": "Cursed be the Sunday rest",
+  "notes": null
+}

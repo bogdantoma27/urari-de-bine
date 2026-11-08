@@ -1,0 +1,35 @@
+{
+  "id": "du-te-la-dracu-mai-tigane",
+  "text": "Du-te la dracu, măi țigane",
+  "original_text": "Du-te la dracu, măi țigane",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Pasărea cu coada lungă",
+      "url": "https://ro.wikisource.org/wiki/Pas%C4%83rea_cu_coada_lung%C4%83",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Pasărea cu coada lungă",
+      "regions": [],
+      "original_text": "Du-te la dracu, măi țigane",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); adresat unui țigan"
+    }
+  ],
+  "explanation": null,
+  "translation": "Go to the devil, you Gypsy",
+  "notes": null
+}

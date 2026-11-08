@@ -1,0 +1,35 @@
+{
+  "id": "aprasteul-tau",
+  "text": "Aprașteul tău!",
+  "original_text": "aprașteul tău!",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "aprașteul tău!",
+      "verification": "transcribed",
+      "notes": "sens neclar"
+    }
+  ],
+  "explanation": null,
+  "translation": "Your aprașteu!",
+  "notes": "Sensul lui „aprașteu” e neclar"
+}

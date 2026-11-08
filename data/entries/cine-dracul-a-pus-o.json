@@ -1,0 +1,35 @@
+{
+  "id": "cine-dracul-a-pus-o",
+  "text": "Cine dracul a pus-o",
+  "original_text": "Cine dracul a pus-o",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ciobănașul cel isteț sau țurloaiele blendei",
+      "url": "https://ro.wikisource.org/wiki/Ciob%C4%83na%C8%99ul_cel_iste%C8%9B_sau_%C8%9Burloaiele_blendei",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Ciobănașul cel isteț sau țurloaiele blendei",
+      "regions": [],
+      "original_text": "Cine dracul a pus-o",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Who the devil put it there",
+  "notes": null
+}

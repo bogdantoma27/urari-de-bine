@@ -1,0 +1,35 @@
+{
+  "id": "ce-dracul-cauta-aici",
+  "text": "Ce dracul caută aici",
+  "original_text": "Ce dracul caută aici",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "D'ale carnavalului",
+      "url": "https://ro.wikisource.org/wiki/D%27ale_carnavalului",
+      "author": "I. L. Caragiale",
+      "year": 1885,
+      "page": null,
+      "informant": "I. L. Caragiale, D'ale carnavalului (replica: Mița)",
+      "regions": [],
+      "original_text": "Ce dracul caută aici",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "What the devil is he looking for here",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nu-e-buna-nici-de-fata-n-casa",
+  "text": "Nu e bună nici de fată-n casă",
+  "original_text": "Nu e buna nici de fata-n casa",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Nu e buna nici de fata-n casa",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "She's not even good as a girl in the house",
+  "notes": null
+}

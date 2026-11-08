@@ -1,0 +1,35 @@
+{
+  "id": "mamornito",
+  "text": "Mamornițo",
+  "original_text": "mamornițo",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE (1926-1931), s.v. mamorniță",
+      "url": "https://dexonline.ro/definitie/mamorniță/1392316",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mamornițo",
+      "verification": "verified",
+      "notes": "CADE: termen de ocară dat unei femei; citat DLVR."
+    }
+  ],
+  "explanation": "Mamorniță = duh rău, sau femeie rea.",
+  "translation": "You hag",
+  "notes": null
+}

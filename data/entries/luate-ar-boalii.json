@@ -1,0 +1,35 @@
+{
+  "id": "luate-ar-boalii",
+  "text": "Luate-ar boalii",
+  "original_text": "Luate-ar boalii",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "boalii",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica comentatorului",
+      "regions": [],
+      "original_text": "Luate-ar boalii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the sicknesses take you",
+  "notes": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "futu-l-in-cur-pe-ma-sa",
+  "text": "Futu-l în cur pe mă-sa",
+  "original_text": "futu-l in cur pe ma-sa!",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul comentatorului, din Teleorman",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "futu-l in cur pe ma-sa!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck his mother in the ass",
+  "notes": null
+}

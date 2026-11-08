@@ -1,0 +1,35 @@
+{
+  "id": "batut-de-dumnezeu",
+  "text": "Bătut de Dumnezeu",
+  "original_text": "Bătut de Dumnezeu",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09",
+      "url": "https://dexonline.ro/definitie/dumnezeu",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bătut de Dumnezeu",
+      "verification": "verified",
+      "notes": "loc. adj."
+    }
+  ],
+  "explanation": "Ticălos, nefericit",
+  "translation": "Struck by God",
+  "notes": null
+}

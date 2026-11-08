@@ -1,0 +1,36 @@
+{
+  "id": "mance-te-viermii-cei-neadormiti",
+  "text": "Mânce-te viermii cei neadormiți",
+  "original_text": "mînce-te viermii cei neadormiți",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "viermii",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînce-te viermii cei neadormiți",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Viermii neadormiți = viermii iadului, care nu mor niciodată.",
+  "translation": "May the sleepless worms eat you",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "al-dracului-dobitoc",
+  "text": "Al dracului dobitoc",
+  "original_text": "Al dracului dobitoc",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "D'ale carnavalului",
+      "url": "https://ro.wikisource.org/wiki/D%27ale_carnavalului",
+      "author": "I. L. Caragiale",
+      "year": 1885,
+      "page": null,
+      "informant": "I. L. Caragiale, D'ale carnavalului (replica: Iordache)",
+      "regions": [],
+      "original_text": "Al dracului dobitoc",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Dobitoc = animal, om prost",
+  "translation": "The devil's beast",
+  "notes": null
+}

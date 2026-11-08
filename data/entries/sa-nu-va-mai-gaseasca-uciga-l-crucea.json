@@ -1,0 +1,35 @@
+{
+  "id": "sa-nu-va-mai-gaseasca-uciga-l-crucea",
+  "text": "Să nu vă mai găsească ucigă-l crucea",
+  "original_text": "Să nu vă mai găsească ucigă-l crucea",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "ucigă-l crucea",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. cruce",
+      "url": "https://dexonline.ro/definitie/cruce/938123",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să nu vă mai găsească ucigă-l crucea",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; EMINESCU, N. 20"
+    }
+  ],
+  "explanation": "Ucigă-l crucea = dracul, zis pe ocolite.",
+  "translation": "May the cross-slay-him no longer find you",
+  "notes": null
+}

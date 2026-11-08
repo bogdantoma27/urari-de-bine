@@ -1,0 +1,36 @@
+{
+  "id": "bata-mi-te-crucea-drac",
+  "text": "Bată-mi-te crucea, drac!",
+  "original_text": "Bată-mi-te crucea, drac!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "crucea",
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/definitie/cruce",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-mi-te crucea, drac!",
+      "verification": "verified",
+      "notes": "(În imprecații)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the cross strike you, devil!",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "manca-ti-as-comandarea",
+  "text": "Mânca-ți-aș comândarea",
+  "original_text": "Mâncâ-ţi-aşi comândarea",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Insectele în limba, credințele și obiceiurile românilor",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Simion_Florea_Marian_-_Insectele_in_limba%2C_credintele_si_obiceiurile_romanilor_-_1903.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1903,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mâncâ-ţi-aşi comândarea",
+      "verification": "verified",
+      "notes": "Marian, Insectele; același fragment, țiganul către naș"
+    }
+  ],
+  "explanation": "Comândare = pomană de înmormântare; a o mânca = a-l vedea mort.",
+  "translation": "I'd eat your funeral alms",
+  "notes": null
+}

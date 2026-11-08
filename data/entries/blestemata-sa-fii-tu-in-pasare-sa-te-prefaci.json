@@ -1,0 +1,36 @@
+{
+  "id": "blestemata-sa-fii-tu-in-pasare-sa-te-prefaci",
+  "text": "Blestemată să fii tu... În pasăre să te prefaci",
+  "original_text": "Blăstemată să fil tu... In pasere să te prefaci",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "other",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": false,
+  "verification": "unverified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Blăstemată să fil tu... In pasere să te prefaci",
+      "verification": "unverified",
+      "notes": "vol. 1, secțiunea păsărilor; formulă parțială, din OCR"
+    }
+  ],
+  "explanation": null,
+  "translation": "Cursed be you... may you turn into a bird",
+  "notes": null
+}

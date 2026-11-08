@@ -1,0 +1,47 @@
+{
+  "id": "gasi-te-ar-ciorile",
+  "text": "Găsi-te-ar ciorile",
+  "original_text": "Găsi-te-ar ciorile!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "ciorile",
+  "themes": [
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/cioară",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Găsi-te-ar ciorile!",
+      "verification": "verified",
+      "notes": "(În imprecații); explicație a autorului; verificat pe textul sursei"
+    },
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/text/în imprecații",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Găsi-te-ar ciorile!",
+      "verification": "unverified",
+      "notes": "(În imprecații); explicație a autorului"
+    }
+  ],
+  "explanation": "Să rămâi neîngropat, mâncat de ciori.",
+  "translation": "May the crows find you",
+  "notes": null
+}

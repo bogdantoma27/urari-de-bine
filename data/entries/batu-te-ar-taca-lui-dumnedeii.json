@@ -1,0 +1,39 @@
+{
+  "id": "batu-te-ar-taca-lui-dumnedeii",
+  "text": "Bătu-te-ar tâca lui Dumnedeii",
+  "original_text": "Bătu-te-ar tâca lui Dumnedeu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "tâca lui Dumnedeii",
+  "themes": [
+    "church"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 7",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-7-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "Ion Berbece, com. Făgăraș, c. Bran",
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Bătu-te-ar tâca lui Dumnedeu",
+      "verification": "verified",
+      "notes": "proverb nr. 15895, vol. 7; 'tâca' păstrat din OCR"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God's tâca strike you",
+  "notes": "Sensul lui „tâca” nu este clar; „Dumnedeii” păstrat din sursă"
+}

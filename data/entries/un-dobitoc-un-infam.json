@@ -1,0 +1,35 @@
+{
+  "id": "un-dobitoc-un-infam",
+  "text": "Un dobitoc, un infam",
+  "original_text": "Un dobitoc, un infam",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "D'ale carnavalului",
+      "url": "https://ro.wikisource.org/wiki/D%27ale_carnavalului",
+      "author": "I. L. Caragiale",
+      "year": 1885,
+      "page": null,
+      "informant": "I. L. Caragiale, D'ale carnavalului (replica: Crăcănel)",
+      "regions": [],
+      "original_text": "Un dobitoc, un infam",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "A brute, an infamous one",
+  "notes": null
+}

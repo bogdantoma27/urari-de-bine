@@ -1,0 +1,40 @@
+{
+  "id": "anasana-sitim",
+  "text": "Anasana sitim",
+  "original_text": "Anasana sitim",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [
+    "megleno_romanian"
+  ],
+  "level": "vulgar",
+  "period": "1935",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Th. Capidan, Meglenoromânii III. Dicționar meglenoromân, 1935 (glosar)",
+      "url": "https://ebib.inst-puscariu.ro/bibliotecadigitala/bibliotecamuzeistilor/pdf/475950-BJC-Meglenoromanii-vol-3-Capidan-sa.pdf",
+      "author": "Th. Capidan",
+      "year": 1935,
+      "page": "s.v. Anasană",
+      "informant": null,
+      "regions": [
+        "megleno_romanian"
+      ],
+      "original_text": "Anasana sitim",
+      "verification": "verified",
+      "notes": "împrumut din turcă; interj. înjurătură în dicționar"
+    }
+  ],
+  "explanation": "Meglenoromână, din turcă: „anasını sikeyim” = „fut-o pe mă-ta”. Sursa traduce doar „...mama ta”.",
+  "translation": "I fuck your mother (from Turkish)",
+  "notes": "Sensul complet nu e dat în sursă; nivelul vulgar păstrat din intrare."
+}

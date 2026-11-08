@@ -1,0 +1,39 @@
+{
+  "id": "s-ti-creapa-numa",
+  "text": "S-ti creapă numa",
+  "original_text": "S-ti creapă numa!",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "numa",
+  "themes": [
+    "family"
+  ],
+  "regions": [
+    "aromanian"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Urarea și blestemul în albaneză și în graiul fărșerot al dialectului aromân. Concordanțe frazeologice și semantice (Lucrările Simpozionului Internațional de Lingvistică, ed. a 6-a, 2015)",
+      "url": "https://www.diacronia.ro/indexing/details/V4246/pdf",
+      "author": "Daniela-Carmen Stoica",
+      "year": 2017,
+      "page": "171-174",
+      "informant": "vorbitori fărșeroți din zona Korcea, Albania (anchete 2011-2013)",
+      "regions": [
+        "aromanian"
+      ],
+      "original_text": "S-ti creapă numa!",
+      "verification": "verified",
+      "notes": "grai fărșerot plisot; grafia sursei păstrată, normalizare minimă"
+    }
+  ],
+  "explanation": "Aromână (fărșerot): să ți se stingă numele.",
+  "translation": "May your name burst",
+  "notes": null
+}

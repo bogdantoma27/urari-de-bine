@@ -1,0 +1,35 @@
+{
+  "id": "mana-dreapta-sa-ti-sclinteasca",
+  "text": "Mâna dreaptă să-ți sclintească",
+  "original_text": "Mâna dreaptă să-ți sclintească",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestemul",
+      "url": "https://ro.wikisource.org/wiki/Blestemul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Blestemul",
+      "regions": [],
+      "original_text": "Mâna dreaptă să-ți sclintească",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "A sclinti = a scrânti.",
+  "translation": "May your right hand dislocate",
+  "notes": null
+}

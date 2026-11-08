@@ -1,0 +1,36 @@
+{
+  "id": "du-te-m-pula-cui-t-o-facut",
+  "text": "Du-te-m pula cui t-o făcut",
+  "original_text": "du-te-m pula cui t-o făcut",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română (VICE România)",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Gabriel Botezatu",
+      "year": 2015,
+      "page": null,
+      "informant": "răspunsuri la ancheta Atlasului Lingvistic Român (supliment, 1942), citate de VICE",
+      "regions": [],
+      "original_text": "du-te-m pula cui t-o făcut",
+      "verification": "verified",
+      "notes": "grafia surselor din Atlas, transcrisă de VICE; regiunea per formulă nu e dată"
+    }
+  ],
+  "explanation": null,
+  "translation": "Go into the dick of whoever made you",
+  "notes": null
+}

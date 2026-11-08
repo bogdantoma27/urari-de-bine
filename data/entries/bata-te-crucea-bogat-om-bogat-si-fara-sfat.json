@@ -1,0 +1,36 @@
+{
+  "id": "bata-te-crucea-bogat-om-bogat-si-fara-sfat",
+  "text": "Bată-te crucea, bogat, om bogat și fără sfat",
+  "original_text": "Bată-te crucea, bogat, Om bogat și fără sfat",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "crucea",
+  "themes": [
+    "church",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Poezii populare române, vol. I-III (ed. Minerva, după colecția din 1885)",
+      "url": null,
+      "author": "George Dem. Teodorescu",
+      "year": 1885,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te crucea, bogat, Om bogat și fără sfat",
+      "verification": "verified",
+      "notes": "Teodorescu, Poezii populare române; apare în 3 variante"
+    }
+  ],
+  "explanation": "Haiducul blestemă un bogat care îl poartă legat; sfat = judecată, minte",
+  "translation": "May the cross strike you, rich man, rich man and without counsel",
+  "notes": null
+}

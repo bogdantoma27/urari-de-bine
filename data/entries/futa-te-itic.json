@@ -1,0 +1,36 @@
+{
+  "id": "futa-te-itic",
+  "text": "Fută-te Ițic",
+  "original_text": "Fută-te Ițic",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "„Să nu [în]juri strâmb…” Înjurături românești care conțin antroponime (II): niveluri constitutive și semantic-referențiale. Philologica Jassyensia XII/1 (23)",
+      "url": "https://www.diacronia.ro/indexing/details/A24464/pdf",
+      "author": "Daiana Felecan, Alina Bugheșiu",
+      "year": 2016,
+      "page": "47-55",
+      "informant": null,
+      "regions": [],
+      "original_text": "Fută-te Ițic",
+      "verification": "verified",
+      "notes": "Corpus de autor (probabil Baia Mare/Maramureș, folclor urban); sursa primară nu e dată"
+    }
+  ],
+  "explanation": "Ițic = nume evreiesc; ocara e pentru evrei.",
+  "translation": "Fuck yourself, Itzik",
+  "notes": null
+}

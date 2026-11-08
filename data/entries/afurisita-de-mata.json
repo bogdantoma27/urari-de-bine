@@ -1,0 +1,36 @@
+{
+  "id": "afurisita-de-mata",
+  "text": "Afurisită de mâță",
+  "original_text": "afurisită de mâță",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1916",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mitologie românească, I. Dușmani și prieteni ai omului",
+      "url": "https://archive.org/details/pamfile-tudor-mitologie-romaneasca-1.-dusmani-si-prieteni-ai-omului-scan",
+      "author": "Tudor Pamfile",
+      "year": 1916,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "afurisită de mâță",
+      "verification": "verified",
+      "notes": "Pamfile, Mitologie românească I"
+    }
+  ],
+  "explanation": "Mâță = pisică; afurisit = blestemat",
+  "translation": "Cursed cat",
+  "notes": null
+}

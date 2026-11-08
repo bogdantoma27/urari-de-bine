@@ -1,0 +1,36 @@
+{
+  "id": "sgarceri-o-ar-dumnezeu",
+  "text": "Sgârceri-o-ar Dumnezeu",
+  "original_text": "Sgîrceri-o-ar Dumnezeu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Jucării și jocuri de copii",
+      "url": "https://ro.wikisource.org/wiki/Juc%C4%83rii_%C8%99i_jocuri_de_copii",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Jucării și jocuri de copii",
+      "regions": [],
+      "original_text": "Sgîrceri-o-ar Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "A sgârci = a contracta, a strânge dureros.",
+  "translation": "May God cramp her",
+  "notes": null
+}

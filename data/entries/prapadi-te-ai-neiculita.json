@@ -1,0 +1,39 @@
+{
+  "id": "prapadi-te-ai-neiculita",
+  "text": "Prăpădi-te-ai, neiculiță",
+  "original_text": "PRAPADI-TE-AI NEICULITA",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 323,
+      "informant": "Chr. N. Țapu de la lăutarul Anghel Gâmbrea, Săcelu, Gorj",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "PRAPADI-TE-AI NEICULITA",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); titlul doinei din colecție"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you perish, little Nicolae",
+  "notes": null
+}

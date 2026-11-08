@@ -1,0 +1,41 @@
+{
+  "id": "tut-avionu-ma-tii-eu-azi-si-maine",
+  "text": "'Tuț avionu' mă-tii eu azi și mâine",
+  "original_text": "'tuț' avionu' mă-tii eu azi și mâine",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family",
+    "modern",
+    "sexual"
+  ],
+  "regions": [
+    "republic_of_moldova"
+  ],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; comentator din Republica Moldova",
+      "regions": [
+        "republic_of_moldova"
+      ],
+      "original_text": "'tuț' avionu' mă-tii eu azi și mâine",
+      "verification": "transcribed",
+      "notes": "'tuț' = futu-ți"
+    }
+  ],
+  "explanation": "'Tuț = futu-ți, scurtat.",
+  "translation": "Fuck your mother's airplane, me today and tomorrow",
+  "notes": null
+}

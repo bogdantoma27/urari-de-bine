@@ -1,0 +1,35 @@
+{
+  "id": "tu-cand-i-i-da-cu-ciocanul-sa-nu-mai-castigi-banul-si-cand-i-i-da-cu-gealaul-sa",
+  "text": "Tu, când i-i da cu ciocanul, să nu mai câștigi banul; și când i-i da cu gealăul, să nu mai câștigi leul",
+  "original_text": "Tu când îi da cu ciocanul Să nu mai câşligi banul",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1904",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Legendele Maicii Domnului",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Simion_Florea_Marian_-_Legendele_Maicii_Domnului_-_1904.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1904,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Tu când îi da cu ciocanul Să nu mai câşligi banul",
+      "verification": "verified",
+      "notes": "Marian, Legendele (1904); legenda fierarului din Răstignire; „gealău” = unealtă de fierar"
+    }
+  ],
+  "explanation": "Gealău = unealtă de fierărie, după sursă.",
+  "translation": "You, when you strike with the hammer, may you earn no more coin; and when you strike with the gealău, may you earn no more leu",
+  "notes": null
+}

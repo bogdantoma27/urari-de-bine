@@ -1,0 +1,36 @@
+{
+  "id": "lua-te-ar-ciuma",
+  "text": "Lua-te-ar ciuma!",
+  "original_text": "lua-te-ar ciuma!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "ciuma",
+  "themes": [
+    "sickness_death",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/lua",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "lua-te-ar ciuma!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the plague take you!",
+  "notes": null
+}

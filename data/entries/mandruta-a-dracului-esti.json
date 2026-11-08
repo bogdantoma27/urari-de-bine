@@ -1,0 +1,39 @@
+{
+  "id": "mandruta-a-dracului-esti",
+  "text": "Mândruță a dracului ești",
+  "original_text": "Mandruta a draculul e§tY",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": "Chr. N. Țapu de la Ion Cazacu, Ștefănești, Gorj",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Mandruta a draculul e§tY",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); titlul unei doine"
+    }
+  ],
+  "explanation": "Mândruță = iubită. Zis cu dragoste.",
+  "translation": "Sweetie, you're the devil's",
+  "notes": null
+}

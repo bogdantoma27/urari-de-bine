@@ -1,0 +1,35 @@
+{
+  "id": "esti-turc-de-nu-intelegi",
+  "text": "Ești turc de nu înțelegi",
+  "original_text": "Ești turc de nu înțelegi?",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica comentatorului",
+      "regions": [],
+      "original_text": "Ești turc de nu înțelegi?",
+      "verification": "transcribed",
+      "notes": "referință la turci"
+    }
+  ],
+  "explanation": null,
+  "translation": "You're a Turk, so you don't understand",
+  "notes": null
+}

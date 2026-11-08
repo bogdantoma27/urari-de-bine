@@ -1,0 +1,35 @@
+{
+  "id": "du-te-pe-pustii-cu-oala-in-cap",
+  "text": "Du-te pe pustii cu oala în cap",
+  "original_text": "Du-te pe pustii cu oala in cap.",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Du-te pe pustii cu oala in cap.",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Go to the wasteland with the pot on your head",
+  "notes": null
+}

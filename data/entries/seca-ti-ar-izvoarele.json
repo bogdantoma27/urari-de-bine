@@ -1,0 +1,35 @@
+{
+  "id": "seca-ti-ar-izvoarele",
+  "text": "Seca-ți-ar izvoarele",
+  "original_text": "Seca-ți-ar izvoarele",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/sec",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Seca-ți-ar izvoarele",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May your springs dry up",
+  "notes": null
+}

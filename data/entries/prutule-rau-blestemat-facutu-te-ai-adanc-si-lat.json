@@ -1,0 +1,39 @@
+{
+  "id": "prutule-rau-blestemat-facutu-te-ai-adanc-si-lat",
+  "text": "Prutule, râu blestemat, făcutu-te-ai adânc și lat",
+  "original_text": "Prutule, rîu blestemat (2), Face-te-aI adânc şi lat",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Insectele în limba, credințele și obiceiurile românilor",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Simion_Florea_Marian_-_Insectele_in_limba%2C_credintele_si_obiceiurile_romanilor_-_1903.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1903,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Prutule, rîu blestemat (2), Face-te-aI adânc şi lat",
+      "verification": "verified",
+      "notes": "Marian, Insectele; doină din Moldova; „Face-te-aI” = făcutu-te-ai (sau fă-te-ai)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Prut, cursed river, may you become deep and wide",
+  "notes": null
+}

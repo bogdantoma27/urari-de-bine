@@ -1,0 +1,35 @@
+{
+  "id": "la-pustii",
+  "text": "La pustii",
+  "original_text": "La pustia (sau pustii)",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/pustii",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "La pustia (sau pustii)",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    }
+  ],
+  "explanation": "Ca la dracu, la naiba.",
+  "translation": "To the wasteland",
+  "notes": null
+}

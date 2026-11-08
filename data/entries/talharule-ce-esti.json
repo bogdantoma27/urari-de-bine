@@ -1,0 +1,35 @@
+{
+  "id": "talharule-ce-esti",
+  "text": "Tâlharule ce ești",
+  "original_text": "tâlharule ce ești",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Aleodor împărat",
+      "url": "https://ro.wikisource.org/wiki/Aleodor_%C3%AEmp%C4%83rat",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Aleodor împărat",
+      "regions": [],
+      "original_text": "tâlharule ce ești",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "You thief that you are",
+  "notes": null
+}

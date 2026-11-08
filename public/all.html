@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    (function (d) {
+      try {
+        var q = new URLSearchParams(location.search).get('lang'), s = null;
+        try { s = localStorage.getItem('language'); } catch (e) {}
+        var l = (q === 'ro' || q === 'en') ? q : (s === 'ro' || s === 'en') ? s : 'ro';
+        d.lang = l;
+        if (l === 'en') d.classList.add('i18n-pending');
+      } catch (e) {}
+    })(document.documentElement);
+  </script>
+  <title>Toate intrările · Urări de bine</title>
+  <meta name="description" content="Toate blestemele, înjurăturile și insultele din Urări de bine. Cauți, filtrezi și vezi de unde vine fiecare.">
+  <meta property="og:title" content="Toate intrările · Urări de bine">
+  <meta property="og:description" content="Toate blestemele, înjurăturile și insultele din Urări de bine. Cauți, filtrezi și vezi de unde vine fiecare.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ro_RO">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:site_name" content="Urări de bine">
+  <meta property="og:url" content="https://uraridebine.ro/all">
+  <meta property="og:image" content="https://uraridebine.ro/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Urări de bine: blesteme, înjurături și insulte românești, cu sursa la fiecare">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://uraridebine.ro/og.jpg">
+  <meta name="twitter:title" content="Toate intrările · Urări de bine">
+  <meta name="twitter:description" content="Toate blestemele, înjurăturile și insultele din Urări de bine. Cauți, filtrezi și vezi de unde vine fiecare.">
+  <meta name="theme-color" content="#2a1d14">
+  <link rel="alternate" hreflang="ro" href="https://uraridebine.ro/all?lang=ro">
+  <link rel="alternate" hreflang="en" href="https://uraridebine.ro/all?lang=en">
+  <link rel="alternate" hreflang="x-default" href="https://uraridebine.ro/all">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="preload" href="/fonts/alegreya-normal-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/alegreya-normal-latin-ext-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/kurale-normal-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/kurale-normal-latin-ext-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/grenze-gotisch-normal-latin-500.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/grenze-gotisch-normal-latin-ext-500.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/fonts/fonts.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="modulepreload" href="/all.js">
+  <link rel="modulepreload" href="/dialog.js">
+  <link rel="modulepreload" href="/i18n.js">
+  <script type="module" src="all.js"></script>
+</head>
+<body class="page-all">
+  <a class="skip-link" href="#results" data-i18n="all.skip">Sari la rezultate</a>
+
+  <nav class="language" data-i18n-attr="aria-label:lang.label" aria-label="Limba">
+    <button type="button" data-lang="ro" lang="ro" title="Română">RO</button>
+    <button type="button" data-lang="en" lang="en" title="English">EN</button>
+  </nav>
+
+  <header class="header header--small">
+    <p class="header__back"><a href="/" data-i18n="all.back">← Înapoi la blesteme</a></p>
+    <p class="header__eyebrow" data-i18n="site.name" lang="ro">Urări de bine</p>
+    <h1 class="header__title" data-i18n="all.title">Toate intrările</h1>
+    <p class="header__desc" data-i18n="all.desc">Toate urările, într-un singur loc. Caută un cuvânt, pune ce filtre vrei și apasă pe o intrare ca să vezi de unde vine.</p>
+  </header>
+
+  <main class="register">
+    <form class="search" id="search" role="search" data-i18n-attr="aria-label:all.filters" aria-label="Caută și filtrează">
+      <div class="search__q">
+        <label for="q" data-i18n="all.search">Caută</label>
+        <input type="search" id="q" name="q" autocomplete="off" spellcheck="false" enterkeyhint="search"
+               aria-describedby="q-help" data-i18n-attr="placeholder:all.search.placeholder" placeholder="de ex. gherla, dracu, mă-ta">
+        <small id="q-help" data-i18n="all.search.help">Merge și fără diacritice. Caută și în explicații și în traducerile englezești.</small>
+      </div>
+      <div class="search__mobile">
+        <button type="button" class="action action--open" id="filters-button" aria-expanded="false" aria-controls="filters-group">Filtre</button>
+      </div>
+      <div class="chips" id="chips"></div>
+      <div class="search__filters" id="filters-group">
+        <div class="filter">
+          <label for="f-type" data-i18n="all.type">Tip</label>
+          <select id="f-type" name="type">
+            <option value="" data-i18n="all.type.any">Orice tip</option>
+            <option value="curse" data-i18n="type.curse">Blestem</option>
+            <option value="swear" data-i18n="type.swear">Înjurătură</option>
+            <option value="insult" data-i18n="type.insult">Insultă</option>
+            <option value="euphemism" data-i18n="type.euphemism">Eufemism</option>
+            <option value="expression" data-i18n="type.expression">Expresie</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label for="f-theme" data-i18n="all.theme">Temă</label>
+          <select id="f-theme" name="theme">
+            <option value="" data-i18n="all.theme.any">Orice temă</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label for="f-region" data-i18n="all.region">Regiune</label>
+          <select id="f-region" name="region">
+            <option value="" data-i18n="all.region.any">Orice regiune</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label for="f-level" data-i18n="all.level">Nivel</label>
+          <select id="f-level" name="level">
+            <option value="" data-i18n="all.level.all">Toate nivelurile</option>
+            <option value="clean" data-i18n="all.level.clean">Doar curate</option>
+            <option value="clean,mild" data-i18n="all.level.mild">Fără vulgare</option>
+            <option value="vulgar" data-i18n="all.level.vulgar">Doar vulgare</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label for="f-funny" data-i18n="all.funny">Haz</label>
+          <select id="f-funny" name="funny">
+            <option value="" data-i18n="all.funny.all">Toate formulele</option>
+            <option value="true" data-i18n="all.funny.yes">Doar cele haioase</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label for="f-sensitive" data-i18n="all.sensitive">Insulte de grup</label>
+          <select id="f-sensitive" name="sensitive">
+            <option value="" data-i18n="all.sensitive.all">Cu tot cu ele</option>
+            <option value="false" data-i18n="all.sensitive.without">Fără insultele sensibile</option>
+          </select>
+        </div>
+      </div>
+      <p class="search__status">
+        <output id="total" aria-live="polite"></output>
+        <button type="button" class="text-button" id="clear" data-i18n="all.clear" hidden>Șterge filtrele</button>
+      </p>
+    </form>
+
+    <section class="register__leaf" id="results" tabindex="-1" aria-labelledby="results-title">
+      <h2 id="results-title" class="visually-hidden" data-i18n="all.results">Rezultate</h2>
+      <ol class="list" id="list" aria-busy="true"></ol>
+      <div class="list__empty" id="empty" hidden></div>
+    </section>
+
+    <nav class="pagination" id="pagination" data-i18n-attr="aria-label:all.pagination" hidden aria-label="Paginare">
+      <button type="button" class="action action--open" id="prev" data-i18n="all.previous">← Pagina dinainte</button>
+      <span class="pagination__where" id="where"></span>
+      <button type="button" class="action action--open" id="next" data-i18n="all.next">Pagina următoare →</button>
+    </nav>
+  </main>
+
+  <footer class="footer">
+    <p class="footer__colophon" data-i18n="footer.colophon">✠ Aici se sfârșesc urările ✠</p>
+    <ul class="footer__licenses">
+      <li><span data-i18n="footer.data">Datele:</span> <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a></li>
+      <li data-i18n="footer.code">Codul: MIT</li>
+    </ul>
+  </footer>
+</body>
+</html>

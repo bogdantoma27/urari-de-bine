@@ -1,0 +1,36 @@
+{
+  "id": "serpi-manca-mi-te-ar",
+  "text": "Șerpi mânca-mi-te-ar",
+  "original_text": "Şerpi mânca-mi-te-ar",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "șerpii",
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 4",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-4-1900",
+      "author": "Iuliu A. Zanne",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Şerpi mânca-mi-te-ar",
+      "verification": "verified",
+      "notes": "vol. 4, după Teodorescu, Poezii populare, p. 438"
+    }
+  ],
+  "explanation": null,
+  "translation": "Snakes, may they eat you",
+  "notes": null
+}

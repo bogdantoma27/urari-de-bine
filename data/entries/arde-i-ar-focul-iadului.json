@@ -1,0 +1,40 @@
+{
+  "id": "arde-i-ar-focul-iadului",
+  "text": "Arde-i-ar focul iadului",
+  "original_text": "arde-i-ar focul iadului",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "focul iadului",
+  "themes": [
+    "devil_hell",
+    "nature_elements"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Țara Fagilor XVI (2007)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-XVI-2007.pdf",
+      "author": null,
+      "year": 2007,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "arde-i-ar focul iadului",
+      "verification": "verified",
+      "notes": "nord-bucovinean. rostit în epoca sovietică, după articol"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire of hell burn them",
+  "notes": null
+}

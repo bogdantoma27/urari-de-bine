@@ -1,0 +1,39 @@
+{
+  "id": "iar-cine-vrea-sa-strice-aceasta-unul-ca-acela-sa-fie-blestemat-de-dumnezeu-si",
+  "text": "Iar cine vrea să strice aceasta, unul ca acela să fie blestemat de Dumnezeu și Mântuitorul nostru Iisus Hristos",
+  "original_text": "Iar cine vrea sa strice aceasta, unul ca acela sa fie blestemat de Dumnezeu si Mantuitorul nostru Iisus Hristos",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "sec. XV",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blesteme celebre din folclorul românesc",
+      "url": "https://www.bzi.ro/blesteme-celebre-din-folclorul-romanesc-772658",
+      "author": "BZI (bzi.ro)",
+      "year": 2015,
+      "page": null,
+      "informant": "Ștefan cel Mare, hrisov Dobrovăț",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Iar cine vrea sa strice aceasta, unul ca acela sa fie blestemat de Dumnezeu si Mantuitorul nostru Iisus Hristos",
+      "verification": "verified",
+      "notes": "extras trunchiat din sursă; document istoric"
+    }
+  ],
+  "explanation": "Așa se încheiau hrisoavele, ca să nu strice nimeni dania.",
+  "translation": "And whoever wants to spoil this, may such a one be cursed by God and our Savior Jesus Christ",
+  "notes": null
+}

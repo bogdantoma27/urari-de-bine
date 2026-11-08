@@ -1,0 +1,35 @@
+{
+  "id": "spurcatul-de-neamt",
+  "text": "Spurcatul de neamț",
+  "original_text": "Spurcatul de neamț",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1894",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mara, cap. Datoria",
+      "url": "https://ro.wikisource.org/wiki/Mara/Datoria",
+      "author": "Ioan Slavici",
+      "year": 1894,
+      "page": null,
+      "informant": "Ioan Slavici, Mara, cap. Datoria",
+      "regions": [],
+      "original_text": "Spurcatul de neamț",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); vizează etnia neamț"
+    }
+  ],
+  "explanation": "Neamț = german.",
+  "translation": "The filthy German",
+  "notes": null
+}

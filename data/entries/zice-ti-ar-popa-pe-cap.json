@@ -1,0 +1,38 @@
+{
+  "id": "zice-ti-ar-popa-pe-cap",
+  "text": "Zice-ți-ar popa pe cap",
+  "original_text": "Zice-ți-ar popa pe cap!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "popa",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Zice-ți-ar popa pe cap!",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: G. F. Ciaușanu, Glosar de cuvinte din județul Vâlcea, 1931, p. 12"
+    }
+  ],
+  "explanation": "Adică să-ți cânte popa la înmormântare.",
+  "translation": "May the priest say it over your head",
+  "notes": "sursă primară: Ciaușanu, Glosar de cuvinte din județul Vâlcea, 1931, p. 12"
+}

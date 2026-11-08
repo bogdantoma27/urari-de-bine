@@ -1,0 +1,35 @@
+{
+  "id": "moasta-pe-gheata",
+  "text": "Moașta pe gheață",
+  "original_text": "Moasta pe gheata",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Moasta pe gheata",
+      "verification": "transcribed",
+      "notes": "formă scurtă din „futu-ți moașa pe gheață”"
+    }
+  ],
+  "explanation": "Scurtat din „futu-ți moașa pe gheață”; moașta = moașa ta, bunica.",
+  "translation": "Your midwife on ice",
+  "notes": null
+}

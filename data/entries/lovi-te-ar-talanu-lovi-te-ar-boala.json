@@ -1,0 +1,35 @@
+{
+  "id": "lovi-te-ar-talanu-lovi-te-ar-boala",
+  "text": "Lovi-te-ar talanu, lovi-te-ar boala",
+  "original_text": "Lovi-te-ar talanu, lovi-te-ar boala",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "talanu",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban (1939), s.v. talan",
+      "url": "https://dexonline.ro/definitie/talan/719437",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Lovi-te-ar talanu, lovi-te-ar boala",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: Scriban; talan = cal prost"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the talan strike you, may the sickness strike you",
+  "notes": null
+}

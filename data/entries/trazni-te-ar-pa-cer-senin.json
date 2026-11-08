@@ -1,0 +1,35 @@
+{
+  "id": "trazni-te-ar-pa-cer-senin",
+  "text": "Trăzni-te-ar pă cer senin",
+  "original_text": "Trăzni-te-ar pă cer senin",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Trăzni-te-ar pă cer senin",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May lightning strike you on a clear sky",
+  "notes": null
+}

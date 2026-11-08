@@ -1,0 +1,40 @@
+{
+  "id": "manca-o-ar-pustia",
+  "text": "Mânca-o-ar pustia",
+  "original_text": "Manca-o-ar pustia",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pustia",
+  "themes": [
+    "sickness_death",
+    "nature_elements"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Manca-o-ar pustia",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); în doina «Radiță, lumea mea»; apare de două ori"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the wasteland eat her",
+  "notes": null
+}

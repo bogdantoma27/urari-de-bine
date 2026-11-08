@@ -1,0 +1,35 @@
+{
+  "id": "sa-te-duci-dracului-de-pomana-scarnaghia-dracului",
+  "text": "Să te duci dracului de pomană, scârnăghia dracului",
+  "original_text": "Să te duci dracului de pomană, scârnăghia dracului",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "1910",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Luceafărul (Delavrancea)",
+      "url": "https://ro.wikisource.org/wiki/Luceaf%C4%83rul_(Delavrancea)",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1910,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Luceafărul (Delavrancea)",
+      "regions": [],
+      "original_text": "Să te duci dracului de pomană, scârnăghia dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Scârnăghie = om josnic, scârbos.",
+  "translation": "Go to the devil for free, you devil's filth",
+  "notes": null
+}

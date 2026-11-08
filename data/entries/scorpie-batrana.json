@@ -1,0 +1,35 @@
+{
+  "id": "scorpie-batrana",
+  "text": "Scorpie bătrână",
+  "original_text": "Scorpie bătrînă",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. scorpie",
+      "url": "https://dexonline.ro/definitie/scorpie/941390",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Scorpie bătrînă",
+      "verification": "verified",
+      "notes": "DLRLC: termen de ocară pentru o femeie rea"
+    }
+  ],
+  "explanation": "Scorpie = femeie rea, țâfnoasă.",
+  "translation": "Old shrew",
+  "notes": null
+}

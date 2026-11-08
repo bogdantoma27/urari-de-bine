@@ -1,0 +1,35 @@
+{
+  "id": "puschea-pe-limba-ta",
+  "text": "Pușchea pe limba ta",
+  "original_text": "Pușchea pe limba ta!",
+  "type": "euphemism",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Pușchea pe limba ta!",
+      "verification": "transcribed",
+      "notes": "spusă când cineva prevestește ceva rău"
+    }
+  ],
+  "explanation": "Pușchea = bubă. Se zice cuiva care cobește.",
+  "translation": "A sore on your tongue",
+  "notes": null
+}

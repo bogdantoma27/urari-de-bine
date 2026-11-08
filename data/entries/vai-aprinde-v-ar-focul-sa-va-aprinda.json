@@ -1,0 +1,35 @@
+{
+  "id": "vai-aprinde-v-ar-focul-sa-va-aprinda",
+  "text": "Vai, aprinde-v-ar focul, să vă aprindă",
+  "original_text": "Vai, aprinde-v-ar focul, să vă aprindă",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "focul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: nevasta lui Vasile-Aniței)",
+      "regions": [],
+      "original_text": "Vai, aprinde-v-ar focul, să vă aprindă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "Alas, may the fire burn you, may it set you ablaze",
+  "notes": null
+}

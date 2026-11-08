@@ -1,0 +1,47 @@
+{
+  "id": "arda-l-focu",
+  "text": "Ardă-l focu",
+  "original_text": "Ardă-l focu",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "focul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC; DLRM",
+      "url": "https://dexonline.ro/definitie/arde",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ardă-l focu",
+      "verification": "verified",
+      "notes": "variantă: arde-l-ar focu; verificat pe textul sursei"
+    },
+    {
+      "title": "dexonline.ro, Scriban (1939)",
+      "url": "https://dexonline.ro/text/în blesteme",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ardă-l focu",
+      "verification": "unverified",
+      "notes": "variantă: arde-l-ar focu"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire burn him",
+  "notes": null
+}

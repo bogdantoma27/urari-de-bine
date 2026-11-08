@@ -1,0 +1,35 @@
+{
+  "id": "fie-i-moartea-din-cutit",
+  "text": "Fie-i moartea din cuțit",
+  "original_text": "Fie-i moartea din cuțit",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "moartea",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/moarte",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fie-i moartea din cuțit",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May his death come from a knife",
+  "notes": null
+}

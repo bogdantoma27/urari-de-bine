@@ -1,0 +1,36 @@
+{
+  "id": "manca-i-ar-cioarele",
+  "text": "Mânca-i-ar cioarele",
+  "original_text": "mînca-i-ar cioarele",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "cioarele",
+  "themes": [
+    "sickness_death",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/cioară",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-i-ar cioarele",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Să moară neîngropat și să-i mănânce ciorile.",
+  "translation": "May the crows eat them",
+  "notes": null
+}

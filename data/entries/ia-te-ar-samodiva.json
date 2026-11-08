@@ -1,0 +1,39 @@
+{
+  "id": "ia-te-ar-samodiva",
+  "text": "Ia-te-ar Samodiva",
+  "original_text": "Luate-ar Samodiva",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Samodiva",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 7",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-7-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "P. Daniilescu, Craiova, Dolj; Tuțescu, înv., Catanele, Dolj",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Luate-ar Samodiva",
+      "verification": "verified",
+      "notes": "Zanne vol. 7, nr. 15733; sursa: „sub formă de blestem (varianta a doua)”; „Luate-ar” = ia-te-ar"
+    }
+  ],
+  "explanation": "Samodiva = zână rea, din credințele sud-slave. Să te ia ea = să mori; se zice mai ales copiilor.",
+  "translation": "May the Samodiva take you",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "papa-lapte",
+  "text": "Papă-lapte",
+  "original_text": "papă-lapte",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Șăineanu, ed. VI; DEX '09; DOOM 3",
+      "url": "https://dexonline.ro/definitie/papă-lapte",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "papă-lapte",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om naiv sau fricos.",
+  "translation": "Milk-eater",
+  "notes": null
+}

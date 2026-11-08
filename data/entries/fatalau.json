@@ -1,0 +1,35 @@
+{
+  "id": "fatalau",
+  "text": "Fătălău",
+  "original_text": "fătălău",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DLRM; NODEX; DOOM 3",
+      "url": "https://dexonline.ro/definitie/fătălău",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "fătălău",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Băiat cu apucături de fată.",
+  "translation": "Girlish fellow",
+  "notes": null
+}

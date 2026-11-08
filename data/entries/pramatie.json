@@ -1,0 +1,35 @@
+{
+  "id": "pramatie",
+  "text": "Pramatie",
+  "original_text": "pramatie",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '98; Șăineanu, ed. VI",
+      "url": "https://dexonline.ro/definitie/pramatie",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "pramatie",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om fără caracter.",
+  "translation": "Scoundrel",
+  "notes": null
+}

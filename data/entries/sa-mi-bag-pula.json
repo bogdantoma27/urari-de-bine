@@ -1,0 +1,47 @@
+{
+  "id": "sa-mi-bag-pula",
+  "text": "Să-mi bag pula",
+  "original_text": "să-mi bag pula",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2016",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cele mai dure înjurături românești și ce poți înțelege din ele (VICE România)",
+      "url": "https://www.vice.com/ro/article/cele-mai-dure-injuraturi-romanesti/",
+      "author": "Mihai Popescu",
+      "year": 2016,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "să-mi bag pula",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "Cele mai dure înjurături românești",
+      "url": "https://www.vice.com/ro/article/cele-mai-dure-injuraturi-romanesti/",
+      "author": "Mihai Popescu, Vice România",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "SĂ-MI BAG PULA",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May I stick my cock in",
+  "notes": null
+}

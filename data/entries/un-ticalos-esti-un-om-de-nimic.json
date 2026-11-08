@@ -1,0 +1,35 @@
+{
+  "id": "un-ticalos-esti-un-om-de-nimic",
+  "text": "Un ticălos ești, un om de nimic",
+  "original_text": "Un ticălos ești, un om de nimic",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1884",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Pădureanca",
+      "url": "https://ro.wikisource.org/wiki/P%C4%83dureanca",
+      "author": "Ioan Slavici",
+      "year": 1884,
+      "page": null,
+      "informant": "Ioan Slavici, Pădureanca",
+      "regions": [],
+      "original_text": "Un ticălos ești, un om de nimic",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "A scoundrel you are, a good-for-nothing",
+  "notes": null
+}

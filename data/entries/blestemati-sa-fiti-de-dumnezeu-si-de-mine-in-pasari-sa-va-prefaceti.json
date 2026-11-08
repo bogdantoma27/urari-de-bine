@@ -1,0 +1,36 @@
+{
+  "id": "blestemati-sa-fiti-de-dumnezeu-si-de-mine-in-pasari-sa-va-prefaceti",
+  "text": "Blestemați să fiți de Dumnezeu și de mine! În păsări să vă prefaceți",
+  "original_text": "Blăstemaţi să fiți de Dumnegei și de mine! în păseri să vă prefaceţi",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "family",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Blăstemaţi să fiți de Dumnegei și de mine! în păseri să vă prefaceţi",
+      "verification": "verified",
+      "notes": "vol. 1; textul continuă după citat"
+    }
+  ],
+  "explanation": null,
+  "translation": "Cursed be you by God and by me! May you turn into birds",
+  "notes": null
+}

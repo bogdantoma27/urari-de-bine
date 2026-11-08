@@ -1,0 +1,35 @@
+{
+  "id": "batar-sa-crape-dracul",
+  "text": "Batăr să crape dracul",
+  "original_text": "batăr să crape dracul",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1879",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Popa Duhu",
+      "url": "https://ro.wikisource.org/wiki/Popa_Duhu",
+      "author": "Ion Creangă",
+      "year": 1879,
+      "page": null,
+      "informant": "Ion Creangă, Popa Duhu",
+      "regions": [],
+      "original_text": "batăr să crape dracul",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Batăr = măcar. Se zice când juri.",
+  "translation": "At least may the devil burst",
+  "notes": null
+}

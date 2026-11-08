@@ -1,0 +1,36 @@
+{
+  "id": "fire-ati-cai-in-veci-sa-fiti-blestemati-si-afurisiti-de-mine-de-dumnezeu",
+  "text": "Fire-ați, cai, în veci să fiți blestemați și afurisiți de mine, de Dumnezeu",
+  "original_text": "Fire-aţi, cai, în veci să fiţi Blestemaţi şi-afurisiţi De mine, de Dumnezeu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1904",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Legendele Maicii Domnului",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Simion_Florea_Marian_-_Legendele_Maicii_Domnului_-_1904.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1904,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fire-aţi, cai, în veci să fiţi Blestemaţi şi-afurisiţi De mine, de Dumnezeu",
+      "verification": "verified",
+      "notes": "Marian, Legendele Maicii Domnului (1904); variantă cu „în veci să fiți blestemați și afurisiți”"
+    }
+  ],
+  "explanation": "Maica Domnului blestemă caii care nu o lasă să se odihnească.",
+  "translation": "May you, horses, be forever cursed and accursed by me, by God",
+  "notes": null
+}

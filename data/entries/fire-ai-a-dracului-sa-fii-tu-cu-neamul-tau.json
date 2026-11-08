@@ -1,0 +1,36 @@
+{
+  "id": "fire-ai-a-dracului-sa-fii-tu-cu-neamul-tau",
+  "text": "Fire-ai a dracului să fii tu cu neamul tău",
+  "original_text": "fire-ai a dracului să fii tu cu neamul tău",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1932",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Răscoala, vol. Se mișcă țara!",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Se_mi%C8%99c%C4%83_%C8%9Bara!",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Se mișcă țara!",
+      "regions": [],
+      "original_text": "fire-ai a dracului să fii tu cu neamul tău",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you be the devil's, you and your kin",
+  "notes": null
+}

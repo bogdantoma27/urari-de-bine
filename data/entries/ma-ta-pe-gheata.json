@@ -1,0 +1,35 @@
+{
+  "id": "ma-ta-pe-gheata",
+  "text": "Mă-ta pe gheață",
+  "original_text": "Mă-ta pe gheață",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "Mă-ta pe gheață",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Your mother on ice",
+  "notes": null
+}

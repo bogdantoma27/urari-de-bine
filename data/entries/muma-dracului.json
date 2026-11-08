@@ -1,0 +1,36 @@
+{
+  "id": "muma-dracului",
+  "text": "Muma dracului",
+  "original_text": "muma dracului",
+  "type": "expression",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mărul Discordiei",
+      "url": "https://ro.wikisource.org/wiki/M%C4%83rul_Discordiei",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Mărul Discordiei",
+      "regions": [],
+      "original_text": "muma dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Muma = mama.",
+  "translation": "The devil's mother",
+  "notes": null
+}

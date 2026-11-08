@@ -1,0 +1,35 @@
+{
+  "id": "lipsesti-prostule-ca-te-ia-dracul",
+  "text": "Lipsești, prostule, că te ia dracul",
+  "original_text": "Lipsești, prostule, că te ia dracul",
+  "type": "swear",
+  "form": "other",
+  "affliction": "dracul",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1844",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Iorgu de la Sadagura",
+      "url": "https://ro.wikisource.org/wiki/Iorgu_de_la_Sadagura",
+      "author": "Vasile Alecsandri",
+      "year": 1844,
+      "page": null,
+      "informant": "Vasile Alecsandri, Iorgu de la Sadagura",
+      "regions": [],
+      "original_text": "Lipsești, prostule, că te ia dracul",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Get lost, you fool, or the devil will take you",
+  "notes": null
+}

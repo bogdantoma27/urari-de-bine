@@ -1,0 +1,35 @@
+{
+  "id": "tap",
+  "text": "Țap",
+  "original_text": "ȚAP",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE (1926-1931), s.v. țap",
+      "url": "https://dexonline.ro/definitie/țap/1344471",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ȚAP",
+      "verification": "verified",
+      "notes": "CADE: termen de ocară aplicat Grecului; ALECS."
+    }
+  ],
+  "explanation": "Ocară veche pentru greci, din secolul al XIX-lea.",
+  "translation": "Billy goat",
+  "notes": null
+}

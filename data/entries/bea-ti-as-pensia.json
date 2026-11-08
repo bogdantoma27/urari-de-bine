@@ -1,0 +1,36 @@
+{
+  "id": "bea-ti-as-pensia",
+  "text": "Bea-ți-aș pensia",
+  "original_text": "bea-ti-as pensia",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "modern",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; un om din generația X",
+      "regions": [],
+      "original_text": "bea-ti-as pensia",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "I would drink your pension",
+  "notes": null
+}

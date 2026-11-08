@@ -1,0 +1,35 @@
+{
+  "id": "tartanii-dracului",
+  "text": "Târtanii dracului",
+  "original_text": "târtanii dracului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1852",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Chirița în provincie",
+      "url": "https://ro.wikisource.org/wiki/Chiri%C8%9Ba_%C3%AEn_provincie",
+      "author": "Vasile Alecsandri",
+      "year": 1852,
+      "page": null,
+      "informant": "Vasile Alecsandri, Chirița în provincie",
+      "regions": [],
+      "original_text": "târtanii dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The devil's târtani",
+  "notes": null
+}

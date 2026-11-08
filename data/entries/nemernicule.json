@@ -1,0 +1,35 @@
+{
+  "id": "nemernicule",
+  "text": "Nemernicule",
+  "original_text": "Nemernicule",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1894",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mara, cap. Două porunci",
+      "url": "https://ro.wikisource.org/wiki/Mara/Dou%C4%83_porunci",
+      "author": "Ioan Slavici",
+      "year": 1894,
+      "page": null,
+      "informant": "Ioan Slavici, Mara, cap. Două porunci",
+      "regions": [],
+      "original_text": "Nemernicule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Nemernic = ticălos.",
+  "translation": "You scoundrel",
+  "notes": null
+}

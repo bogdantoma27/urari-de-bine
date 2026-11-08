@@ -1,0 +1,35 @@
+{
+  "id": "bat-o-norocul-de-fata",
+  "text": "Bat-o norocul de fată",
+  "original_text": "Bat-o norocul de fată",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "norocul",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Sultănica",
+      "url": "https://ro.wikisource.org/wiki/Sult%C4%83nica",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1885,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Sultănica",
+      "regions": [],
+      "original_text": "Bat-o norocul de fată",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Zis cu drag, pe jumătate în glumă: ce fată norocoasă!",
+  "translation": "May luck strike her, the girl",
+  "notes": null
+}

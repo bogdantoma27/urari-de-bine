@@ -1,0 +1,35 @@
+{
+  "id": "manca-te-ar-sacreata",
+  "text": "Mânca-te-ar sâcreata",
+  "original_text": "Mînca-te-ar sîcreata",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "sâcreata",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-te-ar sîcreata",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Sâcreata e o boală, numită și pustia.",
+  "translation": "May the sacreata eat you",
+  "notes": null
+}

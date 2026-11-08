@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-curu-n-buze",
+  "text": "Bată-te curu'n buze",
+  "original_text": "Bata-te curu'n buze",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": "curul",
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Bata-te curu'n buze",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May your ass strike your lips",
+  "notes": null
+}

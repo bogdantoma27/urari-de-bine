@@ -1,0 +1,36 @@
+{
+  "id": "ah-ceara-ma-tii",
+  "text": "Ah, ceara mă-tii",
+  "original_text": "Ah, ceara ma-tii",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul comentatorului",
+      "regions": [],
+      "original_text": "Ah, ceara ma-tii",
+      "verification": "transcribed",
+      "notes": "pentru necazuri mărunte"
+    }
+  ],
+  "explanation": "Ceara de la lumânări. Se zice la necazuri mărunte.",
+  "translation": "Oh, your mother's wax",
+  "notes": null
+}

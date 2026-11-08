@@ -1,0 +1,35 @@
+{
+  "id": "baba-mea-e-o-sterpatura",
+  "text": "Baba mea e o sterpătură",
+  "original_text": "baba mea e o sterpătură",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Moș Nichifor Coțcariul",
+      "url": "https://ro.wikisource.org/wiki/Mo%C8%99_Nichifor_Co%C8%9Bcariul",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Moș Nichifor Coțcariul (replica: moș Nichifor)",
+      "regions": [],
+      "original_text": "baba mea e o sterpătură",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Sterpătură = ocară pentru o femeie stearpă sau fără rost",
+  "translation": "My old woman is a barren one",
+  "notes": null
+}

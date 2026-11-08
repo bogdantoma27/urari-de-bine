@@ -1,0 +1,35 @@
+{
+  "id": "puturos",
+  "text": "Puturos",
+  "original_text": "puturos",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Șăineanu, ed. VI; Scriban; DOOM 3; DOOM 2",
+      "url": "https://dexonline.ro/definitie/puturos",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "puturos",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om murdar sau dezgustător.",
+  "translation": "Stinker",
+  "notes": null
+}

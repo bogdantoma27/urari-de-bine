@@ -1,0 +1,40 @@
+{
+  "id": "fire-ati-cai-voi-blestemati-nici-cand-sa-nu-aveti-sat-cu-orice-mancare-sa-n",
+  "text": "Fire-ați, cai, voi blestemați, nici când să nu aveți sat cu orice mâncare să n-aveți îndestulare până-n ziua de Înălțare",
+  "original_text": "Fire-aţi, cai, voi blestemaţi, Nici când să nu aveţi saţ Cu ori şi câtă mâncare",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "farm_animals"
+  ],
+  "regions": [
+    "bukovina"
+  ],
+  "level": "clean",
+  "period": "1904",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Legendele Maicii Domnului",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Simion_Florea_Marian_-_Legendele_Maicii_Domnului_-_1904.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1904,
+      "page": null,
+      "informant": "Ioan Nuțu, Bosanci, jud. Suceava",
+      "regions": [
+        "bukovina"
+      ],
+      "original_text": "Fire-aţi, cai, voi blestemaţi, Nici când să nu aveţi saţ Cu ori şi câtă mâncare",
+      "verification": "verified",
+      "notes": "Marian, Legendele Maicii Domnului (1904); variantă din Bosanci, distr. Sucevei, com. 1888 de Ioan Nuțu"
+    }
+  ],
+  "explanation": "Sat = sătul; caii nu se satură decât la Înălțare.",
+  "translation": "May you, horses, be cursed, never be sated, never have your fill of any food until Ascension day",
+  "notes": null
+}

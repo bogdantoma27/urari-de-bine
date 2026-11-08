@@ -1,0 +1,36 @@
+{
+  "id": "sa-nu-ti-sece-inima",
+  "text": "Să nu-ți sece inima",
+  "original_text": "Să nu-ți sece inima",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "inima",
+  "themes": [
+    "sickness_death",
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/inimă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să nu-ți sece inima",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May your heart not dry up",
+  "notes": null
+}

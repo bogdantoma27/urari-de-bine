@@ -1,0 +1,39 @@
+{
+  "id": "sa-nu-fac-sa-te-blestem-la-biserica-de-lemn-sa-ingenunchi-sa-te-blestem",
+  "text": "Să nu fac să te blestem, la biserica de lemn să îngenunchi să te blestem",
+  "original_text": "SA nu fac sd te blestem",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 318,
+      "informant": "Chr. N. Țapu de la lăutarul Constantin Baranca, Hurez, Vâlcea",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "SA nu fac sd te blestem",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); p. 318, doina «Foaie verde unt-de-lemn» (variantă)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May I not have to curse you, in the wooden church may I kneel to curse you",
+  "notes": null
+}

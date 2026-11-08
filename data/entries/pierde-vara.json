@@ -1,0 +1,35 @@
+{
+  "id": "pierde-vara",
+  "text": "Pierde-vară",
+  "original_text": "pierde-vară",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DOOM 3; Sinonime; Sinonime82",
+      "url": "https://dexonline.ro/definitie/pierde-vară",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "pierde-vară",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om care își pierde vremea.",
+  "translation": "Time-waster",
+  "notes": null
+}

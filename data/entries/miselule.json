@@ -1,0 +1,35 @@
+{
+  "id": "miselule",
+  "text": "Mișelule",
+  "original_text": "Mișelule",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "D'ale carnavalului",
+      "url": "https://ro.wikisource.org/wiki/D%27ale_carnavalului",
+      "author": "I. L. Caragiale",
+      "year": 1885,
+      "page": null,
+      "informant": "I. L. Caragiale, D'ale carnavalului (replica: Pampon)",
+      "regions": [],
+      "original_text": "Mișelule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Mișel = ticălos, laș.",
+  "translation": "You wretch",
+  "notes": null
+}

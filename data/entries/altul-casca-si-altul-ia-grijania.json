@@ -1,0 +1,35 @@
+{
+  "id": "altul-casca-si-altul-ia-grijania",
+  "text": "Altul cască, și altul ia grijania",
+  "original_text": "Altul cască, şi altul ieă grijania",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1899",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 3",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-3-1899",
+      "author": "Iuliu A. Zanne",
+      "year": 1899,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Altul cască, şi altul ieă grijania",
+      "verification": "verified",
+      "notes": "Zanne vol. 3, variantă 4 a unui proverb"
+    }
+  ],
+  "explanation": "Unul se trudește, altul trage folosul. Grijanie = împărtășanie.",
+  "translation": "One yawns and another takes the grijania",
+  "notes": null
+}

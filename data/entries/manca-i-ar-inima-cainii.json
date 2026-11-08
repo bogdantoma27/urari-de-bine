@@ -1,0 +1,36 @@
+{
+  "id": "manca-i-ar-inima-cainii",
+  "text": "Mânca-i-ar inima câinii!",
+  "original_text": "mânca-i-ar inima câinii!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "câinii",
+  "themes": [
+    "body",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Șăineanu, ed. VI",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mânca-i-ar inima câinii!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the dogs eat their heart!",
+  "notes": null
+}

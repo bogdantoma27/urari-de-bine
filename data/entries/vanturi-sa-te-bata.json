@@ -1,0 +1,35 @@
+{
+  "id": "vanturi-sa-te-bata",
+  "text": "Vânturi să te bată",
+  "original_text": "VénturT sa te bata",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "vânturile",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Înmormântarea la români",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Simion_Florea_Marian_-_%C3%8Enmorm%C3%A2ntarea_la_rom%C3%A2ni_-_Studiu_etnografic.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1892,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "VénturT sa te bata",
+      "verification": "verified",
+      "notes": "Marian, Înmormântarea la români; cântec la tăierea bradului, «Brade, brădete!»; OCR curat în partea citată"
+    }
+  ],
+  "explanation": null,
+  "translation": "May winds beat you",
+  "notes": null
+}

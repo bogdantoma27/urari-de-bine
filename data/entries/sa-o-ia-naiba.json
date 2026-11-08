@@ -1,0 +1,35 @@
+{
+  "id": "sa-o-ia-naiba",
+  "text": "Să o ia naiba",
+  "original_text": "sa o ia naiba",
+  "type": "euphemism",
+  "form": "subjunctive",
+  "affliction": "naiba",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Un pedagog de școală nouă",
+      "url": "https://ro.wikisource.org/wiki/Un_pedagog_de_%C8%99coal%C4%83_nou%C4%83",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Un pedagog de școală nouă",
+      "regions": [],
+      "original_text": "sa o ia naiba",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); în text: „Hoghi o fene eghemek! [magh. sa o ia naiba]”, rostită de un profesor care amestecă limbi"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil take her",
+  "notes": null
+}

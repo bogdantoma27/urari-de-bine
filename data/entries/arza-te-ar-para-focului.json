@@ -1,0 +1,35 @@
+{
+  "id": "arza-te-ar-para-focului",
+  "text": "Arză-te-ar para focului",
+  "original_text": "Arză-te-ar para focului",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "para focului",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Arză-te-ar para focului",
+      "verification": "transcribed",
+      "notes": "comentatorul: rostită de persoane foarte religioase"
+    }
+  ],
+  "explanation": "Para = flacără",
+  "translation": "May the flame of fire burn you",
+  "notes": null
+}

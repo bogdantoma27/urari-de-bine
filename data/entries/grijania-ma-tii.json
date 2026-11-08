@@ -1,0 +1,48 @@
+{
+  "id": "grijania-ma-tii",
+  "text": "Grijania mă-tii",
+  "original_text": "grijania mă-tii",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "grijania mă-tii",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Grijania mă-tii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Grijanie = împărtășanie.",
+  "translation": "Your mother's communion",
+  "notes": null
+}

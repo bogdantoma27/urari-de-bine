@@ -1,0 +1,36 @@
+{
+  "id": "sa-n-aiba-lumina-la-moartea-sa",
+  "text": "Să n-aibă lumină la moartea sa",
+  "original_text": "Să n-aibă lumină la moartea sa!",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să n-aibă lumină la moartea sa!",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: S. Fl. Marian, Înmormântarea la români, Saeculum 2009, p. 27"
+    }
+  ],
+  "explanation": "Lumina = lumânarea care se aprinde când moare omul.",
+  "translation": "May he have no light at his death",
+  "notes": null
+}

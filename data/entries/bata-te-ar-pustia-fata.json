@@ -1,0 +1,36 @@
+{
+  "id": "bata-te-ar-pustia-fata",
+  "text": "Bată-te-ar pustia, fată",
+  "original_text": "Bată-te-ar pustia, fată",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pustia",
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 132,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te-ar pustia, fată",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2; cântec"
+    }
+  ],
+  "explanation": "Pustia = pustiul, ca ceva rău care lovește.",
+  "translation": "May the wasteland strike you, girl",
+  "notes": null
+}

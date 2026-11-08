@@ -1,0 +1,35 @@
+{
+  "id": "cum-dracul-sa-i-fac-vant",
+  "text": "Cum dracul să-i fac vânt",
+  "original_text": "Cum dracul să-i fac vânt",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "D'ale carnavalului",
+      "url": "https://ro.wikisource.org/wiki/D%27ale_carnavalului",
+      "author": "I. L. Caragiale",
+      "year": 1885,
+      "page": null,
+      "informant": "I. L. Caragiale, D'ale carnavalului (replica: Iordache)",
+      "regions": [],
+      "original_text": "Cum dracul să-i fac vânt",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "How the devil am I supposed to fan him",
+  "notes": null
+}

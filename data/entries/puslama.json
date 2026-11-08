@@ -1,0 +1,35 @@
+{
+  "id": "puslama",
+  "text": "Pușlama",
+  "original_text": "pușlama",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Sinonime82",
+      "url": "https://dexonline.ro/definitie/pușlama",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "pușlama",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Derbedeu, lepădătură.",
+  "translation": "Scoundrel",
+  "notes": null
+}

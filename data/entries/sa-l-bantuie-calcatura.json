@@ -1,0 +1,35 @@
+{
+  "id": "sa-l-bantuie-calcatura",
+  "text": "Să-l bântuie călcătura",
+  "original_text": "sa-l bântuie călcătura",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "călcătura",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română (VICE România)",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Gabriel Botezatu",
+      "year": 2015,
+      "page": null,
+      "informant": "răspunsuri la ancheta Atlasului Lingvistic Român (supliment, 1942), citate de VICE",
+      "regions": [],
+      "original_text": "sa-l bântuie călcătura",
+      "verification": "verified",
+      "notes": "grafia surselor din Atlas, transcrisă de VICE; regiunea per formulă nu e dată"
+    }
+  ],
+  "explanation": "Călcătură = un rău, o boală care te lovește; a bântui = a chinui.",
+  "translation": "May the călcătură haunt him",
+  "notes": null
+}

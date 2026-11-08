@@ -1,0 +1,35 @@
+{
+  "id": "hahalera",
+  "text": "Hahaleră",
+  "original_text": "hahaleră",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DLRM; DOOM 3; DOOM 2",
+      "url": "https://dexonline.ro/definitie/hahaleră",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "hahaleră",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om fără scrupule.",
+  "translation": "Hahalera",
+  "notes": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "sa-mi-fac-schiuri-din-crucea-ma-tii",
+  "text": "Să-mi fac schiuri din crucea mă-tii",
+  "original_text": "sa imi fac schiuri din crucea ma-tii",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: [Crowdsourcing] Injuraturi Romanesti",
+      "url": "https://www.reddit.com/r/Romania/comments/12esrqp/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "sa imi fac schiuri din crucea ma-tii",
+      "verification": "transcribed",
+      "notes": null
+    },
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Sa-mi fac schiuri din crucea matii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May I make skis from your mother's cross",
+  "notes": null
+}

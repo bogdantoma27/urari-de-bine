@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-baduta-bata",
+  "text": "Bată-te, băduță, bată",
+  "original_text": "Bată-te, băduță, bată",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR (1913-2010), s.v. meu",
+      "url": "https://dexonline.ro/definitie/meu/1303304",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te, băduță, bată",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR; JARNIK-BÎRSEANU, D. 257"
+    }
+  ],
+  "explanation": "Băduță = diminutiv de la bade.",
+  "translation": "May it strike you, little Badea, may it strike",
+  "notes": null
+}

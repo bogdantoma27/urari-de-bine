@@ -1,0 +1,35 @@
+{
+  "id": "manca-te-ar-rusinea-targului",
+  "text": "Mânca-te-ar rușinea târgului",
+  "original_text": "Mâncă te-ar ruşinea tirgului",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "rușinea",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 7",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-7-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "Dr. Cristea, Prov., Ida Mare",
+      "regions": [],
+      "original_text": "Mâncă te-ar ruşinea tirgului",
+      "verification": "verified",
+      "notes": "Zanne vol. 7, nr. 17393, după Dr. Cristea, Prov. p. 148"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the shame of the fair eat you",
+  "notes": null
+}

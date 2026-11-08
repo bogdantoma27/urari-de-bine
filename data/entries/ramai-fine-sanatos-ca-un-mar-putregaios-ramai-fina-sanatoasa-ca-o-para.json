@@ -1,0 +1,36 @@
+{
+  "id": "ramai-fine-sanatos-ca-un-mar-putregaios-ramai-fina-sanatoasa-ca-o-para",
+  "text": "Rămâi, fine, sănătos, / Ca un măr putregăios, / Rămâi, fină, sănătoasă, / Ca o pară viermănoasă",
+  "original_text": "Rămîi, fine, sănătos,/ Ca un măr putregăios,/ Rămîi, fină, sănătoasă,/ Ca o pară viermănoasă",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Rămîi, fine, sănătos,/ Ca un măr putregăios,/ Rămîi, fină, sănătoasă,/ Ca o pară viermănoasă",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: Elena Niculiță-Voronca, Datinele și credințele poporului român, vol. II, Saeculum 1998, p. 11"
+    }
+  ],
+  "explanation": "Fin, fină = copiii de botez. Pare urare, dar e blestem.",
+  "translation": "Stay healthy, godson, like a rotten apple, stay healthy, goddaughter, like a wormy pear",
+  "notes": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "face-te-ai-oale-si-urcioare",
+  "text": "Face-te-ai oale și urcioare",
+  "original_text": "Face-te-ai oale și urcioare!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Face-te-ai oale și urcioare!",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: G. F. Ciaușanu, Glosar de cuvinte din județul Vâlcea, 1931, p. 45"
+    }
+  ],
+  "explanation": "Adică să mori și să te faci pământ de oale.",
+  "translation": "May you be made into pots and jugs",
+  "notes": "sursă primară: Ciaușanu, Glosar de cuvinte din județul Vâlcea, 1931, p. 45"
+}

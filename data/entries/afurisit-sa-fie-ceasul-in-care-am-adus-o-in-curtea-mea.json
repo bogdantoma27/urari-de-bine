@@ -1,0 +1,35 @@
+{
+  "id": "afurisit-sa-fie-ceasul-in-care-am-adus-o-in-curtea-mea",
+  "text": "Afurisit să fie ceasul în care am adus-o în curtea mea",
+  "original_text": "Afurisit să fie ceasul în care am adus-o în curtea mea",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1884",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Pădureanca",
+      "url": "https://ro.wikisource.org/wiki/P%C4%83dureanca",
+      "author": "Ioan Slavici",
+      "year": 1884,
+      "page": null,
+      "informant": "Ioan Slavici, Pădureanca",
+      "regions": [],
+      "original_text": "Afurisit să fie ceasul în care am adus-o în curtea mea",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Afurisit = blestemat",
+  "translation": "Cursed be the hour in which I brought her into my yard",
+  "notes": null
+}

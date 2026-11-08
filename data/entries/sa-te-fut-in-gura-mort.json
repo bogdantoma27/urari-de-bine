@@ -1,0 +1,36 @@
+{
+  "id": "sa-te-fut-in-gura-mort",
+  "text": "Să te fut în gură mort",
+  "original_text": "sa te fut in gura mort!",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; un vecin",
+      "regions": [],
+      "original_text": "sa te fut in gura mort!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May I fuck you in the mouth, dead",
+  "notes": null
+}

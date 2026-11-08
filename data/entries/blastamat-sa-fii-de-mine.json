@@ -1,0 +1,35 @@
+{
+  "id": "blastamat-sa-fii-de-mine",
+  "text": "Blăstămat să fii de mine",
+  "original_text": "Blăstămat să fii de mine",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "mama",
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blăstăm de mamă",
+      "url": "https://ro.wikisource.org/wiki/Bl%C4%83st%C4%83m_de_mam%C4%83",
+      "author": "George Coșbuc",
+      "year": null,
+      "page": null,
+      "informant": "George Coșbuc, Blăstăm de mamă",
+      "regions": [],
+      "original_text": "Blăstămat să fii de mine",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you be cursed by me",
+  "notes": null
+}

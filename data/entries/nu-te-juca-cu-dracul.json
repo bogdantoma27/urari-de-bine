@@ -1,0 +1,35 @@
+{
+  "id": "nu-te-juca-cu-dracul",
+  "text": "Nu te juca cu dracul",
+  "original_text": "Nu te juca cu dracul",
+  "type": "expression",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Moara cu noroc",
+      "url": "https://ro.wikisource.org/wiki/Moara_cu_noroc",
+      "author": "Ioan Slavici",
+      "year": 1881,
+      "page": null,
+      "informant": "Ioan Slavici, Moara cu noroc",
+      "regions": [],
+      "original_text": "Nu te juca cu dracul",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Don't play with the devil",
+  "notes": "proverb-avertisment cu drac; păstrat"
+}

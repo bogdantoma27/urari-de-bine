@@ -1,0 +1,47 @@
+{
+  "id": "ocara-lumii",
+  "text": "Ocara lumii",
+  "original_text": "ocara lumii",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR (tomul X); MDA2",
+      "url": "https://dexonline.ro/definitie/ocară",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ocara lumii",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "dexonline.ro, DLR - tomul X",
+      "url": "https://dexonline.ro/definitie/ocară",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ocara lumii",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    }
+  ],
+  "explanation": null,
+  "translation": "The disgrace of the world",
+  "notes": null
+}

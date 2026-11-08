@@ -1,0 +1,36 @@
+{
+  "id": "betivul-arda-l-ar-focul-mi-a-baut-casa-si-locul",
+  "text": "Bețivul, ardă-l-ar focul, mi-a băut casa și locul",
+  "original_text": "Bețivul, ardă-l-ar focul, Mi-a băut casa și locul",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "focul",
+  "themes": [
+    "nature_elements",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 288,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bețivul, ardă-l-ar focul, Mi-a băut casa și locul",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2, p. 289; cântec"
+    }
+  ],
+  "explanation": null,
+  "translation": "The drunkard, may fire burn him, has drunk away my house and land",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sa-se-duca-dracului",
+  "text": "Să se ducă dracului",
+  "original_text": "Să se ducă dracului",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1883",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ornitologia poporană română, vol. 2",
+      "url": "https://archive.org/details/marian-simion-florea-ornitologia-poporana-romana-vol.-2-scan",
+      "author": "Simion Florea Marian",
+      "year": 1883,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să se ducă dracului",
+      "verification": "verified",
+      "notes": "Marian, Ornitologia poporană II; vrăji de dragoste ale vrăjitoarelor"
+    }
+  ],
+  "explanation": null,
+  "translation": "May he go to the devil",
+  "notes": null
+}

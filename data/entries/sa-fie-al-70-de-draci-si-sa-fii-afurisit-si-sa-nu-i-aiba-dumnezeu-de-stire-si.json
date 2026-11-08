@@ -1,0 +1,39 @@
+{
+  "id": "sa-fie-al-70-de-draci-si-sa-fii-afurisit-si-sa-nu-i-aiba-dumnezeu-de-stire-si",
+  "text": "Să fie al 70 de draci și să fii afurisit și să nu-i aibă Dumnezeu de știre și să fii în iad",
+  "original_text": "să fie al 70 de draci şi să fii afurisit şi să nu-i aibă Dumnezeu de ştire şi să fii în iad",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1429-1859 (intervalul corpusului)",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Maria Mocanu, Însemnări de pe manuscrise și cărți vechi din Țara Moldovei I-IV, un corpus editat de I. Caproșu și E. Chiaburu. Blestemul – între magie și credință, AUI Lingvistică LX, 2014, citând corpusul Caproșu-Chiaburu, Iași, Demiurg, 2008-2009, vol. și pagina I, 337",
+      "url": "https://www.diacronia.ro/indexing/details/A7001/pdf",
+      "author": "Maria Mocanu (citat din Caproșu, Chiaburu)",
+      "year": 2014,
+      "page": "I, 337",
+      "informant": "însemnare pe carte veche (donator/copist)",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "să fie al 70 de draci şi să fii afurisit şi să nu-i aibă Dumnezeu de ştire şi să fii în iad",
+      "verification": "verified",
+      "notes": "citat în articolul lui Mocanu; ortografie modernizată în corpus; volum, pagină în corpusul editat: I, 337"
+    }
+  ],
+  "explanation": "Se scria pe cărți, contra celui care le-ar fura.",
+  "translation": "May he be seventy devils' and accursed, and may God take no notice of him, and may you be in hell",
+  "notes": null
+}

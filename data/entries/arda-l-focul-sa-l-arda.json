@@ -1,0 +1,35 @@
+{
+  "id": "arda-l-focul-sa-l-arda",
+  "text": "Ardă-l focul (să-l ardă)!",
+  "original_text": "arză-l) focul (să-l ardă",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "focul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, NODEX (2002)",
+      "url": "https://dexonline.ro/text/în imprecații",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "arză-l) focul (să-l ardă",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire burn him, burn him!",
+  "notes": null
+}

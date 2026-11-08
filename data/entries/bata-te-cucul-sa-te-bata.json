@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-cucul-sa-te-bata",
+  "text": "Bată-te cucul să te bată",
+  "original_text": "bată-te cucul să te bată",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "cucul",
+  "themes": [
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1844",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Iorgu de la Sadagura",
+      "url": "https://ro.wikisource.org/wiki/Iorgu_de_la_Sadagura",
+      "author": "Vasile Alecsandri",
+      "year": 1844,
+      "page": null,
+      "informant": "Vasile Alecsandri, Iorgu de la Sadagura",
+      "regions": [],
+      "original_text": "bată-te cucul să te bată",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Cucul = dracul, zis pe ocolite.",
+  "translation": "May the cuckoo strike you, may it strike you",
+  "notes": null
+}

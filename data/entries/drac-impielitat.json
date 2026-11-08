@@ -1,0 +1,35 @@
+{
+  "id": "drac-impielitat",
+  "text": "Drac împielițat",
+  "original_text": "drac împielițat",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007); DEX '09",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "drac împielițat",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Se spune despre un om foarte rău sau poznaș.",
+  "translation": "Imp in skins",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a-dracului-cojanca",
+  "text": "A dracului cojanca",
+  "original_text": "A dracului cojanca",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "A dracului cojanca",
+      "verification": "transcribed",
+      "notes": "cojan = locuitor de la câmpie (ironic)"
+    }
+  ],
+  "explanation": "Cojan = om de la câmpie, zis cu dispreț; cojancă, femeia.",
+  "translation": "The devil's peasant woman",
+  "notes": null
+}

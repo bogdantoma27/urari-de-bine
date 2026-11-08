@@ -1,0 +1,35 @@
+{
+  "id": "manca-u-ar-mancarea-mea",
+  "text": "Mânca-u-ar mâncarea mea",
+  "original_text": "Mînca-u-ar mîncarea mea",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 43,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-u-ar mîncarea mea",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2; strofa «Bată-mi-o-ar steaua mea, Mînca-u-ar mîncarea mea...»"
+    }
+  ],
+  "explanation": "Mânca-u-ar = mânca-o-ar.",
+  "translation": "May she eat my food",
+  "notes": null
+}

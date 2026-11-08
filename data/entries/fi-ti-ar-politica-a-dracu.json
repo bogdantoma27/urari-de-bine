@@ -1,0 +1,35 @@
+{
+  "id": "fi-ti-ar-politica-a-dracu",
+  "text": "Fi-ți-ar politica a dracu'",
+  "original_text": "Fi-ţi-ar politica a dracu’",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "Fi-ţi-ar politica a dracu’",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Tănase 1995, p. 267"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil's politics be on you",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sa-n-am-parte-de-lumanare",
+  "text": "Să n-am parte de lumânare",
+  "original_text": "Să n-am parte de lumânare",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestem (blog Adevărul)",
+      "url": "https://adevarul.ro/blogurile-adevarul/blestem-1755471.html",
+      "author": "blogger Adevărul",
+      "year": null,
+      "page": null,
+      "informant": "tatăl autorului",
+      "regions": [],
+      "original_text": "Să n-am parte de lumânare",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Adică să mor fără lumânare la cap.",
+  "translation": "May I get no candle",
+  "notes": null
+}

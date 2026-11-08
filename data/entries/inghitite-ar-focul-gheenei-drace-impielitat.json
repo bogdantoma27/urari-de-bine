@@ -1,0 +1,40 @@
+{
+  "id": "inghitite-ar-focul-gheenei-drace-impielitat",
+  "text": "Înghițite-ar focul Gheenei, drace împielițat",
+  "original_text": "Înghiţite-ar focul Gheenei, drace împieliţat!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "focul Gheenei",
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum își blestemă românii dușmanii",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/cum-isi-blestema-romanii-dusmanii-1145715.html",
+      "author": "Monika (Adevărul)",
+      "year": 2010,
+      "page": null,
+      "informant": "folclorist Paul Buță, citat în articol; Cavadinești, nordul jud. Galați",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Înghiţite-ar focul Gheenei, drace împieliţat!",
+      "verification": "verified",
+      "notes": "regiune dedusă din Galați în sursă"
+    }
+  ],
+  "explanation": "Gheena = iadul; împielițat = diavolesc, posedat.",
+  "translation": "May the fire of Gehenna swallow you, you devilish fiend",
+  "notes": null
+}

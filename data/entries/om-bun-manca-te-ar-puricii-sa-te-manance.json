@@ -1,0 +1,52 @@
+{
+  "id": "om-bun-manca-te-ar-puricii-sa-te-manance",
+  "text": "Om bun, mânca-te-ar puricii, să te mănânce",
+  "original_text": "Om bun, mînca-te-ar puricii, să te mănînce",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "puricii",
+  "themes": [
+    "sickness_death",
+    "farm_animals"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR, s.v. mânca",
+      "url": "https://dexonline.ro/definitie/mânca/1330762",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Om bun, mînca-te-ar puricii, să te mănînce",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR; CREANGĂ, P. 172; adesea glumeț"
+    },
+    {
+      "title": "Povestea lui Stan Pățitul",
+      "url": "https://ro.wikisource.org/wiki/Povestea_lui_Stan_P%C4%83%C8%9Bitul",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Povestea lui Stan Pățitul (replica: personaj)",
+      "regions": [],
+      "original_text": "Om bun, mânca-te-ar puricii să te mănânce",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "Good man, may the fleas eat you, may they devour you",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pe-tine-cadavru-spoit-cu-unsoare-te-blestem-sa-te-mputi-pe-picioare",
+  "text": "Pe tine, cadavru spoit cu unsoare, te blestem să te-mpuți pe picioare",
+  "original_text": "Pe tine cadavru spoit cu unsoare/ Te blestem sa te-mputi pe picioare",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blesteme celebre din folclorul românesc",
+      "url": "https://www.bzi.ro/blesteme-celebre-din-folclorul-romanesc-772658",
+      "author": "BZI (bzi.ro)",
+      "year": 2015,
+      "page": null,
+      "informant": "Tudor Arghezi, poemul „Blestemul”",
+      "regions": [],
+      "original_text": "Pe tine cadavru spoit cu unsoare/ Te blestem sa te-mputi pe picioare",
+      "verification": "verified",
+      "notes": "atestare literară"
+    }
+  ],
+  "explanation": null,
+  "translation": "You, corpse smeared with grease, I curse you to rot on your feet",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bine-ticalosule",
+  "text": "Bine, ticălosule",
+  "original_text": "Bine, ticălosule",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Liga",
+      "url": "https://ro.wikisource.org/wiki/Liga",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Liga",
+      "regions": [],
+      "original_text": "Bine, ticălosule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Well done, wretch",
+  "notes": null
+}

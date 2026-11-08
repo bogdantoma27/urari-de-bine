@@ -1,0 +1,37 @@
+{
+  "id": "manca-ti-ar-rusinea-nasul",
+  "text": "Mânca-ți-ar rușinea nasul",
+  "original_text": "Mânca ţi-ar ruşinea nasul",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "rușinea",
+  "themes": [
+    "body"
+  ],
+  "regions": [
+    "banat"
+  ],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 7",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-7-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "Dr. Cristea, Prov., Denta, Ungaria",
+      "regions": [],
+      "original_text": "Mânca ţi-ar ruşinea nasul",
+      "verification": "verified",
+      "notes": "Zanne vol. 7, nr. 17392, după Dr. Cristea, Prov. p. 148"
+    }
+  ],
+  "explanation": null,
+  "translation": "May shame eat your nose",
+  "notes": "informator Dr. Cristea, Denta; Denta e comună în jud. Timiș (Banat), parte a Ungariei înainte de 1918"
+}

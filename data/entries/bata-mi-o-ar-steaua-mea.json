@@ -1,0 +1,36 @@
+{
+  "id": "bata-mi-o-ar-steaua-mea",
+  "text": "Bată-mi-o-ar steaua mea",
+  "original_text": "Bată-mi-o-ar steaua mea",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "steaua mea",
+  "themes": [
+    "farm_animals",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 43,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-mi-o-ar steaua mea",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2; continuă „mânca-u-ar mâncarea mea, dormi-u-ar pe perna mea”"
+    }
+  ],
+  "explanation": "Zis unei cățele care latră; steaua = soarta.",
+  "translation": "May my star strike her",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "toparlani-salbatici",
+  "text": "Țopârlani sălbatici",
+  "original_text": "țopârlani sălbatici",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: părintele Duhu)",
+      "regions": [],
+      "original_text": "țopârlani sălbatici",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Țopârlan = om necioplit, bădăran.",
+  "translation": "Wild boors",
+  "notes": null
+}

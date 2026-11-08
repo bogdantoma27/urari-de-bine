@@ -1,0 +1,37 @@
+{
+  "id": "fir-ar-norii-ma-tii-ai-dracu",
+  "text": "Fir-ar norii mă-tii ai dracu'",
+  "original_text": "fir-ar norii ma-tii ai dracu",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul autorului postării",
+      "regions": [],
+      "original_text": "fir-ar norii ma-tii ai dracu",
+      "verification": "transcribed",
+      "notes": "folosită când era enervat la culme"
+    }
+  ],
+  "explanation": null,
+  "translation": "May your mother's clouds be the devil's",
+  "notes": null
+}

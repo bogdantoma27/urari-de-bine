@@ -1,0 +1,39 @@
+{
+  "id": "s-t-u-da-davanu",
+  "text": "S-ț-u da davanu",
+  "original_text": "S-ț-u da davanu",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "davanu",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "aromanian"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Urarea și blestemul în albaneză și în graiul fărșerot al dialectului aromân. Concordanțe frazeologice și semantice (Lucrările Simpozionului Internațional de Lingvistică, ed. a 6-a, 2015)",
+      "url": "https://www.diacronia.ro/indexing/details/V4246/pdf",
+      "author": "Daniela-Carmen Stoica",
+      "year": 2017,
+      "page": "171-174",
+      "informant": "fărșeroți din M. Kogălniceanu, România, culeși de I. Wisoșenschi 2002 (citați de Stoica)",
+      "regions": [
+        "aromanian"
+      ],
+      "original_text": "S-ț-u da davanu",
+      "verification": "verified",
+      "notes": "grai fărșerot plisot; grafia sursei păstrată, normalizare minimă; formula culeasă de Wisoșenschi, citată indirect"
+    }
+  ],
+  "explanation": "Aromână (fărșerot): să te lovească nebunia.",
+  "translation": "May madness strike you",
+  "notes": null
+}

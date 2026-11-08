@@ -1,0 +1,49 @@
+{
+  "id": "manca-i-ar-pamantul-sa-i-manance-doamne-iarta-ma",
+  "text": "Mânca-i-ar pământul să-i mânânce, Doamne iartă-mă",
+  "original_text": "mînca-i-ar pămîntul să-i mânînce, Doamne iartă-mă",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pământul",
+  "themes": [
+    "church",
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE, s.v. bou",
+      "url": "https://dexonline.ro/definitie/bou/1371082",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-i-ar pămîntul să-i mânînce, Doamne iartă-mă",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: CADE; CRG.; urmat de formula Doamne iartă-mă"
+    },
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: mama)",
+      "regions": [],
+      "original_text": "Mânca-i-ar pământul să-i mănânce, Doamne, iartă-mă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the earth eat them, may it eat them, Lord forgive me",
+  "notes": null
+}

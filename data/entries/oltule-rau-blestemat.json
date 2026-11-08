@@ -1,0 +1,35 @@
+{
+  "id": "oltule-rau-blestemat",
+  "text": "Oltule, râu blestemat",
+  "original_text": "Oltule, riu blestemat",
+  "type": "curse",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Poezii populare române, vol. I-III (ed. Minerva, după colecția din 1885)",
+      "url": null,
+      "author": "George Dem. Teodorescu",
+      "year": 1885,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Oltule, riu blestemat",
+      "verification": "verified",
+      "notes": "Teodorescu, Poezii populare române; strigătură către râu"
+    }
+  ],
+  "explanation": null,
+  "translation": "Olt, cursed river",
+  "notes": null
+}

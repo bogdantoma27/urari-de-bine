@@ -1,0 +1,41 @@
+{
+  "id": "sa-fie-afurisit-de-318-sfinti-cei-din-nicheia-si-sa-intre-dracul-intr-insu-sa",
+  "text": "Să fie afurisit de 318 Sfinți cei din Nicheia și să intre dracul într-însu, să zbiere ca măgariu când îl mănâncă lupii",
+  "original_text": "să fie afurisit de 318 Sfinţi cei din Nicheia şi se intre dracul într-însu, să zbiere ca măgariu cînd îl mănîncă lupii",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "dracul",
+  "themes": [
+    "church",
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "sec. XV-XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Însemnări de pe manuscrise și cărți vechi din Țara Moldovei I-IV, un corpus editat de I. Caproșu și E. Chiaburu. Blestemul – între magie și credință (AUI, Lingvistică, LX, 2014)",
+      "url": "https://diacronia.ro/indexing/details/A7001/pdf",
+      "author": "Maria Mocanu",
+      "year": 2014,
+      "page": "205-",
+      "informant": "însemnător pe carte veche",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "să fie afurisit de 318 Sfinţi cei din Nicheia şi se intre dracul într-însu, să zbiere ca măgariu cînd îl mănîncă lupii",
+      "verification": "verified",
+      "notes": "Citat din corpusul Caproșu-Chiaburu, Însemnări de pe manuscrise și cărți vechi din Țara Moldovei, vol. I, p. 519 (însemnări 1429-1859); blestem de danie/proprietate pe carte"
+    }
+  ],
+  "explanation": "Cei 318 Sfinți din Nicheia = părinții Sinodului de la Niceea; afurisit = scos din biserică.",
+  "translation": "May he be accursed by the 318 Saints of Nicaea, and may the devil enter him, and may he bray like a donkey when wolves eat him",
+  "notes": null
+}

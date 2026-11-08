@@ -1,0 +1,35 @@
+{
+  "id": "fir-ar-el-blestemat-sa-fie-de-liceu",
+  "text": "Fir-ar el blestemat să fie de liceu",
+  "original_text": "fir-ar el blestemat să fie de liceu",
+  "type": "euphemism",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "fir-ar el blestemat să fie de liceu",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Cimpoeșu 2001, p. 167"
+    }
+  ],
+  "explanation": null,
+  "translation": "May he be accursed, that high school",
+  "notes": null
+}

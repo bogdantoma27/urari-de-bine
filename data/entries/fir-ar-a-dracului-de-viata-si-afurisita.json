@@ -1,0 +1,35 @@
+{
+  "id": "fir-ar-a-dracului-de-viata-si-afurisita",
+  "text": "Fir-ar a dracului de viață și afurisită",
+  "original_text": "Fir-ar a dracului de viață ș-afurisită",
+  "type": "euphemism",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1879",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "O noapte furtunoasă",
+      "url": "https://ro.wikisource.org/wiki/O_noapte_furtunoas%C4%83",
+      "author": "I. L. Caragiale",
+      "year": 1879,
+      "page": null,
+      "informant": "I. L. Caragiale, O noapte furtunoasă (replica: Ziță)",
+      "regions": [],
+      "original_text": "Fir-ar a dracului de viață ș-afurisită",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "Damn this life, accursed as it is",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-nevoia",
+  "text": "Bată-l nevoia",
+  "original_text": "bată-l nevoia",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "nevoia",
+  "themes": [
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Schiță de călătorie",
+      "url": "https://ro.wikisource.org/wiki/Schi%C8%9B%C4%83_de_c%C4%83l%C4%83torie",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Schiță de călătorie",
+      "regions": [],
+      "original_text": "bată-l nevoia",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Nevoia = sărăcie, lipsă",
+  "translation": "May need strike him",
+  "notes": null
+}

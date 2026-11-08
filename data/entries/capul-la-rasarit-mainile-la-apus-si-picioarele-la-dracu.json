@@ -1,0 +1,35 @@
+{
+  "id": "capul-la-rasarit-mainile-la-apus-si-picioarele-la-dracu",
+  "text": "Capul la răsărit, mâinile la apus și picioarele la dracu",
+  "original_text": "Capul la răsărit, mâinile la apus și picioarele la dracu",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1910",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Luceafărul (Delavrancea)",
+      "url": "https://ro.wikisource.org/wiki/Luceaf%C4%83rul_(Delavrancea)",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1910,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Luceafărul (Delavrancea)",
+      "regions": [],
+      "original_text": "Capul la răsărit, mâinile la apus și picioarele la dracu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Head to the east, hands to the west and feet to the devil",
+  "notes": null
+}

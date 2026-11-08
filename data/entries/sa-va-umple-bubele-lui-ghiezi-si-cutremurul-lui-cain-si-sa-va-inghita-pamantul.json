@@ -1,0 +1,36 @@
+{
+  "id": "sa-va-umple-bubele-lui-ghiezi-si-cutremurul-lui-cain-si-sa-va-inghita-pamantul",
+  "text": "Să vă umple bubele lui Ghiezi și cutremurul lui Cain și să vă înghită pământul de vii ca pre Datan și Aviron",
+  "original_text": "Să vă umple bubele lui Ghiezi și cutremurul lui Cain și să vă înghiță pămîntul de vii ca pre Datan și Aviron",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "bubele lui Ghiezi, cutremurul lui Cain, pământul",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să vă umple bubele lui Ghiezi și cutremurul lui Cain și să vă înghiță pămîntul de vii ca pre Datan și Aviron",
+      "verification": "verified",
+      "notes": "Citat de Nasta după Bădescu, Cărțile de blestem (2013), prin Mazilu; nu e folclor oral"
+    }
+  ],
+  "explanation": "Ghiezi = slujitor biblic lovit de lepră; Cain = ucigașul lui Abel; Datan și Aviron = răzvrătiți înghițiți de pământ.",
+  "translation": "May Gehazi's sores and Cain's trembling fill you and may the earth swallow you alive like Dathan and Abiram",
+  "notes": null
+}

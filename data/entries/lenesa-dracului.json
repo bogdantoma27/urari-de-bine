@@ -1,0 +1,35 @@
+{
+  "id": "lenesa-dracului",
+  "text": "Leneșa dracului",
+  "original_text": "leneșa dracului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Poveste de Paști",
+      "url": "https://ro.wikisource.org/wiki/Poveste_de_Pa%C8%99ti",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Poveste de Paști",
+      "regions": [],
+      "original_text": "leneșa dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The devil's lazy one",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "moasta-pi-ghiati-cu-mostu-di-ati",
+  "text": "Moașta pi ghiațî cu moștu di ațî",
+  "original_text": "moașta pi ghiațî cu moștu di ațî",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "moașta pi ghiațî cu moștu di ațî",
+      "verification": "transcribed",
+      "notes": "grafie cu fonetism moldovenesc"
+    }
+  ],
+  "explanation": null,
+  "translation": "Your midwife on ice with your whatever",
+  "notes": null
+}

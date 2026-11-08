@@ -1,0 +1,40 @@
+{
+  "id": "sa-te-insori-de-noua-ori-si-sa-ti-faci-noua-fii-a-zecea-o-copilita-sa-ti-care",
+  "text": "Să te însori de nouă ori și să-ți faci nouă fii, a zecea o copiliță, să-ți care apă la temniță",
+  "original_text": "Să te însori de nouă ori Şi să-ţi faci nouă ficiori",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "family",
+    "prison"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 13,
+      "informant": null,
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Să te însori de nouă ori Şi să-ţi faci nouă ficiori",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2; cântec din Broscăuți (Bucovina)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you marry nine times and make nine sons, the tenth a little girl, to carry you water in the dungeon",
+  "notes": null
+}

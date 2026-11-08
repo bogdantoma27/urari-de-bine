@@ -1,0 +1,59 @@
+{
+  "id": "bata-te-dumnezeu",
+  "text": "Bată-te Dumnezeu",
+  "original_text": "Bată-te dumnezeu",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1932",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te dumnezeu",
+      "verification": "verified",
+      "notes": "Șăineanu (1929): bată-l Dumnezeu; verificat pe textul sursei"
+    },
+    {
+      "title": "Răscoala, vol. Focurile",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Focurile",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Focurile",
+      "regions": [],
+      "original_text": "bată-te Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "dexonline.ro, Scriban (1939)",
+      "url": "https://dexonline.ro/text/în blesteme",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-te Dumnezeu",
+      "verification": "unverified",
+      "notes": "Șăineanu (1929): bată-l Dumnezeu"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God strike you",
+  "notes": null
+}

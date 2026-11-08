@@ -1,0 +1,35 @@
+{
+  "id": "vai-tuna-te-ar-lume-rea",
+  "text": "Vai, tuna-te-ar, lume rea",
+  "original_text": "Vai, tuna-te-ar, lume rea",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. tuna",
+      "url": "https://dexonline.ro/definitie/tuna/936862",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Vai, tuna-te-ar, lume rea",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; JARNÍK-BÎRSEANU, D. 366"
+    }
+  ],
+  "explanation": null,
+  "translation": "Alas, may it thunder on you, wicked world",
+  "notes": null
+}

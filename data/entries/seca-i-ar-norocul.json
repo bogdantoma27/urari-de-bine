@@ -1,0 +1,35 @@
+{
+  "id": "seca-i-ar-norocul",
+  "text": "Seca-i-ar norocul",
+  "original_text": "Seca-i-ar norocul",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Seca-i-ar norocul",
+      "verification": "verified",
+      "notes": "vol. 1; pagina nedeterminată"
+    }
+  ],
+  "explanation": null,
+  "translation": "May his luck dry up",
+  "notes": null
+}

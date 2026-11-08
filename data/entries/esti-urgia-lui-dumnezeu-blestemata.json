@@ -1,0 +1,35 @@
+{
+  "id": "esti-urgia-lui-dumnezeu-blestemata",
+  "text": "Ești urgia lui Dumnezeu, blestemată",
+  "original_text": "Ești urgia lui Dumnezeu, blestemată",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1894",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mara, cap. Verboncul",
+      "url": "https://ro.wikisource.org/wiki/Mara/Verboncul",
+      "author": "Ioan Slavici",
+      "year": 1894,
+      "page": null,
+      "informant": "Ioan Slavici, Mara, cap. Verboncul",
+      "regions": [],
+      "original_text": "Ești urgia lui Dumnezeu, blestemată",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Urgie = pedeapsă, nenorocire trimisă de Dumnezeu.",
+  "translation": "You're the wrath of God, cursed one",
+  "notes": null
+}

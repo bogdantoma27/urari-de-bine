@@ -1,0 +1,40 @@
+{
+  "id": "da-o-in-mana-dracului",
+  "text": "Dă-o în mâna dracului",
+  "original_text": "Dä-o 'n màna draculuï",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1890",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Nunta la români",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Simion_Florea_Marian_-_Nunta_la_romani_-_1890.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1890,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Dä-o 'n màna draculuï",
+      "verification": "verified",
+      "notes": "Marian, Nunta la români (1890); cântec din Transilvania, în care fata leneșă la cusut e trimisă drac; „Dă-o 'n mâna dracului”"
+    }
+  ],
+  "explanation": null,
+  "translation": "Give her into the devil's hand",
+  "notes": null
+}

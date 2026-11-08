@@ -1,0 +1,35 @@
+{
+  "id": "batu-l-ar-pardalnicu",
+  "text": "Bătu-l-ar pârdalnicu",
+  "original_text": "bătu-l-ar pîrdalnicu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pârdalnicul",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/pârdalnic",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bătu-l-ar pîrdalnicu",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Pârdalnic = diavol",
+  "translation": "May the cursed one strike him",
+  "notes": null
+}

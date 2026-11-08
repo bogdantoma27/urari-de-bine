@@ -1,0 +1,35 @@
+{
+  "id": "fi-ti-ar-poema-a-dracului",
+  "text": "Fi-ți-ar poema a dracului",
+  "original_text": "Fi-ți-ar poema a dracului",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Amintiri literare (Ion Luca Caragiale)",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_literare_(Ion_Luca_Caragiale)",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Amintiri literare (Ion Luca Caragiale)",
+      "regions": [],
+      "original_text": "Fi-ți-ar poema a dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil's poem be on you",
+  "notes": null
+}

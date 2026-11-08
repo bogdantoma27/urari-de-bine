@@ -1,0 +1,35 @@
+{
+  "id": "s-o-iei-de-canepa-dracului",
+  "text": "S-o iei de cânepa dracului",
+  "original_text": "s-o iei de cânepa dracului",
+  "type": "euphemism",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1875",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Soacra cu trei nurori",
+      "url": "https://ro.wikisource.org/wiki/Soacra_cu_trei_nurori",
+      "author": "Ion Creangă",
+      "year": 1875,
+      "page": null,
+      "informant": "Ion Creangă, Soacra cu trei nurori (replica: nora cea mică)",
+      "regions": [],
+      "original_text": "s-o iei de cânepa dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Se zice soacrei.",
+  "translation": "May you take her by the devil's hemp",
+  "notes": "Sensul lui „cânepa dracului” nu e confirmat"
+}

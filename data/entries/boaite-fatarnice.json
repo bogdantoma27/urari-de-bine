@@ -1,0 +1,35 @@
+{
+  "id": "boaite-fatarnice",
+  "text": "Boaite fățarnice",
+  "original_text": "boaite fățarnice",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: părintele Oșlobanu)",
+      "regions": [],
+      "original_text": "boaite fățarnice",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Boaită = ocară veche, zisă mai ales popilor și călugărilor.",
+  "translation": "Hypocritical boaite",
+  "notes": null
+}

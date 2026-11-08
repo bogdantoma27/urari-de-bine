@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-pustia-manca-i-ar-casa-pustia",
+  "text": "Bată-l pustia, mânca-i-ar casa pustia!",
+  "original_text": "bată-l pustia! mânca-i-ar casa pustia",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "pustia",
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, Șăineanu ed. VI (1929)",
+      "url": "https://dexonline.ro/definitie/pustii",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l pustia! mânca-i-ar casa pustia",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Pustia = pustiul, ca ceva rău care lovește. Apare la Eminescu.",
+  "translation": "May the wasteland strike him, may the wasteland eat his house!",
+  "notes": null
+}

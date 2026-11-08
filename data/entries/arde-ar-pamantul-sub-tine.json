@@ -1,0 +1,40 @@
+{
+  "id": "arde-ar-pamantul-sub-tine",
+  "text": "Arde-ar pământul sub tine",
+  "original_text": "Arde-ar pământul sub tine",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pământul",
+  "themes": [
+    "modern",
+    "nature_elements"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Țara Fagilor XI (2002)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-XI-2002.pdf",
+      "author": null,
+      "year": 2002,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Arde-ar pământul sub tine",
+      "verification": "verified",
+      "notes": "nord-bucovinean. cântec „Măi Staline, crunt călău”"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the earth burn beneath you",
+  "notes": null
+}

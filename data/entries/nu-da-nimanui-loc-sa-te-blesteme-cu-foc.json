@@ -1,0 +1,35 @@
+{
+  "id": "nu-da-nimanui-loc-sa-te-blesteme-cu-foc",
+  "text": "Nu dă nimănui loc să te blesteme cu foc",
+  "original_text": "Nu dă nimunuia loc Să te blesteme cu foc",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Nu dă nimunuia loc Să te blesteme cu foc",
+      "verification": "verified",
+      "notes": "Zanne vol. 6, nr. 14628; după A. Pann III p. 21 și Hințescu p. 91"
+    }
+  ],
+  "explanation": null,
+  "translation": "Give no one room to curse you with fire",
+  "notes": null
+}

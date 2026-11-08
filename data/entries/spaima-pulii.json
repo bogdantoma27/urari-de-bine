@@ -1,0 +1,35 @@
+{
+  "id": "spaima-pulii",
+  "text": "Spaima pulii",
+  "original_text": "spaima pulii",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2023",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Înjurături românești care-ți arată că se poate și mai rău decât în Teambuilding sau Taximetriști (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturi-romanesti-amuzante-dure-istorie/",
+      "author": "Răzvan Băltărețu",
+      "year": 2023,
+      "page": null,
+      "informant": "replică din filmul Prea târziu",
+      "regions": [],
+      "original_text": "spaima pulii",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Terror of the cock",
+  "notes": null
+}

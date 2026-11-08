@@ -1,0 +1,35 @@
+{
+  "id": "manca-te-ar-lupul-cel-batran",
+  "text": "Mânca-te-ar lupul cel bătrân",
+  "original_text": "mînca-te-ar lupul cel bătrîn",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "lupul",
+  "themes": [
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE, s.v. boală",
+      "url": "https://dexonline.ro/definitie/boală/1337338",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-te-ar lupul cel bătrîn",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: CADE; SAD."
+    }
+  ],
+  "explanation": null,
+  "translation": "May the old wolf eat you",
+  "notes": null
+}

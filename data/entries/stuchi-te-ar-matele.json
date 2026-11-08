@@ -1,0 +1,35 @@
+{
+  "id": "stuchi-te-ar-matele",
+  "text": "Stuchi-te-ar mațele",
+  "original_text": "Stuchi-te-ar mîțele!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "mațele",
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/matele",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Stuchi-te-ar mîțele!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "A stuchi = a lovi, a strivi.",
+  "translation": "May your guts strike you",
+  "notes": null
+}

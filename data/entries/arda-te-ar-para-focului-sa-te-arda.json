@@ -1,0 +1,35 @@
+{
+  "id": "arda-te-ar-para-focului-sa-te-arda",
+  "text": "Ardă-te-ar para focului să te ardă!",
+  "original_text": "ardă-te-ar para focului să te ardă!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "para focului",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DFS",
+      "url": "https://dexonline.ro/definitie/imprecație",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ardă-te-ar para focului să te ardă!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Para = flacără",
+  "translation": "May the flame of fire burn you, so it burns you!",
+  "notes": null
+}

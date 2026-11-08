@@ -1,0 +1,37 @@
+{
+  "id": "futu-ti-ceara-ma-tii",
+  "text": "Futu-ți ceara mă-tii",
+  "original_text": "Futu-ti ceara ma-tii",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Futu-ti ceara ma-tii",
+      "verification": "transcribed",
+      "notes": "un comentator spune că se folosește în toate regiunile"
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck your mother's wax",
+  "notes": null
+}

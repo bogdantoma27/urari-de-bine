@@ -1,0 +1,35 @@
+{
+  "id": "batu-te-ar-potca",
+  "text": "Bătu-te-ar potca",
+  "original_text": "bătu-te-ar potca",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "potca",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1909",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Apus de soare",
+      "url": "https://ro.wikisource.org/wiki/Apus_de_soare",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1909,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Apus de soare",
+      "regions": [],
+      "original_text": "bătu-te-ar potca",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Potcă = belea, vrajbă",
+  "translation": "May the potca strike you",
+  "notes": null
+}

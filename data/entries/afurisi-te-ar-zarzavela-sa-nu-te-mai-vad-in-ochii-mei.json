@@ -1,0 +1,47 @@
+{
+  "id": "afurisi-te-ar-zarzavela-sa-nu-te-mai-vad-in-ochii-mei",
+  "text": "Afurisi-te-ar Zarzavela, să nu te mai văd în ochii mei",
+  "original_text": "Afurisi-te-ar Zarzavela, să nu te mai văd în ochii mei!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "zarzavela",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/afurisi",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Afurisi-te-ar Zarzavela, să nu te mai văd în ochii mei!",
+      "verification": "verified",
+      "notes": "intrarea AFURISI; verificat pe textul sursei"
+    },
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/text/în imprecații",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Afurisi-te-ar Zarzavela, să nu te mai văd în ochii mei!",
+      "verification": "unverified",
+      "notes": "intrarea AFURISI"
+    }
+  ],
+  "explanation": "Afurisi = a blestema, a scoate din biserică.",
+  "translation": "May Zarzavela curse you, so that I no longer see you before my eyes",
+  "notes": null
+}

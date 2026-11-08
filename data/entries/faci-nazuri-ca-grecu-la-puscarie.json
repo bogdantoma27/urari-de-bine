@@ -1,0 +1,35 @@
+{
+  "id": "faci-nazuri-ca-grecu-la-puscarie",
+  "text": "Faci nazuri ca grecu la pușcărie",
+  "original_text": "Faci nazuri ca grecu la puscarie",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "prison"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Faci nazuri ca grecu la puscarie",
+      "verification": "transcribed",
+      "notes": "referință la greci"
+    }
+  ],
+  "explanation": null,
+  "translation": "You act fussy like the Greek in prison",
+  "notes": null
+}

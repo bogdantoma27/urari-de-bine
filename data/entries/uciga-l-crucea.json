@@ -1,0 +1,72 @@
+{
+  "id": "uciga-l-crucea",
+  "text": "Ucigă-l crucea",
+  "original_text": "Ucigă-l crucea",
+  "type": "euphemism",
+  "form": "imperative",
+  "affliction": "crucea",
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '98; DLRLC (1955-1957); Argou (2007)",
+      "url": "https://dexonline.ro/definitie/cruce",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ucigă-l crucea",
+      "verification": "verified",
+      "notes": "marcat pop., eufem. în Argou; (În imprecații) în DLRLC"
+    },
+    {
+      "title": "dexonline.ro, DLRLC; Șăineanu, ed. VI; Argou; Sinonime",
+      "url": "https://dexonline.ro/definitie/cruce",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ucigă-l crucea",
+      "verification": "verified",
+      "notes": "marcat pop., eufem. în Argou; (În imprecații) în DLRLC; verificat pe textul sursei"
+    },
+    {
+      "title": "Ion Păpușarul (Cântecel comic)",
+      "url": "https://ro.wikisource.org/wiki/Ion_P%C4%83pu%C8%99arul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Ion Păpușarul (Cântecel comic)",
+      "regions": [],
+      "original_text": "ucigă-l crucea",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "Jucării și jocuri de copii",
+      "url": "https://ro.wikisource.org/wiki/Juc%C4%83rii_%C8%99i_jocuri_de_copii",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Jucării și jocuri de copii",
+      "regions": [],
+      "original_text": "ucigă-l crucea",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Dracul, zis pe ocolite; e și blestem.",
+  "translation": "May the cross kill him",
+  "notes": null
+}

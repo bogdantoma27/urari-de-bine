@@ -1,0 +1,35 @@
+{
+  "id": "afurisita-de-ghicitoare",
+  "text": "Afurisita de ghicitoare",
+  "original_text": "afurisita de ghicitoare",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Porcul cel fermecat",
+      "url": "https://ro.wikisource.org/wiki/Porcul_cel_fermecat",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Porcul cel fermecat",
+      "regions": [],
+      "original_text": "afurisita de ghicitoare",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Afurisit = blestemat",
+  "translation": "Cursed riddle",
+  "notes": null
+}

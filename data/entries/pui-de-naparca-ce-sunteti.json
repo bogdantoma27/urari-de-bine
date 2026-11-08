@@ -1,0 +1,35 @@
+{
+  "id": "pui-de-naparca-ce-sunteti",
+  "text": "Pui de năpârcă ce sunteți",
+  "original_text": "pui de năpârcă ce sunteți",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: părintele Oșlobanu)",
+      "regions": [],
+      "original_text": "pui de năpârcă ce sunteți",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Năpârcă = viperă, șarpe veninos.",
+  "translation": "You spawn of a viper",
+  "notes": null
+}

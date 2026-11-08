@@ -1,0 +1,37 @@
+{
+  "id": "a-l-lua-dracul-mama-dracului-naiba",
+  "text": "A-l lua dracul / mama dracului / naiba",
+  "original_text": "a-l lua dracul / mama dracului / naiba",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a-l lua dracul / mama dracului / naiba",
+      "verification": "verified",
+      "notes": "marcat peior."
+    }
+  ],
+  "explanation": "Adică a muri sau a pieri, zis cu dispreț.",
+  "translation": "To be taken by the devil / the devil's mother / the hell",
+  "notes": null
+}

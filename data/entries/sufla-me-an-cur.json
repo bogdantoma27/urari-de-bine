@@ -1,0 +1,39 @@
+{
+  "id": "sufla-me-an-cur",
+  "text": "Sufla-me ăn cur",
+  "original_text": "s ú f 1 a-me ăn cur",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [
+    "istro_romanian"
+  ],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "S. Puşcariu, Studii istroromâne III, Cultura Națională, București, 1929",
+      "url": "https://ebib.inst-puscariu.ro/bibliotecadigitala/operasextilpuscariu/pdf/476064-BJC-Studii%20istroromane-Puscariu-1929.pdf",
+      "author": "S. Puşcariu",
+      "year": 1929,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "istro_romanian"
+      ],
+      "original_text": "s ú f 1 a-me ăn cur",
+      "verification": "verified",
+      "notes": "OCR cu spații între litere; context «numai în înjurătura»"
+    }
+  ],
+  "explanation": "Istroromână: suflă-mă în cur. Autorul zice că verbul „sufla” apare doar în înjurătura asta.",
+  "translation": "Blow me in the ass",
+  "notes": null
+}

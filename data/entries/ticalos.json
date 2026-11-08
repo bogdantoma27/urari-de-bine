@@ -1,0 +1,35 @@
+{
+  "id": "ticalos",
+  "text": "Ticălos",
+  "original_text": "ticălos",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Sinonime; Sinonime82",
+      "url": "https://dexonline.ro/definitie/ticălos",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ticălos",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Scoundrel",
+  "notes": null
+}

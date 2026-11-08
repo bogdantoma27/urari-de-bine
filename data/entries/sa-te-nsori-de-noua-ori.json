@@ -1,0 +1,35 @@
+{
+  "id": "sa-te-nsori-de-noua-ori",
+  "text": "Să te-nsori de nouă ori",
+  "original_text": "Să te-nsori de nouă ori",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Blestemul",
+      "url": "https://ro.wikisource.org/wiki/Blestemul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Blestemul",
+      "regions": [],
+      "original_text": "Să te-nsori de nouă ori",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you marry nine times",
+  "notes": null
+}

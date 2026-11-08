@@ -1,0 +1,35 @@
+{
+  "id": "golan",
+  "text": "Golan",
+  "original_text": "golan",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; MDA2; DEX '96; NODEX",
+      "url": "https://dexonline.ro/definitie/golan",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "golan",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om fără ocupație, derbedeu.",
+  "translation": "Hooligan",
+  "notes": null
+}

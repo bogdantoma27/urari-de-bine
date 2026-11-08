@@ -1,0 +1,35 @@
+{
+  "id": "futu-ti-chioara-in-cur",
+  "text": "Futu-ți chioara în cur",
+  "original_text": "Futu-ti chioara in c*r",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; străbunicul comentatorului",
+      "regions": [],
+      "original_text": "Futu-ti chioara in c*r",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Chioară = femeie cu un singur ochi; aici sensul nu e clar.",
+  "translation": "Fuck your one-eyed one in the ass",
+  "notes": "În sursă cuvântul e cenzurat cu asteriscuri sau puncte; în text e scris întreg."
+}

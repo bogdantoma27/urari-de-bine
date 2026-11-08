@@ -1,0 +1,35 @@
+{
+  "id": "fire-ar-asa-si-asa",
+  "text": "Fire-ar așa și așa",
+  "original_text": "Firear aşă şi aşă",
+  "type": "euphemism",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 9",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-9-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Firear aşă şi aşă",
+      "verification": "verified",
+      "notes": "Zanne vol. 9, rubrica „Pentru Blesteme”; OCR „Firear” = fire-ar"
+    }
+  ],
+  "explanation": null,
+  "translation": "May it be such and such",
+  "notes": null
+}

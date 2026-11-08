@@ -1,0 +1,48 @@
+{
+  "id": "bat-o-pustia",
+  "text": "Bat-o pustia",
+  "original_text": "bat-o pustia",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "pustia",
+  "themes": [
+    "other",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cele douăsprezece fete de împărat și palatul cel fermecat",
+      "url": "https://ro.wikisource.org/wiki/Cele_dou%C4%83sprezece_fete_de_%C3%AEmp%C4%83rat_%C8%99i_palatul_cel_fermecat",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Cele douăsprezece fete de împărat și palatul cel fermecat",
+      "regions": [],
+      "original_text": "bat-o pustia",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "Apus de soare",
+      "url": "https://ro.wikisource.org/wiki/Apus_de_soare",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1909,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Apus de soare",
+      "regions": [],
+      "original_text": "bat-o pustia",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Pustia = pustiul, nenorocul.",
+  "translation": "May the wasteland strike her",
+  "notes": null
+}

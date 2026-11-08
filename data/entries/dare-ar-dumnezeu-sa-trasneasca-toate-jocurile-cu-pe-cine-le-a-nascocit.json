@@ -1,0 +1,35 @@
+{
+  "id": "dare-ar-dumnezeu-sa-trasneasca-toate-jocurile-cu-pe-cine-le-a-nascocit",
+  "text": "Dare-ar Dumnezeu să trăsnească toate jocurile cu pe cine le-a născocit",
+  "original_text": "Dare-ar Dumnezeu să trăsnească toate jocurile cu pe cine le-a născocit",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1920",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ion, partea I Glasul pământului",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/1._Glasul_p%C4%83m%C3%A2ntului",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea I Glasul pământului",
+      "regions": [],
+      "original_text": "Dare-ar Dumnezeu să trăsnească toate jocurile cu pe cine le-a născocit",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Dare-ar = să dea, formă veche.",
+  "translation": "May God strike with lightning all the dances and whoever invented them",
+  "notes": null
+}

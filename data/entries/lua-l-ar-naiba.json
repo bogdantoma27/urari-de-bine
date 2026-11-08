@@ -1,0 +1,35 @@
+{
+  "id": "lua-l-ar-naiba",
+  "text": "Lua-l-ar naiba!",
+  "original_text": "Lua-l-ar naiba!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "naiba",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98",
+      "url": "https://dexonline.ro/definitie/lua",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Lua-l-ar naiba!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil take him!",
+  "notes": null
+}

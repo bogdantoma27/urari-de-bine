@@ -1,0 +1,35 @@
+{
+  "id": "fire-ar-a-dracului-rachia",
+  "text": "Fire-ar a dracului rachia",
+  "original_text": "Fir'ar a dracului racial",
+  "type": "euphemism",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fir'ar a dracului racial",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); „racial” citit din OCR, probabil „rachia/răciul”; incert"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the brandy be the devil's",
+  "notes": "Sursă OCR cu incertitudine, posibil „răciul”; păstrat „rachia”."
+}

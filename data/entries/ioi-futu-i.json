@@ -1,0 +1,35 @@
+{
+  "id": "ioi-futu-i",
+  "text": "Ioi, futu-i!",
+  "original_text": "Ioi, futu-i!",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "„Să nu [în]juri strâmb…” – înjurături românești care conțin antroponime (I): schițe. Philologica Jassyensia XI/2 (22)",
+      "url": "https://www.diacronia.ro/indexing/details/A22763/pdf",
+      "author": "Daiana Felecan, Alina Bugheșiu",
+      "year": 2015,
+      "page": "57-67",
+      "informant": null,
+      "regions": [],
+      "original_text": "Ioi, futu-i!",
+      "verification": "verified",
+      "notes": "sursă primară citată: michaelhaulica.wordpress.com/2011/01/30/ioi-futu-i/"
+    }
+  ],
+  "explanation": null,
+  "translation": "Ouch, fuck him!",
+  "notes": null
+}

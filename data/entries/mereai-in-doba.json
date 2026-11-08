@@ -1,0 +1,35 @@
+{
+  "id": "mereai-in-doba",
+  "text": "Mereai în dobă",
+  "original_text": "Mereai in dobă",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Mereai in dobă",
+      "verification": "transcribed",
+      "notes": "sens neclar în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "You were going into the drum",
+  "notes": "sens neclar în sursă"
+}

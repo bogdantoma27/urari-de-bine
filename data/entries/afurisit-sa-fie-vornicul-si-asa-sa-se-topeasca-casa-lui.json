@@ -1,0 +1,36 @@
+{
+  "id": "afurisit-sa-fie-vornicul-si-asa-sa-se-topeasca-casa-lui",
+  "text": "Afurisit să fie Vornicul și așa să se topească casa lui",
+  "original_text": "Afurisit să fie Vornicul şi aşu să se topâscă casa lu",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Afurisit să fie Vornicul şi aşu să se topâscă casa lu",
+      "verification": "verified",
+      "notes": "Zanne vol. 6, glosă istorică; „aşu” = așa"
+    }
+  ],
+  "explanation": "Vornic = dregător. Se strigă la Sf. Nicolae, când se sting făcliile în smoală.",
+  "translation": "Cursed be the steward, and so may his house melt away",
+  "notes": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cine-trece-si-nu-se-roaga-sa-nu-aiba-parte-de-apa-si-de-umbra",
+  "text": "Cine trece și nu se roagă, să nu aibă parte de apă și de umbră",
+  "original_text": "Cine trece și nu se roagă, să nu aibă parte de apă și de umbră.",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [
+    "bukovina",
+    "oltenia",
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestemele din cimitirele vechi ale României",
+      "url": "https://evz.ro/blestemele-din-cimitirele-vechi-ale-romaniei-cand-mortii-isi-apara-locul.html",
+      "author": "EVZ",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "transylvania",
+        "oltenia",
+        "bukovina"
+      ],
+      "original_text": "Cine trece și nu se roagă, să nu aibă parte de apă și de umbră.",
+      "verification": "verified",
+      "notes": "epitaf-blestem; formulare citată prin rezumat"
+    }
+  ],
+  "explanation": null,
+  "translation": "Whoever passes and does not pray, may he have no share of water and shade",
+  "notes": null
+}

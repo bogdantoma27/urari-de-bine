@@ -1,0 +1,35 @@
+{
+  "id": "cu-picioarele-n-butuci",
+  "text": "Cu picioarele-n butuci",
+  "original_text": "Cu picioarele-n butuci",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "prison"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestemul",
+      "url": "https://ro.wikisource.org/wiki/Blestemul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Blestemul",
+      "regions": [],
+      "original_text": "Cu picioarele-n butuci",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Butuci = bușteni în care se prindeau picioarele celor pedepsiți.",
+  "translation": "With your feet in the stocks",
+  "notes": null
+}

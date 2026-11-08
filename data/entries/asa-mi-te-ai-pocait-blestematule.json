@@ -1,0 +1,35 @@
+{
+  "id": "asa-mi-te-ai-pocait-blestematule",
+  "text": "Așa mi te-ai pocăit, blestematule",
+  "original_text": "Așa mi te-ai pocăit, blestematule",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1844",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Iorgu de la Sadagura",
+      "url": "https://ro.wikisource.org/wiki/Iorgu_de_la_Sadagura",
+      "author": "Vasile Alecsandri",
+      "year": 1844,
+      "page": null,
+      "informant": "Vasile Alecsandri, Iorgu de la Sadagura",
+      "regions": [],
+      "original_text": "Așa mi te-ai pocăit, blestematule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "„Pocăit” e zis în bătaie de joc: de fapt s-a purtat rău, și-a făcut neamul de rușine.",
+  "translation": "That's how you've repented, you cursed one",
+  "notes": null
+}

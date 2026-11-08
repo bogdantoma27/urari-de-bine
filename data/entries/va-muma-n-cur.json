@@ -1,0 +1,36 @@
+{
+  "id": "va-muma-n-cur",
+  "text": "Vă muma-n cur",
+  "original_text": "vă muma-n cur",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "vă muma-n cur",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Verdeș 2000, p. 143"
+    }
+  ],
+  "explanation": null,
+  "translation": "Your mother in the ass",
+  "notes": null
+}

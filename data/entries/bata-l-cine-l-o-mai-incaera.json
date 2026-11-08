@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-cine-l-o-mai-incaera",
+  "text": "Bată-l cine l-o mai încăera!",
+  "original_text": "bată-l cine l-o mai încaera",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l cine l-o mai încaera",
+      "verification": "verified",
+      "notes": "vol. 6; context cu țigan, formula nu e etnică în sine"
+    }
+  ],
+  "explanation": null,
+  "translation": "May whoever will fight with him again strike him!",
+  "notes": "„încaera” din sursă păstrat ca „încăera” (formă regională)"
+}

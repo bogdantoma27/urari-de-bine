@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-vantu-de-baron",
+  "text": "Bată-l vântu de baron",
+  "original_text": "Bată-l vântu de baron",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "vântul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1861",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Cucoana Chirița în voiaj",
+      "url": "https://ro.wikisource.org/wiki/Cucoana_Chiri%C8%9Ba_%C3%AEn_voiaj",
+      "author": "Vasile Alecsandri",
+      "year": 1861,
+      "page": null,
+      "informant": "Vasile Alecsandri, Cucoana Chirița în voiaj",
+      "regions": [],
+      "original_text": "Bată-l vântu de baron",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the wind strike the baron",
+  "notes": null
+}

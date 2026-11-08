@@ -1,0 +1,35 @@
+{
+  "id": "pana-la-dumnezeu-te-mananca-sfintii",
+  "text": "Până la Dumnezeu, te mănâncă sfinții",
+  "original_text": "Până la Dumnezeu, te mănâncă sfinții",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98",
+      "url": "https://dexonline.ro/definitie/sfinți",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Până la Dumnezeu, te mănâncă sfinții",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Before you reach God, the saints eat you",
+  "notes": null
+}

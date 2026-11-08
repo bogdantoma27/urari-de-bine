@@ -1,0 +1,39 @@
+{
+  "id": "pieie-i-boii-din-ogor",
+  "text": "Pieie-i boii din ogor",
+  "original_text": "Pieie-i boii din ogor",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "boii",
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [
+    "maramures"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum își blestemă românii dușmanii",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/cum-isi-blestema-romanii-dusmanii-1145715.html",
+      "author": "Monika (Adevărul)",
+      "year": 2010,
+      "page": null,
+      "informant": "etnolog Janeta Ciocan, citată în articol",
+      "regions": [
+        "maramures"
+      ],
+      "original_text": "Pieie-i boii din ogor",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Pieie = să piară.",
+  "translation": "May his oxen perish in the field",
+  "notes": null
+}

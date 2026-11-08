@@ -1,0 +1,36 @@
+{
+  "id": "prapadi-l-ar-dumnezeu",
+  "text": "Prăpădi-l-ar Dumnezeu",
+  "original_text": "Prăpădi-l-ar Dumnezeu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "O ședință la Junimea în ajunul Anului Nou",
+      "url": "https://ro.wikisource.org/wiki/O_%C8%99edin%C8%9B%C4%83_la_Junimea_%C3%AEn_ajunul_Anului_Nou",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, O ședință la Junimea în ajunul Anului Nou",
+      "regions": [],
+      "original_text": "Prăpădi-l-ar Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God ruin him",
+  "notes": null
+}

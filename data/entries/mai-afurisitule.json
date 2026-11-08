@@ -1,0 +1,35 @@
+{
+  "id": "mai-afurisitule",
+  "text": "Măi afurisitule!",
+  "original_text": "măi afurisitule!",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban",
+      "url": "https://dexonline.ro/definitie/afurisit",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "măi afurisitule!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Afurisit = blestemat, scos din biserică.",
+  "translation": "Hey, you accursed one!",
+  "notes": null
+}

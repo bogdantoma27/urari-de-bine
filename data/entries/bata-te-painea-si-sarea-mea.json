@@ -1,0 +1,39 @@
+{
+  "id": "bata-te-painea-si-sarea-mea",
+  "text": "Bată-te pâinea și sarea mea",
+  "original_text": "Batăte-te pînea şi sarea mea",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "pâinea și sarea mea",
+  "themes": [
+    "other"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 1",
+      "url": "https://archive.org/details/datinele-si-credintele-poporului-roman-vol.-1-elena-niculita-voronca",
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 154,
+      "informant": null,
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Batăte-te pînea şi sarea mea",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1; „În Moldova, se blastămă astfel”; „Batăte-te” = bată-te"
+    }
+  ],
+  "explanation": "Se zice celui nerecunoscător: să-l pedepsească pâinea și sarea primite în casă.",
+  "translation": "May my bread and salt strike you",
+  "notes": null
+}

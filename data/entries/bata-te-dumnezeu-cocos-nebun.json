@@ -1,0 +1,48 @@
+{
+  "id": "bata-te-dumnezeu-cocos-nebun",
+  "text": "Bată-te Dumnezeu, cocoș nebun",
+  "original_text": "Bată-te Dumnezeu, cocoș nebun",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1920",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR - tomul X (2010), s.v. nebun",
+      "url": "https://dexonline.ro/definitie/nebun/1359637",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te Dumnezeu, cocoș nebun",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR tomul X; REBREANU, I. 43"
+    },
+    {
+      "title": "Ion, partea I Glasul pământului",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/1._Glasul_p%C4%83m%C3%A2ntului",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea I Glasul pământului",
+      "regions": [],
+      "original_text": "Bată-te Dumnezeu, cocoș nebun",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God strike you, crazy rooster",
+  "notes": null
+}

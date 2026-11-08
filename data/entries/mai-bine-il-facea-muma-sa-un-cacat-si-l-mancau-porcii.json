@@ -1,0 +1,40 @@
+{
+  "id": "mai-bine-il-facea-muma-sa-un-cacat-si-l-mancau-porcii",
+  "text": "Mai bine îl făcea mumă-sa un căcat și-l mâncau porcii",
+  "original_text": "Mai bine îl făceă mumă-sa un căcat, și îl mâncă porcii",
+  "type": "insult",
+  "form": "other",
+  "affliction": "porcii",
+  "themes": [
+    "family",
+    "farm_animals"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 2",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-2-1897",
+      "author": "Iuliu A. Zanne",
+      "year": 1897,
+      "page": null,
+      "informant": "V. Forăscu, c. Fălticeni, jud. Suceava",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Mai bine îl făceă mumă-sa un căcat, și îl mâncă porcii",
+      "verification": "verified",
+      "notes": "proverb nr. 4990, vol. 2"
+    }
+  ],
+  "explanation": null,
+  "translation": "His mother would have done better to make him a shit and have the pigs eat him",
+  "notes": null
+}

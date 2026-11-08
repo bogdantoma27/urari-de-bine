@@ -1,0 +1,35 @@
+{
+  "id": "ba-la-dracul",
+  "text": "Ba la dracul",
+  "original_text": "Ba la dracul",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum se înțeleg țăranii",
+      "url": "https://ro.wikisource.org/wiki/Cum_se_%C3%AEn%C8%9Beleg_%C8%9B%C4%83ranii",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Cum se înțeleg țăranii",
+      "regions": [],
+      "original_text": "Ba la dracul",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "No, to the devil",
+  "notes": null
+}

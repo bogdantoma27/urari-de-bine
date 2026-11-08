@@ -1,0 +1,35 @@
+{
+  "id": "mai-ciotul-dracului",
+  "text": "Măi, ciotul dracului",
+  "original_text": "măi, ciotul dracului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Povestea lui Stan Pățitul",
+      "url": "https://ro.wikisource.org/wiki/Povestea_lui_Stan_P%C4%83%C8%9Bitul",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Povestea lui Stan Pățitul (replica: personaj)",
+      "regions": [],
+      "original_text": "măi, ciotul dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Ciot = ce rămâne dintr-un trunchi tăiat; se zice unui om bătrân sau nevolnic.",
+  "translation": "Hey, devil's stump",
+  "notes": null
+}

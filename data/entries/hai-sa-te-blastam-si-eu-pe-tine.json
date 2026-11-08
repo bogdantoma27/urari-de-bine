@@ -1,0 +1,35 @@
+{
+  "id": "hai-sa-te-blastam-si-eu-pe-tine",
+  "text": "Hai să te blăstăm și eu pe tine",
+  "original_text": "hai să te blastăm şi eu pe tine",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1916",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Diavolul învrăjbitor al lumii după credințele poporului român",
+      "url": "https://archive.org/details/pamfile-tudor-diavolul-invrajbitor-al-romanilor-srch.edit",
+      "author": "Tudor Pamfile",
+      "year": 1916,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "hai să te blastăm şi eu pe tine",
+      "verification": "verified",
+      "notes": "Pamfile, Diavolul învrăjbitor al lumii; în poveste"
+    }
+  ],
+  "explanation": "Blăstăm = blestem.",
+  "translation": "Come, let me curse you too",
+  "notes": null
+}

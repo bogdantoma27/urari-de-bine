@@ -1,0 +1,36 @@
+{
+  "id": "fire-ati-cai-voi-blestemati-sa-n-aveti-voi-niciodata-sat-pana-n-ziua-de-inaltare",
+  "text": "Fire-ați cai voi blestemați, să n-aveți voi nici când saț, până-n ziua de Nălțare",
+  "original_text": "Fire-aţI cal voi blestemaţi, Să n'aveţi voi nici când saţ, Până 'n <Jiua de Nălţare,",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1898",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Sărbătorile la români, vol. 1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Simion_Florea_Marian_-_Sarbatorile_la_romani_-_Vol_1_-_1898.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1898,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fire-aţI cal voi blestemaţi, Să n'aveţi voi nici când saţ, Până 'n <Jiua de Nălţare,",
+      "verification": "verified",
+      "notes": "Marian, Sărbătorile la români I (1898); apare în capitolul despre Crăciun; „saţ” = sațiu"
+    }
+  ],
+  "explanation": "Sat = sătul; caii nu se satură decât la Înălțare.",
+  "translation": "May you, horses, be cursed, never be sated until Ascension day",
+  "notes": null
+}

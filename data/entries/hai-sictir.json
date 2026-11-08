@@ -1,0 +1,35 @@
+{
+  "id": "hai-sictir",
+  "text": "Hai sictir",
+  "original_text": "Hai sictir",
+  "type": "euphemism",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica comentatorului",
+      "regions": [],
+      "original_text": "Hai sictir",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Adică cară-te.",
+  "translation": "Come on, scram",
+  "notes": null
+}

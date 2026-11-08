@@ -1,0 +1,35 @@
+{
+  "id": "lua-te-ar-hengherul-soangherita-dracului",
+  "text": "Lua-te-ar hengherul, șoangherița dracului",
+  "original_text": "lua-te-ar hengherul, șoangherița dracului",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "hengherul",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "De închiriat...",
+      "url": "https://ro.wikisource.org/wiki/De_%C3%AEnchiriat...",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, De închiriat...",
+      "regions": [],
+      "original_text": "lua-te-ar hengherul, șoangherița dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Hengher = hingher, cel care prinde câinii de pe stradă.",
+  "translation": "May the dogcatcher take you, devil's whatever",
+  "notes": null
+}

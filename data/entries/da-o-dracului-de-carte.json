@@ -1,0 +1,35 @@
+{
+  "id": "da-o-dracului-de-carte",
+  "text": "Dă-o dracului de carte",
+  "original_text": "dă-o draculuĭ de carte!",
+  "type": "euphemism",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban",
+      "url": "https://dexonline.ro/definitie/dau",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "dă-o draculuĭ de carte!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Give the devil the book",
+  "notes": null
+}

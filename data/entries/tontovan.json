@@ -1,0 +1,35 @@
+{
+  "id": "tontovan",
+  "text": "Tontovan",
+  "original_text": "tontovan",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul autorului",
+      "regions": [],
+      "original_text": "tontovan",
+      "verification": "transcribed",
+      "notes": "regionalism = bleg, netot"
+    }
+  ],
+  "explanation": "Tontovan = om bleg, netot.",
+  "translation": "Dimwit",
+  "notes": null
+}

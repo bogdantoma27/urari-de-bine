@@ -1,0 +1,39 @@
+{
+  "id": "stiva-si-nu-t-i-si-stiia",
+  "text": "Stiva si nu ț-i si știiă",
+  "original_text": "stiva si nu ţ i si ştiiă",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "megleno_romanian"
+  ],
+  "level": "clean",
+  "period": "1925",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Th. Capidan, Meglenoromânii I. Istoria și graiul lor, Cultura Națională, București, 1925",
+      "url": "https://ebib.inst-puscariu.ro/bibliotecadigitala/bibliotecamuzeistilor/pdf/405106-BJC-Meglenoromanii-vol-1-Capidan-1925.pdf",
+      "author": "Th. Capidan",
+      "year": 1925,
+      "page": "36",
+      "informant": null,
+      "regions": [
+        "megleno_romanian"
+      ],
+      "original_text": "stiva si nu ţ i si ştiiă",
+      "verification": "verified",
+      "notes": "grafie din OCR (spații și semne parazite); glosa românească e a autorului"
+    }
+  ],
+  "explanation": "Meglenoromână: nimeni să nu știe de urma ta.",
+  "translation": "May no one know your trace",
+  "notes": null
+}

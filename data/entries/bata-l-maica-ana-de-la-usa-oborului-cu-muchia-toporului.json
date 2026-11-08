@@ -1,0 +1,40 @@
+{
+  "id": "bata-l-maica-ana-de-la-usa-oborului-cu-muchia-toporului",
+  "text": "Bată-l maica Ana, de la ușa oborului, cu muchia toporului",
+  "original_text": "Bată'l maica Ana, De la ușa oborului, Cu muchia toporului",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "maica Ana",
+  "themes": [
+    "body",
+    "farm_animals"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "V. Râmbu, stud., Brănești, jud. Dâmbovița",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "Bată'l maica Ana, De la ușa oborului, Cu muchia toporului",
+      "verification": "verified",
+      "notes": "Zanne vol. 6, nr. 13119; sursa: „Blestem de muiere, foarte rar întrebuințat de bărbați”"
+    }
+  ],
+  "explanation": "Blestem de femeie; oborul = țarc pentru vite; muchia toporului = partea boantă",
+  "translation": "May Mother Ana strike him, from the door of the stockyard, with the blunt edge of the axe",
+  "notes": null
+}

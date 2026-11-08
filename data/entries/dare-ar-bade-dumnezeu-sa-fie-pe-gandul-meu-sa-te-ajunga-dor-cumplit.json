@@ -1,0 +1,38 @@
+{
+  "id": "dare-ar-bade-dumnezeu-sa-fie-pe-gandul-meu-sa-te-ajunga-dor-cumplit",
+  "text": "Dare-ar, bade, Dumnezeu",
+  "original_text": "Dare-ar, bade, Dumnezeu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "other",
+    "sickness_death"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1944",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Folklorul medical român comparat (cap. Farmece, vrăji și blesteme, § Blestemele)",
+      "url": "https://archive.org/details/candrea-ioan-aurel-folclorul-medical-roman-comparat_202405",
+      "author": "Ion Aurel Candrea",
+      "year": 1944,
+      "page": 205,
+      "informant": null,
+      "regions": [],
+      "original_text": "Dare-ar, bade, Dumnezeu",
+      "verification": "verified",
+      "notes": "Candrea, Folklorul medical, § Blestemele; poezie populară din Transilvania"
+    }
+  ],
+  "explanation": "Dare-ar = să dea, formă veche.",
+  "translation": "May God grant, lover, that it be my wish: may a terrible longing reach you",
+  "notes": "nota sursei (Candrea): „poezie populară din Transilvania”"
+}

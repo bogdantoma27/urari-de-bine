@@ -1,0 +1,35 @@
+{
+  "id": "sa-ma-scuipi-cu-cacat",
+  "text": "Să mă scuipi cu căcat",
+  "original_text": "sa ma scuipi cu cacat!",
+  "type": "expression",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "sa ma scuipi cu cacat!",
+      "verification": "transcribed",
+      "notes": "spusă cuiva fără credibilitate, în loc de „dă-ți cuvântul de onoare”"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you spit shit on me",
+  "notes": "spusă ironic cuiva fără credibilitate, în loc de jurământ"
+}

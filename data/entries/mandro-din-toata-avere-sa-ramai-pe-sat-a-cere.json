@@ -1,0 +1,39 @@
+{
+  "id": "mandro-din-toata-avere-sa-ramai-pe-sat-a-cere",
+  "text": "Mândro, din toată avere să rămâi pe sat a cere",
+  "original_text": "Mandro, din tots avere SA r6mar pe sat a cere",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "poverty"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 320,
+      "informant": "Chr. N. Țapu de la D. Brezulescu, Novaci",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Mandro, din tots avere SA r6mar pe sat a cere",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); p. 320"
+    }
+  ],
+  "explanation": "Mândro = iubito.",
+  "translation": "Sweetheart, of all wealth may you be left begging through the village",
+  "notes": null
+}

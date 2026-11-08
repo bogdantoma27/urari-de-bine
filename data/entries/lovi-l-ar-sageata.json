@@ -1,0 +1,35 @@
+{
+  "id": "lovi-l-ar-sageata",
+  "text": "Lovi-l-ar săgeata",
+  "original_text": "lovi-l-ar săgeata",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "săgeata",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Schiță de călătorie",
+      "url": "https://ro.wikisource.org/wiki/Schi%C8%9B%C4%83_de_c%C4%83l%C4%83torie",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Schiță de călătorie",
+      "regions": [],
+      "original_text": "lovi-l-ar săgeata",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the arrow strike him",
+  "notes": null
+}

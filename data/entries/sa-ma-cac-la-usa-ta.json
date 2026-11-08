@@ -1,0 +1,39 @@
+{
+  "id": "sa-ma-cac-la-usa-ta",
+  "text": "Să mă cac la ușa ta",
+  "original_text": "Să mă cac la ușa ta",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [
+    "bukovina"
+  ],
+  "level": "mild",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "prieten al autorului (Bucovina)",
+      "regions": [
+        "bukovina"
+      ],
+      "original_text": "Să mă cac la ușa ta",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May I shit at your door",
+  "notes": null
+}

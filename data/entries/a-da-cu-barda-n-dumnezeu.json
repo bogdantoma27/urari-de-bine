@@ -1,0 +1,35 @@
+{
+  "id": "a-da-cu-barda-n-dumnezeu",
+  "text": "A da cu barda-n Dumnezeu",
+  "original_text": "a da cu barda-n Dumnezeu",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/dumnezeu",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a da cu barda-n Dumnezeu",
+      "verification": "verified",
+      "notes": "pop."
+    }
+  ],
+  "explanation": "Se zice despre cine n-are nimic sfânt și face orice.",
+  "translation": "To hit God with an axe",
+  "notes": null
+}

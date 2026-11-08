@@ -1,0 +1,36 @@
+{
+  "id": "bata-te-ar-painea-si-sarea-mea",
+  "text": "Bată-te-ar pâinea și sarea mea!",
+  "original_text": "Bată-te-ar pîinea și sarea mea!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pâinea și sarea mea",
+  "themes": [
+    "other",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te-ar pîinea și sarea mea!",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: Elena Niculiță-Voronca, Datinele și credințele poporului român, vol. I, Saeculum 1998, p. 137"
+    }
+  ],
+  "explanation": "Se zice celui nerecunoscător: să-l pedepsească pâinea și sarea primite în casă.",
+  "translation": "May my bread and salt strike you!",
+  "notes": null
+}

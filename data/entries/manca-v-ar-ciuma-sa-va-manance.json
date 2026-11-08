@@ -1,0 +1,60 @@
+{
+  "id": "manca-v-ar-ciuma-sa-va-manance",
+  "text": "Mânca-v-ar ciuma să vă mănânce!",
+  "original_text": "mînca-v-ar ciuma să vă mănînce!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "ciuma",
+  "themes": [
+    "sickness_death",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1875",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/ciuma",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-v-ar ciuma să vă mănînce!",
+      "verification": "verified",
+      "notes": "intrarea CIUMĂ; verificat pe textul sursei"
+    },
+    {
+      "title": "Soacra cu trei nurori",
+      "url": "https://ro.wikisource.org/wiki/Soacra_cu_trei_nurori",
+      "author": "Ion Creangă",
+      "year": 1875,
+      "page": null,
+      "informant": "Ion Creangă, Soacra cu trei nurori (replica: soacra)",
+      "regions": [],
+      "original_text": "Mânca-v-ar ciuma să vă mănânce",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    },
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/text/în imprecații",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-v-ar ciuma să vă mănînce!",
+      "verification": "unverified",
+      "notes": "intrarea CIUMĂ"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the plague eat you, may it eat you!",
+  "notes": null
+}

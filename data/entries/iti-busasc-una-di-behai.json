@@ -1,0 +1,35 @@
+{
+  "id": "iti-busasc-una-di-behai",
+  "text": "Îți bușăsc una di behăi",
+  "original_text": "iți bușăsc una di behăi",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "iți bușăsc una di behăi",
+      "verification": "transcribed",
+      "notes": "grai regional, nedeclarat"
+    }
+  ],
+  "explanation": null,
+  "translation": "I'll hit you one of bleats",
+  "notes": null
+}

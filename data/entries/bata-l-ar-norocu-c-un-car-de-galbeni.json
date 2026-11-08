@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-ar-norocu-c-un-car-de-galbeni",
+  "text": "Bată-l-ar norocu c-un car de galbeni",
+  "original_text": "bată-l-ar norocu c-un car de galbeni",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "norocul",
+  "themes": [
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1850",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Chirița în Iași",
+      "url": "https://ro.wikisource.org/wiki/Chiri%C8%9Ba_%C3%AEn_Ia%C8%99i",
+      "author": "Vasile Alecsandri",
+      "year": 1850,
+      "page": null,
+      "informant": "Vasile Alecsandri, Chirița în Iași",
+      "regions": [],
+      "original_text": "bată-l-ar norocu c-un car de galbeni",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Pe dos: de fapt îi urezi noroc cât un car de galbeni.",
+  "translation": "May luck strike him with a cartload of gold coins",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "borza-inborzata-borza-blastamata",
+  "text": "Borză înborzată, borză blăstămată",
+  "original_text": "Borză înborzată, Borză blăstămată",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Nașterea la români",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Simion_Florea_Marian_-_Nasterea_la_romani_-_1892.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1892,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Borză înborzată, Borză blăstămată",
+      "verification": "verified",
+      "notes": "Marian, Nașterea la români; apare în „descântecul de Borză”"
+    }
+  ],
+  "explanation": "Borza = duh rău din descântece, ca o stafie de copil; se credea că face rău nou-născuților.",
+  "translation": "Borza besmirched, Borza cursed",
+  "notes": null
+}

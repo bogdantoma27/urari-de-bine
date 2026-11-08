@@ -1,0 +1,36 @@
+{
+  "id": "in-cap-ochii-sa-i-se-ntoarca-si-sa-i-fie-graiul-prins",
+  "text": "În cap ochii să i se-ntoarcă și să-i fie graiul prins",
+  "original_text": "În cap ochii să i se-ntoarcă Și să-i fie graiul prins",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. ochi",
+      "url": "https://dexonline.ro/definitie/ochi/923038",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "În cap ochii să i se-ntoarcă Și să-i fie graiul prins",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC, în imprecații; ALECSANDRI, P. I 7"
+    }
+  ],
+  "explanation": "Graiul prins = limba legată, să nu mai poată vorbi.",
+  "translation": "May his eyes roll back in his head and may his speech be bound",
+  "notes": null
+}

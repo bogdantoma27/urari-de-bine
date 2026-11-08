@@ -1,0 +1,39 @@
+{
+  "id": "miroase-a-tigan",
+  "text": "Miroase a țigan",
+  "original_text": "miroase a tigan",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "miroase a tigan",
+      "verification": "transcribed",
+      "notes": "comentatorul: „In Muntenia, la tara”; = miroase a fum"
+    }
+  ],
+  "explanation": "În Muntenia, la țară: miroase a fum.",
+  "translation": "It smells of gypsy",
+  "notes": "conține etnonimul țigan"
+}

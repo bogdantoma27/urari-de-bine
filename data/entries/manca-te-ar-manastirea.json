@@ -1,0 +1,36 @@
+{
+  "id": "manca-te-ar-manastirea",
+  "text": "Mânca-te-ar mănăstirea!",
+  "original_text": "Mînca-te-ar mănăstirea!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "mănăstirea",
+  "themes": [
+    "church",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-te-ar mănăstirea!",
+      "verification": "verified",
+      "notes": "Sursa citată de Nasta: Stelian Dumistrăcel, Pînă-n pînzele albe, Institutul European 2001, p. 411"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the monastery eat you!",
+  "notes": null
+}

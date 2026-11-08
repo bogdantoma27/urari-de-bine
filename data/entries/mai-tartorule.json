@@ -1,0 +1,35 @@
+{
+  "id": "mai-tartorule",
+  "text": "Măi tartorule",
+  "original_text": "Măi tartorule",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Povestea lui Harap-Alb",
+      "url": "https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Povestea lui Harap-Alb (replica: Harap-Alb)",
+      "regions": [],
+      "original_text": "Măi tartorule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Tartor = mai-marele dracilor.",
+  "translation": "Hey, you arch-devil",
+  "notes": null
+}

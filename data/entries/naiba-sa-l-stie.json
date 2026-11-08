@@ -1,0 +1,35 @@
+{
+  "id": "naiba-sa-l-stie",
+  "text": "Naiba să-l știe",
+  "original_text": "Naiba să-l știe",
+  "type": "euphemism",
+  "form": "subjunctive",
+  "affliction": "naiba",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR (tomul X)",
+      "url": "https://dexonline.ro/definitie/naiba",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Naiba să-l știe",
+      "verification": "verified",
+      "notes": "familiar, adesea eufemistic"
+    }
+  ],
+  "explanation": "Adică habar n-am și nici nu-mi pasă.",
+  "translation": "May the devil know him",
+  "notes": null
+}

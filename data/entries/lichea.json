@@ -1,0 +1,35 @@
+{
+  "id": "lichea",
+  "text": "Lichea",
+  "original_text": "lichea",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Sinonime; DGS; Sinonime82",
+      "url": "https://dexonline.ro/definitie/lichea",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "lichea",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Derbedeu, om de nimic.",
+  "translation": "Scoundrel",
+  "notes": null
+}

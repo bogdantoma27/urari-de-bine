@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-ar-in-laba-baba",
+  "text": "Bată-te-ar în labă, babă",
+  "original_text": "Bată-te-ar în labă, babă",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 522,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te-ar în labă, babă",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2, cântec; versul precedent are «Bat-o crucea, blastamată!»"
+    }
+  ],
+  "explanation": "În labă = peste mână",
+  "translation": "May it strike you on the paw, old woman",
+  "notes": null
+}

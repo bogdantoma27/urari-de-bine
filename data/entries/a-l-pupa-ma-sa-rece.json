@@ -1,0 +1,36 @@
+{
+  "id": "a-l-pupa-ma-sa-rece",
+  "text": "A-l pupa mă-sa rece",
+  "original_text": "a-l pupa mă-sa rece",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/mamă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a-l pupa mă-sa rece",
+      "verification": "verified",
+      "notes": "marcat vulg."
+    }
+  ],
+  "explanation": "Adică să moară, să-l pupe mă-sa rece.",
+  "translation": "His mother kisses him cold",
+  "notes": null
+}

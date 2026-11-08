@@ -1,0 +1,35 @@
+{
+  "id": "arz-o-focul-pe-muiere",
+  "text": "Arz-o focul pe muiere",
+  "original_text": "Arz-o focul pe muiere",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "focul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Arz-o focul pe muiere",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: tipar ilustrativ; cf. Lombard 1965"
+    }
+  ],
+  "explanation": "Muiere = femeie",
+  "translation": "May the fire burn her, the woman",
+  "notes": null
+}

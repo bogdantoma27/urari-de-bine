@@ -1,0 +1,35 @@
+{
+  "id": "razi-ca-broasca-la-sudura",
+  "text": "Râzi ca broasca la sudură",
+  "original_text": "razi ca broasca la sudura",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "modern"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "razi ca broasca la sudura",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "You laugh like a frog at welding",
+  "notes": null
+}

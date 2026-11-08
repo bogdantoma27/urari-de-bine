@@ -1,0 +1,35 @@
+{
+  "id": "sa-fiu-al-dracului-sa-ma-ia-dracul",
+  "text": "Să fiu al dracului, să mă ia dracul",
+  "original_text": "Să fiu al dracului, să mă ia dracul",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 1",
+      "url": "https://archive.org/details/datinele-si-credintele-poporului-roman-vol.-1-elena-niculita-voronca",
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 409,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să fiu al dracului, să mă ia dracul",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 1, capitolul Diavolul"
+    }
+  ],
+  "explanation": null,
+  "translation": "May I be the devil's, may the devil take me",
+  "notes": null
+}

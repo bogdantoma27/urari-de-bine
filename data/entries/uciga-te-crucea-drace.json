@@ -1,0 +1,36 @@
+{
+  "id": "uciga-te-crucea-drace",
+  "text": "Ucigă-te crucea, drace",
+  "original_text": "Ucigă-te crucea, drace",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "crucea",
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. ucide",
+      "url": "https://dexonline.ro/definitie/ucide/938116",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ucigă-te crucea, drace",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; JARNÍK-BÎRSEANU, D. 466"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the cross kill you, devil",
+  "notes": null
+}

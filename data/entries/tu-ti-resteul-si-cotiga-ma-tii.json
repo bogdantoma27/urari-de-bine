@@ -1,0 +1,36 @@
+{
+  "id": "tu-ti-resteul-si-cotiga-ma-tii",
+  "text": "Tu-ți resteul și cotiga mă-tii",
+  "original_text": "Tu-ți resteul și cotiga mă-tii",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "Tu-ți resteul și cotiga mă-tii",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Cotigă = car țărănesc.",
+  "translation": "Fuck your mother's resteu and wagon",
+  "notes": null
+}

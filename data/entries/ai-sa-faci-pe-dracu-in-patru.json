@@ -1,0 +1,35 @@
+{
+  "id": "ai-sa-faci-pe-dracu-in-patru",
+  "text": "Ai să faci pe dracu în patru",
+  "original_text": "Ai să faci pe dracu în patru",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1894",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mara, cap. Două porunci",
+      "url": "https://ro.wikisource.org/wiki/Mara/Dou%C4%83_porunci",
+      "author": "Ioan Slavici",
+      "year": 1894,
+      "page": null,
+      "informant": "Ioan Slavici, Mara, cap. Două porunci",
+      "regions": [],
+      "original_text": "Ai să faci pe dracu în patru",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "A face pe dracu-n patru = a face tot posibilul, a se strădui peste măsură",
+  "translation": "You will do the devil in four",
+  "notes": null
+}

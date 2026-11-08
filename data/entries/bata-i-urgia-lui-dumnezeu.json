@@ -1,0 +1,35 @@
+{
+  "id": "bata-i-urgia-lui-dumnezeu",
+  "text": "Bată-i urgia lui Dumnezeu",
+  "original_text": "Bată-i urgia lui dumnezeu.",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "urgia lui Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/urgie",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-i urgia lui dumnezeu.",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Urgie = nenorocire, pedeapsă divină",
+  "translation": "May the scourge of God strike him",
+  "notes": null
+}

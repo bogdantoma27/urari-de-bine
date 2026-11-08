@@ -1,0 +1,35 @@
+{
+  "id": "manca-o-ar-mormantul",
+  "text": "Mânca-o-ar mormântul",
+  "original_text": "Mînca-o-ar mormîntul",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "mormântul",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-o-ar mormîntul",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the grave eat her",
+  "notes": null
+}

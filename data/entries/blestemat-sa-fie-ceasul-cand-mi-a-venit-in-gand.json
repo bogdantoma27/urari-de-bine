@@ -1,0 +1,35 @@
+{
+  "id": "blestemat-sa-fie-ceasul-cand-mi-a-venit-in-gand",
+  "text": "Blestemat să fie ceasul când mi-a venit în gând",
+  "original_text": "Blestemat să fie ceasul când mi-a venit în gând",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1844",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Iorgu de la Sadagura",
+      "url": "https://ro.wikisource.org/wiki/Iorgu_de_la_Sadagura",
+      "author": "Vasile Alecsandri",
+      "year": 1844,
+      "page": null,
+      "informant": "Vasile Alecsandri, Iorgu de la Sadagura",
+      "regions": [],
+      "original_text": "Blestemat să fie ceasul când mi-a venit în gând",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Cursed be the hour when it came to my mind",
+  "notes": null
+}

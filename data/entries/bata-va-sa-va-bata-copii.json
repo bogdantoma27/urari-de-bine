@@ -1,0 +1,35 @@
+{
+  "id": "bata-va-sa-va-bata-copii",
+  "text": "Bată-vă să vă bată, copii",
+  "original_text": "Bată-vă să vă bată, copii",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1894",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mara, cap. Maica Aegidia",
+      "url": "https://ro.wikisource.org/wiki/Mara/Maica_Aegidia",
+      "author": "Ioan Slavici",
+      "year": 1894,
+      "page": null,
+      "informant": "Ioan Slavici, Mara, cap. Maica Aegidia",
+      "regions": [],
+      "original_text": "Bată-vă să vă bată, copii",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Spus cu duioșie și mustrare de o călugăriță",
+  "translation": "May it strike you, may it strike you, children",
+  "notes": null
+}

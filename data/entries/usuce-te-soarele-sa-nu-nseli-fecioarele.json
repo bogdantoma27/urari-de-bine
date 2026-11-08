@@ -1,0 +1,40 @@
+{
+  "id": "usuce-te-soarele-sa-nu-nseli-fecioarele",
+  "text": "Usuce-te soarele să nu-nșeli fecioarele",
+  "original_text": "Usuce-te soarele Să nu-nșeli fecioarele",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "soarele",
+  "themes": [
+    "sickness_death",
+    "nature_elements"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": "1970-1974",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Țara Fagilor II (1993)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-II-1993.pdf",
+      "author": null,
+      "year": 1993,
+      "page": "178-183",
+      "informant": "informatoare din nordul Bucovinei",
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Usuce-te soarele Să nu-nșeli fecioarele",
+      "verification": "verified",
+      "notes": "nord-bucovinean. Blesteme de dragoste, înregistrări D. Covalciuc 1970-1974"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the sun dry you, so you won't deceive the maidens",
+  "notes": null
+}

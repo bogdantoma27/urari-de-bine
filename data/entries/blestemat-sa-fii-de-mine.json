@@ -1,0 +1,39 @@
+{
+  "id": "blestemat-sa-fii-de-mine",
+  "text": "Blestemat să fii de mine",
+  "original_text": "Blestemat să fii de mine",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "modern"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Țara Fagilor XVI (2007)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-XVI-2007.pdf",
+      "author": null,
+      "year": 2007,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Blestemat să fii de mine",
+      "verification": "verified",
+      "notes": "nord-bucovinean. cântec"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you be cursed by me",
+  "notes": null
+}

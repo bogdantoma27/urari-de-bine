@@ -1,0 +1,35 @@
+{
+  "id": "de-ar-crapa-odata-sa-crape-si-harabagiul-care-v-a-adus",
+  "text": "De-ar crăpa odată să crape și harabagiul care v-a adus",
+  "original_text": "De-ar crăpa odată să crape și harabagiul care v-a adus",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Moș Nichifor Coțcariul",
+      "url": "https://ro.wikisource.org/wiki/Mo%C8%99_Nichifor_Co%C8%9Bcariul",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Moș Nichifor Coțcariul (replica: personaj)",
+      "regions": [],
+      "original_text": "De-ar crăpa odată să crape și harabagiul care v-a adus",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Harabagiu = căruțaș.",
+  "translation": "If only they'd drop dead once, may the carter who brought you drop dead too",
+  "notes": null
+}

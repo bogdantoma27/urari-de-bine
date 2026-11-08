@@ -1,0 +1,40 @@
+{
+  "id": "iti-dau-una-de-te-aud-cainii-din-giurgiu",
+  "text": "Îți dau una de te-aud câinii din Giurgiu",
+  "original_text": "îți dau una de te-aud câinii din Giurgiu",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals",
+    "places"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "îți dau una de te-aud câinii din Giurgiu",
+      "verification": "transcribed",
+      "notes": "comentatorul: „În Oltenia”"
+    }
+  ],
+  "explanation": null,
+  "translation": "I'll give you one so the dogs from Giurgiu hear you",
+  "notes": null
+}

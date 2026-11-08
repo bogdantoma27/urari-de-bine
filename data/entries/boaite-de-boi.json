@@ -1,0 +1,35 @@
+{
+  "id": "boaite-de-boi",
+  "text": "Boaite de boi",
+  "original_text": "boaite de boi",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE (1926-1931), s.v. boaită",
+      "url": "https://dexonline.ro/definitie/boaită/1337335",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "boaite de boi",
+      "verification": "verified",
+      "notes": "CADE, fam.: termen de ocară sau batjocură la adresa popilor sau călugărilor; JIP."
+    }
+  ],
+  "explanation": "Boaită = ocară veche, zisă mai ales popilor și călugărilor.",
+  "translation": "Ox-dolt",
+  "notes": null
+}

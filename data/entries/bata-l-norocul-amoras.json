@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-norocul-amoras",
+  "text": "Bată-l norocul, amoraș",
+  "original_text": "Bată-l norocul, amoraș",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "norocul",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1874",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cucoana Chirița în balon",
+      "url": "https://ro.wikisource.org/wiki/Cucoana_Chiri%C8%9Ba_%C3%AEn_balon",
+      "author": "Vasile Alecsandri",
+      "year": 1874,
+      "page": null,
+      "informant": "Vasile Alecsandri, Cucoana Chirița în balon",
+      "regions": [],
+      "original_text": "Bată-l norocul, amoraș",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Amoraș = iubit, îndrăgostit",
+  "translation": "May luck strike him, little lover",
+  "notes": null
+}

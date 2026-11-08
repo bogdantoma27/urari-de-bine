@@ -1,0 +1,37 @@
+{
+  "id": "futu-ti-mortii-si-ranitii-ma-tii",
+  "text": "Futu-ți morții și răniții mă-tii",
+  "original_text": "FUTU-ȚI MORȚII ȘI RĂNIȚII MĂ-TII",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2016",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cele mai dure înjurături românești și ce poți înțelege din ele (VICE România)",
+      "url": "https://www.vice.com/ro/article/cele-mai-dure-injuraturi-romanesti/",
+      "author": "Mihai Popescu",
+      "year": 2016,
+      "page": null,
+      "informant": "autorul articolului",
+      "regions": [],
+      "original_text": "FUTU-ȚI MORȚII ȘI RĂNIȚII MĂ-TII",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck your mother's dead and wounded",
+  "notes": null
+}

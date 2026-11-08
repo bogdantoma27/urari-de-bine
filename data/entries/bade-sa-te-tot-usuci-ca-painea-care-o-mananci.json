@@ -1,0 +1,39 @@
+{
+  "id": "bade-sa-te-tot-usuci-ca-painea-care-o-mananci",
+  "text": "Bade, să te tot usuci ca pâinea care-o mănânci",
+  "original_text": "Bade, să te tot usuci Ca pâinea care-o mănânci",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": "1970-1974",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Țara Fagilor II (1993)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-II-1993.pdf",
+      "author": null,
+      "year": 1993,
+      "page": "178-183",
+      "informant": "informatoare din nordul Bucovinei",
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Bade, să te tot usuci Ca pâinea care-o mănânci",
+      "verification": "verified",
+      "notes": "nord-bucovinean. Blesteme de dragoste, înregistrări D. Covalciuc 1970-1974"
+    }
+  ],
+  "explanation": null,
+  "translation": "Lad, may you keep drying like the bread you eat",
+  "notes": null
+}

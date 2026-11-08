@@ -1,0 +1,36 @@
+{
+  "id": "sa-nu-te-blesteme-cineva-sa-ajungi-sluga-la-cai-albi-si-stapan-femeie-sprintena",
+  "text": "Să nu te blesteme cineva: să ajungi slugă la cai albi și stăpân femeie sprintenă",
+  "original_text": "Si nu te blesteme cine-va: S'ajungi slugă la cai ali",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "farm_animals",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 4",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-4-1900",
+      "author": "Iuliu A. Zanne",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Si nu te blesteme cine-va: S'ajungi slugă la cai ali",
+      "verification": "verified",
+      "notes": "Zanne vol. 4; după A. Pann III p. 52 și Hințescu p. 16; OCR „ali” = albi"
+    }
+  ],
+  "explanation": "Caii albi se țin greu curați, iar femeia sprintenă te tot cicălește.",
+  "translation": "May no one curse you: may you end up a servant to white horses and master to a nimble woman",
+  "notes": null
+}

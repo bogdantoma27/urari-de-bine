@@ -1,0 +1,36 @@
+{
+  "id": "arde-l-ar-focul-siberiei",
+  "text": "Arde-l-ar focul Siberiei",
+  "original_text": "arde-l-ar focul Siberiei!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "focul",
+  "themes": [
+    "modern",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DERC",
+      "url": "https://dexonline.ro/definitie/arde",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "arde-l-ar focul Siberiei!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire of Siberia burn him!",
+  "notes": null
+}

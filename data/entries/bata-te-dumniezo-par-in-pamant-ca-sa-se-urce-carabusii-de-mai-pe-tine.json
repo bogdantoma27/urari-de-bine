@@ -1,0 +1,36 @@
+{
+  "id": "bata-te-dumniezo-par-in-pamant-ca-sa-se-urce-carabusii-de-mai-pe-tine",
+  "text": "Bată-te Dumniezo par în pământ ca să se urce carabușii de mai pe tine",
+  "original_text": "Bata-te Dumniezo par in pamant ca sa se urce carabusii de mai pe tine",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumniezo",
+  "themes": [
+    "church",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Bata-te Dumniezo par in pamant ca sa se urce carabusii de mai pe tine",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Să înțepenești ca un par bătut în pământ, să se urce cărăbușii pe tine.",
+  "translation": "May God strike you stake into the earth so that the beetles climb over you",
+  "notes": null
+}

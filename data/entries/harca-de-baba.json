@@ -1,0 +1,35 @@
+{
+  "id": "harca-de-baba",
+  "text": "Hârca de babă",
+  "original_text": "hârca de babă",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1875",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Soacra cu trei nurori",
+      "url": "https://ro.wikisource.org/wiki/Soacra_cu_trei_nurori",
+      "author": "Ion Creangă",
+      "year": 1875,
+      "page": null,
+      "informant": "Ion Creangă, Soacra cu trei nurori (replica: nora cea mică)",
+      "regions": [],
+      "original_text": "hârca de babă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Hârcă = bătrână slabă și urâtă.",
+  "translation": "The hag of an old woman",
+  "notes": null
+}

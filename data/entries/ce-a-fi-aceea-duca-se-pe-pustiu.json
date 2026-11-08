@@ -1,0 +1,35 @@
+{
+  "id": "ce-a-fi-aceea-duca-se-pe-pustiu",
+  "text": "Ce-a fi aceea, ducă-se pe pustiu",
+  "original_text": "Ce-a fi aceea, ducă-se pe pustiu",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: naratorul)",
+      "regions": [],
+      "original_text": "Ce-a fi aceea, ducă-se pe pustiu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "Whatever that may be, let it go off into the wilderness",
+  "notes": null
+}

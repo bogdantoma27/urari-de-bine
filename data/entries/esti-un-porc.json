@@ -1,0 +1,35 @@
+{
+  "id": "esti-un-porc",
+  "text": "Ești un porc",
+  "original_text": "Eşti un porc",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XXI",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Disfemismul ca proces lexical (Buletin Științific, Fasc. Filologie, Seria A, XXVII, 2018)",
+      "url": "https://diacronia.ro/indexing/details/A29098/pdf",
+      "author": "Roxana Pașca",
+      "year": 2018,
+      "page": "~132-133",
+      "informant": "utilizator de forum",
+      "regions": [],
+      "original_text": "Eşti un porc",
+      "verification": "verified",
+      "notes": "Citat din YouTube, prin Pașca 2018"
+    }
+  ],
+  "explanation": null,
+  "translation": "You're a pig",
+  "notes": null
+}

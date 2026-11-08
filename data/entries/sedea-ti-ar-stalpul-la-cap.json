@@ -1,0 +1,35 @@
+{
+  "id": "sedea-ti-ar-stalpul-la-cap",
+  "text": "Ședea-ți-ar stâlpul la cap",
+  "original_text": "şedea-ţi-ar stîlpul la cap",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "stâlpul",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1944",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Folklorul medical român comparat (cap. Farmece, vrăji și blesteme, § Blestemele)",
+      "url": "https://archive.org/details/candrea-ioan-aurel-folclorul-medical-roman-comparat_202405",
+      "author": "Ion Aurel Candrea",
+      "year": 1944,
+      "page": 205,
+      "informant": null,
+      "regions": [],
+      "original_text": "şedea-ţi-ar stîlpul la cap",
+      "verification": "verified",
+      "notes": "Candrea, Folklorul medical, § Blestemele, p. 204-205; citat la Pamfile, Boli și leacuri p. 2"
+    }
+  ],
+  "explanation": "Stâlpul = crucea sau stâlpul de lemn de la căpătâiul mormântului.",
+  "translation": "May the post sit at your head",
+  "notes": null
+}

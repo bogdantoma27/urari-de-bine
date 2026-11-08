@@ -1,0 +1,35 @@
+{
+  "id": "te-ar-bate-dumnezeu",
+  "text": "Te-ar bate Dumnezeu",
+  "original_text": "te-ar bate Dumnezeu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1894",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mara, cap. Cine ce poate",
+      "url": "https://ro.wikisource.org/wiki/Mara/Cine_ce_poate",
+      "author": "Ioan Slavici",
+      "year": 1894,
+      "page": null,
+      "informant": "Ioan Slavici, Mara, cap. Cine ce poate",
+      "regions": [],
+      "original_text": "te-ar bate Dumnezeu",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God beat you",
+  "notes": null
+}

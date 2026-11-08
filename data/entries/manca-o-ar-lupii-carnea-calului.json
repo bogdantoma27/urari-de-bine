@@ -1,0 +1,36 @@
+{
+  "id": "manca-o-ar-lupii-carnea-calului",
+  "text": "Mânca-o-ar lupii carnea calului",
+  "original_text": "mânca-o-ar lupii carnea calului",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "lupii",
+  "themes": [
+    "farm_animals",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Greuceanu",
+      "url": "https://ro.wikisource.org/wiki/Greuceanu",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Greuceanu",
+      "regions": [],
+      "original_text": "mânca-o-ar lupii carnea calului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the wolves eat the horse's flesh",
+  "notes": null
+}

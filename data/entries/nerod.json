@@ -1,0 +1,35 @@
+{
+  "id": "nerod",
+  "text": "Nerod",
+  "original_text": "nerod",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Sinonime82",
+      "url": "https://dexonline.ro/definitie/nerod",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "nerod",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om cu mintea mărginită.",
+  "translation": "Dullard",
+  "notes": null
+}

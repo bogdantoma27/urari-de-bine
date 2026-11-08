@@ -1,0 +1,35 @@
+{
+  "id": "paganul-arvanitul",
+  "text": "Păgânul, arvanitul",
+  "original_text": "păgânul, arvanitul",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Kir Ianulea",
+      "url": "https://ro.wikisource.org/wiki/Kir_Ianulea",
+      "author": "Ion Luca Caragiale",
+      "year": 1892,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Kir Ianulea",
+      "regions": [],
+      "original_text": "păgânul, arvanitul",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); arvanit = albanez/grec, folosit ca ocară"
+    }
+  ],
+  "explanation": "Arvanit = albanez.",
+  "translation": "The heathen, the Arvanite",
+  "notes": null
+}

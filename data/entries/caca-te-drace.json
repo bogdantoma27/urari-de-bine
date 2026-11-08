@@ -1,0 +1,36 @@
+{
+  "id": "caca-te-drace",
+  "text": "Căca-te, drace",
+  "original_text": "caca-te drace!!",
+  "type": "euphemism",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "body",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; străbunica comentatorului",
+      "regions": [],
+      "original_text": "caca-te drace!!",
+      "verification": "transcribed",
+      "notes": "exclamație de surprindere sau dezaprobare"
+    }
+  ],
+  "explanation": null,
+  "translation": "Shit yourself, devil",
+  "notes": null
+}

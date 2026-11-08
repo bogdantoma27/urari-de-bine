@@ -1,0 +1,35 @@
+{
+  "id": "nu-stiti-dumneavoastra-ce-poama-a-dracului-e-harap-alb-asta",
+  "text": "Nu știți dumneavoastră ce poamă a dracului e Harap-Alb ăsta",
+  "original_text": "Nu știți d-voastră ce poam-a dracului e Harap-Alb aista",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1877",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Povestea lui Harap-Alb",
+      "url": "https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb",
+      "author": "Ion Creangă",
+      "year": 1877,
+      "page": null,
+      "informant": "Ion Creangă, Povestea lui Harap-Alb (replica: personaj)",
+      "regions": [],
+      "original_text": "Nu știți d-voastră ce poam-a dracului e Harap-Alb aista",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Poamă a dracului = om rău.",
+  "translation": "You don't know, sirs, what a devil's fruit this Harap-Alb is",
+  "notes": null
+}

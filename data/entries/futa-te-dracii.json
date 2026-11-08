@@ -1,0 +1,40 @@
+{
+  "id": "futa-te-dracii",
+  "text": "Fută-te dracii",
+  "original_text": "fută-te dracii",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "sexual"
+  ],
+  "regions": [
+    "crisana"
+  ],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; mătușa comentatorului, din Oradea",
+      "regions": [
+        "crisana"
+      ],
+      "original_text": "fută-te dracii",
+      "verification": "transcribed",
+      "notes": "spusă și ca admirație"
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck yourself, devils",
+  "notes": null
+}

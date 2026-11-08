@@ -1,0 +1,47 @@
+{
+  "id": "a-injura-de-cruce",
+  "text": "A înjura de cruce",
+  "original_text": "A înjura de cruce",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, MDA2",
+      "url": "https://dexonline.ro/definitie/crucea",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "A înjura de cruce",
+      "verification": "verified",
+      "notes": "forma din sursă: «sudui de ~»; verificat pe textul sursei"
+    },
+    {
+      "title": "dexonline.ro, MDA2 (2010)",
+      "url": "https://dexonline.ro/definitie/cruce",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a înjura de cruce",
+      "verification": "unverified",
+      "notes": "forma din sursă: «sudui de ~»"
+    }
+  ],
+  "explanation": "A înjura de cele sfinte; „cruci și răscruci” sunt tot înjurături de cruce.",
+  "translation": "To curse by the cross",
+  "notes": null
+}

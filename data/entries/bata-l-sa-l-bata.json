@@ -1,0 +1,47 @@
+{
+  "id": "bata-l-sa-l-bata",
+  "text": "Bată-l să-l bată",
+  "original_text": "bată-l să-l bată",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban",
+      "url": "https://dexonline.ro/definitie/bate",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l să-l bată",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    },
+    {
+      "title": "dexonline.ro, Scriban (1939)",
+      "url": "https://dexonline.ro/text/în blesteme",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l să-l bată",
+      "verification": "unverified",
+      "notes": null
+    }
+  ],
+  "explanation": "Mai mult în glumă.",
+  "translation": "May it strike him, may it strike him",
+  "notes": null
+}

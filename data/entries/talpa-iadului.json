@@ -1,0 +1,48 @@
+{
+  "id": "talpa-iadului",
+  "text": "Talpa iadului",
+  "original_text": "talpa iadului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007); CADE; Scriban",
+      "url": "https://dexonline.ro/definitie/iad",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "talpa iadului",
+      "verification": "verified",
+      "notes": "expr."
+    },
+    {
+      "title": "dexonline.ro, DLRLC; D.Religios; Argou",
+      "url": "https://dexonline.ro/definitie/iad",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Talpa iadului",
+      "verification": "verified",
+      "notes": "expr.; verificat pe textul sursei"
+    }
+  ],
+  "explanation": null,
+  "translation": "Sole of hell",
+  "notes": null
+}

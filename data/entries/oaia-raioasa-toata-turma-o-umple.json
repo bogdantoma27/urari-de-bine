@@ -1,0 +1,35 @@
+{
+  "id": "oaia-raioasa-toata-turma-o-umple",
+  "text": "Oaia râioasă toată turma o umple",
+  "original_text": "Oaia rîioasă toată turma o umple",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Golescu, Proverbe comentate (ms. 1840)",
+      "url": "https://dexonline.ro/definitie/blestem",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Oaia rîioasă toată turma o umple",
+      "verification": "verified",
+      "notes": "apare la «blestem» ca proverb"
+    }
+  ],
+  "explanation": "Un singur om rău îi strică pe toți.",
+  "translation": "The mangy sheep infects the whole flock",
+  "notes": null
+}

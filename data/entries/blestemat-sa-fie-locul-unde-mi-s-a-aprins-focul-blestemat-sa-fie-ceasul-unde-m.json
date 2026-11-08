@@ -1,0 +1,36 @@
+{
+  "id": "blestemat-sa-fie-locul-unde-mi-s-a-aprins-focul-blestemat-sa-fie-ceasul-unde-m",
+  "text": "Blestemat să fie locul unde mi s-a aprins focul, blestemat să fie ceasul unde m-a ajuns necazul",
+  "original_text": "Blestemat să [ie locul Unde mi s-a aprins focul",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "other",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1885",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Poezii populare române, vol. I-III (ed. Minerva, după colecția din 1885)",
+      "url": null,
+      "author": "George Dem. Teodorescu",
+      "year": 1885,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Blestemat să [ie locul Unde mi s-a aprins focul",
+      "verification": "verified",
+      "notes": "Teodorescu, Poezii populare române; OCR „[ie” = fie; din Marian (pag. 66, broșură)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Cursed be the place where my fire was lit, cursed be the hour when trouble reached me",
+  "notes": null
+}

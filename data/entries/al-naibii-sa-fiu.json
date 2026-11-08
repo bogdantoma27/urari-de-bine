@@ -1,0 +1,35 @@
+{
+  "id": "al-naibii-sa-fiu",
+  "text": "Al naibii să fiu",
+  "original_text": "al naibii să fiu",
+  "type": "euphemism",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "al naibii să fiu",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Țuculescu 1991, p. 101"
+    }
+  ],
+  "explanation": "Naiba = dracul; te blestemi singur.",
+  "translation": "May I be the Devil's",
+  "notes": null
+}

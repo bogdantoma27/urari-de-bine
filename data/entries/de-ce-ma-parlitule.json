@@ -1,0 +1,35 @@
+{
+  "id": "de-ce-ma-parlitule",
+  "text": "De ce mă, pârlitule",
+  "original_text": "De ce mă, pârlitule",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ion... (Caragiale)",
+      "url": "https://ro.wikisource.org/wiki/Ion..._(Caragiale)",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Ion... (Caragiale)",
+      "regions": [],
+      "original_text": "De ce mă, pârlitule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Why, man, you scorched one",
+  "notes": null
+}

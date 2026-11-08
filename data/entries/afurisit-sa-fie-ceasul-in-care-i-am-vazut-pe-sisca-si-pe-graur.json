@@ -1,0 +1,35 @@
+{
+  "id": "afurisit-sa-fie-ceasul-in-care-i-am-vazut-pe-sisca-si-pe-graur",
+  "text": "Afurisit să fie ceasul în care i-am văzut pe Șișcă și pe Graur",
+  "original_text": "afurisit să fie ceasul în care i-am văzut pe Șișcă și pe Graur",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1898",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ceas rău",
+      "url": "https://ro.wikisource.org/wiki/Ceas_r%C4%83u",
+      "author": "Ioan Slavici",
+      "year": 1898,
+      "page": null,
+      "informant": "Ioan Slavici, Ceas rău",
+      "regions": [],
+      "original_text": "afurisit să fie ceasul în care i-am văzut pe Șișcă și pe Graur",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Afurisit = blestemat",
+  "translation": "Cursed be the hour in which I saw Șișcă and Graur",
+  "notes": null
+}

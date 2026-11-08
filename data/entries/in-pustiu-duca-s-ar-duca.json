@@ -1,0 +1,35 @@
+{
+  "id": "in-pustiu-duca-s-ar-duca",
+  "text": "În pustiu ducă-s-ar, ducă",
+  "original_text": "În pustiu ducă-s-ar, ducă!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/pustii",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "În pustiu ducă-s-ar, ducă!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May he go off to the wilderness, may he go",
+  "notes": null
+}

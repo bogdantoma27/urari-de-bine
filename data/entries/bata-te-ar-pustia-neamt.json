@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-ar-pustia-neamt",
+  "text": "Bată-te-ar pustia, neamț",
+  "original_text": "Bată-te-ar pustia, neamţ",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pustia",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 122,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te-ar pustia, neamţ",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2; cântec de catană"
+    }
+  ],
+  "explanation": "Neamț = german; pustia = pustiul, ca ceva rău care lovește.",
+  "translation": "May the wasteland strike you, German",
+  "notes": null
+}

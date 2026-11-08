@@ -1,0 +1,36 @@
+{
+  "id": "sa-moara-bibi-mama-ortu",
+  "text": "Să moară Bibi / mama / ortu",
+  "original_text": "să moară Bibi / mama / ortu'",
+  "type": "expression",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/mamă",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "să moară Bibi / mama / ortu'",
+      "verification": "verified",
+      "notes": "marcat vulg."
+    }
+  ],
+  "explanation": null,
+  "translation": "May Bibi / mother / ortu die",
+  "notes": "jurământ de adeverire; sensul lui „ortu” nesigur"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "popa-e-omul-dracului",
+  "text": "Popa e omul dracului",
+  "original_text": "Popa e omul dracului",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1875",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Popa Tanda",
+      "url": "https://ro.wikisource.org/wiki/Popa_Tanda",
+      "author": "Ioan Slavici",
+      "year": 1875,
+      "page": null,
+      "informant": "Ioan Slavici, Popa Tanda",
+      "regions": [],
+      "original_text": "Popa e omul dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The priest is the devil's man",
+  "notes": null
+}

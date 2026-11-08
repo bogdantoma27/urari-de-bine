@@ -1,0 +1,35 @@
+{
+  "id": "halotca",
+  "text": "Halotcă",
+  "original_text": "HALOTCĂ",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRM (1958), s.v. halotcă",
+      "url": "https://dexonline.ro/definitie/halotcă/11624",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "HALOTCĂ",
+      "verification": "verified",
+      "notes": "DLRM, reg.: termen de ocară pentru femei și fete; femeie de moravuri ușoare"
+    }
+  ],
+  "explanation": "Ocară regională: femeie ușoară.",
+  "translation": "Halotca",
+  "notes": null
+}

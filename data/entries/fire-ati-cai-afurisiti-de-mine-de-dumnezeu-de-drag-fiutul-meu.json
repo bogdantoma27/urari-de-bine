@@ -1,0 +1,36 @@
+{
+  "id": "fire-ati-cai-afurisiti-de-mine-de-dumnezeu-de-drag-fiutul-meu",
+  "text": "Fire-ați, cai, afurisiți de mine, de Dumnezeu, de drag fiuțul meu",
+  "original_text": "Fire-aţi, cai, afurisiţi De mine, de Dumnezeu, De drag fiuleţul meu!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1904",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Legendele Maicii Domnului",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Simion_Florea_Marian_-_Legendele_Maicii_Domnului_-_1904.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1904,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fire-aţi, cai, afurisiţi De mine, de Dumnezeu, De drag fiuleţul meu!",
+      "verification": "verified",
+      "notes": "Marian, Legendele Maicii Domnului (1904); variantă cu „afurisiți”"
+    }
+  ],
+  "explanation": "Maica Domnului blestemă caii; fiuț = fiu mic.",
+  "translation": "May you, horses, be accursed by me, by God, by my dear little son",
+  "notes": null
+}

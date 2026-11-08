@@ -1,0 +1,35 @@
+{
+  "id": "dare-ar-duhul-necurat",
+  "text": "Dare-ar duhul necurat",
+  "original_text": "Dare-ar duhul necurat",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "duhul necurat",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC; DLR - tomul X",
+      "url": "https://dexonline.ro/definitie/necurat",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Dare-ar duhul necurat",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Dare-ar = să dea, formă veche.",
+  "translation": "May the unclean spirit take you",
+  "notes": null
+}

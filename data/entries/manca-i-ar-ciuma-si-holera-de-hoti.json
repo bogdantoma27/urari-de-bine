@@ -1,0 +1,35 @@
+{
+  "id": "manca-i-ar-ciuma-si-holera-de-hoti",
+  "text": "Mânca-i-ar ciuma și holera de hoți",
+  "original_text": "Mînca-i-ar ciuma și holera de hoți",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "ciuma și holera",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. de",
+      "url": "https://dexonline.ro/definitie/de/895598",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-i-ar ciuma și holera de hoți",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; La TDRG"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the plague and cholera eat the thieves",
+  "notes": null
+}

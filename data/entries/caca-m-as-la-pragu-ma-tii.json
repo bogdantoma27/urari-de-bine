@@ -1,0 +1,36 @@
+{
+  "id": "caca-m-as-la-pragu-ma-tii",
+  "text": "Căca-m-aș la pragu' mă-tii",
+  "original_text": "caca-m-as la pragu matii",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "body",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "caca-m-as la pragu matii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "I'd crap at your mother's doorstep",
+  "notes": null
+}

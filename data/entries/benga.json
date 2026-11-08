@@ -1,0 +1,35 @@
+{
+  "id": "benga",
+  "text": "Benga",
+  "original_text": "benga",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, MDA2 (2010), s.v. benga",
+      "url": "https://dexonline.ro/definitie/benga/1031057",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "benga",
+      "verification": "verified",
+      "notes": "MDA2, mai ales în ocări și blesteme: diavol; PAMFILE, J. II"
+    }
+  ],
+  "explanation": "Benga = diavol (regional)",
+  "translation": "Devil",
+  "notes": null
+}

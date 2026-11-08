@@ -1,0 +1,35 @@
+{
+  "id": "asculta-l-ar-pustia",
+  "text": "Ascultă-l-ar pustia",
+  "original_text": "Asculta-l-ar pustia",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pustia",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/pustii",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Asculta-l-ar pustia",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the wasteland listen to him",
+  "notes": null
+}

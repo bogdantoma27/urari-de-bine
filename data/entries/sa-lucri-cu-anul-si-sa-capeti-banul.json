@@ -1,0 +1,35 @@
+{
+  "id": "sa-lucri-cu-anul-si-sa-capeti-banul",
+  "text": "Să lucri cu anul și să capeți banul",
+  "original_text": "Sa lucri cu anu Și sa capeț banu",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Sa lucri cu anu Și sa capeț banu",
+      "verification": "verified",
+      "notes": "vol. 1; pagina nedeterminată"
+    }
+  ],
+  "explanation": "Să muncești mult și să câștigi puțin.",
+  "translation": "May you work by the year and get paid by the coin",
+  "notes": null
+}

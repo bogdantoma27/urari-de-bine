@@ -1,0 +1,35 @@
+{
+  "id": "uciga-te-toaca",
+  "text": "Ucigă-te toaca",
+  "original_text": "Uciga-te toaca!",
+  "type": "euphemism",
+  "form": "imperative",
+  "affliction": "toaca",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Uciga-te toaca!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Toaca = scândura bătută la biserică.",
+  "translation": "May the toaca kill you",
+  "notes": null
+}

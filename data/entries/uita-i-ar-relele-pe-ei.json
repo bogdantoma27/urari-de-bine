@@ -1,0 +1,35 @@
+{
+  "id": "uita-i-ar-relele-pe-ei",
+  "text": "Uita-i-ar relele pe ei",
+  "original_text": "Uita-i-ar relele pe ei",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "relele",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "De la București la Roșiorii-de-Vedea și-napoi",
+      "url": "https://ro.wikisource.org/wiki/De_la_Bucure%C8%99ti_la_Ro%C8%99iorii-de-Vedea_%C8%99i-napoi",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, De la București la Roșiorii-de-Vedea și-napoi",
+      "regions": [],
+      "original_text": "Uita-i-ar relele pe ei",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the evils forget them",
+  "notes": null
+}

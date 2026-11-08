@@ -1,0 +1,35 @@
+{
+  "id": "iti-dau-una-de-zici-ca-te-a-lovit-calul-primariei",
+  "text": "Îți dau una de zici că te-a lovit calul primăriei",
+  "original_text": "iti dau una de zici ca te-a lovit calul primariei",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica autorului",
+      "regions": [],
+      "original_text": "iti dau una de zici ca te-a lovit calul primariei",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "I'll give you one so you'd think the town hall's horse kicked you",
+  "notes": null
+}

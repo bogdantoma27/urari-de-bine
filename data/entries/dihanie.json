@@ -1,0 +1,35 @@
+{
+  "id": "dihanie",
+  "text": "Dihanie",
+  "original_text": "dihanie",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. dihanie",
+      "url": "https://dexonline.ro/definitie/dihanie/907760",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "dihanie",
+      "verification": "verified",
+      "notes": "DLRLC: familiar, termen de ocară dat uneori în glumă"
+    }
+  ],
+  "explanation": "Dihanie = fiară, animal sălbatic. Se zice și în glumă.",
+  "translation": "Beast",
+  "notes": null
+}

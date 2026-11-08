@@ -1,0 +1,47 @@
+{
+  "id": "uciga-l-tamaia",
+  "text": "Ucigă-l tămâia",
+  "original_text": "ucigă-l-tămâia",
+  "type": "euphemism",
+  "form": "imperative",
+  "affliction": "tămâia",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE (1926-1931); Șăineanu ed. VI (1929)",
+      "url": "https://dexonline.ro/definitie/cruce",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ucigă-l-tămâia",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "dexonline.ro, MDA2",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "ucigă-l-tămâia",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the incense kill him",
+  "notes": null
+}

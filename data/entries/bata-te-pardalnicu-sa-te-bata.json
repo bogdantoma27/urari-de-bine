@@ -1,0 +1,59 @@
+{
+  "id": "bata-te-pardalnicu-sa-te-bata",
+  "text": "Bată-te pârdalnicu să te bată!",
+  "original_text": "Bată-te pîrdalnicu să te bată!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "pârdalnicul",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1850",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/bate",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te pîrdalnicu să te bată!",
+      "verification": "verified",
+      "notes": "verificat pe textul sursei"
+    },
+    {
+      "title": "Chirița în Iași",
+      "url": "https://ro.wikisource.org/wiki/Chiri%C8%9Ba_%C3%AEn_Ia%C8%99i",
+      "author": "Vasile Alecsandri",
+      "year": 1850,
+      "page": null,
+      "informant": "Vasile Alecsandri, Chirița în Iași",
+      "regions": [],
+      "original_text": "Bată-te pârdalnicu să te bată",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/text/în imprecații",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te pîrdalnicu să te bată!",
+      "verification": "unverified",
+      "notes": null
+    }
+  ],
+  "explanation": "Pârdalnic = diavol",
+  "translation": "May the cursed one strike you, may he strike you!",
+  "notes": null
+}

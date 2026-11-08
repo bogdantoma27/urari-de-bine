@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-cucu-miliord",
+  "text": "Bată-l cucu miliord",
+  "original_text": "bată-l cucu miliord",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "cucul",
+  "themes": [
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1850",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Chirița în Iași",
+      "url": "https://ro.wikisource.org/wiki/Chiri%C8%9Ba_%C3%AEn_Ia%C8%99i",
+      "author": "Vasile Alecsandri",
+      "year": 1850,
+      "page": null,
+      "informant": "Vasile Alecsandri, Chirița în Iași",
+      "regions": [],
+      "original_text": "bată-l cucu miliord",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw); vizează un străin"
+    }
+  ],
+  "explanation": "Cucul = dracul, zis pe ocolite; miliord = milord, lord englez.",
+  "translation": "May the cuckoo strike the milord",
+  "notes": null
+}

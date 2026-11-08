@@ -1,0 +1,36 @@
+{
+  "id": "bata-i-mama-cailor",
+  "text": "Bată-i mama cailor!",
+  "original_text": "bată-i mama cailor!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "mama cailor",
+  "themes": [
+    "family",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mama",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-i mama cailor!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Mama cailor e pusă în loc de o înjurătură mai grea.",
+  "translation": "May the horses' mother strike them!",
+  "notes": null
+}

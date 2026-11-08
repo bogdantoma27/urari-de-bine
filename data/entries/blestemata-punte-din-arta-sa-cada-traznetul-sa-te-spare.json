@@ -1,0 +1,35 @@
+{
+  "id": "blestemata-punte-din-arta-sa-cada-traznetul-sa-te-spare",
+  "text": "Blestemată punte din Artă, să cadă trăznetul să te spare",
+  "original_text": "Blestematg punte din Arta",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "trăznetul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Vieața păstorească în poesia noastră populară, vol. 1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ovid_Densusianu_-_Viea%C8%9Ba_p%C4%83storeasc%C4%83_%C3%AEn_poesia_noastr%C4%83_popular%C4%83._Volumul_1.pdf",
+      "author": "Ovid Densusianu",
+      "year": 1913,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Blestematg punte din Arta",
+      "verification": "verified",
+      "notes": "Densusianu, Vieața păstorească I; cu aromânii; cu trimitere P. Papahagi, Din lit. pop. a Aromânilor, 937"
+    }
+  ],
+  "explanation": "E vorba de podul de la Arta, din legenda populară, blestemat de femei.",
+  "translation": "Cursed bridge of Arta, may lightning strike and split you",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bat-o-norocul-de-frantuzeasca",
+  "text": "Bat-o norocul de franțuzească",
+  "original_text": "bat-o norocul de franțuzească",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "norocul",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "O admirabilă lucrare literară",
+      "url": "https://ro.wikisource.org/wiki/O_admirabil%C4%83_lucrare_literar%C4%83",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, O admirabilă lucrare literară",
+      "regions": [],
+      "original_text": "bat-o norocul de franțuzească",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Franțuzească = femeie franțuzoaică",
+  "translation": "May luck strike her, the Frenchwoman",
+  "notes": null
+}

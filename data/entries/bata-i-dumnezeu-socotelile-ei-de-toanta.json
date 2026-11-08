@@ -1,0 +1,35 @@
+{
+  "id": "bata-i-dumnezeu-socotelile-ei-de-toanta",
+  "text": "Bată-i Dumnezeu socotelile ei de toantă",
+  "original_text": "Bată-i Dumnezeu socotelile ei de toantă",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1920",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Ion, partea a II-a Glasul iubirii",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/2._Glasul_iubirii",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea a II-a Glasul iubirii",
+      "regions": [],
+      "original_text": "Bată-i Dumnezeu socotelile ei de toantă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Toantă = femeie proastă; socoteli = planuri",
+  "translation": "May God strike her calculations, the fool",
+  "notes": null
+}

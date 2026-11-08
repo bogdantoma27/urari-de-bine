@@ -1,0 +1,41 @@
+{
+  "id": "sa-si-rupa-dumnezo-hamurile-cand-a-trage-pulele-din-ma-ta",
+  "text": "Să-și rupă Dumnezo hamurile când a trage pulele din mă-ta",
+  "original_text": "Sa isi rupa Dumnezo hamurile cand a trage pulele din ma-ta",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": "Dumnezo",
+  "themes": [
+    "church",
+    "family",
+    "sexual"
+  ],
+  "regions": [
+    "maramures"
+  ],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [
+        "maramures"
+      ],
+      "original_text": "Sa isi rupa Dumnezo hamurile cand a trage pulele din ma-ta",
+      "verification": "transcribed",
+      "notes": "comentatorul: „Aici in MM”"
+    }
+  ],
+  "explanation": "Hamuri = curelele de la ham.",
+  "translation": "May God break his harness when he pulls cocks out of your mother",
+  "notes": null
+}

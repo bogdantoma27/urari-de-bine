@@ -1,0 +1,36 @@
+{
+  "id": "iti-joaca-coliva-pe-piept",
+  "text": "Îți joacă coliva pe piept",
+  "original_text": "Iti joaca coliva pe piept",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Iti joaca coliva pe piept",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Colivă = grâul fiert de la pomana morților. Adică te omor.",
+  "translation": "The funeral wheat dances on your chest",
+  "notes": null
+}

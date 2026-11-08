@@ -1,0 +1,35 @@
+{
+  "id": "fire-ai-al-ciorilor",
+  "text": "Fire-ai al ciorilor",
+  "original_text": "Fire-aĭ al cĭorilor",
+  "type": "euphemism",
+  "form": "optative",
+  "affliction": "ciorile",
+  "themes": [
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban, s.v. cioară",
+      "url": "https://dexonline.ro/definitie/cioară/570361",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fire-aĭ al cĭorilor",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: Scriban"
+    }
+  ],
+  "explanation": "Să mori neîngropat, să te mănânce ciorile.",
+  "translation": "May you be the crows'",
+  "notes": null
+}

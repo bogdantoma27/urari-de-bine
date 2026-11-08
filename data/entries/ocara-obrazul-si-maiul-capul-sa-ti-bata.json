@@ -1,0 +1,35 @@
+{
+  "id": "ocara-obrazul-si-maiul-capul-sa-ti-bata",
+  "text": "Ocara obrazul și maiul capul să-ți bată",
+  "original_text": "Ocara obrazul și maiul capul să-ți bată",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "ocara și maiul",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR, s.v. maiu",
+      "url": "https://dexonline.ro/definitie/maiu/1251271",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ocara obrazul și maiul capul să-ți bată",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR; CANTEMIR, IST. 311"
+    }
+  ],
+  "explanation": "Mai = ciocan mare de lemn.",
+  "translation": "May shame strike your face and the mallet your head",
+  "notes": null
+}

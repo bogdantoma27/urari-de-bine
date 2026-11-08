@@ -1,0 +1,53 @@
+{
+  "id": "arda-te-ar-strainatate",
+  "text": "Ardă-te-ar străinătate",
+  "original_text": "Ardă-te-ar străinătate",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "străinătate",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Țara Fagilor I (1992)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor--I-1992.pdf",
+      "author": null,
+      "year": 1992,
+      "page": "133",
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Ardă-te-ar străinătate",
+      "verification": "verified",
+      "notes": "nord-bucovinean. cântec din rubrica despre deportările staliniste"
+    },
+    {
+      "title": "Țara Fagilor XIII (2004)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-XIII-2004.pdf",
+      "author": null,
+      "year": 2004,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Ardă-te-ar străinătate",
+      "verification": "verified",
+      "notes": "nord-bucovinean. cântec"
+    }
+  ],
+  "explanation": null,
+  "translation": "May foreign lands burn you",
+  "notes": null
+}

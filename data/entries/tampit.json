@@ -1,0 +1,35 @@
+{
+  "id": "tampit",
+  "text": "Tâmpit",
+  "original_text": "tâmpit",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98; NODEX; Sinonime",
+      "url": "https://dexonline.ro/definitie/tâmpit",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "tâmpit",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Moron",
+  "notes": null
+}

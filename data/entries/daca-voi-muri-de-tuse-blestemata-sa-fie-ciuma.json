@@ -1,0 +1,35 @@
+{
+  "id": "daca-voi-muri-de-tuse-blestemata-sa-fie-ciuma",
+  "text": "Dacă voi muri de tuse, blestemată să fie ciuma",
+  "original_text": "Daca voiii muri de tuse, blestemată să fie ciuma",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1897",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 2",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-2-1897",
+      "author": "Iuliu A. Zanne",
+      "year": 1897,
+      "page": 185,
+      "informant": null,
+      "regions": [],
+      "original_text": "Daca voiii muri de tuse, blestemată să fie ciuma",
+      "verification": "verified",
+      "notes": "Zanne vol. 2, nota 1 la nr. 6193 „A se uita în pământ”, p. 185"
+    }
+  ],
+  "explanation": null,
+  "translation": "If I die of a cough, cursed be the plague",
+  "notes": null
+}

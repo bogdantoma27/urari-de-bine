@@ -1,0 +1,36 @@
+{
+  "id": "bata-i-mania-si-urgia-cerului",
+  "text": "Bată-i mânia și urgia cerului",
+  "original_text": "Bată-i mânia și urgia cerului",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "mânia și urgia cerului",
+  "themes": [
+    "church",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1920",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ion, partea a II-a Glasul iubirii",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/2._Glasul_iubirii",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea a II-a Glasul iubirii",
+      "regions": [],
+      "original_text": "Bată-i mânia și urgia cerului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Urgie = nenorocire trimisă de cer",
+  "translation": "May the wrath and the scourge of heaven strike them",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "inghete-i-gerul-bocna-bata-i-grindeni-si-ploaia-biciuiasca-i-pretutindeni",
+  "text": "Înghețe-i gerul bocnă, bată-i grindeni, și ploaia biciuiască-i pretutindeni",
+  "original_text": "Înghețe-i gerul bocnă, bată-i grindeni, Și ploaia biciuiască-i pretutindeni",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "gerul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, dexonline, s.v. grindină",
+      "url": "https://dexonline.ro/definitie/grindină/1034624",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Înghețe-i gerul bocnă, bată-i grindeni, Și ploaia biciuiască-i pretutindeni",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: dexonline (dicționar intern): Mihai EMINESCU, Scrisoarea a III-a, citat"
+    }
+  ],
+  "explanation": "Bocnă = țeapăn de frig; grindeni = grindină. Versuri de Eminescu.",
+  "translation": "May the frost freeze him stiff, may hail beat him, and may rain whip him everywhere",
+  "notes": null
+}

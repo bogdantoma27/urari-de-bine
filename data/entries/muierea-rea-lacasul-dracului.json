@@ -1,0 +1,36 @@
+{
+  "id": "muierea-rea-lacasul-dracului",
+  "text": "Muierea rea, lăcașul dracului",
+  "original_text": "Muierea rea, lăcașul dracului",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 8",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-8-1900",
+      "author": "Iuliu A. Zanne",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Muierea rea, lăcașul dracului",
+      "verification": "verified",
+      "notes": "Zanne vol. 8, nr. 7320 (Golescu)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The wicked woman, the devil's dwelling",
+  "notes": null
+}

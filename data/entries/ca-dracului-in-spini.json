@@ -1,0 +1,35 @@
+{
+  "id": "ca-dracului-in-spini",
+  "text": "Ca dracului în spini",
+  "original_text": "ca dracului în spini",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 93,
+      "informant": null,
+      "regions": [],
+      "original_text": "ca dracului în spini",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2"
+    }
+  ],
+  "explanation": null,
+  "translation": "Like the devil in thorns",
+  "notes": null
+}

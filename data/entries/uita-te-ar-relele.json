@@ -1,0 +1,35 @@
+{
+  "id": "uita-te-ar-relele",
+  "text": "Uita-te-ar relele",
+  "original_text": "uita-te-ar relele",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "relele",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1890",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Năpasta",
+      "url": "https://ro.wikisource.org/wiki/N%C4%83pasta",
+      "author": "Ion Luca Caragiale",
+      "year": 1890,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Năpasta",
+      "regions": [],
+      "original_text": "uita-te-ar relele",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the evils forget you",
+  "notes": null
+}

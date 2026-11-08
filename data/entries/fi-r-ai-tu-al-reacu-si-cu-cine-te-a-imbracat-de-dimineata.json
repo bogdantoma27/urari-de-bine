@@ -1,0 +1,36 @@
+{
+  "id": "fi-r-ai-tu-al-reacu-si-cu-cine-te-a-imbracat-de-dimineata",
+  "text": "Fi-r-ai tu al reacu și cu cine te-a îmbrăcat de dimineață",
+  "original_text": "Fi-r-ai tu al reacu si cu cine te-a imbracat de dimineata",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: [Crowdsourcing] Injuraturi Romanesti",
+      "url": "https://www.reddit.com/r/Romania/comments/12esrqp/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit; auzită de la un taximetrist",
+      "regions": [],
+      "original_text": "Fi-r-ai tu al reacu si cu cine te-a imbracat de dimineata",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Reacu = răul, dracul.",
+  "translation": "May you be the evil one's, you and whoever dressed you this morning",
+  "notes": null
+}

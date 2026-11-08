@@ -1,0 +1,37 @@
+{
+  "id": "futu-ti-capetenia-ma-tii-pana-joaca-n-batatura",
+  "text": "Futu-ți căpetenia mă-tii până joacă-n bătătură",
+  "original_text": "Futu-ți căpetenia mă-tii pînă joacă-n bătătură",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "farm_animals",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "sat din Călărași, prin prieten al autorului",
+      "regions": [],
+      "original_text": "Futu-ți căpetenia mă-tii pînă joacă-n bătătură",
+      "verification": "verified",
+      "notes": "Călărași"
+    }
+  ],
+  "explanation": "Bătătură = curtea din fața casei.",
+  "translation": "Fuck your mother's head until it dances in the yard",
+  "notes": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "potaia-afurisita",
+  "text": "Potaia-afurisită",
+  "original_text": "Potaia-afurisită",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Șarla și ciobanii",
+      "url": "https://ro.wikisource.org/wiki/%C8%98arla_%C8%99i_ciobanii",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Șarla și ciobanii",
+      "regions": [],
+      "original_text": "Potaia-afurisită",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Potaie = câine corcit; afurisită = blestemată.",
+  "translation": "Accursed mutt",
+  "notes": null
+}

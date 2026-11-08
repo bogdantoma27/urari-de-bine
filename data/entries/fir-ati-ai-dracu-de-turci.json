@@ -1,0 +1,35 @@
+{
+  "id": "fir-ati-ai-dracu-de-turci",
+  "text": "Fir-ați ai dracu' de turci",
+  "original_text": "Fir-aţi ai dracu’ de turci",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": true,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "Fir-aţi ai dracu’ de turci",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Horasangian, Enciclopedia armenilor, 1994, p. 89"
+    }
+  ],
+  "explanation": null,
+  "translation": "Be the devil's, you Turks",
+  "notes": null
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://uraridebine.ro/schema/entry.schema.json",
+  "title": "Entry",
+  "description": "An attested Romanian swear, curse, insult, euphemism or expression. One file per entry in data/entries/<id>.json. The content (text, original_text, explanation, notes) stays in Romanian.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "text", "original_text", "type", "form", "affliction", "themes", "regions", "level", "period", "attested", "verification", "sensitive", "funny", "sources", "explanation", "translation", "notes"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "maxLength": 80 },
+    "text": { "type": "string", "minLength": 1 },
+    "original_text": { "type": "string", "minLength": 1 },
+    "type": { "enum": ["curse", "swear", "insult", "euphemism", "expression"] },
+    "form": { "enum": ["optative", "subjunctive", "imperative", "nominal", "single_word", "other"] },
+    "affliction": { "type": ["string", "null"], "description": "What falls on the head of the cursed person: the prison in \"Mânca-te-ar gherla\", the fire, the sickness. null if the formula has no such thing." },
+    "themes": {
+      "type": "array", "minItems": 1, "uniqueItems": true,
+      "items": { "enum": ["church", "devil_hell", "sickness_death", "farm_animals", "prison", "birds_of_prey", "nature_elements", "family", "body", "sexual", "places", "modern", "poverty", "other"] }
+    },
+    "regions": {
+      "type": "array", "uniqueItems": true,
+      "items": { "enum": ["general", "moldavia", "bukovina", "maramures", "transylvania", "crisana", "banat", "oltenia", "wallachia", "dobruja", "republic_of_moldova", "serbia", "ukraine", "hungary", "aromanian", "megleno_romanian", "istro_romanian"] }
+    },
+    "level": { "enum": ["clean", "mild", "vulgar"] },
+    "period": { "type": ["string", "null"] },
+    "attested": { "type": "boolean" },
+    "verification": {
+      "description": "verified = text found literally in the raw text of the source; transcribed = copied by a person from the source, no automatic check; unverified = not found.",
+      "enum": ["verified", "transcribed", "unverified"]
+    },
+    "sensitive": { "type": "boolean", "description": "Insults aimed at ethnic groups or other groups; documented with context; included by default in /v1/entries and /v1/random (sensitive=false removes them), also in /v1/generate." },
+    "funny": { "type": "boolean", "description": "true if the formula is witty and can be thrown at a friend; set by the team, not by the contributor. /v1/random and /v1/today pick only from these (if the filters leave any)." },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["title", "url", "author", "year", "page", "informant", "regions", "original_text", "verification"],
+        "properties": {
+          "title": { "type": "string" },
+          "url": { "type": ["string", "null"] },
+          "author": { "type": ["string", "null"] },
+          "year": { "type": ["integer", "string", "null"] },
+          "page": { "type": ["string", "integer", "null"] },
+          "informant": { "type": ["string", "null"] },
+          "regions": { "type": "array", "items": { "type": "string" } },
+          "original_text": { "type": "string" },
+          "verification": { "enum": ["verified", "transcribed", "unverified"] },
+          "notes": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "explanation": { "type": ["string", "null"] },
+    "translation": { "type": ["string", "null"], "description": "Literal English translation." },
+    "notes": { "type": ["string", "null"] }
+  },
+  "allOf": [
+    { "if": { "properties": { "attested": { "const": true } } }, "then": { "properties": { "sources": { "minItems": 1 } } } }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "manca-te-ar-funia",
+  "text": "Mânca-te-ar funia",
+  "original_text": "Mînca-te-ar funia.",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "funia",
+  "themes": [
+    "sickness_death",
+    "prison"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-te-ar funia.",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Funia = ștreangul.",
+  "translation": "May the rope eat you",
+  "notes": null
+}

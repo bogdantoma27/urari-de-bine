@@ -1,0 +1,35 @@
+{
+  "id": "pica-ti-ar-distributia-in-baia-de-ulei",
+  "text": "Pică-ți-ar distribuția în baia de ulei",
+  "original_text": "pica-ti-ar distribuția în baia de ulei",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "distribuția",
+  "themes": [
+    "modern"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "pica-ti-ar distribuția în baia de ulei",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Distribuția = cureaua sau lanțul de distribuție de la motor.",
+  "translation": "May your timing belt fall into the oil bath",
+  "notes": null
+}

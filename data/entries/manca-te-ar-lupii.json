@@ -1,0 +1,38 @@
+{
+  "id": "manca-te-ar-lupii",
+  "text": "Mânca-te-ar lupii",
+  "original_text": "manca-te-ar lupil",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "lupii",
+  "themes": [
+    "farm_animals",
+    "birds_of_prey"
+  ],
+  "regions": [
+    "bukovina"
+  ],
+  "level": "clean",
+  "period": "1883",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ornitologia poporană română, vol. 1",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Simion_Florea_Marian_-_Ornitologia_poporan%C4%83_rom%C3%A2n%C4%83._Volumul_1.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1883,
+      "page": null,
+      "informant": "români din Bucovina (Polana-Stampii)",
+      "regions": [],
+      "original_text": "manca-te-ar lupil",
+      "verification": "verified",
+      "notes": "Marian, Ornitologia poporană I; la sursă: «mânca-te-ar Ciahlăul ca și mânca-te-ar lupii»; Ciahlăul = nume de munte (Ceahlău)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the wolves eat you",
+  "notes": "informator: „români din Bucovina (Polana-Stampii)” (Marian, Ornitologia)"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "janghina",
+  "text": "Janghină",
+  "original_text": "janghină",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, MDA2 (2010), s.v. janghină",
+      "url": "https://dexonline.ro/definitie/janghină/1116380",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "janghină",
+      "verification": "verified",
+      "notes": "MDA2, reg.: termen de ocară pentru cai sau oameni"
+    }
+  ],
+  "explanation": "Ocară regională pentru cai sau oameni.",
+  "translation": "Scrawny nag",
+  "notes": null
+}

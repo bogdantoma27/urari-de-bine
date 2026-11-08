@@ -1,0 +1,35 @@
+{
+  "id": "arda-l-focu-pe-badea",
+  "text": "Ardă-l focu pe badea",
+  "original_text": "Ardă-l focu pe badea",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "focul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. trece",
+      "url": "https://dexonline.ro/definitie/trece/935607",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ardă-l focu pe badea",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; HODOȘ, P. P. 86"
+    }
+  ],
+  "explanation": "Badea = cum îi zice fata iubitului.",
+  "translation": "May the fire burn him, the lad",
+  "notes": null
+}

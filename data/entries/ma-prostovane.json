@@ -1,0 +1,35 @@
+{
+  "id": "ma-prostovane",
+  "text": "Mă prostovane",
+  "original_text": "mă prostovane",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "O inspecțiune",
+      "url": "https://ro.wikisource.org/wiki/O_inspec%C8%9Biune",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, O inspecțiune",
+      "regions": [],
+      "original_text": "mă prostovane",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Prostovan = prost.",
+  "translation": "You fool",
+  "notes": null
+}

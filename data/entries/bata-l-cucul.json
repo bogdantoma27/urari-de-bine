@@ -1,0 +1,36 @@
+{
+  "id": "bata-l-cucul",
+  "text": "Bată-l cucul!",
+  "original_text": "bată-l cucul!",
+  "type": "euphemism",
+  "form": "imperative",
+  "affliction": "cucul",
+  "themes": [
+    "devil_hell",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/câine",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l cucul!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Cucul = dracul, zis pe ocolite.",
+  "translation": "May the cuckoo strike him!",
+  "notes": null
+}

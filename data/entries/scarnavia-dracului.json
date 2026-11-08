@@ -1,0 +1,35 @@
+{
+  "id": "scarnavia-dracului",
+  "text": "Scârnăvia dracului",
+  "original_text": "scârnăvia dracului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "1932",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Răscoala, vol. Focurile",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Focurile",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Focurile",
+      "regions": [],
+      "original_text": "scârnăvia dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The devil's filth",
+  "notes": null
+}

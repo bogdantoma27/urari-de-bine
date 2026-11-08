@@ -1,0 +1,35 @@
+{
+  "id": "badaran",
+  "text": "Bădăran",
+  "original_text": "bădăran",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, NODEX; Sinonime82",
+      "url": "https://dexonline.ro/definitie/bădăran",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bădăran",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Bădăran = om grosolan, mitocan",
+  "translation": "Boor",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "printul-cac-in-tol",
+  "text": "Prințul Cac-în-Tol",
+  "original_text": "Printul Cac-In-Tol",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica comentatorului",
+      "regions": [],
+      "original_text": "Printul Cac-In-Tol",
+      "verification": "transcribed",
+      "notes": "joc de cuvinte cu Hohenzollern, pentru copiii cu ifose"
+    }
+  ],
+  "explanation": "Joc de cuvinte pe Hohenzollern; se zice copiilor cu nasul pe sus.",
+  "translation": "Prince Shit-in-Tol",
+  "notes": null
+}

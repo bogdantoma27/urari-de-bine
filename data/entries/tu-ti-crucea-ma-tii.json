@@ -1,0 +1,40 @@
+{
+  "id": "tu-ti-crucea-ma-tii",
+  "text": "Tu-ți crucea mă-tii",
+  "original_text": "tu-s crusa mă-ti",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "vulgar",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum înjurau vrâncenii pe la 1940",
+      "url": "https://www.ziaruldevrancea.ro/special/educatie/1588818433-cum-injurau-vrancenii-pe-la-1940.html",
+      "author": "Ziarul de Vrancea",
+      "year": null,
+      "page": null,
+      "informant": "chestionar ALR 1942, punct 605, nord de Focșani",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "tu-s crusa mă-ti",
+      "verification": "verified",
+      "notes": "grafie după rezumat web"
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck your mother's cross",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "de-ti-ar-fi-secat-mana",
+  "text": "De ți-ar fi secat mâna",
+  "original_text": "De ți-ar fi secat mîna",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/sec",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "De ți-ar fi secat mîna",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "If only your hand had dried up",
+  "notes": null
+}

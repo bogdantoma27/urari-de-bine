@@ -1,0 +1,35 @@
+{
+  "id": "arda-te-para-focului-de-span",
+  "text": "Ardă-te para focului de spân!",
+  "original_text": "Ardă-te para focului de spîn!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "para focului",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/arde",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ardă-te para focului de spîn!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Para = flacără; spân = fără barbă",
+  "translation": "May the flame of fire burn you, you bald one!",
+  "notes": null
+}

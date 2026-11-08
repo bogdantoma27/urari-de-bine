@@ -1,0 +1,35 @@
+{
+  "id": "a-da-palme-la-cacat",
+  "text": "A da palme la cacat",
+  "original_text": "A da palme la cacat",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "A da palme la cacat",
+      "verification": "transcribed",
+      "notes": "= a bate apa-n piuă"
+    }
+  ],
+  "explanation": "Ca „a bate apa-n piuă”: a munci degeaba.",
+  "translation": "To slap shit around",
+  "notes": null
+}

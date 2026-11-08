@@ -1,0 +1,36 @@
+{
+  "id": "sa-zica-popa-aleluia-la-capul-meu",
+  "text": "Să zică popa Aleluia la capul meu",
+  "original_text": "să zică popa Aleluia la capul meu",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "popa",
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestem (blog Adevărul)",
+      "url": "https://adevarul.ro/blogurile-adevarul/blestem-1755471.html",
+      "author": "blogger Adevărul",
+      "year": null,
+      "page": null,
+      "informant": "tatăl autorului",
+      "regions": [],
+      "original_text": "să zică popa Aleluia la capul meu",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the priest say Alleluia at my head",
+  "notes": null
+}

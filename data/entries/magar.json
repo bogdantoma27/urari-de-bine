@@ -1,0 +1,47 @@
+{
+  "id": "magar",
+  "text": "Măgar",
+  "original_text": "Măgar",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE (1926-1931)",
+      "url": "https://dexonline.ro/definitie/bou",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Măgar",
+      "verification": "verified",
+      "notes": "marcat F; văzut la nota lui «bou»"
+    },
+    {
+      "title": "dexonline.ro, CADE",
+      "url": "https://dexonline.ro/definitie/bou",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "măgar",
+      "verification": "verified",
+      "notes": "marcat F; văzut la nota lui «bou»; verificat pe textul sursei"
+    }
+  ],
+  "explanation": "Om prost, nătâng.",
+  "translation": "Donkey",
+  "notes": null
+}

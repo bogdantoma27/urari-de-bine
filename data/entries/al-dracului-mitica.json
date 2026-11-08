@@ -1,0 +1,35 @@
+{
+  "id": "al-dracului-mitica",
+  "text": "Al dracului Mitică",
+  "original_text": "Al dracului Mitică",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Mitică",
+      "url": "https://ro.wikisource.org/wiki/Mitic%C4%83",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Mitică",
+      "regions": [],
+      "original_text": "Al dracului Mitică",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "The devil's Mitică",
+  "notes": null
+}

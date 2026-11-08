@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-sa-te-bata",
+  "text": "Bată-te să te bată",
+  "original_text": "Bată-te să te bată",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Moara cu noroc",
+      "url": "https://ro.wikisource.org/wiki/Moara_cu_noroc",
+      "author": "Ioan Slavici",
+      "year": 1881,
+      "page": null,
+      "informant": "Ioan Slavici, Moara cu noroc",
+      "regions": [],
+      "original_text": "Bată-te să te bată",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May it strike you, may it strike you",
+  "notes": null
+}

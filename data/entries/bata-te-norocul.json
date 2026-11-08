@@ -1,0 +1,59 @@
+{
+  "id": "bata-te-norocul",
+  "text": "Bată-te norocul!",
+  "original_text": "Bată-te norocul!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "norocul",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC; DLRM",
+      "url": "https://dexonline.ro/definitie/bate",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te norocul!",
+      "verification": "verified",
+      "notes": "intrarea BATE; verificat pe textul sursei"
+    },
+    {
+      "title": "Un vis (Caragiale)",
+      "url": "https://ro.wikisource.org/wiki/Un_vis_(Caragiale)",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, Un vis (Caragiale)",
+      "regions": [],
+      "original_text": "bată-te norocul",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957)",
+      "url": "https://dexonline.ro/text/în imprecații",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-te norocul!",
+      "verification": "unverified",
+      "notes": "intrarea BATE"
+    }
+  ],
+  "explanation": null,
+  "translation": "May luck strike you!",
+  "notes": null
+}

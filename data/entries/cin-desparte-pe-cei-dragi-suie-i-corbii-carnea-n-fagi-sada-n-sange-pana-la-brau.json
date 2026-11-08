@@ -1,0 +1,40 @@
+{
+  "id": "cin-desparte-pe-cei-dragi-suie-i-corbii-carnea-n-fagi-sada-n-sange-pana-la-brau",
+  "text": "Cin' desparte pe cei dragi / Suie-i corbii carnea-n fagi / Șadă-n sânge până la brâu / Mânca-l-ar viermii de viu",
+  "original_text": "Cin' desparte pe cei dragi/ Suie-i corbii carnea-n fagi/ Şadă-n sânge pân' la brâu/ Mânca-l-ar viermii de viu",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "corbii",
+  "themes": [
+    "sickness_death",
+    "birds_of_prey"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Cum își blestemă românii dușmanii",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/cum-isi-blestema-romanii-dusmanii-1145715.html",
+      "author": "Monika (Adevărul)",
+      "year": 2010,
+      "page": null,
+      "informant": "citat în articol; Străoane, jud. Vrancea (informator exact nespecificat)",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Cin' desparte pe cei dragi/ Suie-i corbii carnea-n fagi/ Şadă-n sânge pân' la brâu/ Mânca-l-ar viermii de viu",
+      "verification": "verified",
+      "notes": "atribuire către Buță incertă în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "He who parts the dear ones, may ravens climb his flesh into the beech trees, may he sit in blood up to his waist, may the worms eat him alive",
+  "notes": null
+}

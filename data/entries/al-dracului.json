@@ -1,0 +1,35 @@
+{
+  "id": "al-dracului",
+  "text": "Al dracului",
+  "original_text": "al dracului",
+  "type": "euphemism",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; MDA2",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "al dracului",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Exclamație de uimire, enervare sau admirație",
+  "translation": "The devil's",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ba-esti-mai-prost-ca-votantii-lu-ponta",
+  "text": "Bă, ești mai prost ca votanții lu' Ponta",
+  "original_text": "Bă, eşti mai prost ca votanţii lu’ Ponta",
+  "type": "insult",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "modern"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XXI",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Disfemismul ca proces lexical (Buletin Științific, Fasc. Filologie, Seria A, XXVII, 2018)",
+      "url": "https://diacronia.ro/indexing/details/A29098/pdf",
+      "author": "Roxana Pașca",
+      "year": 2018,
+      "page": "~132-133",
+      "informant": "utilizator de forum",
+      "regions": [],
+      "original_text": "Bă, eşti mai prost ca votanţii lu’ Ponta",
+      "verification": "verified",
+      "notes": "Citat din timesnewroman.ro (articol despre înjurături), prin Pașca 2018"
+    }
+  ],
+  "explanation": "Victor Ponta e un politician român",
+  "translation": "Dude, you're dumber than Ponta's voters",
+  "notes": null
+}

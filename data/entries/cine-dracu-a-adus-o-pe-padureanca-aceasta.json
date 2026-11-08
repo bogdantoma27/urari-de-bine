@@ -1,0 +1,35 @@
+{
+  "id": "cine-dracu-a-adus-o-pe-padureanca-aceasta",
+  "text": "Cine dracu a adus-o pe pădureanca aceasta",
+  "original_text": "Cine dracu a adus-o pe pădureanca aceasta",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1884",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Pădureanca",
+      "url": "https://ro.wikisource.org/wiki/P%C4%83dureanca",
+      "author": "Ioan Slavici",
+      "year": 1884,
+      "page": null,
+      "informant": "Ioan Slavici, Pădureanca",
+      "regions": [],
+      "original_text": "Cine dracu a adus-o pe pădureanca aceasta",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Who the devil brought this forest woman here",
+  "notes": null
+}

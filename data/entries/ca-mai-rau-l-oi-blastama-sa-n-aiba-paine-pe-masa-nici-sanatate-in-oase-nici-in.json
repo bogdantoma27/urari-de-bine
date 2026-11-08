@@ -1,0 +1,40 @@
+{
+  "id": "ca-mai-rau-l-oi-blastama-sa-n-aiba-paine-pe-masa-nici-sanatate-in-oase-nici-in",
+  "text": "Că mai rău l-oi blăstăma, să n-aibă pită pă masă, nici sănătate-n osă, nici în casa lui lumină, nici la morte hodină",
+  "original_text": "Că mai rău 1-oî blăstăma ;• Să n aibă pilă pă masă N’icc sănătate ’n osă, N’icî în casa luî lumn’ină, N’ice la morte hod’ină,",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "poverty"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Doine și strigături din Ardeal",
+      "url": "https://archive.org/details/victor-onisor-doine-si-strigaturi-din-ardeal",
+      "author": "Victor Onișor",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Că mai rău 1-oî blăstăma ;• Să n aibă pilă pă masă N’icc sănătate ’n osă, N’icî în casa luî lumn’ină, N’ice la morte hod’ină,",
+      "verification": "verified",
+      "notes": "Onișor, Doine și strigături din Ardeal; OCR zgomotos (apostrofuri tipografice pentru palatalizare)"
+    }
+  ],
+  "explanation": null,
+  "translation": "For worse I will curse him: may he have no bread on the table, no health in his bones, no light in his house, no rest at death",
+  "notes": null
+}

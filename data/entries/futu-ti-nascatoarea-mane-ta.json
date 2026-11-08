@@ -1,0 +1,40 @@
+{
+  "id": "futu-ti-nascatoarea-mane-ta",
+  "text": "Futu-ți născătoarea mâne-ta",
+  "original_text": "Futu-ți născătoarea mâne-ta",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "family",
+    "sexual"
+  ],
+  "regions": [
+    "bukovina"
+  ],
+  "level": "vulgar",
+  "period": "2017",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Toate înjurăturile în română învățate de la părinți și bunici (VICE România)",
+      "url": "https://www.vice.com/ro/article/injuraturile-in-limba-romana-pe-care-le-ai-invatat-de-la-parinti-si-bunici/",
+      "author": "Ioan Stoleru",
+      "year": 2017,
+      "page": null,
+      "informant": "prieten al autorului (Bucovina)",
+      "regions": [
+        "bukovina"
+      ],
+      "original_text": "Futu-ți născătoarea mâne-ta",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Născătoarea = sexul femeii, zis pe ocolite.",
+  "translation": "Fuck your mother's birth-giver",
+  "notes": null
+}

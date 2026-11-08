@@ -1,0 +1,35 @@
+{
+  "id": "gusterul-de-ciocoi",
+  "text": "Gușterul de ciocoi",
+  "original_text": "gușterul de ciocoi",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957), s.v. gușter",
+      "url": "https://dexonline.ro/definitie/gușter/904833",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "gușterul de ciocoi",
+      "verification": "verified",
+      "notes": "DLRLC: termen de ocară; DUMITRIU, B."
+    }
+  ],
+  "explanation": "Ciocoi = parvenit care-i disprețuiește pe cei de jos.",
+  "translation": "The lizard of a boyar-upstart",
+  "notes": null
+}

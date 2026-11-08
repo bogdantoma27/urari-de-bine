@@ -1,0 +1,35 @@
+{
+  "id": "tare-rau-m-a-blastamat",
+  "text": "Tare rău m-a blăstămat",
+  "original_text": "Tare rău m'o blăstămată",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1892",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Nașterea la români",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Simion_Florea_Marian_-_Nasterea_la_romani_-_1892.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1892,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Tare rău m'o blăstămată",
+      "verification": "verified",
+      "notes": "Marian, Nașterea la români, p. ~330"
+    }
+  ],
+  "explanation": null,
+  "translation": "She cursed me very badly",
+  "notes": null
+}

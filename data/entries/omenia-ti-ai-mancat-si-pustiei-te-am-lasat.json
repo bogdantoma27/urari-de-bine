@@ -1,0 +1,35 @@
+{
+  "id": "omenia-ti-ai-mancat-si-pustiei-te-am-lasat",
+  "text": "Omenia ți-ai mâncat și pustiei te-am lăsat",
+  "original_text": "Omenia ți-ai mîncat Și pustiei te-am lăsat.",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/pustii",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Omenia ți-ai mîncat Și pustiei te-am lăsat.",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "You ate up your humanity and I have left you to the wasteland",
+  "notes": null
+}

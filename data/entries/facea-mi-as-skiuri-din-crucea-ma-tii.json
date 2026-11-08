@@ -1,0 +1,36 @@
+{
+  "id": "facea-mi-as-skiuri-din-crucea-ma-tii",
+  "text": "Făcea-mi-aș skiuri din crucea mă-tii",
+  "original_text": "Facea-mi-as skiuri din crucea ma-tii",
+  "type": "swear",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; satul bunicii comentatorului",
+      "regions": [],
+      "original_text": "Facea-mi-as skiuri din crucea ma-tii",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "I'd make skis out of your mother's cross",
+  "notes": "Păstrată grafia „skiuri” din sursă."
+}

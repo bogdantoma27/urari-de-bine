@@ -1,0 +1,35 @@
+{
+  "id": "urasca-te-ar-soarele",
+  "text": "Urască-te-ar soarele",
+  "original_text": "Urască-te-ar soarele",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "soarele",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 19,
+      "informant": null,
+      "regions": [],
+      "original_text": "Urască-te-ar soarele",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2, rubrica Soarele. Boalele; în cântec"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the sun hate you",
+  "notes": null
+}

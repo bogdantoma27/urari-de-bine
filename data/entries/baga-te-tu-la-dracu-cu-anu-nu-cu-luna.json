@@ -1,0 +1,35 @@
+{
+  "id": "baga-te-tu-la-dracu-cu-anu-nu-cu-luna",
+  "text": "Bagă-te tu la dracu cu anu, nu cu luna",
+  "original_text": "Bagă-te tu la dracu cu anu, nu cu luna",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1910",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Luceafărul (Delavrancea)",
+      "url": "https://ro.wikisource.org/wiki/Luceaf%C4%83rul_(Delavrancea)",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1910,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Luceafărul (Delavrancea)",
+      "regions": [],
+      "original_text": "Bagă-te tu la dracu cu anu, nu cu luna",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "A se băga la dracu = a se duce la dracu; „cu anul, nu cu luna” = pentru mult timp",
+  "translation": "Go stick yourself into the devil for a year, not for a month",
+  "notes": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bata-dracu-pula-mi-mama-vosta",
+  "text": "Bată dracu pula-mi mama vostă",
+  "original_text": "bată dracu pula-m mama vostă",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": "dracul",
+  "themes": [
+    "devil_hell",
+    "family",
+    "sexual"
+  ],
+  "regions": [],
+  "level": "vulgar",
+  "period": "1942",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română",
+      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
+      "author": "Vice România",
+      "year": 2015,
+      "page": null,
+      "informant": "chestionar ALR, 1942",
+      "regions": [],
+      "original_text": "bată dracu pula-m mama vostă",
+      "verification": "verified",
+      "notes": "idem"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil strike my dick, your mother",
+  "notes": "Variantă a intrării precedente; „vostă” păstrat din sursă"
+}

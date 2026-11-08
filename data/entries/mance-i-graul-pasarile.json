@@ -1,0 +1,36 @@
+{
+  "id": "mance-i-graul-pasarile",
+  "text": "Mânce-i grâul pasările!",
+  "original_text": "Mînce-i grîul pasările",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "pasările",
+  "themes": [
+    "birds_of_prey",
+    "poverty"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/strica",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînce-i grîul pasările",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May the birds eat their wheat!",
+  "notes": null
+}

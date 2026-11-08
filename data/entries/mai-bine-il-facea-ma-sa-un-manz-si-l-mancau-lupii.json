@@ -1,0 +1,36 @@
+{
+  "id": "mai-bine-il-facea-ma-sa-un-manz-si-l-mancau-lupii",
+  "text": "Mai bine îl făcea ma-sa un mânz și-l mâncau lupii",
+  "original_text": "Mai bine îl făceă ma-sa un mânz șil mânca lupii",
+  "type": "insult",
+  "form": "other",
+  "affliction": "lupii",
+  "themes": [
+    "family",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 1",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-1-1895",
+      "author": "Iuliu A. Zanne",
+      "year": 1895,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mai bine îl făceă ma-sa un mânz șil mânca lupii",
+      "verification": "verified",
+      "notes": "proverb nr. 2417, vol. 1"
+    }
+  ],
+  "explanation": null,
+  "translation": "His mother would have done better to make him a colt and have the wolves eat him",
+  "notes": null
+}

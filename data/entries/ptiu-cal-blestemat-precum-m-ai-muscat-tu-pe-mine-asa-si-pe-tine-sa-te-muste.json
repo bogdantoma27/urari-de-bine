@@ -1,0 +1,36 @@
+{
+  "id": "ptiu-cal-blestemat-precum-m-ai-muscat-tu-pe-mine-asa-si-pe-tine-sa-te-muste",
+  "text": "Ptiu, cal blestemat, precum m-ai mușcat tu pe mine, așa și pe tine să te muște furnicile",
+  "original_text": "Ptiu, cal blestemat, Precum m'aî muşcat Tu pre mine, Aşa şi pre tine Să te musce furnicile",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "furnicile",
+  "themes": [
+    "body",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Insectele în limba, credințele și obiceiurile românilor",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Simion_Florea_Marian_-_Insectele_in_limba%2C_credintele_si_obiceiurile_romanilor_-_1903.pdf",
+      "author": "Simion Florea Marian",
+      "year": 1903,
+      "page": 322,
+      "informant": null,
+      "regions": [],
+      "original_text": "Ptiu, cal blestemat, Precum m'aî muşcat Tu pre mine, Aşa şi pre tine Să te musce furnicile",
+      "verification": "verified",
+      "notes": "Marian, Insectele, p. 322 (art. Țânțar)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Pfui, cursed horse, as you bit me, so may the ants bite you",
+  "notes": null
+}

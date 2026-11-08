@@ -1,0 +1,35 @@
+{
+  "id": "arza-l-sau-arde-l-ar-focul",
+  "text": "Arză-l (sau arde-l-ar) focul",
+  "original_text": "Arză-l (sau arde-l-ar) focul",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "focul",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE, s.v. arde",
+      "url": "https://dexonline.ro/definitie/arde/1333512",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Arză-l (sau arde-l-ar) focul",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: CADE; dat ca blestem, dar și ca formulă adăugată peste o apreciere măgulitoare"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fire burn him (or: may the fire burn him)",
+  "notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "lua-te-ar-naiba",
+  "text": "Lua-te-ar naiba",
+  "original_text": "Lua-te-ar naiba",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "naiba",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC; NODEX (2002)",
+      "url": "https://dexonline.ro/definitie/naiba",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Lua-te-ar naiba",
+      "verification": "verified",
+      "notes": "Fam."
+    },
+    {
+      "title": "dexonline.ro, DLRLC; DLR - tomul X",
+      "url": "https://dexonline.ro/definitie/naiba",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "lua-te-ar naiba",
+      "verification": "verified",
+      "notes": "Fam.; verificat pe textul sursei"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil take you",
+  "notes": null
+}

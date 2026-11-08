@@ -1,0 +1,35 @@
+{
+  "id": "sa-l-ia-matca-focului",
+  "text": "Să-l ia matca focului",
+  "original_text": "Să-l ia matca focului",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "matca focului",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR (1913-2010), s.v. matcă",
+      "url": "https://dexonline.ro/definitie/matcă/1253578",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să-l ia matca focului",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR; H IV 90"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the womb of fire take him",
+  "notes": "Sensul lui „matca focului” nu e confirmat (matcă = albie, în dexonline)"
+}

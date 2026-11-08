@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-fericea",
+  "text": "Bată-l fericea",
+  "original_text": "bată-l fericea",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "fericea",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE, s.v. bate",
+      "url": "https://dexonline.ro/definitie/bate/1336139",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-l fericea",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: CADE"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the fericea strike him",
+  "notes": "Sensul lui „fericea” nu este clar"
+}

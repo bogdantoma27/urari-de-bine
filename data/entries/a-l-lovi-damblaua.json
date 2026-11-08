@@ -1,0 +1,35 @@
+{
+  "id": "a-l-lovi-damblaua",
+  "text": "A-l lovi damblaua",
+  "original_text": "a-l lovi damblaua",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Argou (2007)",
+      "url": "https://dexonline.ro/definitie/dambla",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a-l lovi damblaua",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Dambla = apoplexie, paralizie.",
+  "translation": "To be struck by the damblaua",
+  "notes": null
+}

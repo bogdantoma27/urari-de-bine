@@ -1,0 +1,39 @@
+{
+  "id": "futa-te-n-cap",
+  "text": "Fută-te-n cap",
+  "original_text": "Fută-te-n cap!",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [
+    "crisana"
+  ],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; mătușa comentatorului, din Oradea",
+      "regions": [
+        "crisana"
+      ],
+      "original_text": "Fută-te-n cap!",
+      "verification": "transcribed",
+      "notes": "spusă și ca admirație"
+    }
+  ],
+  "explanation": null,
+  "translation": "Fuck yourself in the head",
+  "notes": null
+}

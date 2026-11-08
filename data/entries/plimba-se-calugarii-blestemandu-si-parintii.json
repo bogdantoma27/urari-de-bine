@@ -1,0 +1,36 @@
+{
+  "id": "plimba-se-calugarii-blestemandu-si-parintii",
+  "text": "Plimbă-se călugării, blestemându-și părinții",
+  "original_text": "Plimbă-se călugării, Blestemîndu-și părinții",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC (1955-1957); Jarník-Bîrseanu, D. 217",
+      "url": "https://dexonline.ro/definitie/blestema",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Plimbă-se călugării, Blestemîndu-și părinții",
+      "verification": "verified",
+      "notes": "exemplu de uz, nu formulă fixă"
+    }
+  ],
+  "explanation": null,
+  "translation": "Let the monks wander, cursing their parents",
+  "notes": null
+}

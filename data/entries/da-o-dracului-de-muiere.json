@@ -1,0 +1,35 @@
+{
+  "id": "da-o-dracului-de-muiere",
+  "text": "Dă-o dracului de muiere",
+  "original_text": "Dă-o dracului de muiere",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Dă-o dracului de muiere",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: tipar ilustrativ"
+    }
+  ],
+  "explanation": null,
+  "translation": "Give the devil the woman",
+  "notes": null
+}

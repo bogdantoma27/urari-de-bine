@@ -1,0 +1,35 @@
+{
+  "id": "sa-ma-bantuie-dumnezeu",
+  "text": "Să mă bântuie Dumnezeu",
+  "original_text": "Să (mă) bântuie (Dumnezeu",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '98 (1998)",
+      "url": "https://dexonline.ro/text/în imprecații",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să (mă) bântuie (Dumnezeu",
+      "verification": "verified",
+      "notes": "(Reg., în imprecații); intrarea BÂNTUI"
+    }
+  ],
+  "explanation": "A bântui = a chinui, a lovi.",
+  "translation": "May God haunt me",
+  "notes": null
+}

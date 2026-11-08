@@ -1,0 +1,39 @@
+{
+  "id": "intre-dracu-in-capul-tau",
+  "text": "Între dracu în capul tău!",
+  "original_text": "Intre dracu'n capu' tău!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "dracu",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum își blestemă românii dușmanii",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/cum-isi-blestema-romanii-dusmanii-1145715.html",
+      "author": "Monika (Adevărul)",
+      "year": 2010,
+      "page": null,
+      "informant": "folclorist Paul Buță, citat; Cavadinești, jud. Galați",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Intre dracu'n capu' tău!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "Between the devil and your head!",
+  "notes": null
+}

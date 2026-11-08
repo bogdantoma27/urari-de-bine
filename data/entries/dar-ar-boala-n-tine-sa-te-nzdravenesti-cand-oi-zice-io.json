@@ -1,0 +1,35 @@
+{
+  "id": "dar-ar-boala-n-tine-sa-te-nzdravenesti-cand-oi-zice-io",
+  "text": "Dar-ar boala-n tine, să te-nzdrăvenești când oi zice io",
+  "original_text": "dar-ar boala-n tine, să te-nzdrăveneşti când oi zice io",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "boala",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "dar-ar boala-n tine, să te-nzdrăveneşti când oi zice io",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Adameșteanu 1997, p. 88"
+    }
+  ],
+  "explanation": "Dar-ar = să dea, formă veche.",
+  "translation": "May illness hit you, may you recover when I say so",
+  "notes": null
+}

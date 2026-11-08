@@ -1,0 +1,39 @@
+{
+  "id": "usca-te-ai-sa-te-usuci-ca-frunza-cea-de-pe-nuci",
+  "text": "Usca-te-ai să te usuci ca frunza cea de pe nuci",
+  "original_text": "Usca-te-ai să te usuci Ca frunza cea de pe nuci",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": "1970-1974",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Țara Fagilor II (1993)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor-II-1993.pdf",
+      "author": null,
+      "year": 1993,
+      "page": "178-183",
+      "informant": "informator din nordul Bucovinei",
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "Usca-te-ai să te usuci Ca frunza cea de pe nuci",
+      "verification": "verified",
+      "notes": "nord-bucovinean. Blesteme de dragoste, înregistrări D. Covalciuc 1970-1974"
+    }
+  ],
+  "explanation": null,
+  "translation": "May you dry up, so that you dry like the leaf on the walnut trees",
+  "notes": null
+}

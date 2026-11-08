@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-norocu",
+  "text": "Bată-te norocu",
+  "original_text": "bată-te norocu",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "norocul",
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban, s.v. bate",
+      "url": "https://dexonline.ro/definitie/bate/562244",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "bată-te norocu",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: Scriban, în glumă"
+    }
+  ],
+  "explanation": "Norocul e pus aici în loc de ghinion.",
+  "translation": "May luck strike you",
+  "notes": null
+}

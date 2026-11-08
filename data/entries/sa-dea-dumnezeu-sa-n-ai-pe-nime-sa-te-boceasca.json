@@ -1,0 +1,36 @@
+{
+  "id": "sa-dea-dumnezeu-sa-n-ai-pe-nime-sa-te-boceasca",
+  "text": "Să dea Dumnezeu să n-ai pe nime să te bocească",
+  "original_text": "Să dea Dumnezeu să n-ai pe nime să te bocească!",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Imaginarul blestemului. Imaginea culturală a blestemului (Journal of Romanian Literary Studies 20/2020)",
+      "url": "https://asociatia-alpha.ro/Jrls/020-2020/Jrls-020-182.pdf",
+      "author": "Lavinia Nasta",
+      "year": 2020,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să dea Dumnezeu să n-ai pe nime să te bocească!",
+      "verification": "verified",
+      "notes": "Sursa primară citată de Nasta: S. Fl. Marian, Înmormântarea la români, Saeculum 2009, p. 102"
+    }
+  ],
+  "explanation": "Să mori fără jelitori; a boci înseamnă a jeli un mort.",
+  "translation": "May God grant that you have no one to mourn you",
+  "notes": null
+}

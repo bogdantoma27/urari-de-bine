@@ -1,0 +1,35 @@
+{
+  "id": "a-da-dracului",
+  "text": "A da dracului",
+  "original_text": "a da dracului",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09",
+      "url": "https://dexonline.ro/definitie/dracului",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "a da dracului",
+      "verification": "verified",
+      "notes": "forma DEX: «A trimite (pe cineva) la dracul sau a da dracului»"
+    }
+  ],
+  "explanation": null,
+  "translation": "To give someone to the devil",
+  "notes": null
+}

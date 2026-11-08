@@ -1,0 +1,27 @@
+name = "urari-de-bine"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+workers_dev = false
+preview_urls = false
+
+routes = [
+  { pattern = "uraridebine.ro", custom_domain = true },
+  { pattern = "api.uraridebine.ro", custom_domain = true },
+]
+
+# data/entries is bundled into src/generated/data.json; without this step
+# a plain `wrangler deploy` would publish stale data.
+[build]
+command = "node scripts/build-data.mjs"
+watch_dir = "data/entries"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+not_found_handling = "404-page"
+run_worker_first = ["/", "/v1/*", "/openapi.json", "/openapi.en.json", "/docs"]
+
+[[ratelimits]]
+name = "RATE_LIMITER"
+namespace_id = "7341"
+simple = { limit = 120, period = 60 }

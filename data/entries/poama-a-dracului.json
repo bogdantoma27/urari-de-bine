@@ -1,0 +1,35 @@
+{
+  "id": "poama-a-dracului",
+  "text": "Poamă-a dracului",
+  "original_text": "poam-a dracului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "poam-a dracului",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Poamă a dracului = om rău.",
+  "translation": "Devil's fruit",
+  "notes": null
+}

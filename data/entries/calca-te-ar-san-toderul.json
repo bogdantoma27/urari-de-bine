@@ -1,0 +1,40 @@
+{
+  "id": "calca-te-ar-san-toderul",
+  "text": "Călca-te-ar Sân Toderul",
+  "original_text": "Călca-te-ar Sân T6derul",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Sân Toderul",
+  "themes": [
+    "other",
+    "church"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 7",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-7-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": "G. Băzăvan, elev Școala Normală, Craiova, jud. Dolj",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Călca-te-ar Sân T6derul",
+      "verification": "verified",
+      "notes": "proverb nr. 15845, vol. 7; 'Téderul' din OCR"
+    }
+  ],
+  "explanation": "Sân Toader = Sfântul Toader.",
+  "translation": "May Saint Toader trample you",
+  "notes": null
+}

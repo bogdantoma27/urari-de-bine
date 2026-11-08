@@ -1,0 +1,36 @@
+{
+  "id": "javra-dracului",
+  "text": "Javra dracului",
+  "original_text": "javra dracului",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell",
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE; DLRLC",
+      "url": "https://dexonline.ro/definitie/javră",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "javra dracului",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "The devil's mongrel",
+  "notes": null
+}

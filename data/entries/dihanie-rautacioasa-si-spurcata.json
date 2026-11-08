@@ -1,0 +1,35 @@
+{
+  "id": "dihanie-rautacioasa-si-spurcata",
+  "text": "Dihanie răutăcioasă și spurcată",
+  "original_text": "dihanie răutăcioasă și spurcată",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "farm_animals"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1875",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Capra cu trei iezi",
+      "url": "https://ro.wikisource.org/wiki/Capra_cu_trei_iezi",
+      "author": "Ion Creangă",
+      "year": 1875,
+      "page": null,
+      "informant": "Ion Creangă, Capra cu trei iezi (replica: capra)",
+      "regions": [],
+      "original_text": "dihanie răutăcioasă și spurcată",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": "Dihanie = fiară, animal sălbatic.",
+  "translation": "Spiteful and foul beast",
+  "notes": null
+}

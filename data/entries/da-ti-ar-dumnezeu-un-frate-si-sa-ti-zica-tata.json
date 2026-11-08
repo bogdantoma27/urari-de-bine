@@ -1,0 +1,36 @@
+{
+  "id": "da-ti-ar-dumnezeu-un-frate-si-sa-ti-zica-tata",
+  "text": "Dă-ți-ar Dumnezeu un frate și să-ți zică tata",
+  "original_text": "Da-ti-ar Dumnezeu un frate si sa-ti zica “tata”",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2023",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Da-ti-ar Dumnezeu un frate si sa-ti zica “tata”",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May God give you a brother and may he call you dad",
+  "notes": null
+}

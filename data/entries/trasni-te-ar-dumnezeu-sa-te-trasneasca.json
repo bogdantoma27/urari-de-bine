@@ -1,0 +1,48 @@
+{
+  "id": "trasni-te-ar-dumnezeu-sa-te-trasneasca",
+  "text": "Trăsni-te-ar Dumnezeu să te trăsnească",
+  "original_text": "Trăsni-te-ar Dumnezeu să te trăsnească",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "church",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1903",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Datinele și credințele poporului român, vol. 2 (volum nepublicat de autoare, editat ulterior)",
+      "url": null,
+      "author": "Elena Niculiță-Voronca",
+      "year": 1903,
+      "page": 180,
+      "informant": null,
+      "regions": [],
+      "original_text": "Trăsni-te-ar Dumnezeu să te trăsnească",
+      "verification": "verified",
+      "notes": "OCR curat; ediție modernă cu ortografie normalizată (î, ş, ţ cu sedilă); vol. 2, Igești; capitolul Tunetul"
+    },
+    {
+      "title": "De închiriat...",
+      "url": "https://ro.wikisource.org/wiki/De_%C3%AEnchiriat...",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, De închiriat...",
+      "regions": [],
+      "original_text": "trăsni-te-ar Dumnezeu să te trăsnească",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May God strike you with lightning, may he strike you",
+  "notes": null
+}

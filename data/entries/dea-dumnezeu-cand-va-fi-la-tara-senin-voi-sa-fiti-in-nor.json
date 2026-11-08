@@ -1,0 +1,40 @@
+{
+  "id": "dea-dumnezeu-cand-va-fi-la-tara-senin-voi-sa-fiti-in-nor",
+  "text": "Dea Dumnezeu, când va fi la țară senin, voi să fiți în nor",
+  "original_text": "dee Dumnezeu cind va fi la ţară senin voi să fiţi în nor",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Dumnezeu",
+  "themes": [
+    "places",
+    "nature_elements"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": "1915",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Graiul din Țara Hațegului",
+      "url": "https://archive.org/details/ovid-densusianu-graiul-din-tara-hategului-1915",
+      "author": "Ovid Densusianu",
+      "year": 1915,
+      "page": null,
+      "informant": "Lazăr Teian, cantor, Barul Mare",
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "dee Dumnezeu cind va fi la ţară senin voi să fiţi în nor",
+      "verification": "verified",
+      "notes": "Densusianu, Graiul din Țara Hațegului, legendă despre Ponoreni; cuvânt rupt la capăt de rând"
+    }
+  ],
+  "explanation": "Un călugăr i-a blestemat așa pe cei din Ponoreni: când e senin peste tot, la ei să fie nori și ape mari.",
+  "translation": "May God grant that when it is clear in the country, you be in the clouds",
+  "notes": null
+}

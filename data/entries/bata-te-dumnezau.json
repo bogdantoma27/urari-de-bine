@@ -1,0 +1,35 @@
+{
+  "id": "bata-te-dumnezau",
+  "text": "Bată-te Dumnezău!",
+  "original_text": "Bată-te Dumnezău!",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "Dumnezău",
+  "themes": [
+    "church"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Bată-te Dumnezău!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May God strike you!",
+  "notes": null
+}

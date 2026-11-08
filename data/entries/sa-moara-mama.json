@@ -1,0 +1,36 @@
+{
+  "id": "sa-moara-mama",
+  "text": "Să moară mama",
+  "original_text": "Să moară mama!",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestem (blog Adevărul)",
+      "url": "https://adevarul.ro/blogurile-adevarul/blestem-1755471.html",
+      "author": "blogger Adevărul",
+      "year": null,
+      "page": null,
+      "informant": "rude ale autorului, cartier nespecificat",
+      "regions": [],
+      "original_text": "Să moară mama!",
+      "verification": "verified",
+      "notes": "folosit ca întăritură a adevărului"
+    }
+  ],
+  "explanation": "Jurământ, ca să fii crezut; nu e înjurătură.",
+  "translation": "May my mother die",
+  "notes": null
+}

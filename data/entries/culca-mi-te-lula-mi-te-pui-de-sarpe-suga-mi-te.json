@@ -1,0 +1,36 @@
+{
+  "id": "culca-mi-te-lula-mi-te-pui-de-sarpe-suga-mi-te",
+  "text": "Culcă-mi-te, lulă-mi-te, pui de șarpe suga-mi-te",
+  "original_text": "Culca-mi-te, lula-mi-te, io Put de §erpe suga- mi -te",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "puiul de șarpe",
+  "themes": [
+    "family",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Culca-mi-te, lula-mi-te, io Put de §erpe suga- mi -te",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); din baladă (Tocilescu, p. ~25), mama îl blestemă pe fiu să fie mâncat de șerpi"
+    }
+  ],
+  "explanation": null,
+  "translation": "Lie down, lull-me, snake's young, suck-me",
+  "notes": "„lulă-mi-te” nelămurit"
+}

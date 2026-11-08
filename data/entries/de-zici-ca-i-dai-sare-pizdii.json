@@ -1,0 +1,39 @@
+{
+  "id": "de-zici-ca-i-dai-sare-pizdii",
+  "text": "De zici că-i dai sare pizdii",
+  "original_text": "de zici ca-i dai sare pizdii!",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "sexual"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "vulgar",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunicul comentatorului, din Teleorman",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "de zici ca-i dai sare pizdii!",
+      "verification": "transcribed",
+      "notes": "despre cine muncește fără tragere de inimă"
+    }
+  ],
+  "explanation": "Se zice despre cine muncește în silă.",
+  "translation": "If you say you're giving salt to the cunt",
+  "notes": null
+}

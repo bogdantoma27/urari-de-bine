@@ -1,0 +1,35 @@
+{
+  "id": "marlan",
+  "text": "Mârlan",
+  "original_text": "mârlan",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DEX '09; DEX '98; DOOM 3; DOOM 2",
+      "url": "https://dexonline.ro/definitie/mârlan",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mârlan",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om prost crescut, bădăran.",
+  "translation": "Boor",
+  "notes": null
+}

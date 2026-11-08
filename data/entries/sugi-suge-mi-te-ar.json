@@ -1,0 +1,36 @@
+{
+  "id": "sugi-suge-mi-te-ar",
+  "text": "Sugi, suge-mi-te-ar",
+  "original_text": "Sugi, suge-mi-te-ar",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death",
+    "family"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 4",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-4-1900",
+      "author": "Iuliu A. Zanne",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Sugi, suge-mi-te-ar",
+      "verification": "verified",
+      "notes": "vol. 4, după G. Dem. Teodorescu, Poezii populare, p. 438; sens ambiguu"
+    }
+  ],
+  "explanation": null,
+  "translation": "You suck, may it suck you for me",
+  "notes": "Sens ambiguu în sursă."
+}

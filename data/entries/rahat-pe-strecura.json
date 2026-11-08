@@ -1,0 +1,35 @@
+{
+  "id": "rahat-pe-strecura",
+  "text": "Rahat pe strecură",
+  "original_text": "Rahat pe strecura!",
+  "type": "euphemism",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "body"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; bunica comentatorului",
+      "regions": [],
+      "original_text": "Rahat pe strecura!",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Strecură = strecurătoare, sită.",
+  "translation": "Shit on the strainer",
+  "notes": null
+}

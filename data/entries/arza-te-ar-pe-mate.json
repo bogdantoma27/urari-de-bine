@@ -1,0 +1,36 @@
+{
+  "id": "arza-te-ar-pe-mate",
+  "text": "Arză-te-ar pe mațe",
+  "original_text": "Arza-te-ar pe matze",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "body",
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Arza-te-ar pe matze",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": "Mațe = intestine",
+  "translation": "May it burn you in the guts",
+  "notes": "„matze” normalizat în „mațe”; pacostea nu e spusă"
+}

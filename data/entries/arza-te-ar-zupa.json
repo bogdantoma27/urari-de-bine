@@ -1,0 +1,35 @@
+{
+  "id": "arza-te-ar-zupa",
+  "text": "Arză-te-ar zupa",
+  "original_text": "Arzatear zupa",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "zupa",
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Arzatear zupa",
+      "verification": "transcribed",
+      "notes": "sens neclar"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the zupa burn you",
+  "notes": "Sens neclar („zupa”)"
+}

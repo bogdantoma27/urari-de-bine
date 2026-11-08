@@ -1,0 +1,35 @@
+{
+  "id": "sa-te-nsale-sa-te-apuce-sa-te-rupa-sa-te-mbuce",
+  "text": "Să te-nșale, să te-apuce, să te rupă, să te-mbuce",
+  "original_text": "Să te-nșale, să te-apuce, Să te rupă, să te-mbuce",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Ion Păpușarul (Cântecel comic)",
+      "url": "https://ro.wikisource.org/wiki/Ion_P%C4%83pu%C8%99arul",
+      "author": "Vasile Alecsandri",
+      "year": null,
+      "page": null,
+      "informant": "Vasile Alecsandri, Ion Păpușarul (Cântecel comic)",
+      "regions": [],
+      "original_text": "Să te-nșale, să te-apuce, Să te rupă, să te-mbuce",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May it deceive you, seize you, tear you, gobble you",
+  "notes": null
+}

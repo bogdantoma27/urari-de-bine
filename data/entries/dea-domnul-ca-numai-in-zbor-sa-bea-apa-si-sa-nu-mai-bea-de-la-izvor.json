@@ -1,0 +1,36 @@
+{
+  "id": "dea-domnul-ca-numai-in-zbor-sa-bea-apa-si-sa-nu-mai-bea-de-la-izvor",
+  "text": "Dee Domnul ca numa în sboră și de prin lacuri și iazuri, riură și părie să be apa",
+  "original_text": "Dee Domnulii ca numa: în sboră și de prin lacun și iazuri, riură și parie sa be apa,",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "Domnul",
+  "themes": [
+    "church",
+    "birds_of_prey"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1883",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ornitologia poporană română, vol. 2",
+      "url": "https://archive.org/details/marian-simion-florea-ornitologia-poporana-romana-vol.-2-scan",
+      "author": "Simion Florea Marian",
+      "year": 1883,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Dee Domnulii ca numa: în sboră și de prin lacun și iazuri, riură și parie sa be apa,",
+      "verification": "verified",
+      "notes": "Marian, Ornitologia poporană II; legenda păsărilor; ortografie cu „ii” = u (Domnul)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the Lord grant that she drinks water only in flight and never again from the spring",
+  "notes": null
+}

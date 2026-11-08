@@ -1,0 +1,40 @@
+{
+  "id": "si-cine-a-fura-o-sa-fie-al-70-de-draci-si-sa-fii-afurisit-si-sa-nu-i-aiba",
+  "text": "Și cine a fura-o să fie al 70 de draci și să fii afurisit și să nu-i aibă Dumnezeu de știre și să fii în iad",
+  "original_text": "Şi cine a fura-o să fie al 70 de draci şi să fii afurisit şi să nu-i aibă Dumnezeu de ştire şi să fii în iad.",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church",
+    "devil_hell"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": "sec. XV-XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Însemnări de pe manuscrise și cărți vechi din Țara Moldovei I-IV, un corpus editat de I. Caproșu și E. Chiaburu. Blestemul – între magie și credință (AUI, Lingvistică, LX, 2014)",
+      "url": "https://diacronia.ro/indexing/details/A7001/pdf",
+      "author": "Maria Mocanu",
+      "year": 2014,
+      "page": "205-",
+      "informant": "însemnător pe carte veche",
+      "regions": [
+        "moldavia"
+      ],
+      "original_text": "Şi cine a fura-o să fie al 70 de draci şi să fii afurisit şi să nu-i aibă Dumnezeu de ştire şi să fii în iad.",
+      "verification": "verified",
+      "notes": "Citat din corpusul Caproșu-Chiaburu, Însemnări de pe manuscrise și cărți vechi din Țara Moldovei, vol. I, p. 337 (însemnări 1429-1859); blestem de danie/proprietate pe carte"
+    }
+  ],
+  "explanation": "Se scria pe cărțile vechi, contra celui care le-ar fura.",
+  "translation": "And whoever steals it, may he belong to the 70 devils and be accursed and may God not take notice of him and may he be in hell",
+  "notes": null
+}

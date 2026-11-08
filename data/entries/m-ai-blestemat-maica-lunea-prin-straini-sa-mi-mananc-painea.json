@@ -1,0 +1,39 @@
+{
+  "id": "m-ai-blestemat-maica-lunea-prin-straini-sa-mi-mananc-painea",
+  "text": "M-ai blestemat, maică, lunea prin străini să-mi mănânc pâinea",
+  "original_text": "M-ai blestemat, maică, lunea Prin străini să-mi mănînc pîinea",
+  "type": "curse",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "family"
+  ],
+  "regions": [
+    "ukraine"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Țara Fagilor I (1992)",
+      "url": "https://bibliotecacernauti.com/images/carte_pdf/Carti_si_reviste_SB/ara-Fagilor--I-1992.pdf",
+      "author": null,
+      "year": 1992,
+      "page": "133",
+      "informant": null,
+      "regions": [
+        "ukraine"
+      ],
+      "original_text": "M-ai blestemat, maică, lunea Prin străini să-mi mănînc pîinea",
+      "verification": "verified",
+      "notes": "nord-bucovinean. cântec"
+    }
+  ],
+  "explanation": null,
+  "translation": "You cursed me, mother, on Monday, to eat my bread among strangers",
+  "notes": null
+}

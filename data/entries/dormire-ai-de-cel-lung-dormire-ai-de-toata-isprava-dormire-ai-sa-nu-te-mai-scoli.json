@@ -1,0 +1,39 @@
+{
+  "id": "dormire-ai-de-cel-lung-dormire-ai-de-toata-isprava-dormire-ai-sa-nu-te-mai-scoli",
+  "text": "Dormire-ai de cel lung, dormire-ai de toată isprava, dormire-ai să nu te mai scoli",
+  "original_text": "Dormirei d'ăl lung, dormirei de totă isprava, dormirei să nu te mai scoli",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "oltenia"
+  ],
+  "level": "clean",
+  "period": "1897",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 2",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-2-1897",
+      "author": "Iuliu A. Zanne",
+      "year": 1897,
+      "page": null,
+      "informant": "T. Bălășel, înv., jud. Vâlcea",
+      "regions": [
+        "oltenia"
+      ],
+      "original_text": "Dormirei d'ăl lung, dormirei de totă isprava, dormirei să nu te mai scoli",
+      "verification": "verified",
+      "notes": "Zanne vol. 2, comentariu la nr. 5176; apare și ca nr. 5177 «Să dormi să nu te mai scoli»"
+    }
+  ],
+  "explanation": "Somnul lung = moartea.",
+  "translation": "May you sleep the long one, may you sleep through everything, may you sleep and never get up",
+  "notes": null
+}

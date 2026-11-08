@@ -1,0 +1,35 @@
+{
+  "id": "a-dracului-poama-femeia",
+  "text": "A dracului poamă femeia",
+  "original_text": "A dracului poamă femeia",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Comoara",
+      "url": "https://ro.wikisource.org/wiki/Comoara_(Slavici)",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Comoara",
+      "regions": [],
+      "original_text": "A dracului poamă femeia",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Poamă = om rău, ștrengar.",
+  "translation": "The devil's fruit of a woman",
+  "notes": null
+}

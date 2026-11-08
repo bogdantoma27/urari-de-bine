@@ -1,0 +1,35 @@
+{
+  "id": "sa-ma-calce-masinile-si-tramvaiele",
+  "text": "Să mă calce mașinile și tramvaiele",
+  "original_text": "Să mă calce maşinile şi tramvaiele",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": "mașinile și tramvaiele",
+  "themes": [
+    "modern"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestem (blog Adevărul)",
+      "url": "https://adevarul.ro/blogurile-adevarul/blestem-1755471.html",
+      "author": "blogger Adevărul",
+      "year": null,
+      "page": null,
+      "informant": "vecina Aglaie, orașul autorului",
+      "regions": [],
+      "original_text": "Să mă calce maşinile şi tramvaiele",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "May cars and trams run me over",
+  "notes": null
+}

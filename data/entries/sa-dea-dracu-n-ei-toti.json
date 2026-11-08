@@ -1,0 +1,35 @@
+{
+  "id": "sa-dea-dracu-n-ei-toti",
+  "text": "Să dea dracu-n ei toți",
+  "original_text": "să dea dracu-n ei toţi",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": "dracu",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1990-2001",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Structuri ale invectivei în româna actuală (Editura Universității din București, 2003)",
+      "url": "https://www.diacronia.ro/indexing/details/V3906/pdf",
+      "author": "Iulia Ghiorghiaș",
+      "year": 2003,
+      "page": null,
+      "informant": "personaj literar (citat din corpus literar 1990-2001)",
+      "regions": [],
+      "original_text": "să dea dracu-n ei toţi",
+      "verification": "verified",
+      "notes": "Corpus literar citat în sursă: Adameșteanu 1997, p. 46"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the devil get into them all",
+  "notes": null
+}

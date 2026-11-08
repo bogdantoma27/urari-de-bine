@@ -1,0 +1,35 @@
+{
+  "id": "trasni-o-ar-fi-s-o-trasneasca",
+  "text": "Trăsni-o-ar fi s-o trăsnească",
+  "original_text": "trăsni-o-ar fi s-o trăsnească",
+  "type": "curse",
+  "form": "optative",
+  "affliction": null,
+  "themes": [
+    "nature_elements"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Amintiri din copilărie",
+      "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie",
+      "author": "Ion Creangă",
+      "year": 1881,
+      "page": null,
+      "informant": "Ion Creangă, Amintiri din copilărie (replica: naratorul)",
+      "regions": [],
+      "original_text": "trăsni-o-ar fi s-o trăsnească",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    }
+  ],
+  "explanation": null,
+  "translation": "May lightning strike her, if it were to strike her",
+  "notes": null
+}

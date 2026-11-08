@@ -1,0 +1,40 @@
+{
+  "id": "cine-mi-va-muta-crucea-sa-nu-aiba-somn-in-veac",
+  "text": "Cine-mi va muta crucea să nu aibă somn în veac",
+  "original_text": "Cine-mi va muta crucea să nu aibă somn în veac.",
+  "type": "curse",
+  "form": "subjunctive",
+  "affliction": null,
+  "themes": [
+    "church",
+    "sickness_death"
+  ],
+  "regions": [
+    "transylvania"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Blestemele din cimitirele vechi ale României",
+      "url": "https://evz.ro/blestemele-din-cimitirele-vechi-ale-romaniei-cand-mortii-isi-apara-locul.html",
+      "author": "EVZ",
+      "year": null,
+      "page": null,
+      "informant": "localnici, Țara Hațegului",
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Cine-mi va muta crucea să nu aibă somn în veac.",
+      "verification": "verified",
+      "notes": "piatră datată 1790"
+    }
+  ],
+  "explanation": null,
+  "translation": "Whoever moves my cross, may he have no sleep forever",
+  "notes": null
+}

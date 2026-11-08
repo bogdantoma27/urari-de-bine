@@ -1,0 +1,37 @@
+{
+  "id": "manca-l-ar-viermii-de-viu",
+  "text": "Mânca-l-ar viermii de viu!",
+  "original_text": "Mânca-l-ar viermii de viu!",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "viermii",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [
+    "moldavia"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Cum își blestemă românii dușmanii",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/cum-isi-blestema-romanii-dusmanii-1145715.html",
+      "author": "Adevărul",
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mânca-l-ar viermii de viu!",
+      "verification": "verified",
+      "notes": "Străoane, Vrancea (versul mai lung din sursă nu a fost preluat)"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the worms eat him alive!",
+  "notes": "nota sursei: „Străoane, Vrancea”"
+}

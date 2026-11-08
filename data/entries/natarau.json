@@ -1,0 +1,35 @@
+{
+  "id": "natarau",
+  "text": "Nătărău",
+  "original_text": "nătărău",
+  "type": "insult",
+  "form": "single_word",
+  "affliction": null,
+  "themes": [
+    "other"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, Scriban; DGS; Sinonime82",
+      "url": "https://dexonline.ro/definitie/nătărău",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "nătărău",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Om cu mintea mărginită.",
+  "translation": "Dimwit",
+  "notes": null
+}

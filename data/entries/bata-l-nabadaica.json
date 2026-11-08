@@ -1,0 +1,35 @@
+{
+  "id": "bata-l-nabadaica",
+  "text": "Bată-l năbădaica",
+  "original_text": "Bată-l năbădaica",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "năbădaica",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": true,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR - tomul X (2010), s.v. năbădaică",
+      "url": "https://dexonline.ro/definitie/năbădaică/1354627",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-l năbădaica",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR tomul X, în imprecații; HASDEU, R. V. 105"
+    }
+  ],
+  "explanation": "Năbădaică = nenorocire",
+  "translation": "May the misfortune strike him",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bat-o-s-o-bata-de-copila",
+  "text": "Bat-o s-o bată de copilă",
+  "original_text": "Bat-o s-o bată de copilă",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1910",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Luceafărul (Delavrancea)",
+      "url": "https://ro.wikisource.org/wiki/Luceaf%C4%83rul_(Delavrancea)",
+      "author": "Barbu Ștefănescu Delavrancea",
+      "year": 1910,
+      "page": null,
+      "informant": "Barbu Ștefănescu Delavrancea, Luceafărul (Delavrancea)",
+      "regions": [],
+      "original_text": "Bat-o s-o bată de copilă",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": "Se zice în glumă, cu drag, despre o fată.",
+  "translation": "May it strike her, may it strike her, the girl",
+  "notes": null
+}

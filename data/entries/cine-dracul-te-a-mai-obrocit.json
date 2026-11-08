@@ -1,0 +1,35 @@
+{
+  "id": "cine-dracul-te-a-mai-obrocit",
+  "text": "Cine dracul te-a mai obrocit",
+  "original_text": "Cine dracul te-a mai obrocit",
+  "type": "euphemism",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Varza roșie",
+      "url": "https://ro.wikisource.org/wiki/Varza_ro%C8%99ie",
+      "author": "Petre Ispirescu",
+      "year": null,
+      "page": null,
+      "informant": "Petre Ispirescu, Varza roșie",
+      "regions": [],
+      "original_text": "Cine dracul te-a mai obrocit",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Who the devil fed you again",
+  "notes": null
+}

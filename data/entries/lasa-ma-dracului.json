@@ -1,0 +1,35 @@
+{
+  "id": "lasa-ma-dracului",
+  "text": "Lasă-mă dracului",
+  "original_text": "Lasă-mă dracului",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": "dracu'",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1881",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Moara cu noroc",
+      "url": "https://ro.wikisource.org/wiki/Moara_cu_noroc",
+      "author": "Ioan Slavici",
+      "year": 1881,
+      "page": null,
+      "informant": "Ioan Slavici, Moara cu noroc",
+      "regions": [],
+      "original_text": "Lasă-mă dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Leave me to the devil",
+  "notes": null
+}

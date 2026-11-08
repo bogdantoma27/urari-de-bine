@@ -1,0 +1,36 @@
+{
+  "id": "daca-iti-dau-o-besina-zici-ca-te-a-calcat-tancu",
+  "text": "Dacă îți dau o beșină zici că te-a călcat tancu'",
+  "original_text": "Daca iti dau o besina, zici ca te-a calcat tancu",
+  "type": "expression",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "body",
+    "modern"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": "2022",
+  "attested": true,
+  "verification": "transcribed",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit; tatăl comentatorului",
+      "regions": [],
+      "original_text": "Daca iti dau o besina, zici ca te-a calcat tancu",
+      "verification": "transcribed",
+      "notes": null
+    }
+  ],
+  "explanation": null,
+  "translation": "If I give you a beșină, you'd say a tank ran you over",
+  "notes": "„besina” → „beșină”, diacritice presupuse"
+}

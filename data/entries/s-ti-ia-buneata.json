@@ -1,0 +1,39 @@
+{
+  "id": "s-ti-ia-buneata",
+  "text": "S-ti ia bunḙața",
+  "original_text": "S-ti ia bunḙáța!",
+  "type": "swear",
+  "form": "subjunctive",
+  "affliction": "buneata",
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [
+    "aromanian"
+  ],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Urarea și blestemul în albaneză și în graiul fărșerot al dialectului aromân. Concordanțe frazeologice și semantice (Lucrările Simpozionului Internațional de Lingvistică, ed. a 6-a, 2015)",
+      "url": "https://www.diacronia.ro/indexing/details/V4246/pdf",
+      "author": "Daniela-Carmen Stoica",
+      "year": 2017,
+      "page": "171-174",
+      "informant": "vorbitori fărșeroți din zona Korcea, Albania (anchete 2011-2013)",
+      "regions": [
+        "aromanian"
+      ],
+      "original_text": "S-ti ia bunḙáța!",
+      "verification": "verified",
+      "notes": "grai fărșerot plisot; grafia sursei păstrată, normalizare minimă"
+    }
+  ],
+  "explanation": "Bunḙața = ursita, soarta. Azi e luat ca blestem.",
+  "translation": "May your fate take you",
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "demon-spurcat-ce-esti",
+  "text": "Demon spurcat ce ești",
+  "original_text": "demon spurcat ce ești",
+  "type": "insult",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1879",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Dănilă Prepeleac",
+      "url": "https://ro.wikisource.org/wiki/D%C4%83nil%C4%83_Prepeleac",
+      "author": "Ion Creangă",
+      "year": 1879,
+      "page": null,
+      "informant": "Ion Creangă, Dănilă Prepeleac",
+      "regions": [],
+      "original_text": "demon spurcat ce ești",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Foul demon that you are",
+  "notes": null
+}

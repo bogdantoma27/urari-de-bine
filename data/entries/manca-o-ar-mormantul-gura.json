@@ -1,0 +1,35 @@
+{
+  "id": "manca-o-ar-mormantul-gura",
+  "text": "Mânca-o-ar mormântul gură",
+  "original_text": "Mînca-o-ar mormîntul gură",
+  "type": "curse",
+  "form": "optative",
+  "affliction": "mormântul",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLRLC, s.v. mânca",
+      "url": "https://dexonline.ro/definitie/mânca/919888",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Mînca-o-ar mormîntul gură",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLRLC; JARNÍK-BÎRSEANU, D. 386"
+    }
+  ],
+  "explanation": null,
+  "translation": "May the grave eat her, mouth",
+  "notes": null
+}

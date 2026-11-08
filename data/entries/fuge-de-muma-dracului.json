@@ -1,0 +1,35 @@
+{
+  "id": "fuge-de-muma-dracului",
+  "text": "Fuge de muma dracului",
+  "original_text": "Fuge de muma dracului",
+  "type": "expression",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1901",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Proverbele românilor, vol. 6",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-6-1901",
+      "author": "Iuliu A. Zanne",
+      "year": 1901,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fuge de muma dracului",
+      "verification": "verified",
+      "notes": "Zanne vol. 6, nr. 15011"
+    }
+  ],
+  "explanation": null,
+  "translation": "Run from the devil's mother",
+  "notes": null
+}

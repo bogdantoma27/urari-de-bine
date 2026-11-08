@@ -1,0 +1,35 @@
+{
+  "id": "du-te-dracului-smintitule",
+  "text": "Du-te dracului, smintitule",
+  "original_text": "Du-te dracului, smintitule",
+  "type": "swear",
+  "form": "imperative",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "sec. XIX-XX",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Din țigănie",
+      "url": "https://ro.wikisource.org/wiki/Din_%C8%9Big%C4%83nie",
+      "author": "Ioan Slavici",
+      "year": null,
+      "page": null,
+      "informant": "Ioan Slavici, Din țigănie",
+      "regions": [],
+      "original_text": "Du-te dracului, smintitule",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "Go to the devil, you lunatic",
+  "notes": null
+}

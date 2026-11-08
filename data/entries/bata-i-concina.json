@@ -1,0 +1,35 @@
+{
+  "id": "bata-i-concina",
+  "text": "Bată-i concina",
+  "original_text": "Bată-i concina",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "concina",
+  "themes": [
+    "sickness_death"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, CADE (1926-1931), s.v. concină",
+      "url": "https://dexonline.ro/definitie/concină/1362862",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Bată-i concina",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: CADE, blestem ușor, ironic; ALECS."
+    }
+  ],
+  "explanation": null,
+  "translation": "May the concina strike them",
+  "notes": "Sensul lui „concina” nu este clar"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dorul-meu-ajunga-te",
+  "text": "Doru meu ajungă-te",
+  "original_text": "DORUL MEU AJUNGA-TE",
+  "type": "curse",
+  "form": "imperative",
+  "affliction": "dorul",
+  "themes": [
+    "other"
+  ],
+  "regions": [
+    "wallachia"
+  ],
+  "level": "clean",
+  "period": "1900",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": 317,
+      "informant": "Chr. N. Țapu de la I. Odor de la Anica Mihăescu, Ropșoru, Prahova",
+      "regions": [
+        "wallachia"
+      ],
+      "original_text": "DORUL MEU AJUNGA-TE",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons); titlu din cuprins «Dorul meu ajungă-te»; textul exact din fișier: «Doru meti ajunga-te Pe cale ducendu-te»"
+    }
+  ],
+  "explanation": null,
+  "translation": "May my longing reach you",
+  "notes": null
+}

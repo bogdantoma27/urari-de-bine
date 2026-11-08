@@ -1,0 +1,35 @@
+{
+  "id": "mai-bine-l-lasai-dracului",
+  "text": "Mai bine-l lăsai dracului",
+  "original_text": "Mai bine-l lăsai dracului",
+  "type": "swear",
+  "form": "other",
+  "affliction": null,
+  "themes": [
+    "devil_hell"
+  ],
+  "regions": [],
+  "level": "clean",
+  "period": "1920",
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "Ion, partea a II-a Glasul iubirii",
+      "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)/2._Glasul_iubirii",
+      "author": "Liviu Rebreanu",
+      "year": 1920,
+      "page": null,
+      "informant": "Liviu Rebreanu, Ion, partea a II-a Glasul iubirii",
+      "regions": [],
+      "original_text": "Mai bine-l lăsai dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
+    }
+  ],
+  "explanation": null,
+  "translation": "I'd have done better to leave him to the devil",
+  "notes": null
+}

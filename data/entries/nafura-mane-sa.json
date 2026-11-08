@@ -1,0 +1,36 @@
+{
+  "id": "nafura-mane-sa",
+  "text": "Nafura mâne-sa!",
+  "original_text": "Nafura mîne-sa!",
+  "type": "swear",
+  "form": "nominal",
+  "affliction": null,
+  "themes": [
+    "church",
+    "family"
+  ],
+  "regions": [],
+  "level": "mild",
+  "period": null,
+  "attested": true,
+  "verification": "verified",
+  "sensitive": false,
+  "funny": false,
+  "sources": [
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mama",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Nafura mîne-sa!",
+      "verification": "verified",
+      "notes": null
+    }
+  ],
+  "explanation": "Nafură = anafură, pâinea sfințită de la biserică.",
+  "translation": "The communion bread of his mother!",
+  "notes": null
+}
