@@ -7,11 +7,12 @@
   "affliction": null,
   "themes": [
     "sickness_death",
-    "body"
+    "body",
+    "other"
   ],
   "regions": [],
   "level": "clean",
-  "period": null,
+  "period": "2022",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -28,9 +29,21 @@
       "original_text": "Puschie (pusche, puschea, pustea) pe limbă (i",
       "verification": "verified",
       "notes": "proverb nr. 5724, vol. 2"
+    },
+    {
+      "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
+      "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
+      "author": null,
+      "year": 2022,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "Pușchea pe limba ta!",
+      "verification": "transcribed",
+      "notes": "spusă când cineva prevestește ceva rău"
     }
   ],
   "explanation": "Pușchea = bubă pe limbă.",
   "translation": "A sore on the tongue",
-  "notes": null
+  "notes": "Apare și ca: „Pușchea pe limba ta”."
 }

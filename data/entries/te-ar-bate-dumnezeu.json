@@ -6,7 +6,8 @@
   "form": "optative",
   "affliction": "Dumnezeu",
   "themes": [
-    "church"
+    "church",
+    "birds_of_prey"
   ],
   "regions": [],
   "level": "clean",
@@ -27,9 +28,21 @@
       "original_text": "te-ar bate Dumnezeu",
       "verification": "verified",
       "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "Materialuri folkloristice, vol. 1 (Poesia poporană, partea 1), cules de Chr. N. Țapu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1_-_Poesia_poporana._Partea_1.pdf",
+      "author": "Grigore G. Tocilescu (culegător Chr. N. Țapu)",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "De te-ar bate Dumnecleil",
+      "verification": "verified",
+      "notes": "OCR cu erori (arhiva dacoromanica via Wikimedia Commons)"
     }
   ],
   "explanation": null,
   "translation": "May God beat you",
-  "notes": null
+  "notes": "Apare și ca: „De te-ar bate Dumnezeu”."
 }

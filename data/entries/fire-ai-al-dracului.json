@@ -6,7 +6,8 @@
   "form": "optative",
   "affliction": null,
   "themes": [
-    "devil_hell"
+    "devil_hell",
+    "family"
   ],
   "regions": [],
   "level": "clean",
@@ -63,9 +64,33 @@
       "original_text": "fire-ați ai dracului",
       "verification": "verified",
       "notes": "text de pe ro.wikisource (action=raw)"
+    },
+    {
+      "title": "Proverbele românilor, vol. 4",
+      "url": "https://archive.org/details/iuliu-a.-zanne-proverbele-romanilor-vol.-4-1900",
+      "author": "Iuliu A. Zanne",
+      "year": 1900,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Fire-al a dracului să fiil",
+      "verification": "verified",
+      "notes": "vol. 4, secțiunea 'Legendă'; pagina nedeterminată"
+    },
+    {
+      "title": "Răscoala, vol. Focurile",
+      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Focurile",
+      "author": "Liviu Rebreanu",
+      "year": 1932,
+      "page": null,
+      "informant": "Liviu Rebreanu, Răscoala, vol. Focurile",
+      "regions": [],
+      "original_text": "fire-ai să fii a dracului",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,
   "translation": "May you be the devil's",
-  "notes": "Apare și ca: „Fire-ați ai dracului”."
+  "notes": "Apare și ca: „Fire-ați ai dracului”. Apare și ca: „Fire-ai al dracului să fii”, „Fire-ai să fii a dracului”."
 }

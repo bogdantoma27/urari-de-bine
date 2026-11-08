@@ -27,9 +27,21 @@
       "original_text": "Fir-ar a dracului de viață ș-afurisită",
       "verification": "verified",
       "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    },
+    {
+      "title": "De închiriat...",
+      "url": "https://ro.wikisource.org/wiki/De_%C3%AEnchiriat...",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, De închiriat...",
+      "regions": [],
+      "original_text": "Fir-ar a dracului ș-afurisită de viață",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,
   "translation": "Damn this life, accursed as it is",
-  "notes": null
+  "notes": "Apare și ca: „Fir-ar a dracului ș-afurisită de viață”."
 }

@@ -4,12 +4,12 @@
 
 <br>
 
-**Nearly 1,400 Romanian curses, swears and insults, collected from old books, dictionaries and the internet. Each one says where it came from.**<br>
+**Over 1,300 Romanian curses, swears and insults, collected from old books, dictionaries and the internet. Each one says where it came from.**<br>
 Read them on the site or get them from the API.
 
 <br>
 
-[![Entries](https://img.shields.io/badge/entries-1%2C389-a3271c?style=flat-square)](data/entries/)
+[![Entries](https://img.shields.io/badge/entries-1%2C358-a3271c?style=flat-square)](data/entries/)
 [![Sources](https://img.shields.io/badge/sources-317-7a5a33?style=flat-square)](https://api.uraridebine.ro/v1/sources)
 [![API](https://img.shields.io/badge/API-docs-2b1a10?style=flat-square)](https://api.uraridebine.ro/docs)
 [![Data](https://img.shields.io/badge/data-CC%20BY--SA%204.0-c9a24d?style=flat-square)](data/LICENSE)

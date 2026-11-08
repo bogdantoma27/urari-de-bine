@@ -10,7 +10,7 @@
   ],
   "regions": [],
   "level": "clean",
-  "period": null,
+  "period": "sec. XIX",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -27,9 +27,21 @@
       "original_text": "pe dracul / pe naiba",
       "verification": "verified",
       "notes": null
+    },
+    {
+      "title": "O inspecțiune",
+      "url": "https://ro.wikisource.org/wiki/O_inspec%C8%9Biune",
+      "author": "Ion Luca Caragiale",
+      "year": null,
+      "page": null,
+      "informant": "Ion Luca Caragiale, O inspecțiune",
+      "regions": [],
+      "original_text": "pe dracu'",
+      "verification": "verified",
+      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,
   "translation": "The devil, no",
-  "notes": null
+  "notes": "Apare și ca: „Pe dracu'”."
 }

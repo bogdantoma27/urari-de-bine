@@ -7,7 +7,8 @@
   "affliction": "puricii",
   "themes": [
     "body",
-    "farm_animals"
+    "farm_animals",
+    "sickness_death"
   ],
   "regions": [],
   "level": "clean",
@@ -28,9 +29,21 @@
       "original_text": "Măncă-te-ar puricii",
       "verification": "verified",
       "notes": "Marian, Insectele, p. ~495-496 (articolul Purice); la sursă: „Blestem popular, ce se zice în glumă”"
+    },
+    {
+      "title": "dexonline.ro, DLR",
+      "url": "https://dexonline.ro/definitie/mânca",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "mînca-te-ar puricii, să te mănînce",
+      "verification": "verified",
+      "notes": null
     }
   ],
   "explanation": null,
   "translation": "May the fleas eat you",
-  "notes": null
+  "notes": "Apare și ca: „Mânca-te-ar puricii, să te mănânce”."
 }

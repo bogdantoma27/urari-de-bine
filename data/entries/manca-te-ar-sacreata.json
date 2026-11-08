@@ -8,7 +8,9 @@
   "themes": [
     "sickness_death"
   ],
-  "regions": [],
+  "regions": [
+    "transylvania"
+  ],
   "level": "clean",
   "period": null,
   "attested": true,
@@ -27,9 +29,23 @@
       "original_text": "Mînca-te-ar sîcreata",
       "verification": "verified",
       "notes": null
+    },
+    {
+      "title": "dexonline.ro, DLR, s.v. mânca",
+      "url": "https://dexonline.ro/definitie/mânca/1330762",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [
+        "transylvania"
+      ],
+      "original_text": "Mînca-te-ar sîcreata (pustia",
+      "verification": "verified",
+      "notes": "atestare folclorică/literară; abreviere sursă primară: DLR; Com. din ZAGRA-NĂSĂUD"
     }
   ],
   "explanation": "Sâcreata e o boală, numită și pustia.",
   "translation": "May the sacreata eat you",
-  "notes": null
+  "notes": "Apare și ca: „Mânca-te-ar sâcreata (pustia)”."
 }

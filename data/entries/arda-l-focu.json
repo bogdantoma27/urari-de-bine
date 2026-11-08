@@ -8,7 +8,9 @@
   "themes": [
     "nature_elements"
   ],
-  "regions": [],
+  "regions": [
+    "aromanian"
+  ],
   "level": "clean",
   "period": null,
   "attested": true,
@@ -39,9 +41,23 @@
       "original_text": "Ardă-l focu",
       "verification": "unverified",
       "notes": "variantă: arde-l-ar focu"
+    },
+    {
+      "title": "Urarea și blestemul în albaneză și în graiul fărșerot al dialectului aromân. Concordanțe frazeologice și semantice (Lucrările Simpozionului Internațional de Lingvistică, ed. a 6-a, 2015)",
+      "url": "https://www.diacronia.ro/indexing/details/V4246/pdf",
+      "author": "Daniela-Carmen Stoica",
+      "year": 2017,
+      "page": "171-174",
+      "informant": "vorbitori fărșeroți din zona Korcea, Albania (anchete 2011-2013)",
+      "regions": [
+        "aromanian"
+      ],
+      "original_text": "S-ti ardă focu!",
+      "verification": "verified",
+      "notes": "grai fărșerot plisot; grafia sursei păstrată, normalizare minimă"
     }
   ],
   "explanation": null,
   "translation": "May the fire burn him",
-  "notes": null
+  "notes": "Apare și ca: „S-ti ardă focu”."
 }

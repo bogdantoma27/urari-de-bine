@@ -145,15 +145,29 @@ const FOOTER = `  <footer class="footer">
 
 // ---------- entry page ----------
 
+/** A wikisource-style title "Un vis (Caragiale)" loses "(Caragiale)" when the author is shown right under it. */
+export function sourceTitle(title: string | null | undefined, author: string | null | undefined): string | null {
+  if (!title || !author) return title ?? null;
+  const m = /^(.*\S)\s+\(([^()]+)\)$/.exec(title);
+  return m && author.toLowerCase().includes(m[2].toLowerCase()) ? m[1] : title;
+}
+
+/** The informant is left out when it only repeats the author and the title shown above it. */
+export function showInformant(s: { informant?: unknown; author?: string | null; title?: string | null }): boolean {
+  if (typeof s.informant !== "string" || !s.informant) return false;
+  return !(s.author && s.title && s.informant.includes(s.author) && s.informant.includes(s.title));
+}
+
 function sourceItem(s: Entry["sources"][number]): string {
   const parts: string[] = [];
   if (s.author) parts.push(String(s.author));
   if (s.year) parts.push(String(s.year));
   if (s.page) parts.push(`p. ${s.page}`);
   const url = s.url ? String(s.url) : "";
-  return `<li class="sheet__source"><cite>${esc(s.title || "Sursă fără titlu")}</cite>${
+  const title = sourceTitle(s.title, s.author);
+  return `<li class="sheet__source"><cite>${title ? esc(title) : `<span data-i18n="dialog.untitled">Sursă fără titlu</span>`}</cite>${
     parts.length ? `<span class="sheet__source-meta">${esc(parts.join(" · "))}</span>` : ""
-  }${s.informant ? `<span class="sheet__source-meta">informator: ${esc(s.informant)}</span>` : ""}${
+  }${showInformant(s) ? `<span class="sheet__source-meta"><span data-i18n="entry.informant">informator:</span> ${esc(String(s.informant))}</span>` : ""}${
     /^https?:\/\//i.test(url)
       ? `<a href="${esc(url)}" target="_blank" rel="noopener" data-i18n="dialog.open">deschide sursa ↗</a>`
       : ""
@@ -173,7 +187,7 @@ function entryBody(e: Entry): string {
     : `<p class="sheet__note" data-i18n="dialog.noSource">Fără sursă notată. Mi-a șoptit-o cineva la ureche.</p>`;
   const firstTheme = e.themes[0];
   return `<body class="page-entry">
-  <a class="skip-link" href="#entry" data-i18n="all.skip">Sari la rezultate</a>
+  <a class="skip-link" href="#entry" data-i18n="entry.skip">Sari la urare</a>
   <nav class="language" data-i18n-attr="aria-label:lang.label" aria-label="Limba">
     <button type="button" data-lang="ro" lang="ro" title="Română">RO</button>
     <button type="button" data-lang="en" lang="en" title="English">EN</button>
@@ -196,7 +210,7 @@ function entryBody(e: Entry): string {
         <dt data-i18n="dialog.region">Regiune</dt><dd>${regions}</dd>
         ${e.period ? `<dt data-i18n="dialog.period">Epocă</dt><dd>${esc(e.period)}</dd>` : ""}
       </dl>
-      <h2 class="sheet__subtitle">${e.sources.length === 1 ? "Sursă" : `Surse (${e.sources.length})`}</h2>
+      <h2 class="sheet__subtitle">${e.sources.length === 1 ? `<span data-i18n="dialog.source">Sursă</span>` : `<span data-i18n="entry.sources">Surse</span> (${e.sources.length})`}</h2>
       ${sources}
       ${firstTheme ? `<p class="entry-page__links"><a href="/all?theme=${esc(encodeURIComponent(firstTheme))}" data-i18n="entry.more">Alte urări pe aceeași temă →</a></p>` : ""}
     </article>

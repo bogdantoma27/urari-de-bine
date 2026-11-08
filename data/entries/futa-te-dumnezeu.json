@@ -4,14 +4,14 @@
   "original_text": "Fută-te Dumnezeu",
   "type": "swear",
   "form": "imperative",
-  "affliction": null,
+  "affliction": "Dumnezeu",
   "themes": [
     "church",
     "sexual"
   ],
   "regions": [],
   "level": "vulgar",
-  "period": null,
+  "period": "2023",
   "attested": true,
   "verification": "verified",
   "sensitive": false,
@@ -28,9 +28,21 @@
       "original_text": "Fută-te Dumnezeu",
       "verification": "verified",
       "notes": "Corpus de autor (probabil Baia Mare/Maramureș, folclor urban); sursa primară nu e dată"
+    },
+    {
+      "title": "r/Romania: Cele mai creative înjurături/insulte",
+      "url": "https://www.reddit.com/r/Romania/comments/13l8neo/",
+      "author": null,
+      "year": 2023,
+      "page": null,
+      "informant": "utilizator Reddit",
+      "regions": [],
+      "original_text": "sa te futa dumnezeu",
+      "verification": "transcribed",
+      "notes": null
     }
   ],
   "explanation": null,
   "translation": "Fuck yourself, God",
-  "notes": null
+  "notes": "Apare și ca: „Să te fută Dumnezeu”."
 }

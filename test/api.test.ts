@@ -812,6 +812,14 @@ describe("server-rendered pages", () => {
     expect(r.headers.get("location")).toBe("/e/bata-te-norocul?lang=en");
   });
 
+  it("an entry page does not repeat the author in the source title or the informant", async () => {
+    const h = await (await page("/e/bata-te-norocul")).text();
+    expect(h).toContain("<cite>Un vis</cite>");
+    expect(h).not.toContain("informator:</span> Ion Luca Caragiale, Un vis");
+    expect(h).toContain('data-i18n="entry.skip"');
+    expect(h).toContain('<span data-i18n="entry.sources">Surse</span>');
+  });
+
   it("esc escapes HTML special characters", () => {
     expect(esc('<a href="x">&')).toBe("&lt;a href=&quot;x&quot;&gt;&amp;");
   });

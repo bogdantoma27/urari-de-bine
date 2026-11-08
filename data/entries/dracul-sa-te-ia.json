@@ -39,9 +39,33 @@
       "original_text": "Dracul să te ia",
       "verification": "verified",
       "notes": "text de pe ro.wikisource, ortografie ca în sursă"
+    },
+    {
+      "title": "dexonline.ro, DLRLC",
+      "url": "https://dexonline.ro/definitie/lua",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "dracu s-o ia!",
+      "verification": "verified",
+      "notes": null
+    },
+    {
+      "title": "dexonline.ro, NODEX (2002)",
+      "url": "https://dexonline.ro/definitie/drac",
+      "author": null,
+      "year": null,
+      "page": null,
+      "informant": null,
+      "regions": [],
+      "original_text": "Să-l ia dracu",
+      "verification": "verified",
+      "notes": "forma din sursă: «Să-l ia ~cul (ducă-se ~cului)»"
     }
   ],
   "explanation": null,
   "translation": "May the devil take you",
-  "notes": null
+  "notes": "Apare și ca: „Dracu s-o ia”, „Să-l ia dracul”."
 }

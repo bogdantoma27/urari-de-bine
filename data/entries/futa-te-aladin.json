@@ -4,7 +4,7 @@
   "original_text": "Fută-te Aladin",
   "type": "swear",
   "form": "imperative",
-  "affliction": null,
+  "affliction": "Aladin",
   "themes": [
     "other",
     "sexual"
@@ -15,7 +15,7 @@
   "attested": true,
   "verification": "verified",
   "sensitive": false,
-  "funny": false,
+  "funny": true,
   "sources": [
     {
       "title": "„Să nu [în]juri strâmb…” Înjurături românești care conțin antroponime (II): niveluri constitutive și semantic-referențiale. Philologica Jassyensia XII/1 (23)",
@@ -28,9 +28,21 @@
       "original_text": "Fută-te Aladin",
       "verification": "verified",
       "notes": "Corpus de autor (probabil Baia Mare/Maramureș, folclor urban); sursa primară nu e dată"
+    },
+    {
+      "title": "„Să nu [în]juri strâmb…” Înjurături românești care conțin antroponime (II): niveluri constitutive și semantic-referențiale. Philologica Jassyensia XII/1 (23)",
+      "url": "https://www.diacronia.ro/indexing/details/A24464/pdf",
+      "author": "Daiana Felecan, Alina Bugheșiu",
+      "year": 2016,
+      "page": "47-55",
+      "informant": null,
+      "regions": [],
+      "original_text": "Să te fută Aladin",
+      "verification": "verified",
+      "notes": "sursă primară citată: ask.fm/BiancaDinut"
     }
   ],
   "explanation": null,
   "translation": "Fuck yourself, Aladdin",
-  "notes": null
+  "notes": "Apare și ca: „Să te fută Aladin”."
 }

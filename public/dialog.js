@@ -241,15 +241,24 @@ function backButton() {
   }, t('dialog.back'));
 }
 
+/* "Un vis (Caragiale)" loses "(Caragiale)" when the author is shown right under it,
+   and the informant is left out when it only repeats the author and the title. */
+function sourceTitle(title, author) {
+  if (!title || !author) return title;
+  const m = /^(.*\S)\s+\(([^()]+)\)$/.exec(title);
+  return m && author.toLowerCase().includes(m[2].toLowerCase()) ? m[1] : title;
+}
+const showInformant = (s) => Boolean(s.informant) && !(s.author && s.title && s.informant.includes(s.author) && s.informant.includes(s.title));
+
 function sourceItem(s) {
   const parts = [];
   if (s.author) parts.push(s.author);
   if (s.year) parts.push(String(s.year));
   if (s.page) parts.push(t('dialog.page', { page: s.page }));
   return h('li', { class: 'sheet__source' },
-    h('cite', {}, s.title || t('dialog.untitled')),
+    h('cite', {}, sourceTitle(s.title, s.author) || t('dialog.untitled')),
     parts.length ? h('span', { class: 'sheet__source-meta' }, parts.join(' · ')) : null,
-    s.informant ? h('span', { class: 'sheet__source-meta' }, t('dialog.informant', { informant: s.informant })) : null,
+    showInformant(s) ? h('span', { class: 'sheet__source-meta' }, t('dialog.informant', { informant: s.informant })) : null,
     s.url ? (/^https?:\/\//i.test(String(s.url))
       ? h('a', { href: s.url, target: '_blank', rel: 'noopener' }, t('dialog.open'))
       : h('span', { class: 'sheet__source-meta' }, String(s.url))) : null,
