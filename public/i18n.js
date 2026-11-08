@@ -22,7 +22,10 @@ export const DICT = {
   'var.total': { ro: 'Peste o mie', en: 'Over a thousand' },
   'in.romanian': { ro: '', en: 'in Romanian' },
   'generated': { ro: 'generat, nu atestat', en: 'made up, not attested' },
-  'level.badge': { ro: 'nivel {level}', en: '{level}' },
+  // on the leaf, the list and the dialog the level reads like the menu on the home page
+  'level.badge.clean': { ro: 'de spus la masă', en: 'for Sunday lunch' },
+  'level.badge.mild': { ro: 'de spus în trafic', en: 'for traffic jams' },
+  'level.badge.vulgar': { ro: 'de spus la meci', en: 'for the stands' },
   'uncategorized': { ro: 'Necategorisit', en: 'Uncategorised' },
 
   'error.network.title': { ro: 'S-a rupt firul cu mănăstirea.', en: 'The line to the monastery is down.' },

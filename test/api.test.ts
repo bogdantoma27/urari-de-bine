@@ -180,13 +180,44 @@ describe("/v1/random", () => {
   });
 });
 
+describe("/v1/entries?sort", () => {
+  const rank = { vulgar: 0, mild: 1, clean: 2 } as Record<string, number>;
+  it("sort=vulgar puts the vulgar ones first, then the mild, then the clean", async () => {
+    const { b } = await json("/v1/entries?level=all&sort=vulgar&per_page=100&page=1");
+    const all = [...b.results];
+    for (let p = 2; p <= b.pages; p++) all.push(...(await json(`/v1/entries?level=all&sort=vulgar&per_page=100&page=${p}`)).b.results);
+    expect(all).toHaveLength(b.total);
+    for (let i = 1; i < all.length; i++) expect(rank[all[i - 1].level]).toBeLessThanOrEqual(rank[all[i].level]);
+    expect(all[0].level).toBe("vulgar");
+  });
+  it("the default order stays the same", async () => {
+    const a = (await json("/v1/entries?per_page=50")).b.results.map((e: any) => e.id);
+    const b = (await json("/v1/entries?per_page=50&sort=id")).b.results.map((e: any) => e.id);
+    expect(b).toEqual(a);
+  });
+  it("an unknown sort is a 400", async () => {
+    const { r } = await json("/v1/entries?sort=random");
+    expect(r.status).toBe(400);
+  });
+});
+
 describe("/v1/themes, /v1/regions, /v1/sources", () => {
   it("themes", async () => {
     const { b } = await json("/v1/themes");
     expect(b).toHaveLength(14);
-    expect(b[0]).toEqual({ name: "church", label: expect.any(String), description: expect.any(String), count: expect.any(Number) });
+    expect(b[0]).toEqual({
+      name: "church", label: expect.any(String), description: expect.any(String), count: expect.any(Number),
+      levels: { clean: expect.any(Number), mild: expect.any(Number), vulgar: expect.any(Number) },
+    });
     const churchCount = entries.filter((e) => e.attested && e.themes.includes("church")).length;
     expect(b.find((t: any) => t.name === "church").count).toBe(churchCount);
+    for (const t of b) {
+      expect(t.levels.clean + t.levels.mild + t.levels.vulgar, t.name).toBe(t.count);
+      for (const level of ["clean", "mild", "vulgar"]) {
+        const n = entries.filter((e) => e.attested && e.level === level && e.themes.includes(t.name)).length;
+        expect(t.levels[level], `${t.name}/${level}`).toBe(n);
+      }
+    }
   });
   it("regions", async () => {
     const { b } = await json("/v1/regions");
@@ -745,6 +776,15 @@ describe("server-rendered pages", () => {
   const page = (p: string, e: object | undefined = env) => get(p, undefined, e);
   const attested = entries.filter((e) => e.attested);
   const countLinks = (h: string) => (h.match(/<a class="entry" href="\/e\//g) ?? []).length;
+
+  it("/all lists the vulgar wishes first, then the mild, then the clean", async () => {
+    const h = await (await page("/all")).text();
+    const ids = [...h.matchAll(/<a class="entry" href="\/e\/([^"]+)"/g)].map((m) => decodeURIComponent(m[1]));
+    expect(ids.length).toBeGreaterThan(0);
+    for (const id of ids) expect(entries.find((e) => e.id === id)!.level).toBe("vulgar");
+    const prison = await (await page("/all?theme=prison")).text();
+    expect(countLinks(prison)).toBeGreaterThan(0); // a theme with no vulgar wish still lists its wishes
+  });
 
   it("esc escapes HTML special characters", () => {
     expect(esc('<a href="x">&')).toBe("&lt;a href=&quot;x&quot;&gt;&amp;");

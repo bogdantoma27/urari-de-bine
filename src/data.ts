@@ -161,6 +161,12 @@ export function parseFilters(p: Record<string, Param>): Filters {
   };
 }
 
+/** The entries with the vulgar ones first, then the mild, then the clean; the order inside a level stays. */
+const LEVEL_RANK: Record<string, number> = { vulgar: 0, mild: 1, clean: 2 };
+export function vulgarFirst(list: Entry[]): Entry[] {
+  return [...list].sort((a, b) => (LEVEL_RANK[a.level] ?? 3) - (LEVEL_RANK[b.level] ?? 3));
+}
+
 export function filterEntries(f: Filters, includeSensitive: boolean): Entry[] {
   const q1 = f.q ? normalize(f.q) : null;
   const q2 = f.q ? normalizeSimple(f.q) : null;
@@ -186,6 +192,20 @@ export function countBy(field: "themes" | "regions"): Map<string, number> {
   for (const e of entries) {
     if (!e.attested) continue; // same as the default list in /v1/entries
     for (const v of new Set(e[field])) m.set(v, (m.get(v) ?? 0) + 1);
+  }
+  return m;
+}
+
+/** The same counts as countBy, split by level, so a client can tell which theme is empty at a level. */
+export function countByLevel(field: "themes" | "regions"): Map<string, Record<string, number>> {
+  const m = new Map<string, Record<string, number>>();
+  for (const e of entries) {
+    if (!e.attested) continue;
+    for (const v of new Set(e[field])) {
+      const c = m.get(v) ?? Object.fromEntries(LEVELS.map((l) => [l, 0]));
+      c[e.level] = (c[e.level] ?? 0) + 1;
+      m.set(v, c);
+    }
   }
   return m;
 }

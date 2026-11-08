@@ -94,6 +94,7 @@ function apiUrl(s) {
   p.set('level', s.level || ALL_LEVELS);
   p.set('page', String(s.page));
   p.set('per_page', String(PER_PAGE));
+  p.set('sort', 'vulgar'); // the vulgar wishes first, as on the server-rendered page
   return `/v1/entries?${p}`;
 }
 

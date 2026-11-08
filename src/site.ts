@@ -7,6 +7,7 @@ import {
   countBy,
   entries,
   filterEntries,
+  vulgarFirst,
   parseFilters,
   type Entry,
 } from "./data";
@@ -51,11 +52,11 @@ const TYPE_LABELS: Record<string, string> = {
   euphemism: "Eufemism",
   expression: "Expresie",
 };
-const LEVEL_LABELS: Record<string, string> = { clean: "curat", mild: "mediu", vulgar: "vulgar" };
+const LEVEL_LABELS: Record<string, string> = { clean: "de spus la masă", mild: "de spus în trafic", vulgar: "de spus la meci" };
 
 const typeBadge = (type: string) => `<span class="badge" data-i18n="type.${esc(type)}">${esc(TYPE_LABELS[type] ?? type)}</span>`;
 const levelBadge = (level: string) =>
-  `<span class="badge badge--level${level === "vulgar" ? " badge--vulgar" : ""}">nivel ${esc(LEVEL_LABELS[level] ?? level)}</span>`;
+  `<span class="badge badge--level${level === "vulgar" ? " badge--vulgar" : ""}"${LEVEL_LABELS[level] ? ` data-i18n="level.badge.${esc(level)}"` : ""}>${esc(LEVEL_LABELS[level] ?? level)}</span>`;
 
 // ---------- layout ----------
 
@@ -273,7 +274,8 @@ export function renderList(templateHtml: string, url: URL): string {
     type: s.type, theme: s.theme, region: s.region, level: s.level || "all",
     q: s.q || undefined, funny: s.funny || undefined, sensitive: s.sensitive || undefined,
   });
-  const all = filterEntries(filters, filters.sensitive);
+  // the list shows the vulgar wishes first (all.js asks the API for the same order)
+  const all = vulgarFirst(filterEntries(filters, filters.sensitive));
   const total = all.length;
   const pages = Math.ceil(total / PER_PAGE);
   s.page = Math.min(requestedPage, Math.max(1, pages));

@@ -10,6 +10,8 @@ import {
   filterEntries,
   entryOfTheDay,
   countBy,
+  countByLevel,
+  vulgarFirst,
   parseFilters,
   secondsUntilMidnight,
   distinctSources,
@@ -295,6 +297,7 @@ app.openapi(
         funny: param({ description: textKey("param.funny"), example: "true" }),
         page: param({ description: textKey("param.page"), example: "1" }),
         per_page: param({ description: textKey("param.per_page"), example: "20" }),
+        sort: param({ description: textKey("param.sort"), example: "vulgar" }),
       }),
     },
     responses: {
@@ -321,7 +324,11 @@ app.openapi(
     const filters = parseFilters(q);
     const page = parseBoundedInt("page", q.page, 1, 1, 100000);
     const perPage = parseBoundedInt("per_page", q.per_page, 20, 1, 100);
-    const all = filterEntries(filters, filters.sensitive);
+    if (q.sort !== undefined && q.sort !== "" && !["id", "vulgar"].includes(q.sort)) {
+      throw new HttpError(400, '"sort" can only be id or vulgar.');
+    }
+    const found = filterEntries(filters, filters.sensitive);
+    const all = q.sort === "vulgar" ? vulgarFirst(found) : found;
     const total = all.length;
     const start = (page - 1) * perPage;
     return c.json({
@@ -474,11 +481,18 @@ app.openapi(
 );
 
 const DescribedList = z
-  .array(z.object({ name: z.string(), label: z.string(), description: z.string(), count: z.number().int() }));
+  .array(z.object({
+    name: z.string(), label: z.string(), description: z.string(), count: z.number().int(),
+    levels: z.object({ clean: z.number().int(), mild: z.number().int(), vulgar: z.number().int() }),
+  }));
 
 function describedList(reference: Record<string, { label: string; description: string }>, camp: "themes" | "regions") {
   const n = countBy(camp);
-  return Object.entries(reference).map(([name, v]) => ({ name, label: v.label, description: v.description, count: n.get(name) ?? 0 }));
+  const byLevel = countByLevel(camp);
+  return Object.entries(reference).map(([name, v]) => ({
+    name, label: v.label, description: v.description, count: n.get(name) ?? 0,
+    levels: byLevel.get(name) ?? { clean: 0, mild: 0, vulgar: 0 },
+  }));
 }
 
 app.openapi(
@@ -494,7 +508,7 @@ app.openapi(
         content: {
           "application/json": {
             schema: DescribedList.openapi({
-              example: [{ name: "church", label: "Biserică", description: "Biserica, sfinții, preoții, rugăciunile și sărbătorile.", count: 239 }],
+              example: [{ name: "church", label: "Biserică", description: "Biserica, sfinții, preoții, rugăciunile și sărbătorile.", count: 240, levels: { clean: 170, mild: 20, vulgar: 50 } }],
             }),
           },
         },

@@ -84,6 +84,10 @@ const T = {
     ro: "Câte rezultate pe pagină, între 1 și 100. Implicit 20.",
     en: "Results per page (1–100). Default: 20.",
   },
+  "param.sort": {
+    ro: "id (implicit, în ordine alfabetică) sau vulgar, ca să vină întâi cele vulgare, apoi cele medii, apoi cele curate.",
+    en: "id (default, alphabetical) or vulgar, for the vulgar ones first, then the mild, then the clean.",
+  },
   "param.format": {
     ro: "json (implicit) sau text, dacă vrei doar formula, ca text simplu.",
     en: "json (default) or text for a plain-text response.",

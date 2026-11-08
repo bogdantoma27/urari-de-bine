@@ -85,7 +85,7 @@ export function typeBadge(type) {
 export function levelBadge(level) {
   if (!level) return null;
   return h('span', { class: `badge badge--level${level === 'vulgar' ? ' badge--vulgar' : ''}` },
-    t('level.badge', { level: label('level', level) }));
+    ['clean', 'mild', 'vulgar'].includes(level) ? t(`level.badge.${level}`) : label('level', level));
 }
 
 /** The explanation (always in Romanian); in English it gets an "in Romanian" label. */
@@ -108,7 +108,7 @@ export function translation(text) {
 /** Themes and regions from the API: { name (slug), count, ... } -> { id (slug), name (label, if any), count }. */
 export function normalizeList(x) {
   if (!Array.isArray(x)) return [];
-  return x.map((i) => (i && typeof i === 'object' ? { id: i.name ?? i.id, name: i.label ?? null, count: i.count } : null))
+  return x.map((i) => (i && typeof i === 'object' ? { id: i.name ?? i.id, name: i.label ?? null, count: i.count, levels: i.levels ?? null } : null))
     .filter((i) => i && i.id);
 }
 

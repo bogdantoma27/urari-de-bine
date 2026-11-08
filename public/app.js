@@ -28,13 +28,15 @@ const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 // The API's public address; a local run shows its own origin instead.
 const API_ORIGIN = location.hostname.endsWith('uraridebine.ro') ? 'https://api.uraridebine.ro' : location.origin;
 
-// the step chosen in the interface -> the API `level` value (a ceiling: it includes the milder steps)
+// the step chosen in the interface -> the API `level` value: exactly that step, so "merciless" gives
+// vulgar wishes only (as a ceiling, three wishes in four would have come out clean)
 const LEVELS = {
   clean: 'clean',
-  mild: 'clean,mild',
-  vulgar: 'clean,mild,vulgar',
+  mild: 'mild',
+  vulgar: 'vulgar',
 };
 const DEFAULT_LEVEL = 'vulgar';
+let siteThemes = []; // [{ id, name, count, levels }] from /v1/themes
 const SETTINGS_VERSION = '2'; // 2 = vulgar is the default (6 Nov 2026)
 
 const state = {
@@ -96,7 +98,7 @@ function sizeStep(n) {
 }
 
 /* The card has a fixed height and does not scroll: if all the content does not fit, we lower the font
-   step (down to the smallest), and finally we squeeze the explanation and the translation. */
+   step (down to the smallest), then we squeeze the explanation, and finally we leave it out. */
 const MAX_STEP = 7;
 function fitText() {
   const p = el.area.querySelector('.wish__text');
@@ -106,9 +108,10 @@ function fitText() {
   const overflows = () => el.area.scrollHeight > el.area.clientHeight + 1;
   let n = Number(p.dataset.t0) || 1;
   setStep(n);
-  block.classList.remove('wish--squeezed');
+  block.classList.remove('wish--squeezed', 'wish--tight');
   while (overflows() && n < MAX_STEP) setStep(++n);
   if (overflows()) block.classList.add('wish--squeezed');
+  if (overflows()) block.classList.add('wish--tight');
 }
 let fitTimer;
 window.addEventListener('resize', () => {
@@ -463,6 +466,20 @@ function setLevel(n) {
   state.level = n;
   el.level.value = n;
   writeStore('level', n);
+  markEmptyThemes();
+}
+
+/* A theme with no wish at the chosen level cannot be picked; if it was the chosen one, we go back
+   to "anything", so the red button never lands on an empty search. */
+function markEmptyThemes() {
+  for (const o of el.theme.options) {
+    const x = o.value && siteThemes.find((s) => s.id === o.value);
+    o.disabled = Boolean(x && x.levels && !x.levels[state.level]);
+  }
+  if (el.theme.selectedOptions[0]?.disabled) {
+    el.theme.value = '';
+    writeStore('theme', '');
+  }
 }
 
 el.level.addEventListener('change', () => setLevel(Object.hasOwn(LEVELS, el.level.value) ? el.level.value : DEFAULT_LEVEL));
@@ -481,7 +498,6 @@ if (readStore('settings-version') !== SETTINGS_VERSION) {
 
 /* ---------- themes: the select and the table of contents ---------- */
 
-let siteThemes = []; // [{ id, name, count }]
 
 function themeLink(id) {
   const p = new URLSearchParams({ theme: id });
@@ -511,6 +527,7 @@ function drawThemes() {
     el.theme.append(frag);
     const savedTheme = readStore('theme');
     if (savedTheme && [...el.theme.options].some((o) => o.value === savedTheme)) el.theme.value = savedTheme;
+    markEmptyThemes();
     drawThemes();
   } catch {
     // no themes: the select keeps "Any theme", and the theme list is not shown

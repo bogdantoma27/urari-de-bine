@@ -83,7 +83,8 @@ code { font-family: var(--f-code); font-size: .92em; }
 .header {
   max-width: var(--column);
   margin: 0 auto;
-  padding: 4.5rem 1.25rem 1.5rem;
+  /* on a phone the first line of the header shares its row with the RO · EN switch */
+  padding: 1.1rem 1.25rem 1.5rem;
 }
 @media (min-width: 640px) { .header { padding-top: 3.5rem; } }
 
@@ -99,7 +100,7 @@ code { font-family: var(--f-code); font-size: .92em; }
   margin: 0;
   font-family: var(--f-title);
   font-weight: 900;
-  font-size: clamp(2.6rem, 11vw, 5.4rem);
+  font-size: clamp(2.2rem, 11vw, 5.4rem);
   line-height: .95;
   color: var(--paper);
 }
@@ -235,6 +236,12 @@ code { font-family: var(--f-code); font-size: .92em; }
 }
 .secondary-button:hover, .secondary-button:focus-visible { color: var(--paper); text-decoration-style: solid; }
 .small-note { margin: -.2rem 0 0; font-size: .9rem; font-style: italic; color: var(--text-dim); max-width: 28rem; }
+/* on a phone the two buttons under the leaf stand in its middle */
+@media (max-width: 639px) {
+  .main-actions { justify-content: center; }
+  .secondary { justify-items: center; text-align: center; }
+  .secondary-button { text-align: center; }
+}
 
 /* ---------- The leaf ---------- */
 
@@ -244,12 +251,12 @@ code { font-family: var(--f-code); font-size: .92em; }
   background: var(--paper);
   border-radius: 2px;
   box-shadow: var(--card-shadow);
-  padding: 2.6rem 1.5rem 1.5rem;
+  padding: 1.6rem 1.5rem 1.5rem;
   outline: none;
   isolation: isolate;
 }
 .card:focus-visible { outline: 3px solid var(--focus); outline-offset: 6px; }
-@media (min-width: 640px) { .card { padding: 2.4rem 2.75rem 1.75rem; } }
+@media (min-width: 640px) { .card { padding: 1.6rem 2.75rem 1.75rem; } }
 
 .card::before { /* working margin, like on a manuscript */
   content: "";
@@ -279,10 +286,10 @@ code { font-family: var(--f-code); font-size: .92em; }
 
 /* The leaf has one fixed height per breakpoint, so nothing under it moves from one wish to the next
    and the layout is the same in both languages. The height leaves room for the wish, the catalogue
-   line, the translation, two lines of explanation and the source; only an unusually long wish is
-   shrunk by fitText() in app.js. The wish always starts at the same line (no vertical centering). */
+   line, the translation, two lines of explanation and the source; a long wish is shrunk by fitText()
+   in app.js, and the longest ones drop the explanation from the leaf (it stays in "Ce înseamnă?"). The wish always starts at the same line (no vertical centering). */
 .card .card__body {
-  height: var(--body-height, 20rem);
+  height: var(--body-height, 18rem);
   margin-top: .75rem;
   padding: .25rem 0;
   overflow: hidden;
@@ -291,8 +298,10 @@ code { font-family: var(--f-code); font-size: .92em; }
   align-content: start;
   outline: none;
 }
-@media (min-width: 640px) { .card { --body-height: 18rem; } }
-.card__day { min-height: 1.25rem; }
+/* the day label sits on the row of the quill in the top-left corner */
+.card__head { padding-left: 1.75rem; }
+.card__day { min-height: 1.25rem; line-height: 1.25rem; }
+@media (max-width: 379px) { .card__day { letter-spacing: .08em; font-size: .72rem; } }
 .card .card__body:focus-visible { outline: 2px solid var(--focus-paper); outline-offset: 2px; }
 
 /* Empty state */
@@ -324,6 +333,7 @@ code { font-family: var(--f-code); font-size: .92em; }
 .wish__text--t4 .drop-cap, .wish__text--t5 .drop-cap, .wish__text--t6 .drop-cap, .wish__text--t7 .drop-cap { font-size: 1.9em; }
 .wish--squeezed .wish__explanation { -webkit-line-clamp: 2; line-clamp: 2; }
 .wish--squeezed .rubric { margin-bottom: .4rem; }
+.wish--tight .wish__explanation { display: none; }
 .wish--static .letter { opacity: 1; animation: none; }
 .wish--static .wish__details { opacity: 1; animation: none; }
 .wish__text .drop-cap {
