@@ -193,7 +193,7 @@ function entryBody(e: Entry): string {
     <button type="button" data-lang="en" lang="en" title="English">EN</button>
   </nav>
   <header class="header header--small">
-    <p class="header__back"><a href="/" data-i18n="all.back">← Înapoi la blesteme</a></p>
+    <p class="header__back"><a href="/" data-i18n="all.back">← Înapoi la pagina principală</a></p>
     <p class="header__eyebrow" data-i18n="site.name" lang="ro">${SITE_NAME}</p>
     <h1 class="header__title header__title--entry" lang="ro">${esc(e.text)}</h1>
   </header>

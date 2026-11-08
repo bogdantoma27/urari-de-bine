@@ -236,7 +236,6 @@ code { font-family: var(--f-code); font-size: .92em; }
   transition: color .2s, text-decoration-color .2s;
 }
 .secondary-button:hover, .secondary-button:focus-visible { color: var(--paper); text-decoration-style: solid; }
-.small-note { margin: -.2rem 0 0; font-size: .9rem; font-style: italic; color: var(--text-dim); max-width: 28rem; }
 /* on a phone the two buttons under the leaf stand in its middle */
 @media (max-width: 639px) {
   .main-actions { justify-content: center; }

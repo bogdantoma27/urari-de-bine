@@ -126,8 +126,7 @@ export const DICT = {
   'home.wishButton': { ro: 'Urează-i de bine cuiva!', en: 'Wish someone well!' },
   'home.dayLabel': { ro: 'Urarea zilei · {date}', en: 'Wish of the day · {date}' },
   'home.themes.sub': { ro: 'Alege o temă ca să vezi toate urările din ea.', en: 'Pick a theme to see every wish in it.' },
-  'home.themes.title': { ro: 'Pe cine blestemăm azi?', en: "Who's getting cursed today?" },
-  'home.generate.sub': { ro: 'o urare nouă, din bucăți de blesteme vechi', en: 'a new one, built from bits of old curses' },
+  'home.themes.title': { ro: 'Pregătește-ți urarea', en: 'Get your wish ready' },
   'home.shortcut.r': { ro: 'Scurtătură de tastatură: R', en: 'Keyboard shortcut: R' },
   'home.shortcut.c': { ro: 'Scurtătură de tastatură: C', en: 'Keyboard shortcut: C' },
   'home.generate': { ro: '…sau inventează una pe loc!', en: '…or make one up on the spot!' },
@@ -155,7 +154,7 @@ export const DICT = {
   'share.wish.8': { ro: 'Cu ocazia sărbătorilor care vin (sau care au trecut), primește din partea mea: „{wish}”', en: 'For the upcoming holidays (or the ones that passed), please accept: “{wish}”' },
 
   'dev.title': { ro: 'Ai o idee nebună?', en: 'Got a crazy idea?' },
-  'dev.text': { ro: 'Un bot de Discord, o aplicație sau o felicitare pentru soacră? Urările sunt și în API. Implicit vin și cele vulgare. Dacă le vrei doar pe cele curate, pune <code>level=clean</code>.', en: 'A Discord bot that curses its members, an app that wishes you well on every failed build, a card for your mother-in-law? Take the wishes from the API. It\'s free, no account, no key. The vulgar ones come too, so if you only want the Sunday-lunch kind, add <code>level=clean</code>.' },
+  'dev.text': { ro: 'Un bot de Discord, o aplicație sau o felicitare pentru soacră? Urările sunt și în API.', en: 'A Discord bot that curses its members, an app that wishes you well on every failed build, a card for your mother-in-law? Take the wishes from the API. It\'s free, no account, no key.' },
   'dev.ex1': { ro: 'O urare la nimereală', en: 'One at random' },
   'dev.ex2': { ro: 'Doar cu draci, fără vulgarități', en: 'Devil-themed only, nothing vulgar' },
   'dev.try': { ro: 'Încearcă', en: 'Try it' },
@@ -206,8 +205,8 @@ export const DICT = {
   /* ---------- 404 page ---------- */
   '404.meta.title': { ro: 'Pagină negăsită · Urări de bine', en: 'Missing page · Urări de bine' },
   '404.meta.desc': {
-    ro: 'Pagina căutată nu e în carte. Întoarce-te la blesteme sau răsfoiește toate intrările.',
-    en: "The page you're after isn't in the book. Go back to the curses or browse all the entries.",
+    ro: 'Pagina căutată nu e în carte. Întoarce-te la pagina principală sau răsfoiește toate intrările.',
+    en: "The page you're after isn't in the book. Go back to the home page or browse all the entries.",
   },
   '404.code': { ro: 'Eroarea 404', en: 'Error 404' },
   '404.title': { ro: 'Pagina asta lipsește din carte.', en: 'This page is missing from the book.' },
@@ -215,7 +214,7 @@ export const DICT = {
     ro: 'A rupt-o cineva, a mâncat-o șoarecele sau n-a fost scrisă niciodată. Nici bunica nu-și amintește așa ceva.',
     en: 'Someone tore it out, a mouse ate it, or it was never written. Not even grandma remembers it.',
   },
-  '404.home': { ro: 'Înapoi la blesteme', en: 'Back to the curses' },
+  '404.home': { ro: 'Înapoi la pagina principală', en: 'Back to the home page' },
 
   /* ---------- all entries ---------- */
   'all.meta.title': { ro: 'Toate intrările · Urări de bine', en: 'All entries · Urări de bine' },
@@ -224,7 +223,7 @@ export const DICT = {
     en: 'Every Romanian curse, oath and insult in Urări de bine, with search, filters and the source of each one.',
   },
   'all.skip': { ro: 'Sari la rezultate', en: 'Skip to the results' },
-  'all.back': { ro: '← Înapoi la blesteme', en: '← Back to the curses' },
+  'all.back': { ro: '← Înapoi la pagina principală', en: '← Back to the home page' },
   'all.title': { ro: 'Toate intrările', en: 'All entries' },
   'all.desc': {
     ro: 'Toate urările, într-un singur loc. Caută un cuvânt, pune ce filtre vrei și apasă pe o intrare ca să vezi de unde vine.',
