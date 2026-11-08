@@ -14,7 +14,7 @@ Read them on the site or get them from the API.
 [![API](https://img.shields.io/badge/API-docs-2b1a10?style=flat-square)](https://api.uraridebine.ro/docs)
 [![Data](https://img.shields.io/badge/data-CC%20BY--SA%204.0-c9a24d?style=flat-square)](data/LICENSE)
 [![Code](https://img.shields.io/badge/code-MIT-c9a24d?style=flat-square)](LICENSE)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-buy%20me%20a%20coffee-c9a24d?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/bogdantoma27)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-buy%20me%20a%20coffee-ff5e5b?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/bogdantoma27)
 
 **[Website](https://uraridebine.ro)** · **[API docs](https://api.uraridebine.ro/docs)** · **[All entries](https://uraridebine.ro/all)** · **[Contribute](CONTRIBUTING.md)** · **[Română](README.md)**
 

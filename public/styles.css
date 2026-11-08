@@ -653,6 +653,16 @@ code { font-family: var(--f-code); font-size: .92em; }
   display: flex; flex-wrap: wrap; justify-content: center; gap: .3rem 1.4rem;
 }
 .footer__licenses a { color: var(--paper); text-underline-offset: 3px; }
+/* the Ko-fi link is a small pill of its own, on the row under the licences */
+.footer__licenses .footer__coffee { flex-basis: 100%; margin-top: .6rem; }
+.footer__licenses .coffee {
+  display: inline-flex; align-items: center; gap: .5rem;
+  padding: .4rem 1rem; min-height: 2.5rem;
+  border: 1px solid #c9a24d80; border-radius: 999px;
+  color: var(--paper); text-decoration: none;
+}
+.footer__licenses .coffee:hover { border-color: var(--gold); background: #c9a24d14; }
+.coffee__icon { flex: none; color: #ff5e5b; }
 .footer__note { margin: 1rem auto 0; max-width: 32rem; font-style: italic; opacity: .85; font-size: .88rem; }
 
 /* ---------- Dialog ---------- */

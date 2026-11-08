@@ -14,7 +14,7 @@ Le poți citi pe site sau le poți lua din API.
 [![API](https://img.shields.io/badge/API-documenta%C8%9Bie-2b1a10?style=flat-square)](https://api.uraridebine.ro/docs)
 [![Date](https://img.shields.io/badge/date-CC%20BY--SA%204.0-c9a24d?style=flat-square)](data/LICENSE)
 [![Cod](https://img.shields.io/badge/cod-MIT-c9a24d?style=flat-square)](LICENSE)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-d%C4%83--mi%20o%20cafea-c9a24d?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/bogdantoma27)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-cump%C4%83r%C4%83--mi%20o%20cafea-ff5e5b?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/bogdantoma27)
 
 **[Site](https://uraridebine.ro)** · **[Documentația API](https://api.uraridebine.ro/docs)** · **[Toate formulele](https://uraridebine.ro/all)** · **[Contribuie](CONTRIBUTING.md)** · **[English](README.en.md)**
 
