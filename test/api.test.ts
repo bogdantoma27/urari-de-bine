@@ -2,6 +2,8 @@ import { describe, expect, it } from "vitest";
 import app, { clock } from "../src/index";
 import { bucharestDate, entries, THEMES } from "../src/data";
 import { TEXTS } from "../src/texts";
+import { esc } from "../src/site";
+import { readFileSync } from "node:fs";
 
 const get = (p: string, init?: RequestInit, env?: object) => app.request(`http://localhost${p}`, init, env);
 const json = async (p: string, init?: RequestInit) => {
@@ -725,5 +727,141 @@ describe("API host", () => {
       expect(r.headers.get("location")).toBe(`https://api.uraridebine.ro${path}`);
     }
     expect((await app.request("https://api.uraridebine.ro/docs")).status).toBe(200);
+  });
+});
+
+describe("server-rendered pages", () => {
+  const ALL_HTML = readFileSync(new URL("../public/all.html", import.meta.url), "utf8");
+  const NOT_FOUND = "<!doctype html><title>404</title><p>Pagină negăsită</p>";
+  const env = {
+    ASSETS: {
+      fetch: async (req: Request) => {
+        const path = new URL(req.url).pathname;
+        const body = path === "/all.html" ? ALL_HTML : NOT_FOUND;
+        return new Response(body, { status: path === "/all.html" ? 200 : 404, headers: { "content-type": "text/html; charset=utf-8" } });
+      },
+    },
+  };
+  const page = (p: string, e: object | undefined = env) => get(p, undefined, e);
+  const attested = entries.filter((e) => e.attested);
+  const countLinks = (h: string) => (h.match(/<a class="entry" href="\/e\//g) ?? []).length;
+
+  it("esc escapes HTML special characters", () => {
+    expect(esc('<a href="x">&')).toBe("&lt;a href=&quot;x&quot;&gt;&amp;");
+  });
+
+  it("/e/:id renders the entry", async () => {
+    const e = entries.find((x) => x.id === "manca-te-ar-gherla")!;
+    const r = await page("/e/manca-te-ar-gherla");
+    expect(r.status).toBe(200);
+    expect(r.headers.get("content-type")).toContain("text/html");
+    expect(r.headers.get("cache-control")).toBe("public, max-age=3600");
+    expect(r.headers.get("x-content-type-options")).toBe("nosniff");
+    const h = await r.text();
+    expect(h).toContain(esc(e.text));
+    expect(h).toContain(esc(e.sources[0].title));
+    expect(h).toContain('rel="canonical" href="https://uraridebine.ro/e/manca-te-ar-gherla"');
+    expect(h).toContain(`<title>${esc(`„${e.text}” · Urări de bine`)}</title>`);
+    expect(h).not.toContain('name="robots"');
+  });
+
+  it("/e/:id marks sensitive entries noindex", async () => {
+    const e = entries.find((x) => x.sensitive)!;
+    const h = await (await page(`/e/${encodeURIComponent(e.id)}`)).text();
+    expect(h).toContain('name="robots" content="noindex"');
+  });
+
+  it("/e/:id escapes the entry text", async () => {
+    const e = entries[0];
+    const original = e.text;
+    (e as { text: string }).text = 'Bad <b>"x"</b> & co';
+    try {
+      const h = await (await page(`/e/${encodeURIComponent(e.id)}`)).text();
+      expect(h).toContain("Bad &lt;b&gt;&quot;x&quot;&lt;/b&gt; &amp; co");
+      expect(h).not.toContain("<b>");
+    } finally {
+      (e as { text: string }).text = original;
+    }
+  });
+
+  it("/e/:id unknown gives 404", async () => {
+    const r = await page("/e/nope");
+    expect(r.status).toBe(404);
+    expect(r.headers.get("content-type")).toContain("text/html");
+    expect(await r.text()).toContain("Pagină negăsită");
+    const plain = await page("/e/nope", {});
+    expect(plain.status).toBe(404);
+  });
+
+  it("/all?theme=prison renders the theme list", async () => {
+    const count = attested.filter((e) => e.themes.includes("prison")).length;
+    const r = await page("/all?theme=prison");
+    expect(r.status).toBe(200);
+    expect(r.headers.get("cache-control")).toBe("public, max-age=3600");
+    const h = await r.text();
+    expect(countLinks(h)).toBe(Math.min(50, count));
+    expect(h).toMatch(/<option value="prison"[^>]*selected/);
+    expect(h).toContain(`<meta name="description" content="${esc(THEMES.prison.description)}">`);
+    expect(h).toContain('rel="canonical" href="https://uraridebine.ro/all?theme=prison"');
+    expect(h).toContain("<title>Pușcărie · Urări de bine</title>");
+    expect(h).not.toContain("noindex");
+    expect(h).toContain('id="initial-data"');
+    expect(h).not.toContain("aria-busy");
+  });
+
+  it("/all without filters is indexable and lists the first page", async () => {
+    const h = await (await page("/all")).text();
+    expect(h).toContain('rel="canonical" href="https://uraridebine.ro/all"');
+    expect(h).not.toContain("noindex");
+    expect(countLinks(h)).toBe(50);
+    expect(h).toContain(`pagina 1 din ${Math.ceil(attested.length / 50)}`);
+    expect(h).toContain(`Am găsit ${new Intl.NumberFormat("ro-RO").format(attested.length)}`);
+  });
+
+  it("/all?q=gherla is noindex and fills the search box", async () => {
+    const h = await (await page("/all?q=gherla")).text();
+    expect(h).toContain('name="robots" content="noindex"');
+    expect(h).toContain('value="gherla"');
+    expect(h).not.toContain('rel="canonical"');
+  });
+
+  it("/all clamps a page past the end and ignores invalid filters", async () => {
+    const pages = Math.ceil(attested.length / 50);
+    const h = await (await page("/all?page=999999")).text();
+    expect(h).toContain(`pagina ${pages} din ${pages}`);
+    expect(h).toContain('id="next" aria-disabled="true"');
+    const bogus = await page("/all?type=bogus");
+    expect(bogus.status).toBe(200);
+    const b = await bogus.text();
+    expect(b).toContain(`Am găsit ${new Intl.NumberFormat("ro-RO").format(attested.length)}`);
+    expect(b).not.toContain("noindex");
+  });
+
+  it("/all with no match shows the empty message", async () => {
+    const h = await (await page("/all?q=zzzzqqqxxxyyy")).text();
+    expect(h).toContain('<div class="list__empty" id="empty"><p class="error__title">Nimic.</p>');
+    expect(h).toContain("</ol>");
+    expect(countLinks(h)).toBe(0);
+  });
+
+  it("/sitemap.xml lists the indexable pages", async () => {
+    const r = await page("/sitemap.xml");
+    expect(r.status).toBe(200);
+    expect(r.headers.get("content-type")).toContain("application/xml");
+    const x = await r.text();
+    expect(x).toContain("<loc>https://uraridebine.ro/e/manca-te-ar-gherla</loc>");
+    for (const e of entries.filter((e) => e.sensitive)) expect(x).not.toContain(`/e/${encodeURIComponent(e.id)}<`);
+    const themes = Object.keys(THEMES).filter((t) => attested.some((e) => e.themes.includes(t))).length;
+    const expected = 2 + themes + entries.filter((e) => e.attested && !e.sensitive).length;
+    expect((x.match(/<loc>/g) ?? []).length).toBe(expected);
+  });
+
+  it("/?id= adds a canonical link to the entry page", async () => {
+    const e = entries[0];
+    const PAGE = '<html><head><title>x</title><meta property="og:url" content="u"></head></html>';
+    const r = await app.request(`https://uraridebine.ro/?id=${encodeURIComponent(e.id)}`, undefined, {
+      ASSETS: { fetch: async () => new Response(PAGE, { headers: { "content-type": "text/html" } }) },
+    });
+    expect(await r.text()).toContain(`<link rel="canonical" href="https://uraridebine.ro/e/${encodeURIComponent(e.id)}">`);
   });
 });

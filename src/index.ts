@@ -17,6 +17,7 @@ import {
 } from "./data";
 import { generate } from "./generate";
 import { textKey, translate, type Lang } from "./texts";
+import { entryMeta, esc, setMeta, site } from "./site";
 
 interface Bindings {
   RATE_LIMITER?: { limit(options: { key: string }): Promise<{ success: boolean }> };
@@ -49,28 +50,23 @@ export function rateLimitKey(ip: string): string {
 
 // On api.* the front page redirects to the documentation; on other hosts we serve the site.
 // It sits before the middlewares, so the front page is not rate limited.
-const escapeAttr = (s: string) =>
-  s.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-const truncate = (s: string, n: number) => (s.length <= n ? s : `${s.slice(0, n - 1).trimEnd()}…`);
-
 /** Share preview for /?id=<id>: the Open Graph/Twitter title and description come from the entry. */
 function withSharePreview(html: string, e: Entry): string {
-  const title = `„${e.text}” · Urări de bine`;
-  const parts = [e.translation, e.sources[0]?.title].filter((x): x is string => Boolean(x));
-  const description = parts.length ? truncate(parts.join(" · "), 200) : null;
+  const { title, description } = entryMeta(e);
   const url = `https://uraridebine.ro/?id=${encodeURIComponent(e.id)}`;
-  const meta = (h: string, attribute: string, value: string) =>
-    h.replace(new RegExp(`(<meta\\s+${attribute}\\s+content=")[^"]*(")`), (_m, a: string, b: string) => `${a}${escapeAttr(value)}${b}`);
   let h = html;
-  h = meta(h, 'property="og:title"', title);
-  h = meta(h, 'name="twitter:title"', title);
-  h = meta(h, 'property="og:url"', url);
+  h = setMeta(h, 'property="og:title"', title);
+  h = setMeta(h, 'name="twitter:title"', title);
+  h = setMeta(h, 'property="og:url"', url);
   if (description) {
-    h = meta(h, 'property="og:description"', description);
-    h = meta(h, 'name="twitter:description"', description);
-    h = meta(h, 'name="description"', description);
+    h = setMeta(h, 'property="og:description"', description);
+    h = setMeta(h, 'name="twitter:description"', description);
+    h = setMeta(h, 'name="description"', description);
   }
-  return h.replace(/<title>[^<]*<\/title>/, () => `<title>${escapeAttr(title)}</title>`);
+  // the entry's own page is the canonical one, so /?id= is not indexed as a duplicate
+  h = h.replace("</head>", () => `<link rel="canonical" href="https://uraridebine.ro/e/${esc(encodeURIComponent(e.id))}" data-fixed>
+</head>`);
+  return h.replace(/<title>[^<]*<\/title>/, () => `<title>${esc(title)}</title>`);
 }
 
 app.get("/", async (c) => {
@@ -96,7 +92,7 @@ app.on(["GET", "HEAD"], ["/docs", "/openapi.json", "/openapi.en.json"], async (c
   await next();
 });
 
-const CACHE_ONE_HOUR = [/^\/v1\/(themes|regions|sources)$/, /^\/openapi(\.en)?\.json$/, /^\/v1\/entries(\/[^/]+)?$/];
+const CACHE_ONE_HOUR = [/^\/e\/[^/]+$/, /^\/all$/, /^\/sitemap\.xml$/, /^\/v1\/(themes|regions|sources)$/, /^\/openapi(\.en)?\.json$/, /^\/v1\/entries(\/[^/]+)?$/];
 const NO_CACHE = /^\/v1\/(random|generate)$/;
 
 // The data only changes on deploy, so stable responses can be cached for an hour; random ones cannot.
@@ -127,6 +123,9 @@ app.use("*", async (c, next) => {
   }
   await next();
 });
+
+// Server-rendered pages for search engines: /e/:id, /all and /sitemap.xml.
+app.route("/", site);
 
 app.onError((err, c) => {
   if (err instanceof HttpError) return c.json({ error: err.message }, err.status);

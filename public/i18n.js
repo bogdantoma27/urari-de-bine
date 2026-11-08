@@ -262,6 +262,9 @@ export const DICT = {
   'all.remove': { ro: 'Scoate filtrul: {filter}', en: 'Remove filter: {filter}' },
   'all.retry': { ro: 'Mai încearcă', en: 'Try again' },
   'all.page': { ro: 'pagina {page} din {pages}', en: 'page {page} of {pages}' },
+
+  /* ---------- entry page ---------- */
+  'entry.more': { ro: 'Alte urări pe aceeași temă →', en: 'More wishes on the same theme →' },
 };
 
 /* ---------- engine ---------- */
@@ -301,6 +304,7 @@ const PUBLIC_ORIGIN = 'https://uraridebine.ro';
 function setCanonical() {
   if (document.querySelector('meta[name="robots"][content*="noindex"]')) return;
   let c = document.querySelector('link[rel="canonical"]');
+  if (c && c.hasAttribute('data-fixed')) return; // set by the server (entry pages, /all): keep it as is
   if (!c) {
     c = document.createElement('link');
     c.setAttribute('rel', 'canonical');

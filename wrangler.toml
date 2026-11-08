@@ -19,7 +19,7 @@ watch_dir = "data/entries"
 directory = "./public"
 binding = "ASSETS"
 not_found_handling = "404-page"
-run_worker_first = ["/", "/v1/*", "/openapi.json", "/openapi.en.json", "/docs"]
+run_worker_first = ["/", "/all", "/e/*", "/sitemap.xml", "/v1/*", "/openapi.json", "/openapi.en.json", "/docs"]
 
 [[ratelimits]]
 name = "RATE_LIMITER"

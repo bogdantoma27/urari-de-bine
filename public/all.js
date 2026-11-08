@@ -149,7 +149,7 @@ function entryItem(d) {
   const expl = firstWords(d.explanation);
   const tr = d.translation;
   return h('li', {},
-    h('button', { type: 'button', class: 'entry', 'data-id': d.id },
+    h('a', { class: 'entry', href: `/e/${encodeURIComponent(d.id)}`, 'data-id': d.id },
       h('span', { class: 'entry__head' },
         h('span', { class: 'entry__text', lang: 'ro' }, d.text),
         h('span', { class: 'entry__badges' }, typeBadge(d.type), levelBadge(d.level))),
@@ -159,6 +159,20 @@ function entryItem(d) {
         h('span', { lang: 'ro' }, expl)) : null,
       !en && !expl && tr ? h('span', { class: 'entry__explanation', lang: 'en' }, tr) : null,
     ));
+}
+
+/** The prev/next links: a real href for crawlers and new tabs; no href and aria-disabled at the edge. */
+function setLink(a, href) {
+  if (href) { a.setAttribute('href', href); a.removeAttribute('aria-disabled'); }
+  else { a.removeAttribute('href'); a.setAttribute('aria-disabled', 'true'); }
+}
+
+function pageHref(s, page) {
+  const p = new URLSearchParams();
+  if (s.q) p.set('q', s.q);
+  for (const f of FILTERS) if (s[f]) p.set(f, s[f]);
+  if (page > 1) p.set('page', String(page));
+  return `${location.pathname}${p.toString() ? `?${p}` : ''}`;
 }
 
 function draw() {
@@ -179,8 +193,8 @@ function draw() {
 
   const pages = Number(r.pages) || 0;
   el.pagination.hidden = pages <= 1;
-  el.prev.disabled = s.page <= 1;
-  el.next.disabled = s.page >= pages;
+  setLink(el.prev, s.page > 1 ? pageHref(s, s.page - 1) : null);
+  setLink(el.next, s.page < pages ? pageHref(s, s.page + 1) : null);
   el.where.textContent = t('all.page', { page: s.page, pages });
 }
 
@@ -233,7 +247,10 @@ async function fillFilters() {
   listFailed.theme = themes.length === 0;
   listFailed.region = regions.length === 0;
   const options = (sel, list, group) => {
-    sel.append(...list.map((x) => h('option', { value: x.id, 'data-name': x.name || x.id }, label(group, x.id, x.name))));
+    // the server already rendered these options; only refresh their text (the language may be English)
+    for (const o of sel.options) if (o.value) o.textContent = label(group, o.value, o.dataset.name);
+    const missing = list.filter((x) => ![...sel.options].some((o) => o.value === x.id));
+    sel.append(...missing.map((x) => h('option', { value: x.id, 'data-name': x.name || x.id }, label(group, x.id, x.name))));
   };
   options(el.theme, themes, 'theme');
   options(el.region, regions.filter((x) => x.count !== 0), 'region');
@@ -282,12 +299,16 @@ function goToPage(page) {
   writeUrl(s, { push: true });
   load(s, { scrollUp: true });
 }
-el.prev.addEventListener('click', () => { if (last) goToPage(last.s.page - 1); });
-el.next.addEventListener('click', () => { if (last) goToPage(last.s.page + 1); });
+el.prev.addEventListener('click', (e) => { e.preventDefault(); if (last && !el.prev.hasAttribute('aria-disabled')) goToPage(last.s.page - 1); });
+el.next.addEventListener('click', (e) => { e.preventDefault(); if (last && !el.next.hasAttribute('aria-disabled')) goToPage(last.s.page + 1); });
 
 el.list.addEventListener('click', (e) => {
   const b = e.target.closest('.entry');
-  if (b) openDialog(b.dataset.id, b);
+  if (!b) return;
+  // middle-click, ctrl/cmd-click and the like keep the link's own behavior: they open the entry page
+  if (e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+  e.preventDefault();
+  openDialog(b.dataset.id, b);
 });
 
 /* While the dialog is open, the URL keeps ?id=..., so the link copied from the bar leads to the same entry. */
@@ -329,5 +350,23 @@ onChange(() => {
   const id = new URLSearchParams(location.search).get('id');
   if (id) { openId = id; openEntry(id); }
   writeUrl(s); // the URL stays up to date (without the dropped filters; ?id= stays while the dialog is open)
-  load(s);
+  if (!useServerData(s)) load(s);
 })();
+
+/* The server embeds the first page of results. Its HTML is Romanian; English needs the client drawing. */
+function useServerData(s) {
+  const node = $('#initial-data');
+  if (!node) return false;
+  let r;
+  try { r = JSON.parse(node.textContent); } catch { return false; }
+  // the embedded data belongs to the URL the server saw; if the client's state differs (e.g. a dropped value), ask again
+  if (!r || (Number(r.page) !== s.page && !(r.pages === 0 && s.page === 1))) return false;
+  last = { r, s };
+  lastQ = s.q;
+  lastState = s;
+  el.clear.hidden = !(s.q || FILTERS.some((f) => s[f]));
+  updateFilters();
+  if (language() === 'en') draw();
+  el.list.setAttribute('aria-busy', 'false');
+  return true;
+}
