@@ -960,7 +960,7 @@ html { scrollbar-color: #c9a24d73 #120c08; }
   .header { padding-top: .9rem; }
   /* the back link (or the site name on the 404 page) sits level with RO · EN */
   .header.header--small { padding-top: 1.3rem; }
-  .header:not(.header--small) { padding-bottom: .5rem; }
+  .header:not(.header--small) { padding-bottom: 1rem; }
   .header__desc { margin-top: .75rem; }
   .altar { padding-top: .5rem; }
   /* 17.5rem: measured on all the wishes, no more of them get cut than at 18rem */
@@ -973,6 +973,10 @@ html { scrollbar-color: #c9a24d73 #120c08; }
   .card .card__body { margin-top: .5rem; }
   .card__actions { margin-bottom: 1.3rem; }
   .settings { margin-top: .9rem; }
-  .main-actions { margin-top: .6rem; }
+  /* the same space above the red button (to the sentence) and below it (to "...sau inventează") */
+  .main-actions { margin-top: .8rem; row-gap: .4rem; }
+  /* the subtitle says what the site is and the count comes again under the themes, so on a phone
+     the line goes and the red button stays on the first screen */
+  .header:not(.header--small) .header__desc { display: none; }
   .browse { text-align: center; }
 }
