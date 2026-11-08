@@ -862,6 +862,6 @@ describe("server-rendered pages", () => {
     const r = await app.request(`https://uraridebine.ro/?id=${encodeURIComponent(e.id)}`, undefined, {
       ASSETS: { fetch: async () => new Response(PAGE, { headers: { "content-type": "text/html" } }) },
     });
-    expect(await r.text()).toContain(`<link rel="canonical" href="https://uraridebine.ro/e/${encodeURIComponent(e.id)}">`);
+    expect(await r.text()).toContain(`<link rel="canonical" href="https://uraridebine.ro/e/${encodeURIComponent(e.id)}" data-fixed>`);
   });
 });
