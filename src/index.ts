@@ -532,7 +532,7 @@ app.openapi(
         content: {
           "application/json": {
             schema: DescribedList.openapi({
-              example: [{ name: "moldavia", label: "Moldova", description: "Regiunea istorică Moldova (România).", count: 120 }],
+              example: [{ name: "moldavia", label: "Moldova", description: "Regiunea istorică Moldova (România).", count: 67, levels: { clean: 58, mild: 1, vulgar: 8 } }],
             }),
           },
         },

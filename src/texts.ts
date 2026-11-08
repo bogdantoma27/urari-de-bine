@@ -13,7 +13,7 @@ const T = {
     en: "Urări de bine: the Romanian curses API",
   },
   "info.description": {
-    ro: "Blesteme, înjurături și insulte românești, fiecare cu sursa de unde a fost luată: culegeri de folclor, dicționare, cărți, presă. API-ul e gratuit, fără cont și fără cheie. Rutele, parametrii și câmpurile sunt în engleză, iar formulele, explicațiile și titlurile surselor sunt în română. Primești din toate nivelurile (`clean`, `mild`, `vulgar`). Dacă vrei doar chestii pe care le poți zice și de față cu copiii, pune `level=clean`. Insultele la adresa unor etnii sau grupuri le-am păstrat doar dacă apar în surse vechi, și vin implicit. Le scoți cu `sensitive=false` la `/v1/entries`, `/v1/random` și `/v1/generate`. Limita e de 120 de request-uri pe minut per IP.",
+    ro: "Blesteme, înjurături și insulte românești, fiecare cu sursa de unde a fost luată: culegeri de folclor, dicționare, cărți, presă. API-ul e gratuit, fără cont și fără cheie. Rutele, parametrii și câmpurile sunt în engleză, iar formulele, explicațiile și titlurile surselor sunt în română. Primești din toate nivelurile (`clean`, `mild`, `vulgar`). Dacă vrei doar chestii pe care le poți zice și de față cu copiii, pune `level=clean`. Insultele la adresa unor etnii sau grupuri le-am păstrat doar dacă apar în surse vechi, și vin implicit. Le scoți cu `sensitive=false` la `/v1/entries`, `/v1/random` și `/v1/generate`. Limita e de 120 de cereri pe minut per IP.",
     en: "A free, public API of Romanian curses, swears and insults, each with the published source it comes from. No account or key needed. Routes, parameters and fields are in English. The entries themselves, their explanations and the source titles are in Romanian. You get all levels by default (`clean`, `mild`, `vulgar`). Add `level=clean` if you want only the clean ones. Sensitive entries (historically attested ethnic or group slurs) are included by default. Add `sensitive=false` to leave them out of `/v1/entries`, `/v1/random` and `/v1/generate`. The limit is 120 requests per minute per IP.",
   },
 
@@ -102,7 +102,7 @@ const T = {
   },
 
   // ---------- common responses ----------
-  "response.invalid_parameters": { ro: "Un parametru are o value invalidă", en: "Invalid parameters" },
+  "response.invalid_parameters": { ro: "Un parametru are o valoare invalidă", en: "Invalid parameters" },
   "response.rate_limit": {
     ro: "Prea multe cereri: cel mult 120 pe minut per IP. Vezi headerul Retry-After.",
     en: "Too many requests: at most 120 per minute per IP. See the Retry-After header.",
@@ -121,8 +121,8 @@ const T = {
     en: "List entries, with filters and pagination",
   },
   "list.description": {
-    ro: "Întoarce formulele paginat, în ordine alfabetică după `id`. Implicit vin doar cele găsite într-o sursă, din toate nivelurile. Cu `level=clean` primești doar cele curate. Insultele la adresa unor etnii sau grupuri apar și ele. Le scoți cu `sensitive=false`.",
-    en: "Returns attested entries of all levels by default. Add `level=clean` to get only the clean ones. Sensitive entries are included by default. Add `sensitive=false` to leave them out. Sorted alphabetically by `id`.",
+    ro: "Întoarce formulele paginat, în ordine alfabetică după `id`, sau cu cele vulgare întâi dacă pui `sort=vulgar`. Implicit vin doar cele găsite într-o sursă, din toate nivelurile. Cu `level=clean` primești doar cele curate. Insultele la adresa unor etnii sau grupuri apar și ele. Le scoți cu `sensitive=false`.",
+    en: "Returns attested entries of all levels by default. Add `level=clean` to get only the clean ones. Sensitive entries are included by default. Add `sensitive=false` to leave them out. Sorted alphabetically by `id`, or vulgar first with `sort=vulgar`.",
   },
   "list.200": { ro: "O pagină de rezultate", en: "A page of results" },
 
@@ -170,14 +170,14 @@ const T = {
   // ---------- /v1/themes, /v1/regions ----------
   "themes.summary": { ro: "Temele", en: "Available themes" },
   "themes.description": {
-    ro: "Fiecare temă are `name` (valoarea pentru filtru), `label` (numele ei), `description` și `count`, numărul de formule confirmate, din toate nivelurile.",
-    en: "Each theme has `name` (the filter value), `label` (its Romanian display name), `description` and `count`, the number of attested entries, at all levels.",
+    ro: "Fiecare temă are `name` (valoarea pentru filtru), `label` (numele ei), `description`, `count`, numărul de formule confirmate din toate nivelurile, și `levels`, același număr împărțit pe niveluri.",
+    en: "Each theme has `name` (the filter value), `label` (its Romanian display name), `description`, `count`, the number of attested entries at all levels, and `levels`, the same count split by level.",
   },
   "themes.200": { ro: "Temele", en: "List of themes" },
   "regions.summary": { ro: "Regiunile", en: "Available regions" },
   "regions.description": {
-    ro: "Fiecare regiune are `name` (valoarea pentru filtru), `label` (numele ei), `description` și `count`, numărul de formule confirmate, din toate nivelurile.",
-    en: "Each region has `name` (the filter value), `label` (its Romanian display name), `description` and `count`, the number of attested entries, at all levels.",
+    ro: "Fiecare regiune are `name` (valoarea pentru filtru), `label` (numele ei), `description`, `count`, numărul de formule confirmate din toate nivelurile, și `levels`, același număr împărțit pe niveluri.",
+    en: "Each region has `name` (the filter value), `label` (its Romanian display name), `description`, `count`, the number of attested entries at all levels, and `levels`, the same count split by level.",
   },
   "regions.200": { ro: "Regiunile", en: "List of regions" },
 
