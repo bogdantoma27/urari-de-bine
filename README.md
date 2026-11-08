@@ -21,12 +21,7 @@ Le poți citi pe site sau le poți lua din API.
 
 <br>
 
-<table>
-<tr>
-<td width="68%"><img src=".github/assets/site-ro.jpg" alt="Pagina principală: butonul „Urează-i de bine cuiva!” și urarea zilei"></td>
-<td width="32%"><img src=".github/assets/phone-ro.jpg" alt="Același blestem, pe telefon"></td>
-</tr>
-</table>
+<img src=".github/assets/screens-ro.jpg" alt="Pagina principală pe desktop și pe telefon: urarea zilei pe filă și butonul „Urează-i de bine cuiva!”" width="100%">
 
 ## Ce e asta
 

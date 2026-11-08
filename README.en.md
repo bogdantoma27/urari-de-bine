@@ -21,12 +21,7 @@ Read them on the site or get them from the API.
 
 <br>
 
-<table>
-<tr>
-<td width="68%"><img src=".github/assets/site-en.jpg" alt="The home page: the “Wish someone well!” button and the page with the curse"></td>
-<td width="32%"><img src=".github/assets/phone-en.jpg" alt="The same curse on a phone"></td>
-</tr>
-</table>
+<img src=".github/assets/screens-en.jpg" alt="The home page on desktop and on a phone: the wish of the day on the leaf and the “Wish someone well!” button" width="100%">
 
 ## What is this
 
