@@ -156,7 +156,7 @@ export const DICT = {
   'dev.title': { ro: 'Ai o idee nebună?', en: 'Got a crazy idea?' },
   'dev.text': { ro: 'Un bot de Discord, o aplicație sau o felicitare pentru soacră? Urările sunt și în API.', en: 'A Discord bot that curses its members, an app that wishes you well on every failed build, a card for your mother-in-law? Take the wishes from the API. It\'s free, no account, no key.' },
   'dev.ex1': { ro: 'O urare la nimereală', en: 'One at random' },
-  'dev.ex2': { ro: 'Doar cu draci, fără vulgarități', en: 'Devil-themed only, nothing vulgar' },
+  'dev.ex2': { ro: 'Doar cele de spus la masă', en: 'Only the Sunday-lunch kind' },
   'dev.try': { ro: 'Încearcă', en: 'Try it' },
   'dev.try.loading': { ro: 'Se încarcă…', en: 'Loading…' },
   'dev.copy': { ro: 'Copiază', en: 'Copy' },
