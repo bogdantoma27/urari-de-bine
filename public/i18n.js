@@ -15,6 +15,7 @@ export const DICT = {
   'footer.colophon': { ro: '✠ Aici se sfârșesc urările ✠', en: '✠ Here endeth the good wishes ✠' },
   'footer.data': { ro: 'Datele:', en: 'Data:' },
   'footer.code': { ro: 'Codul: MIT', en: 'Code: MIT' },
+  'footer.coffee': { ro: 'Dă-mi o cafea', en: 'Buy me a coffee' },
   'footer.note': {
     ro: 'Blestemele sunt documentate, nu recomandate. Nicio bunică n-a avut de suferit la facerea acestui site.',
     en: 'These curses are documented, not recommended. No grandmothers were upset in the making of this website.',
