@@ -978,5 +978,9 @@ html { scrollbar-color: #c9a24d73 #120c08; }
   /* the subtitle says what the site is and the count comes again under the themes, so on a phone
      the line goes and the red button stays on the first screen */
   .header:not(.header--small) .header__desc { display: none; }
+  /* the pills under the wish stand in the middle, like the red button */
+  .card__actions { justify-content: center; }
+  /* "Vreau o urare [nivel]" on the first line, "despre [temă]" on the second */
+  .settings__about { display: block; }
   .browse { text-align: center; }
 }
