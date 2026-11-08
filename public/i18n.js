@@ -16,10 +16,6 @@ export const DICT = {
   'footer.data': { ro: 'Datele:', en: 'Data:' },
   'footer.code': { ro: 'Codul: MIT', en: 'Code: MIT' },
   'footer.coffee': { ro: 'Cumpără-mi o cafea', en: 'Buy me a coffee' },
-  'footer.note': {
-    ro: 'Blestemele sunt documentate, nu recomandate. Nicio bunică n-a avut de suferit la facerea acestui site.',
-    en: 'These curses are documented, not recommended. No grandmothers were upset in the making of this website.',
-  },
   'var.total': { ro: 'Peste o mie', en: 'Over a thousand' },
   'in.romanian': { ro: '', en: 'in Romanian' },
   'generated': { ro: 'generat, nu atestat', en: 'made up, not attested' },
@@ -158,7 +154,7 @@ export const DICT = {
   'share.wish.7': { ro: 'Gânduri bune de la mine pentru tine și ai tăi: „{wish}” Pupici!', en: 'Warm thoughts from me to you and yours: “{wish}” Hugs!' },
   'share.wish.8': { ro: 'Cu ocazia sărbătorilor care vin (sau care au trecut), primește din partea mea: „{wish}”', en: 'For the upcoming holidays (or the ones that passed), please accept: “{wish}”' },
 
-  'dev.title': { ro: 'Ai o idee nebună care are nevoie de blesteme?', en: 'Got a crazy idea that needs curses?' },
+  'dev.title': { ro: 'Ai o idee nebună?', en: 'Got a crazy idea?' },
   'dev.text': { ro: 'Un bot de Discord, o aplicație sau o felicitare pentru soacră? Urările sunt și în API. Implicit vin și cele vulgare. Dacă le vrei doar pe cele curate, pune <code>level=clean</code>.', en: 'A Discord bot that curses its members, an app that wishes you well on every failed build, a card for your mother-in-law? Take the wishes from the API. It\'s free, no account, no key. The vulgar ones come too, so if you only want the Sunday-lunch kind, add <code>level=clean</code>.' },
   'dev.ex1': { ro: 'O urare la nimereală', en: 'One at random' },
   'dev.ex2': { ro: 'Doar cu draci, fără vulgarități', en: 'Devil-themed only, nothing vulgar' },
