@@ -17,7 +17,7 @@
   "funny": false,
   "sources": [
     {
-      "title": "dexonline.ro, Scriban (1939); NODEX (2002)",
+      "title": "dexonline.ro, Scriban (1939); NODEX (2002); CADE",
       "url": "https://dexonline.ro/definitie/drac",
       "author": null,
       "year": null,
@@ -25,18 +25,6 @@
       "informant": null,
       "regions": [],
       "original_text": "Ce dracu!",
-      "verification": "verified",
-      "notes": "NODEX: «Ce dracul!»"
-    },
-    {
-      "title": "dexonline.ro, CADE; Scriban",
-      "url": "https://dexonline.ro/definitie/drac",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "ce dracu!",
       "verification": "verified",
       "notes": "NODEX: «Ce dracul!»; verificat pe textul sursei"
     },

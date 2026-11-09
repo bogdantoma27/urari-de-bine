@@ -19,28 +19,16 @@
   "funny": false,
   "sources": [
     {
-      "title": "Am găsit înjurăturile străbunicilor la Academia Română",
+      "title": "Am găsit înjurăturile străbunicilor la Academia Română (VICE România)",
       "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
       "author": "Vice România",
       "year": 2015,
       "page": null,
-      "informant": "chestionar ALR, 1942",
+      "informant": "chestionar ALR, 1942; răspunsuri la ancheta Atlasului Lingvistic Român (supliment, 1942), citate de VICE",
       "regions": [],
       "original_text": "bată dracu pula-m mama vostă",
       "verification": "verified",
-      "notes": "idem"
-    },
-    {
-      "title": "Am găsit înjurăturile străbunicilor la Academia Română (VICE România)",
-      "url": "https://www.vice.com/ro/article/am-fost-la-academia-romana-sa-aflu-cum-injurau-strabunicii-121/",
-      "author": "Gabriel Botezatu",
-      "year": 2015,
-      "page": null,
-      "informant": "răspunsuri la ancheta Atlasului Lingvistic Român (supliment, 1942), citate de VICE",
-      "regions": [],
-      "original_text": "bată dracu pula-m mama vostă",
-      "verification": "verified",
-      "notes": "grafia surselor din Atlas, transcrisă de VICE; regiunea per formulă nu e dată"
+      "notes": "idem; grafia surselor din Atlas, transcrisă de VICE; regiunea per formulă nu e dată"
     }
   ],
   "explanation": null,

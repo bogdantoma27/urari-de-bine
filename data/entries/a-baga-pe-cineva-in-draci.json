@@ -17,7 +17,7 @@
   "funny": false,
   "sources": [
     {
-      "title": "dexonline.ro, DEX '09",
+      "title": "dexonline.ro, DEX '09; DLRLC",
       "url": "https://dexonline.ro/definitie/drac",
       "author": null,
       "year": null,
@@ -26,22 +26,10 @@
       "regions": [],
       "original_text": "a băga pe cineva în draci",
       "verification": "verified",
-      "notes": null
-    },
-    {
-      "title": "dexonline.ro, DLRLC",
-      "url": "https://dexonline.ro/definitie/drac",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "A băga pe cineva în draci",
-      "verification": "verified",
       "notes": "verificat pe textul sursei"
     }
   ],
   "explanation": "Adică a-l speria, a-l intimida.",
-  "translation": "To drive someone into devils",
+  "translation": "To put the fear of the devil into someone",
   "notes": null
 }

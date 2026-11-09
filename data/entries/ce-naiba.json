@@ -17,7 +17,7 @@
   "funny": false,
   "sources": [
     {
-      "title": "dexonline.ro, DLRLC; NODEX (2002)",
+      "title": "dexonline.ro, DLRLC; NODEX (2002); DLR - tomul X",
       "url": "https://dexonline.ro/definitie/naiba",
       "author": null,
       "year": null,
@@ -26,22 +26,10 @@
       "regions": [],
       "original_text": "Ce naiba!",
       "verification": "verified",
-      "notes": null
-    },
-    {
-      "title": "dexonline.ro, DLR - tomul X",
-      "url": "https://dexonline.ro/definitie/naiba",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "ce naiba!",
-      "verification": "verified",
       "notes": "verificat pe textul sursei"
     }
   ],
   "explanation": null,
-  "translation": "What the heck",
+  "translation": "What the devil",
   "notes": null
 }

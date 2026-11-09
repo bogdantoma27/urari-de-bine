@@ -17,7 +17,7 @@
   "funny": false,
   "sources": [
     {
-      "title": "dexonline.ro, DEX '09; DEX '98; DLRLC; NODEX; MDA2",
+      "title": "dexonline.ro, DEX '09; DEX '98; DLRLC; NODEX; MDA2; CADE",
       "url": "https://dexonline.ro/definitie/nemernic",
       "author": null,
       "year": null,
@@ -25,18 +25,6 @@
       "informant": null,
       "regions": [],
       "original_text": "nemernic",
-      "verification": "verified",
-      "notes": "nemarcat ca insultă în sursă"
-    },
-    {
-      "title": "dexonline.ro, DEX '09; MDA2; CADE; DLRLC",
-      "url": "https://dexonline.ro/definitie/nemernic",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "NEMERNIC",
       "verification": "verified",
       "notes": "nemarcat ca insultă în sursă; verificat pe textul sursei"
     }

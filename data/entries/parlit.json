@@ -17,7 +17,7 @@
   "funny": false,
   "sources": [
     {
-      "title": "dexonline.ro, DEX '09; DEX '98; DLRLC; NODEX",
+      "title": "dexonline.ro, DEX '09; DEX '98; DLRLC; NODEX; MDA2; Șăineanu, ed. VI",
       "url": "https://dexonline.ro/definitie/pârlit",
       "author": null,
       "year": null,
@@ -26,22 +26,10 @@
       "regions": [],
       "original_text": "pârlit",
       "verification": "verified",
-      "notes": "Fig., fam."
-    },
-    {
-      "title": "dexonline.ro, DEX '09; MDA2; NODEX; Șăineanu, ed. VI",
-      "url": "https://dexonline.ro/definitie/pârlit",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "PÂRLIT",
-      "verification": "verified",
       "notes": "Fig., fam.; verificat pe textul sursei"
     }
   ],
   "explanation": "Sărac, amărât.",
-  "translation": "Scorched, wretched",
+  "translation": "Wretch, pauper",
   "notes": null
 }

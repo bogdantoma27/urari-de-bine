@@ -43,7 +43,7 @@
       "notes": "text de pe ro.wikisource (action=raw)"
     },
     {
-      "title": "dexonline.ro, Scriban (1939)",
+      "title": "dexonline.ro, Scriban (1939); Șăineanu ed. VI (1929)",
       "url": "https://dexonline.ro/text/în blesteme",
       "author": null,
       "year": null,
@@ -52,10 +52,10 @@
       "regions": [],
       "original_text": "bată-te Dumnezeu",
       "verification": "unverified",
-      "notes": "Șăineanu (1929): bată-l Dumnezeu"
+      "notes": "Șăineanu (1929): bată-l Dumnezeu; Și: „bată-l Dumnezeu”"
     },
     {
-      "title": "dexonline.ro, DEXI; CADE",
+      "title": "dexonline.ro, DEXI; CADE; Șăineanu, ed. VI",
       "url": "https://dexonline.ro/definitie/bate",
       "author": null,
       "year": null,
@@ -64,7 +64,7 @@
       "regions": [],
       "original_text": "Bată-l Dumnezeu",
       "verification": "verified",
-      "notes": "verificat pe textul sursei"
+      "notes": "verificat pe textul sursei; Și: „să-l bată Dumnezeu!”"
     },
     {
       "title": "dexonline.ro, Scriban",
@@ -91,18 +91,6 @@
       "notes": "text de pe ro.wikisource (action=raw)"
     },
     {
-      "title": "dexonline.ro, Scriban (1939); Șăineanu ed. VI (1929)",
-      "url": "https://dexonline.ro/text/în blesteme",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "bată-l Dumnezeu",
-      "verification": "unverified",
-      "notes": null
-    },
-    {
       "title": "r/Romania: Injuraturi, expresii si regionalisme interesante",
       "url": "https://www.reddit.com/r/Romania/comments/wdd2y7/",
       "author": null,
@@ -127,18 +115,6 @@
       "original_text": "Să te bată Dumnezeu",
       "verification": "verified",
       "notes": "nord-bucovinean. cântec despre deportări"
-    },
-    {
-      "title": "dexonline.ro, Șăineanu, ed. VI",
-      "url": "https://dexonline.ro/definitie/bate",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "să-l bată Dumnezeu!",
-      "verification": "verified",
-      "notes": null
     }
   ],
   "explanation": null,

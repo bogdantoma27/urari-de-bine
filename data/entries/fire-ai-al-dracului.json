@@ -27,18 +27,6 @@
       "regions": [],
       "original_text": "Fire-ai al dracului!",
       "verification": "verified",
-      "notes": null
-    },
-    {
-      "title": "dexonline.ro, DLRLC",
-      "url": "https://dexonline.ro/definitie/drac",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "fire-ai al dracului!",
-      "verification": "verified",
       "notes": "verificat pe textul sursei"
     },
     {
@@ -51,7 +39,7 @@
       "regions": [],
       "original_text": "fire-ai al dracului",
       "verification": "verified",
-      "notes": "text de pe ro.wikisource (action=raw)"
+      "notes": "text de pe ro.wikisource (action=raw); Și: „fire-ai să fii a dracului”"
     },
     {
       "title": "Răscoala, vol. Se mișcă țara!",
@@ -76,18 +64,6 @@
       "original_text": "Fire-al a dracului să fiil",
       "verification": "verified",
       "notes": "vol. 4, secțiunea 'Legendă'; pagina nedeterminată"
-    },
-    {
-      "title": "Răscoala, vol. Focurile",
-      "url": "https://ro.wikisource.org/wiki/R%C4%83scoala/Focurile",
-      "author": "Liviu Rebreanu",
-      "year": 1932,
-      "page": null,
-      "informant": "Liviu Rebreanu, Răscoala, vol. Focurile",
-      "regions": [],
-      "original_text": "fire-ai să fii a dracului",
-      "verification": "verified",
-      "notes": "text de pe ro.wikisource (action=raw)"
     }
   ],
   "explanation": null,

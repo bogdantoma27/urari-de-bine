@@ -42,18 +42,6 @@
       "regions": [],
       "original_text": "ucigă-l-toaca",
       "verification": "verified",
-      "notes": null
-    },
-    {
-      "title": "dexonline.ro, CADE",
-      "url": "https://dexonline.ro/definitie/cruce",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "UCIGĂ-L-TOACA",
-      "verification": "verified",
       "notes": "verificat pe textul sursei"
     },
     {
@@ -108,6 +96,6 @@
     }
   ],
   "explanation": "Toaca = scândura bătută la biserică.",
-  "translation": "May the toaca kill you",
+  "translation": "May the semantron kill you",
   "notes": "Apare și ca: „Ucigă-l toaca”, „Ucigă-i toaca”."
 }

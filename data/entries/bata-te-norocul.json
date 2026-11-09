@@ -17,7 +17,7 @@
   "funny": true,
   "sources": [
     {
-      "title": "dexonline.ro, DLRLC; DLRM",
+      "title": "dexonline.ro, DLRLC; DLRM; CADE; Șăineanu, ed. VI",
       "url": "https://dexonline.ro/definitie/bate",
       "author": null,
       "year": null,
@@ -26,7 +26,7 @@
       "regions": [],
       "original_text": "Bată-te norocul!",
       "verification": "verified",
-      "notes": "intrarea BATE; verificat pe textul sursei"
+      "notes": "intrarea BATE; verificat pe textul sursei; Și: „bată-l norocul!”"
     },
     {
       "title": "Un vis (Caragiale)",
@@ -99,18 +99,6 @@
       "original_text": "Bată-l norocu!",
       "verification": "unverified",
       "notes": "Șăineanu: «bată-l norocul!»"
-    },
-    {
-      "title": "dexonline.ro, CADE; Șăineanu, ed. VI",
-      "url": "https://dexonline.ro/definitie/bate",
-      "author": null,
-      "year": null,
-      "page": null,
-      "informant": null,
-      "regions": [],
-      "original_text": "bată-l norocul!",
-      "verification": "verified",
-      "notes": null
     },
     {
       "title": "dexonline.ro, Scriban, s.v. bate",
