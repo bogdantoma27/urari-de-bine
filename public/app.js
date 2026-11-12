@@ -280,9 +280,14 @@ function readSequence(key) {
 const sameWish = (a, b) => Boolean(a && b) && (a.id ? a.id === b.id : a.text === b.text);
 
 async function fetchNext(path, key) {
-  const seq = readSequence(key);
+  let seq = readSequence(key);
   const url = (s) => `${path}${path.includes('?') ? '&' : '?'}seed=${s.seed}&n=${s.n}`;
   let d = await fetchJson(url(seq));
+  // The list changed size (new data after a deploy) since this position was saved: start over with a new seed.
+  if (d.sequence && Number.isInteger(seq.total) && seq.total !== d.sequence.total) {
+    seq = { seed: newSeed(), n: 0 };
+    d = await fetchJson(url(seq));
+  }
   // A new list may open with the wish on the card now: take the next one.
   if (sameWish(d, state.last?.data) && d.sequence && d.sequence.total > 1) {
     try { d = await fetchJson(url({ seed: d.sequence.seed, n: d.sequence.n + 1 })); } catch { /* keep d */ }
@@ -290,7 +295,7 @@ async function fetchNext(path, key) {
   const s = d.sequence;
   if (s) {
     const next = s.n + 1;
-    writeStore(SEQ_PREFIX + key, JSON.stringify(next >= s.total ? { seed: newSeed(), n: 0 } : { seed: s.seed, n: next }));
+    writeStore(SEQ_PREFIX + key, JSON.stringify(next >= s.total ? { seed: newSeed(), n: 0 } : { seed: s.seed, n: next, total: s.total }));
   }
   return d;
 }
@@ -328,10 +333,10 @@ async function requestWish(mode) {
   clearIdFromUrl();
   try {
     if (mode === 'generate') {
-      const d = await fetchNext('/v1/generate', 'generate'); // ignores the level and the theme
+      const d = await fetchNext('/v1/generate?sensitive=false', 'generate'); // ignores the level and the theme
       showGenerated(d);
     } else {
-      const q = queryString();
+      const q = queryString({ sensitive: 'false' }); // the site never shows group slurs
       const d = await fetchNext(`/v1/random${q}`, `random${q}`);
       showWish(d);
     }

@@ -25,3 +25,9 @@ run_worker_first = ["/", "/all", "/e/*", "/sitemap.xml", "/v1/*", "/openapi.json
 name = "RATE_LIMITER"
 namespace_id = "7341"
 simple = { limit = 120, period = 60 }
+
+# A looser limit for calls from the site's own pages (Origin/Referer on uraridebine.ro or localhost).
+[[ratelimits]]
+name = "RATE_LIMITER_SITE"
+namespace_id = "7342"
+simple = { limit = 600, period = 60 }

@@ -153,8 +153,8 @@ const T = {
     en: "A random entry",
   },
   "random.description": {
-    ro: "Are aceleași filtre ca lista. Alege mai întâi dintre formulele haioase. Dacă filtrele nu lasă niciuna, alege dintre toate cele care se potrivesc. Pentru doar text, adaugă `?format=text` sau trimite `Accept: text/plain`.",
-    en: "Same filters as the list. It picks from the funny entries first. If the filters leave none, it picks from everything that matches. For just the text, add `?format=text` or send `Accept: text/plain`.",
+    ro: "Are aceleași filtre ca lista. Fără `seed`, alege o formulă haioasă la întâmplare; dacă filtrele nu lasă niciuna, alege dintre toate cele care se potrivesc. Cu `seed` și `n`, parcurge într-o ordine fixă fiecare formulă care se potrivește, o dată, mai întâi cele haioase și apoi restul, iar răspunsul are și `sequence`. Insultele sensibile intră doar dacă `sensitive` le permite (implicit intră; `sensitive=false` le scoate). Pentru doar text, adaugă `?format=text` sau trimite `Accept: text/plain`.",
+    en: "Same filters as the list. Without `seed`, it picks a random funny entry; if the filters leave none, it picks from everything that matches. With `seed` and `n`, it walks every matching entry once in a fixed order, funny ones first and then the rest, and the response includes `sequence`. Sensitive entries are only included if `sensitive` allows it (they are by default; `sensitive=false` leaves them out). For just the text, add `?format=text` or send `Accept: text/plain`.",
   },
   "random.200": {
     ro: "O formulă (JSON) sau doar textul ei",

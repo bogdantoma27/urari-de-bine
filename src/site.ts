@@ -29,13 +29,49 @@ export const esc = (s: unknown): string =>
 
 export const truncate = (s: string, n: number) => (s.length <= n ? s : `${s.slice(0, n - 1).trimEnd()}…`);
 
+export type PageLang = "ro" | "en";
+
 /** The title and description shared by the entry page and the /?id= share preview. */
-export function entryMeta(e: Entry): { title: string; description: string | null } {
-  const parts = [e.translation, e.sources[0]?.title].filter((x): x is string => Boolean(x));
+export function entryMeta(e: Entry, lang: PageLang = "ro"): { title: string; description: string | null } {
+  const source = e.sources[0]?.title;
+  // Romanian: the Romanian explanation, else the wish itself; English: the translation.
+  const parts = (lang === "en" ? [e.translation, source] : [e.explanation ?? e.text, e.explanation ? null : source]).filter(
+    (x): x is string => Boolean(x),
+  );
   return {
     title: `„${e.text}” · ${SITE_NAME}`,
     description: parts.length ? truncate(parts.join(" · "), 200) : null,
   };
+}
+
+/** The language of a request: English only with `lang=en`; `lang=ro` is a non-canonical alias of no param. */
+export const pageLang = (url: URL): PageLang => (url.searchParams.get("lang") === "en" ? "en" : "ro");
+
+/** Absolute URL of a page in a language: Romanian has no `lang` param, English has `lang=en`. */
+export function pageUrl(path: string, params: Record<string, string>, lang: PageLang): string {
+  const p = new URLSearchParams(params);
+  if (lang === "en") p.set("lang", "en");
+  const qs = p.toString();
+  return `${ORIGIN}${path}${qs ? `?${qs}` : ""}`;
+}
+
+/**
+ * Replaces any canonical/hreflang links in `html` with the ones for this page: the canonical is the page's own
+ * URL in the requested language; hreflang points ro and x-default at the URL without `lang`, en at `lang=en`.
+ * `indexable: false` only drops them (noindex pages).
+ */
+export function setSeoLinks(html: string, path: string, params: Record<string, string>, lang: PageLang, indexable = true): string {
+  const h = html.replace(/[ \t]*<link rel="(?:canonical|alternate)"[^>]*>\n?/g, "");
+  if (!indexable) return h;
+  const ro = pageUrl(path, params, "ro");
+  const en = pageUrl(path, params, "en");
+  const links = [
+    `<link rel="canonical" href="${esc(lang === "en" ? en : ro)}">`,
+    `<link rel="alternate" hreflang="ro" href="${esc(ro)}">`,
+    `<link rel="alternate" hreflang="en" href="${esc(en)}">`,
+    `<link rel="alternate" hreflang="x-default" href="${esc(ro)}">`,
+  ];
+  return h.replace("</head>", () => `${links.map((l) => `  ${l}`).join("\n")}\n</head>`);
 }
 
 /** Replaces the content of the `<meta>` tag identified by `attribute` (e.g. `name="description"`). */
@@ -65,8 +101,11 @@ export interface LayoutOptions {
   title: string;
   description: string;
   canonical: string;
+  /** the path of the page and the params that stay in its URL (not `lang`) */
+  path: string;
+  params?: Record<string, string>;
   body: string;
-  lang: "ro";
+  lang: PageLang;
   noindex?: boolean;
   script: string;
 }
@@ -81,11 +120,16 @@ const FONTS = [
 ];
 
 export function layout(o: LayoutOptions): string {
+  return setSeoLinks(rawLayout(o), o.path, o.params ?? {}, o.lang);
+}
+
+function rawLayout(o: LayoutOptions): string {
   const title = esc(o.title);
   const description = esc(o.description);
   const canonical = esc(o.canonical);
+  const lang = o.lang;
   return `<!doctype html>
-<html lang="${o.lang}">
+<html lang="${lang}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -118,7 +162,7 @@ export function layout(o: LayoutOptions): string {
   <meta name="twitter:title" content="${title}">
   <meta name="twitter:description" content="${description}">
   <meta name="theme-color" content="#2a1d14">
-${o.noindex ? '  <meta name="robots" content="noindex">\n' : ""}  <link rel="canonical" href="${canonical}" data-fixed>
+${o.noindex ? '  <meta name="robots" content="noindex">\n' : ""}
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 ${FONTS.map((f) => `  <link rel="preload" href="/fonts/${f}.woff2" as="font" type="font/woff2" crossorigin>`).join("\n")}
@@ -218,14 +262,16 @@ function entryBody(e: Entry): string {
 ${FOOTER}`;
 }
 
-export function renderEntryPage(e: Entry): string {
-  const { title, description } = entryMeta(e);
+export function renderEntryPage(e: Entry, lang: PageLang = "ro"): string {
+  const { title, description } = entryMeta(e, lang);
+  const path = `/e/${encodeURIComponent(e.id)}`;
   return layout({
     title,
     description: description ?? `${e.text} · ${SITE_NAME}`,
-    canonical: `${ORIGIN}/e/${encodeURIComponent(e.id)}`,
+    canonical: pageUrl(path, {}, lang),
+    path,
     body: entryBody(e),
-    lang: "ro",
+    lang,
     noindex: e.sensitive,
     script: "/entry.js",
   });
@@ -302,7 +348,9 @@ export function renderList(templateHtml: string, url: URL): string {
   // title, description and indexing
   const others = s.q !== "" || s.page > 1 || FILTERS.some((f) => f !== "theme" && s[f] !== "");
   const theme = s.theme ? THEMES[s.theme] : undefined;
-  const canonical = `${ORIGIN}/all${theme ? `?theme=${encodeURIComponent(s.theme)}` : ""}`;
+  const lang = pageLang(url);
+  const params: Record<string, string> = theme ? { theme: s.theme } : {};
+  const canonical = pageUrl("/all", params, lang);
   if (theme) {
     const title = `${theme.label} · ${SITE_NAME}`;
     h = h.replace(/<title>[^<]*<\/title>/, () => `<title>${esc(title)}</title>`);
@@ -310,8 +358,8 @@ export function renderList(templateHtml: string, url: URL): string {
     for (const a of ['name="description"', 'property="og:description"', 'name="twitter:description"']) h = setMeta(h, a, theme.description);
   }
   h = setMeta(h, 'property="og:url"', canonical);
-  const robots = others ? '  <meta name="robots" content="noindex">\n' : `  <link rel="canonical" href="${esc(canonical)}" data-fixed>\n`;
-  h = h.replace("</head>", () => `${robots}</head>`);
+  h = setSeoLinks(h, "/all", params, lang, !others);
+  if (others) h = h.replace("</head>", () => '  <meta name="robots" content="noindex">\n</head>');
   h = h.replace(/(<link rel="stylesheet" href=")styles\.css(">)/, "$1/styles.css$2").replace(/(<script type="module" src=")all\.js(">)/, "$1/all.js$2");
 
   // the form
@@ -399,7 +447,7 @@ site.get("/e/:id", async (c) => {
     }
     return c.text("Not found", 404);
   }
-  return html(renderEntryPage(e));
+  return html(renderEntryPage(e, pageLang(new URL(c.req.url))));
 });
 
 site.get("/all", async (c) => {

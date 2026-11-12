@@ -520,7 +520,7 @@ describe("home page", () => {
   };
 
   it("/?id=<id> puts the entry text in the share preview", async () => {
-    const e = entries.find((x) => x.translation && x.sources[0]?.title)!;
+    const e = entries.find((x) => x.explanation && x.translation && x.sources[0]?.title)!;
     const r = await app.request(`https://uraridebine.ro/?id=${encodeURIComponent(e.id)}`, undefined, envPage);
     const h = await r.text();
     const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
@@ -528,8 +528,7 @@ describe("home page", () => {
     expect(h).toContain(`<meta name="twitter:title" content="${esc(`„${e.text}” · Urări de bine`)}">`);
     expect(h).toContain(`<meta property="og:url" content="https://uraridebine.ro/?id=${encodeURIComponent(e.id)}">`);
     expect(h).toMatch(/<meta property="og:description" content="[^"]*"/);
-    expect(h).toContain(esc(e.translation!.slice(0, 40)));
-    expect(h).toContain(esc(e.sources[0].title.slice(0, 40)));
+    expect(h).toContain(esc(e.explanation!.slice(0, 40))); // Romanian by default
     expect(h).not.toContain('content="generic"');
     expect(h).toContain('<meta property="og:image" content="https://uraridebine.ro/og.jpg">');
   });
@@ -537,7 +536,9 @@ describe("home page", () => {
   it("/?id= unknown or missing: the page stays unchanged", async () => {
     for (const path of ["/?id=does-not-exist-at-all", "/", "/?id="]) {
       const r = await app.request(`https://uraridebine.ro${path}`, undefined, envPage);
-      expect(await r.text()).toBe(PAGE);
+      const h = await r.text();
+      expect(h.replace(/ {2}<link rel="(canonical|alternate)"[^>]*>\n/g, "")).toBe(PAGE); // only the SEO links are added
+      expect(h).toContain('<link rel="canonical" href="https://uraridebine.ro/">');
     }
   });
 
@@ -936,7 +937,7 @@ describe("server-rendered pages", () => {
     const r = await app.request(`https://uraridebine.ro/?id=${encodeURIComponent(e.id)}`, undefined, {
       ASSETS: { fetch: async () => new Response(PAGE, { headers: { "content-type": "text/html" } }) },
     });
-    expect(await r.text()).toContain(`<link rel="canonical" href="https://uraridebine.ro/e/${encodeURIComponent(e.id)}" data-fixed>`);
+    expect(await r.text()).toContain(`<link rel="canonical" href="https://uraridebine.ro/e/${encodeURIComponent(e.id)}">`);
   });
 });
 
@@ -998,5 +999,175 @@ describe("seed + n: no repeats until the list is used up", () => {
     // A filler comes back only after the others of its family: none is used 4 times as often as average.
     const avg = 600 / fills.size;
     expect(Math.max(...fills.values())).toBeLessThanOrEqual(Math.ceil(avg * 4));
+  });
+});
+
+describe("/v1/random and /v1/generate: sensitive=false walks", () => {
+  for (const level of ["vulgar", "clean"]) {
+    it(`seeded /v1/random?level=${level}&sensitive=false walks the whole non-sensitive list, funny first`, async () => {
+      const list = entries.filter((e) => e.level === level && e.attested && !e.sensitive);
+      const funny = list.filter((e) => e.funny).length;
+      const seen: string[] = [];
+      for (let n = 0; n < list.length; n++) {
+        const { b } = await json(`/v1/random?level=${level}&sensitive=false&seed=5&n=${n}`);
+        expect(b.sequence).toEqual({ seed: 5, n, total: list.length });
+        seen.push(b.id);
+      }
+      expect(new Set(seen).size).toBe(list.length);
+      for (const id of seen) expect(entries.find((e) => e.id === id)!.sensitive).toBe(false);
+      expect(seen.slice(0, funny).every((id) => entries.find((e) => e.id === id)!.funny)).toBe(true);
+      expect(seen.slice(funny).every((id) => !entries.find((e) => e.id === id)!.funny)).toBe(true);
+    });
+  }
+  it("without sensitive=false the vulgar walk includes the sensitive entries", async () => {
+    const vulgar = entries.filter((e) => e.level === "vulgar");
+    expect(vulgar.some((e) => e.sensitive)).toBe(true);
+    expect((await json("/v1/random?level=vulgar&seed=5&n=0")).b.sequence.total).toBe(vulgar.length);
+  });
+  it("seeded /v1/generate?sensitive=false never uses a sensitive piece", async () => {
+    const sensitiveIds = new Set(entries.filter((e) => e.sensitive).map((e) => e.id));
+    let n = 0;
+    for (let i = 0; i < 300; i++) {
+      const { r, b } = await json(`/v1/generate?sensitive=false&seed=11&n=${n}`);
+      expect(r.status).toBe(200);
+      expect(sensitiveIds.has(b.pieces.pattern.entry)).toBe(false);
+      expect(sensitiveIds.has(b.pieces.fill.entry)).toBe(false);
+      n = b.sequence.n + 1;
+    }
+  });
+  it("/v1/random documentation describes both modes", async () => {
+    const { b } = await json("/openapi.en.json");
+    expect(b.paths["/v1/random"].get.description).toContain("With `seed` and `n`");
+  });
+});
+
+describe("rate limit: only /v1, site origin uses its own binding", () => {
+  const page = { ASSETS: { fetch: async () => new Response("<html><head></head></html>", { headers: { "content-type": "text/html" } }) } };
+  const counting = () => {
+    const calls = { normal: 0, site: 0 };
+    const env = {
+      RATE_LIMITER: { limit: async () => (calls.normal++, { success: true }) },
+      RATE_LIMITER_SITE: { limit: async () => (calls.site++, { success: true }) },
+    };
+    return { calls, env };
+  };
+  it("pages, docs and the spec are not rate limited", async () => {
+    const calls = { normal: 0 };
+    const env = { ...page, RATE_LIMITER: { limit: async () => (calls.normal++, { success: false }) } };
+    for (const p of ["/", "/all", "/e/manca-te-ar-gherla", "/sitemap.xml", "/docs", "/openapi.json", "/openapi.en.json"]) {
+      const r = await app.request(`https://uraridebine.ro${p}`, undefined, env);
+      expect(r.status, p).not.toBe(429);
+    }
+    expect(calls.normal).toBe(0);
+  });
+  it("a /v1 call from the site uses the site limiter", async () => {
+    for (const h of [{ Origin: "https://uraridebine.ro" } as Record<string, string>, { Referer: "https://uraridebine.ro/all?x=1" }, { Origin: "http://localhost:8787" }]) {
+      const { calls, env } = counting();
+      expect((await get("/v1/random", { headers: h }, env)).status).toBe(200);
+      expect(calls).toEqual({ normal: 0, site: 1 });
+    }
+  });
+  it("a third-party /v1 call uses the normal limiter", async () => {
+    for (const h of [{} as Record<string, string>, { Origin: "https://example.com" }, { Origin: "https://uraridebine.ro.evil.com" }]) {
+      const { calls, env } = counting();
+      expect((await get("/v1/random", { headers: h }, env)).status).toBe(200);
+      expect(calls).toEqual({ normal: 1, site: 0 });
+    }
+  });
+  it("the site limiter refuses with 429, fails open when missing or broken, and skips OPTIONS", async () => {
+    const refuse = { RATE_LIMITER_SITE: { limit: async () => ({ success: false }) } };
+    const h = { Origin: "https://uraridebine.ro" };
+    expect((await get("/v1/random", { headers: h }, refuse)).status).toBe(429);
+    expect((await get("/v1/random", { headers: h }, {})).status).toBe(200);
+    expect((await get("/v1/random", { method: "OPTIONS", headers: { ...h, "Access-Control-Request-Method": "GET" } }, refuse)).status).toBeLessThan(300);
+    const err = console.error;
+    console.error = () => {};
+    try {
+      const broken = { RATE_LIMITER_SITE: { limit: async () => { throw new Error("x"); } } };
+      expect((await get("/v1/random", { headers: h }, broken)).status).toBe(200);
+    } finally {
+      console.error = err;
+    }
+  });
+});
+
+describe("canonical and hreflang, rendered by the server", () => {
+  const ALL_HTML = readFileSync(new URL("../public/all.html", import.meta.url), "utf8");
+  const INDEX_HTML = readFileSync(new URL("../public/index.html", import.meta.url), "utf8");
+  const html = (b: string) => new Response(b, { headers: { "content-type": "text/html; charset=utf-8" } });
+  const env = {
+    ASSETS: { fetch: async (req: Request) => (new URL(req.url).pathname === "/all.html" ? html(ALL_HTML) : html(INDEX_HTML)) },
+  };
+  const O = "https://uraridebine.ro";
+  const links = (h: string) => ({
+    canonical: [...h.matchAll(/<link rel="canonical" href="([^"]*)">/g)].map((m) => m[1].replace(/&amp;/g, "&")),
+    alternate: [...h.matchAll(/<link rel="alternate" hreflang="([^"]*)" href="([^"]*)">/g)].map((m) => [m[1], m[2].replace(/&amp;/g, "&")]),
+  });
+  const check = async (path: string, canonical: string, ro: string, en: string) => {
+    const r = await app.request(`${O}${path}`, undefined, env);
+    expect(r.status, path).toBe(200);
+    const l = links(await r.text());
+    expect(l.canonical, path).toEqual([canonical]);
+    expect(l.alternate, path).toEqual([["ro", ro], ["en", en], ["x-default", ro]]);
+  };
+  it("home", async () => {
+    await check("/", `${O}/`, `${O}/`, `${O}/?lang=en`);
+    await check("/?lang=en", `${O}/?lang=en`, `${O}/`, `${O}/?lang=en`);
+    await check("/?lang=ro", `${O}/`, `${O}/`, `${O}/?lang=en`); // ?lang=ro is an alias of the plain URL
+  });
+  it("/all and theme pages", async () => {
+    await check("/all", `${O}/all`, `${O}/all`, `${O}/all?lang=en`);
+    await check("/all?lang=en", `${O}/all?lang=en`, `${O}/all`, `${O}/all?lang=en`);
+    await check("/all?theme=prison", `${O}/all?theme=prison`, `${O}/all?theme=prison`, `${O}/all?theme=prison&lang=en`);
+    await check("/all?theme=prison&lang=en", `${O}/all?theme=prison&lang=en`, `${O}/all?theme=prison`, `${O}/all?theme=prison&lang=en`);
+  });
+  it("a noindex /all page has no canonical or hreflang", async () => {
+    const h = await (await app.request(`${O}/all?q=gherla`, undefined, env)).text();
+    expect(links(h)).toEqual({ canonical: [], alternate: [] });
+    expect(h).toContain('name="robots" content="noindex"');
+  });
+  it("/e/<id>", async () => {
+    const u = `${O}/e/manca-te-ar-gherla`;
+    await check("/e/manca-te-ar-gherla", u, u, `${u}?lang=en`);
+    await check("/e/manca-te-ar-gherla?lang=en", `${u}?lang=en`, u, `${u}?lang=en`);
+  });
+  it("/?id=<id> points canonical and hreflang at the entry page", async () => {
+    const u = `${O}/e/manca-te-ar-gherla`;
+    await check("/?id=manca-te-ar-gherla", u, u, `${u}?lang=en`);
+    await check("/?id=manca-te-ar-gherla&lang=en", `${u}?lang=en`, u, `${u}?lang=en`);
+  });
+  it("the client no longer rewrites the canonical", () => {
+    expect(readFileSync(new URL("../public/i18n.js", import.meta.url), "utf8")).not.toContain("canonical");
+  });
+});
+
+describe("entry meta description language", () => {
+  const e = entries.find((x) => x.explanation && x.translation)!;
+  const desc = (h: string, a: string) => new RegExp(`<meta ${a} content="([^"]*)"`).exec(h)![1];
+  const SHELL =
+    '<html><head><title>x</title><meta name="description" content="g"><meta property="og:description" content="g"><meta name="twitter:description" content="g"></head></html>';
+  const page = async (p: string) =>
+    (
+      await app.request(`https://uraridebine.ro${p}`, undefined, {
+        ASSETS: { fetch: async () => new Response(SHELL, { headers: { "content-type": "text/html" } }) },
+      })
+    ).text();
+  const id = encodeURIComponent(e.id);
+  const attrs = ['name="description"', 'property="og:description"', 'name="twitter:description"'];
+  it("Romanian uses the explanation, English the translation", async () => {
+    for (const h of [await page(`/e/${id}`), await page(`/?id=${id}`)]) {
+      for (const a of attrs) {
+        expect(desc(h, a)).toContain(esc(e.explanation!.slice(0, 30)));
+        expect(desc(h, a)).not.toContain(esc(e.translation!.slice(0, 30)));
+      }
+    }
+    for (const h of [await page(`/e/${id}?lang=en`), await page(`/?id=${id}&lang=en`)]) {
+      for (const a of attrs) expect(desc(h, a)).toContain(esc(e.translation!.slice(0, 30)));
+    }
+  });
+  it("Romanian without an explanation falls back to the wish text and the source title", async () => {
+    const x = entries.find((y) => !y.explanation && y.sources[0]?.title)!;
+    const h = await page(`/e/${encodeURIComponent(x.id)}`);
+    expect(desc(h, 'name="description"')).toContain(esc(x.sources[0].title.slice(0, 30)));
   });
 });

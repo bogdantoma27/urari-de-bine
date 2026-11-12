@@ -81,7 +81,7 @@ curl "https://api.uraridebine.ro/v1/today?format=text"
 
 | Rută | Ce face |
 |---|---|
-| `GET /v1/random` | o urare la întâmplare, din cele haioase. Cu `?format=text` sau `Accept: text/plain` primești doar textul |
+| `GET /v1/random` | o urare la întâmplare, din cele haioase. Cu `seed` și `n` parcurge o dată fiecare urările care se potrivesc filtrelor: întâi cele haioase, apoi restul (butonul de pe site cere `sensitive=false`, deci fără insulte la adresa unor grupuri). Cu `?format=text` sau `Accept: text/plain` primești doar textul |
 | `GET /v1/today` | urarea zilei: aceeași pentru toată lumea, se schimbă la miezul nopții (ora României) |
 | `GET /v1/generate` | un blestem nou, făcut din bucăți de urări reale (de tipul „Verb-te-ar pacoste” sau cu „mă-tii”). În răspuns scrie clar că e generat |
 | `GET /v1/entries` | toate formulele, cu filtre, căutare și paginare (`page`, `per_page` ≤ 100) |
@@ -92,18 +92,18 @@ Poți filtra după `type`, `theme`, `region`, `level`, `form`, `attested` și `q
 
 Cheile și valorile din JSON sunt în engleză, ca să fie ușor de folosit în cod. Textul urărilor și explicațiile rămân în română, iar la fiecare ai traducerea în engleză în `translation`.
 
-N-ai nevoie de cheie și îl poți apela direct din browser, de pe orice domeniu. Limita e de 120 de request-uri pe minut per IP. Documentația e pe **[api.uraridebine.ro/docs](https://api.uraridebine.ro/docs)**, în română și engleză, și poți testa request-urile direct de acolo. Spec-ul OpenAPI e la `/openapi.json` și `/openapi.en.json`, iar totul pe larg e în [docs/api.md](docs/api.md).
+N-ai nevoie de cheie și îl poți apela direct din browser, de pe orice domeniu. Limita e de 120 de request-uri pe minut per IP. Documentația e pe **[api.uraridebine.ro/docs](https://api.uraridebine.ro/docs)**, în română și engleză, și poți testa request-urile direct de acolo. Spec-ul OpenAPI e la `/openapi.json` și `/openapi.en.json`.
 
 ## Ce e în colecție
 
 | | |
 |---|---|
-| **Tipuri** | 660 blesteme · 333 înjurături · 262 insulte · 130 expresii · 63 eufemisme |
-| **Niveluri** | 1.114 curate (de spus la masă) · 102 medii (în trafic) · 232 vulgare (la meci) |
-| **Verificare** | 1.168 găsite cuvânt cu cuvânt în sursă · 277 copiate de mână · 3 negăsite |
+| **Tipuri** | 598 blesteme · 316 înjurături · 260 insulte · 126 expresii · 58 eufemisme |
+| **Niveluri** | 1.040 curate (de spus la masă) · 102 medii (în trafic) · 216 vulgare (la meci) |
+| **Verificare** | 1.091 găsite cuvânt cu cuvânt în sursă · 265 copiate de mână · 2 negăsite |
 | **Regiuni** | de la Maramureș la Dobrogea, plus aromână, meglenoromână, istroromână și românii din Ucraina |
 | **Vechime** | surse din 1844 până azi |
-| **Cu haz** | 256, alese de mână pentru butonul de pe site |
+| **Cu haz** | 242, alese de mână pentru butonul de pe site |
 
 <details>
 <summary><b>Cum arată o intrare</b></summary>

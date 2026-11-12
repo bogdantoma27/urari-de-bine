@@ -1,5 +1,6 @@
 import raw from "./generated/data.json";
 import rawRedirects from "./generated/redirects.json";
+import rawSchedule from "../data/today-schedule.json";
 
 export interface Source {
   title: string;
@@ -85,20 +86,24 @@ export const REGIONS: Record<string, { label: string; description: string }> = {
   istro_romanian: { label: "Istroromână", description: "Atestat în istroromână." },
 };
 
-/** Search normalization: lowercase, no diacritics; î and â become a. */
+/** Search normalization: lowercase, no diacritics, î and â become a, punctuation becomes one space. */
 export function normalize(s: string): string {
   return s
     .toLowerCase()
     .replace(/[âî]/g, "a")
     .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "");
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
 }
 /** Variant: î becomes i (how someone without diacritics would type "injura"). */
 function normalizeSimple(s: string): string {
   return s
     .toLowerCase()
     .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "");
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
 }
 
 const searchText = new Map<string, [string, string]>();
@@ -171,7 +176,8 @@ export function vulgarFirst(list: Entry[]): Entry[] {
 }
 
 export function filterEntries(f: Filters, includeSensitive: boolean): Entry[] {
-  const q1 = f.q ? normalize(f.q) : null;
+  // A query with no letters or digits ("?!", "-") filters nothing, like no query at all.
+  const q1 = f.q ? normalize(f.q) || null : null;
   const q2 = f.q ? normalizeSimple(f.q) : null;
   return entries.filter((e) => {
     if (e.sensitive && !includeSensitive) return false;
@@ -259,8 +265,10 @@ export function secondsUntilMidnight(d: Date): number {
   return Math.max(1, 86400 - (p.hours * 3600 + p.minutes * 60 + p.seconds));
 }
 
-// The funny entries, in id order, shuffled deterministically (constant seed) in cycles of n days,
-// so no entry repeats until all of them have been used.
+// The wish of the day comes from data/today-schedule.json (built by scripts/today-schedule.mjs), which
+// is append-only: a date up to today never changes, even when the set of funny entries does.
+// The cycle algorithm below is only the fallback for dates outside the schedule: the funny entries,
+// in id order, shuffled deterministically (constant seed) in cycles of n days.
 const funnyEntries = entries.filter((e) => e.funny).sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
 const permutations = new Map<number, number[]>();
 const shuffle = (cycle: number) => seededOrder(funnyEntries.length, cycle);
@@ -305,12 +313,21 @@ export function seededSequence(list: Entry[], seed: number): Entry[] {
   ];
 }
 
+const schedule = rawSchedule as { start: string; ids: string[] };
+const scheduleIds = schedule.ids;
+const scheduleStart = Math.floor(Date.parse(`${schedule.start}T00:00:00Z`) / 86400000);
+
 /** The entry of the day for a "YYYY-MM-DD" date (already validated). */
 export function entryOfTheDay(date: string): Entry | null {
-  const n = funnyEntries.length;
-  if (!n) return null;
   const [a, l, z] = date.split("-").map(Number);
   const days = Math.floor(Date.UTC(a, l - 1, z) / 86400000);
+  const scheduled = scheduleIds[days - scheduleStart];
+  if (scheduled !== undefined) {
+    const e = byId.get(scheduled) ?? byId.get(redirects.get(scheduled) ?? "");
+    if (e) return e;
+  }
+  const n = funnyEntries.length;
+  if (!n) return null;
   const cycle = Math.floor(days / n);
   return funnyEntries[permutation(cycle)[days - cycle * n]];
 }

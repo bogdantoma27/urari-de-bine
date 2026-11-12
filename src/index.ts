@@ -21,10 +21,13 @@ import {
 } from "./data";
 import { generate } from "./generate";
 import { textKey, translate, type Lang } from "./texts";
-import { entryMeta, esc, setMeta, site } from "./site";
+import { ORIGIN, entryMeta, esc, pageLang, setMeta, setSeoLinks, site, type PageLang } from "./site";
 
+type RateLimiter = { limit(options: { key: string }): Promise<{ success: boolean }> };
 interface Bindings {
-  RATE_LIMITER?: { limit(options: { key: string }): Promise<{ success: boolean }> };
+  RATE_LIMITER?: RateLimiter;
+  /** a looser limit for calls from the site's own pages */
+  RATE_LIMITER_SITE?: RateLimiter;
   ASSETS?: { fetch(req: Request): Promise<Response> };
 }
 
@@ -41,6 +44,20 @@ const app = new OpenAPIHono<{ Bindings: Bindings }>({
 });
 
 const RATE_LIMIT = 120;
+const RATE_LIMIT_SITE = 600;
+
+/** True when the request comes from the site's own pages (or a local dev page): Origin or Referer on our host. */
+export function fromSite(c: Context): boolean {
+  for (const name of ["origin", "referer"]) {
+    const v = c.req.header(name);
+    if (!v) continue;
+    try {
+      const h = new URL(v).hostname;
+      if (h === "uraridebine.ro" || h === "www.uraridebine.ro" || h === "localhost" || h === "127.0.0.1") return true;
+    } catch { /* not a URL: ignore it */ }
+  }
+  return false;
+}
 
 /** IPv4 stays as is; IPv6 is reduced to its /64 prefix, so the limit cannot be bypassed by changing the address. */
 export function rateLimitKey(ip: string): string {
@@ -55,21 +72,20 @@ export function rateLimitKey(ip: string): string {
 // On api.* the front page redirects to the documentation; on other hosts we serve the site.
 // It sits before the middlewares, so the front page is not rate limited.
 /** Share preview for /?id=<id>: the Open Graph/Twitter title and description come from the entry. */
-function withSharePreview(html: string, e: Entry): string {
-  const { title, description } = entryMeta(e);
-  const url = `https://uraridebine.ro/?id=${encodeURIComponent(e.id)}`;
+function withSharePreview(html: string, e: Entry, lang: PageLang): string {
+  const { title, description } = entryMeta(e, lang);
+  const path = `/e/${encodeURIComponent(e.id)}`;
   let h = html;
   h = setMeta(h, 'property="og:title"', title);
   h = setMeta(h, 'name="twitter:title"', title);
-  h = setMeta(h, 'property="og:url"', url);
+  h = setMeta(h, 'property="og:url"', `${ORIGIN}/?id=${encodeURIComponent(e.id)}`);
   if (description) {
     h = setMeta(h, 'property="og:description"', description);
     h = setMeta(h, 'name="twitter:description"', description);
     h = setMeta(h, 'name="description"', description);
   }
-  // the entry's own page is the canonical one, so /?id= is not indexed as a duplicate
-  h = h.replace("</head>", () => `<link rel="canonical" href="https://uraridebine.ro/e/${esc(encodeURIComponent(e.id))}" data-fixed>
-</head>`);
+  // the entry's own page is the canonical one (and the hreflang target), so /?id= is not indexed as a duplicate
+  h = setSeoLinks(h, path, {}, lang);
   return h.replace(/<title>[^<]*<\/title>/, () => `<title>${esc(title)}</title>`);
 }
 
@@ -80,13 +96,17 @@ app.get("/", async (c) => {
   }
   if (!c.env?.ASSETS) return c.notFound();
   const response = await c.env.ASSETS.fetch(c.req.raw);
-  const id = new URL(c.req.url).searchParams.get("id");
+  if (!response.ok || !(response.headers.get("content-type") ?? "").includes("text/html")) return response;
+  const url = new URL(c.req.url);
+  const lang = pageLang(url);
+  const id = url.searchParams.get("id");
   const entry = id ? byId.get(id) : undefined;
-  if (!entry || !response.ok || !(response.headers.get("content-type") ?? "").includes("text/html")) return response;
   const headers = new Headers(response.headers);
   headers.delete("content-length");
   headers.delete("etag");
-  return new Response(withSharePreview(await response.text(), entry), { status: response.status, headers });
+  const html = await response.text();
+  // the server owns canonical/hreflang: the home page is its own canonical, /?id= points at the entry page
+  return new Response(entry ? withSharePreview(html, entry, lang) : setSeoLinks(html, "/", {}, lang), { status: response.status, headers });
 });
 
 // The docs and the spec live on the API host; on the site's domain they redirect there.
@@ -110,8 +130,10 @@ app.use("*", async (c, next) => {
 
 app.use("*", cors({ origin: "*", allowMethods: ["GET", "HEAD", "OPTIONS"] }));
 
-app.use("*", async (c, next) => {
-  const limiter = c.env?.RATE_LIMITER;
+// Only /v1/* is limited; the pages, the docs and the spec are not. The site's own calls use a looser binding.
+app.use("/v1/*", async (c, next) => {
+  const site = fromSite(c);
+  const limiter = site ? c.env?.RATE_LIMITER_SITE : c.env?.RATE_LIMITER;
   if (limiter && c.req.method !== "OPTIONS") {
     let success = true;
     try {
@@ -122,7 +144,7 @@ app.use("*", async (c, next) => {
     }
     if (!success) {
       c.header("Retry-After", "60");
-      return c.json({ error: `Easy there: at most ${RATE_LIMIT} requests per minute. Try again in a few seconds.` }, 429);
+      return c.json({ error: `Easy there: at most ${site ? RATE_LIMIT_SITE : RATE_LIMIT} requests per minute. Try again in a few seconds.` }, 429);
     }
   }
   await next();

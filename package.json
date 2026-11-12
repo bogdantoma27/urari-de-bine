@@ -9,6 +9,7 @@
     "test:data": "node scripts/validate-data.mjs",
     "test:i18n": "node scripts/check-i18n.mjs",
     "build:data": "node scripts/build-data.mjs",
+    "schedule": "node scripts/today-schedule.mjs",
     "dev": "npm run build:data && wrangler dev --port 8787",
     "dev:lan": "npm run build:data && wrangler dev --ip 0.0.0.0 --port 8787",
     "test": "npm run build:data && vitest run && npm run test:data && npm run test:i18n",

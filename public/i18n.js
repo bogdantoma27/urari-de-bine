@@ -301,21 +301,6 @@ export function formatNumber(n) {
   return Number(n).toLocaleString(currentLanguage === 'en' ? 'en-US' : 'ro-RO');
 }
 
-/* The canonical is the current language's own URL, so each variant is indexed on its own. */
-const PUBLIC_ORIGIN = 'https://uraridebine.ro';
-function setCanonical() {
-  if (document.querySelector('meta[name="robots"][content*="noindex"]')) return;
-  let c = document.querySelector('link[rel="canonical"]');
-  if (c && c.hasAttribute('data-fixed')) return; // set by the server (entry pages, /all): keep it as is
-  if (!c) {
-    c = document.createElement('link');
-    c.setAttribute('rel', 'canonical');
-    document.head.append(c);
-  }
-  const path = location.pathname.replace(/\/index\.html$/, '/').replace(/\.html$/, '');
-  c.setAttribute('href', `${PUBLIC_ORIGIN}${path}?lang=${currentLanguage}`);
-}
-
 export function setVariable(name, value) {
   variables[name] = value;
   apply();
@@ -347,7 +332,6 @@ export function apply(root = document) {
     loc.setAttribute('content', currentLanguage === 'en' ? 'en_US' : 'ro_RO');
     alt.setAttribute('content', currentLanguage === 'en' ? 'ro_RO' : 'en_US');
   }
-  setCanonical();
   // one switch: only the button of the other language is shown
   for (const b of document.querySelectorAll('[data-lang]')) {
     b.hidden = b.dataset.lang === currentLanguage;

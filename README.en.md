@@ -85,7 +85,7 @@ curl "https://api.uraridebine.ro/v1/today?format=text"
 
 | Route | What it does |
 |---|---|
-| `GET /v1/random` | a random formula with some bite. With `?format=text` or `Accept: text/plain` you get just the text |
+| `GET /v1/random` | a random formula with some bite. With `seed` and `n` it walks every matching formula once: the ones with bite first, then the rest (the button on the site sends `sensitive=false`, so no slurs). With `?format=text` or `Accept: text/plain` you get just the text |
 | `GET /v1/today` | the wish of the day: the same for everyone, changes at midnight Romanian time |
 | `GET /v1/generate` | a new curse built from pieces of real ones (“Verb-te-ar *affliction*” style, or built around “mă-tii”). The response says clearly that it's generated |
 | `GET /v1/entries` | every entry, with filters, search and paging (`page`, `per_page` ≤ 100) |
@@ -94,18 +94,18 @@ curl "https://api.uraridebine.ro/v1/today?format=text"
 
 The shared filters are `type`, `theme`, `region`, `level`, `form`, `attested` and `q`. Separate multiple values with a comma (`type=curse,insult`). `/v1/generate` only takes `level`, `theme` and `sensitive`, and `funny` only works on `/v1/entries`. `sensitive=false` drops the slurs against groups.
 
-You don't need a key, and you can call it straight from the browser on any domain. The limit is 120 requests per minute per IP. The docs, where you can try requests right in the page, are at **[api.uraridebine.ro/docs](https://api.uraridebine.ro/docs)**, in English and Romanian. The OpenAPI spec is at `/openapi.en.json` and `/openapi.json`, and the full reference is in [docs/api.md](docs/api.md).
+You don't need a key, and you can call it straight from the browser on any domain. The limit is 120 requests per minute per IP. The docs, where you can try requests right in the page, are at **[api.uraridebine.ro/docs](https://api.uraridebine.ro/docs)**, in English and Romanian. The OpenAPI spec is at `/openapi.en.json` and `/openapi.json`.
 
 ## What's in the collection
 
 | | |
 |---|---|
-| **Types** | 660 curses · 333 swears · 262 insults · 130 expressions · 63 euphemisms |
-| **Levels** | 1,114 clean (fine at Sunday lunch) · 102 mild (traffic jams) · 232 vulgar (football stands) |
-| **Verification** | 1,168 found word for word in the source · 277 copied by hand · 3 not found |
+| **Types** | 598 curses · 316 swears · 260 insults · 126 expressions · 58 euphemisms |
+| **Levels** | 1,040 clean (fine at Sunday lunch) · 102 mild (traffic jams) · 216 vulgar (football stands) |
+| **Verification** | 1,091 found word for word in the source · 265 copied by hand · 2 not found |
 | **Regions** | from Maramureș to Dobruja, plus Aromanian, Megleno-Romanian, Istro-Romanian and the Romanians of Ukraine |
 | **Age** | sources from 1844 to today |
-| **With bite** | 256, hand-picked for the button on the site |
+| **With bite** | 242, hand-picked for the button on the site |
 
 <details>
 <summary><b>What an entry looks like</b></summary>
