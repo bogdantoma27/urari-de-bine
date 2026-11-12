@@ -29,6 +29,8 @@ export interface Entry {
   explanation: string | null;
   translation: string | null;
   notes: string | null;
+  /** file name in /og/ of the entry's Open Graph image; null keeps the generic /og.jpg */
+  og: string | null;
 }
 
 export class HttpError extends Error {

@@ -108,6 +108,8 @@ export interface LayoutOptions {
   lang: PageLang;
   noindex?: boolean;
   script: string;
+  /** an entry's own Open Graph image (file name in /og/); the generic image when missing */
+  ogImage?: { file: string; alt: string };
 }
 
 const FONTS = [
@@ -128,6 +130,8 @@ function rawLayout(o: LayoutOptions): string {
   const description = esc(o.description);
   const canonical = esc(o.canonical);
   const lang = o.lang;
+  const image = o.ogImage ? `${ORIGIN}/og/${encodeURIComponent(o.ogImage.file)}` : `${ORIGIN}/og.jpg`;
+  const imageAlt = esc(o.ogImage?.alt ?? "Urări de bine: blesteme, înjurături și insulte românești, cu sursa la fiecare");
   return `<!doctype html>
 <html lang="${lang}">
 <head>
@@ -148,17 +152,18 @@ function rawLayout(o: LayoutOptions): string {
   <meta name="description" content="${description}">
   <meta property="og:title" content="${title}">
   <meta property="og:description" content="${description}">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="${o.ogImage ? "article" : "website"}">
   <meta property="og:locale" content="ro_RO">
   <meta property="og:locale:alternate" content="en_US">
   <meta property="og:site_name" content="${SITE_NAME}">
   <meta property="og:url" content="${canonical}">
-  <meta property="og:image" content="${ORIGIN}/og.jpg">
+  <meta property="og:image" content="${image}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Urări de bine: blesteme, înjurături și insulte românești, cu sursa la fiecare">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:alt" content="${imageAlt}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="${ORIGIN}/og.jpg">
+  <meta name="twitter:image" content="${image}">
   <meta name="twitter:title" content="${title}">
   <meta name="twitter:description" content="${description}">
   <meta name="theme-color" content="#2a1d14">
@@ -274,6 +279,7 @@ export function renderEntryPage(e: Entry, lang: PageLang = "ro"): string {
     lang,
     noindex: e.sensitive,
     script: "/entry.js",
+    ogImage: e.og ? { file: e.og, alt: e.text } : undefined,
   });
 }
 

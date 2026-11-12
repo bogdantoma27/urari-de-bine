@@ -512,6 +512,9 @@ describe("home page", () => {
 <meta property="og:description" content="generic">
 <meta property="og:url" content="https://uraridebine.ro/">
 <meta property="og:image" content="https://uraridebine.ro/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:alt" content="generic">
+<meta name="twitter:image" content="https://uraridebine.ro/og.jpg">
 <meta name="twitter:title" content="generic">
 <meta name="twitter:description" content="generic">
 </head><body></body></html>`;
@@ -530,7 +533,7 @@ describe("home page", () => {
     expect(h).toMatch(/<meta property="og:description" content="[^"]*"/);
     expect(h).toContain(esc(e.explanation!.slice(0, 40))); // Romanian by default
     expect(h).not.toContain('content="generic"');
-    expect(h).toContain('<meta property="og:image" content="https://uraridebine.ro/og.jpg">');
+    expect(h).toContain(`<meta property="og:image" content="https://uraridebine.ro/og/${encodeURIComponent(e.og!)}">`);
   });
 
   it("/?id= unknown or missing: the page stays unchanged", async () => {
@@ -1171,3 +1174,55 @@ describe("entry meta description language", () => {
     expect(desc(h, 'name="description"')).toContain(esc(x.sources[0].title.slice(0, 30)));
   });
 });
+
+describe("per-entry Open Graph image", () => {
+  const SHELL = PAGE_SHELL();
+  const page = async (p: string) =>
+    (
+      await app.request(`https://uraridebine.ro${p}`, undefined, {
+        ASSETS: { fetch: async () => new Response(SHELL, { headers: { "content-type": "text/html" } }) },
+      })
+    ).text();
+  const meta = (h: string, a: string) => new RegExp(`<meta ${a} content="([^"]*)"`).exec(h)![1];
+  const normal = entries.find((x) => x.og && x.attested)!;
+  const sensitive = entries.find((x) => x.sensitive)!;
+
+  it("an entry page and its /?id= preview point at the entry image", async () => {
+    expect(normal.og).toMatch(new RegExp(`^${normal.id}\.[0-9a-f]{10}\.jpg$`));
+    const url = `https://uraridebine.ro/og/${encodeURIComponent(normal.og!)}`;
+    const id = encodeURIComponent(normal.id);
+    for (const h of [await page(`/e/${id}`), await page(`/?id=${id}`)]) {
+      expect(meta(h, 'property="og:image"')).toBe(url);
+      expect(meta(h, 'name="twitter:image"')).toBe(url);
+      expect(meta(h, 'property="og:image:alt"')).toBe(esc(normal.text));
+      expect(meta(h, 'property="og:image:width"')).toBe("1200");
+    }
+    expect(meta(await page(`/e/${id}`), 'property="og:type"')).toBe("article");
+    expect(meta(await page(`/e/${id}`), 'property="og:image:type"')).toBe("image/jpeg");
+  });
+
+  it("a sensitive entry keeps the generic image", async () => {
+    expect(sensitive.og).toBeNull();
+    const id = encodeURIComponent(sensitive.id);
+    for (const h of [await page(`/e/${id}`), await page(`/?id=${id}`)]) {
+      expect(meta(h, 'property="og:image"')).toBe("https://uraridebine.ro/og.jpg");
+      expect(meta(h, 'name="twitter:image"')).toBe("https://uraridebine.ro/og.jpg");
+    }
+  });
+
+  it("the home page keeps the generic image", async () => {
+    const h = await page("/");
+    expect(meta(h, 'property="og:image"')).toBe("https://uraridebine.ro/og.jpg");
+    expect(meta(h, 'property="og:type"')).toBe("website");
+  });
+});
+
+function PAGE_SHELL() {
+  return `<!doctype html><html><head><title>x</title>
+<meta property="og:image" content="https://uraridebine.ro/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:alt" content="generic">
+<meta property="og:type" content="website">
+<meta name="twitter:image" content="https://uraridebine.ro/og.jpg">
+</head><body></body></html>`;
+}

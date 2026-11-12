@@ -6,3 +6,4 @@ cercetare/
 .dev.vars
 src/generated/
 .tmp-logs/
+public/og/

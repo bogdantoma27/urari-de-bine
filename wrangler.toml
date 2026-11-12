@@ -10,9 +10,10 @@ routes = [
 ]
 
 # data/entries is bundled into src/generated/data.json; without this step
-# a plain `wrangler deploy` would publish stale data.
+# a plain `wrangler deploy` would publish stale data. build-og.mjs renders the per-entry
+# Open Graph images into public/og (cached by content hash, git-ignored).
 [build]
-command = "node scripts/build-data.mjs"
+command = "node scripts/build-data.mjs && node scripts/build-og.mjs"
 watch_dir = "data/entries"
 
 [assets]

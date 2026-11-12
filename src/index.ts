@@ -79,6 +79,12 @@ function withSharePreview(html: string, e: Entry, lang: PageLang): string {
   h = setMeta(h, 'property="og:title"', title);
   h = setMeta(h, 'name="twitter:title"', title);
   h = setMeta(h, 'property="og:url"', `${ORIGIN}/?id=${encodeURIComponent(e.id)}`);
+  if (e.og) {
+    const image = `${ORIGIN}/og/${encodeURIComponent(e.og)}`;
+    h = setMeta(h, 'property="og:image"', image);
+    h = setMeta(h, 'name="twitter:image"', image);
+    h = setMeta(h, 'property="og:image:alt"', e.text);
+  }
   if (description) {
     h = setMeta(h, 'property="og:description"', description);
     h = setMeta(h, 'name="twitter:description"', description);
