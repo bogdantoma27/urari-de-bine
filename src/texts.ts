@@ -88,6 +88,18 @@ const T = {
     ro: "id (implicit, în ordine alfabetică) sau vulgar, ca să vină întâi cele vulgare, apoi cele medii, apoi cele curate.",
     en: "id (default, alphabetical) or vulgar, for the vulgar ones first, then the mild, then the clean.",
   },
+  "param.seed": {
+    ro: "Un număr ales de tine (0–2147483647). Cu seed și n primești al n-lea element dintr-o ordine fixă, ca să nu se repete nimic până nu le vezi pe toate.",
+    en: "A number you pick (0–2147483647). With seed and n you get the n-th item of a fixed order, so nothing repeats until you have seen them all.",
+  },
+  "param.n": {
+    ro: "Poziția în ordinea dată de seed, de la 0. Crește-l cu 1 la fiecare cerere. Trecut de total, o ia de la capăt.",
+    en: "The position in the seed's order, from 0. Add 1 on every request. Past the total, it starts over.",
+  },
+  "field.sequence": {
+    ro: "Doar cu seed: seed-ul, poziția n folosită și total, câte sunt în ordine. Când n + 1 ajunge la total, ai văzut tot.",
+    en: "Only with seed: the seed, the position n used and total, how many the order holds. When n + 1 reaches total, you have seen them all.",
+  },
   "param.format": {
     ro: "json (implicit) sau text, dacă vrei doar formula, ca text simplu.",
     en: "json (default) or text for a plain-text response.",

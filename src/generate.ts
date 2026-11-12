@@ -1,4 +1,4 @@
-import { entries, type Entry } from "./data";
+import { entries, seededOrder, type Entry } from "./data";
 
 const normalizeText = (s: string) =>
   s
@@ -102,19 +102,82 @@ function dedupe(l: Piece[]): Piece[] {
   });
 }
 
-export function generate(level: string[] | "all", theme?: string[], sensitive = true) {
+export function generate(
+  level: string[] | "all",
+  theme?: string[],
+  sensitive = true,
+  sequence?: { seed: number; n: number } | null,
+) {
   const allowed = (p: Piece) => (sensitive || !p.sensitive) && (level === "all" || level.includes(p.level));
+  const pools = families.map((f) => ({
+    patterns: dedupe(f.patterns.filter(allowed)),
+    fillers: dedupe(f.fillers.filter(allowed).filter((p) => !theme || p.themes.some((t) => theme.includes(t)))),
+    write: f.compose,
+  }));
+  if (sequence) return inSequence(pools, sequence.seed, sequence.n);
   const order = Math.random() < 0.5 ? [0, 1] : [1, 0];
   for (const idx of order) {
-    const f = families[idx];
-    const r = compose(
-      dedupe(f.patterns.filter(allowed)),
-      dedupe(f.fillers.filter(allowed).filter((p) => !theme || p.themes.some((t) => theme.includes(t)))),
-      f.compose,
-    );
+    const r = compose(pools[idx].patterns, pools[idx].fillers, pools[idx].write);
     if (r) return r;
   }
   return null;
+}
+
+const gcd = (a: number, b: number): number => (b ? gcd(b, a % b) : a);
+
+/**
+ * The n-th curse of a fixed order (for one seed). Within one family, step k pairs pattern k % P with
+ * filler (k + ⌊k / lcm(P, F)⌋) % F: every pattern and every filler comes back only after all the others,
+ * and no pair repeats in P·F steps. The two families take turns. Texts that already exist are skipped.
+ */
+function inSequence(pools: { patterns: Piece[]; fillers: Piece[]; write: Family["compose"] }[], seed: number, n: number) {
+  const live = pools
+    .map((p, i) => ({
+      ...p,
+      po: seededOrder(p.patterns.length, seed + 101 * i),
+      fo: seededOrder(p.fillers.length, seed + 101 * i + 7),
+      size: p.patterns.length * p.fillers.length,
+    }))
+    .filter((p) => p.size > 0);
+  if (!live.length) return null;
+  const total = live.reduce((a, p) => a + p.size, 0);
+  for (let tries = 0; tries < total; tries++) {
+    const at = (n + tries) % total;
+    // The families take turns until the smaller one has given all its pairs; then only the bigger one.
+    const [fam, k] = slot(live, at);
+    const P = fam.patterns.length;
+    const F = fam.fillers.length;
+    const lcm = (P / gcd(P, F)) * F;
+    const t = fam.patterns[fam.po[k % P]];
+    const c = fam.fillers[fam.fo[(k + Math.floor(k / lcm)) % F]];
+    const text = fam.write(t.text, c.text);
+    if (existing.has(normalizeText(text))) continue;
+    return { ...result(text, t, c), sequence: { seed, n: at, total } };
+  }
+  return null;
+}
+
+/** Step `at` of the order: which family, and its k-th pair. */
+function slot<T extends { size: number }>(live: T[], at: number): [T, number] {
+  if (live.length === 1) return [live[0], at];
+  const [x, y] = live;
+  const small = Math.min(x.size, y.size);
+  if (at < 2 * small) return [live[at % 2], Math.floor(at / 2)];
+  return [x.size > y.size ? x : y, at - small];
+}
+
+function result(text: string, t: Piece, c: Piece) {
+  return {
+    text,
+    generated: true as const,
+    attested: false as const,
+    level: maxLevel(t.level, c.level),
+    warning: "A curse composed automatically from attested pieces. As a whole, it appears in no source.",
+    pieces: {
+      pattern: { text: t.text, entry: t.entry },
+      fill: { text: c.text, entry: c.entry },
+    },
+  };
 }
 
 function compose(patterns: Piece[], fillers: Piece[], write: Family["compose"]) {
@@ -137,17 +200,5 @@ function compose(patterns: Piece[], fillers: Piece[], write: Family["compose"]) 
     if (!pairs.length) return null;
     [i, j] = pick(pairs);
   }
-  const t = patterns[i];
-  const c = fillers[j];
-  return {
-    text: text(i, j),
-    generated: true as const,
-    attested: false as const,
-    level: maxLevel(t.level, c.level),
-    warning: "A curse composed automatically from attested pieces. As a whole, it appears in no source.",
-    pieces: {
-      pattern: { text: t.text, entry: t.entry },
-      fill: { text: c.text, entry: c.entry },
-    },
-  };
+  return result(text(i, j), patterns[i], fillers[j]);
 }

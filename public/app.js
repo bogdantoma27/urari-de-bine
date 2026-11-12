@@ -264,28 +264,33 @@ function setBusy(on) {
   else mark();
 }
 
-const recent = []; // the last 40 wishes shown (id or generated text), against repeats
-const recentKey = (d, generated) => (generated ? `t:${d.text}` : `i:${d.id}`);
-function remember(d, generated) {
-  recent.push(recentKey(d, generated));
-  if (recent.length > 40) recent.shift();
+/* No repeats: for each filter (and for the generator) the browser keeps a seed and a position n.
+   The API gives the n-th item of the seed's fixed order, so every wish shows up once before any
+   comes back. At the end of the list we pick a new seed and start over. Kept in localStorage,
+   so a reload does not start the list again. */
+const SEQ_PREFIX = 'urari-seq:';
+const newSeed = () => Math.floor(Math.random() * 2147483647);
+function readSequence(key) {
+  try {
+    const v = JSON.parse(readStore(SEQ_PREFIX + key) || 'null');
+    if (v && Number.isInteger(v.seed) && Number.isInteger(v.n) && v.seed >= 0 && v.n >= 0) return v;
+  } catch { /* broken value: start over */ }
+  return { seed: newSeed(), n: 0 };
 }
+const sameWish = (a, b) => Boolean(a && b) && (a.id ? a.id === b.id : a.text === b.text);
 
-/* Requests a wish and requests again up to 4 times while it repeats. If a re-request
-   fails, the last good result stays. If it still repeats (very small lists), we show it
-   anyway, but preferably one that differs from the one on the card now. */
-async function fetchFresh(path, generated) {
-  let d = await fetchJson(path);
-  const tried = [d];
-  for (let i = 0; i < 4 && recent.includes(recentKey(d, generated)); i++) {
-    let next;
-    try { next = await fetchJson(path); } catch { break; }
-    d = next;
-    tried.push(d);
+async function fetchNext(path, key) {
+  const seq = readSequence(key);
+  const url = (s) => `${path}${path.includes('?') ? '&' : '?'}seed=${s.seed}&n=${s.n}`;
+  let d = await fetchJson(url(seq));
+  // A new list may open with the wish on the card now: take the next one.
+  if (sameWish(d, state.last?.data) && d.sequence && d.sequence.total > 1) {
+    try { d = await fetchJson(url({ seed: d.sequence.seed, n: d.sequence.n + 1 })); } catch { /* keep d */ }
   }
-  if (recent.includes(recentKey(d, generated))) {
-    const latest = recent[recent.length - 1];
-    d = tried.find((x) => recentKey(x, generated) !== latest) || d;
+  const s = d.sequence;
+  if (s) {
+    const next = s.n + 1;
+    writeStore(SEQ_PREFIX + key, JSON.stringify(next >= s.total ? { seed: newSeed(), n: 0 } : { seed: s.seed, n: next }));
   }
   return d;
 }
@@ -323,12 +328,11 @@ async function requestWish(mode) {
   clearIdFromUrl();
   try {
     if (mode === 'generate') {
-      const d = await fetchFresh('/v1/generate', true); // fully random: ignores the level and the theme
-      remember(d, true);
+      const d = await fetchNext('/v1/generate', 'generate'); // ignores the level and the theme
       showGenerated(d);
     } else {
-      const d = await fetchFresh(`/v1/random${queryString()}`, false);
-      remember(d, false);
+      const q = queryString();
+      const d = await fetchNext(`/v1/random${q}`, `random${q}`);
       showWish(d);
     }
     scrollToCard();
@@ -606,11 +610,9 @@ onChange(() => {
   try {
     if (id) {
       const d = await fetchJson(`/v1/entries/${encodeURIComponent(id)}`);
-      remember(d, false);
       showWish(d);
     } else {
       const d = await fetchJson('/v1/today');
-      remember(d, false);
       showWish(d, true, d.date);
     }
   } catch (e) {

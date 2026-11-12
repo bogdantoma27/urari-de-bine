@@ -939,3 +939,64 @@ describe("server-rendered pages", () => {
     expect(await r.text()).toContain(`<link rel="canonical" href="https://uraridebine.ro/e/${encodeURIComponent(e.id)}" data-fixed>`);
   });
 });
+
+describe("seed + n: no repeats until the list is used up", () => {
+  it("/v1/random walks every matching entry once, funny ones first, then starts over", async () => {
+    const vulgar = entries.filter((e) => e.level === "vulgar");
+    const funny = vulgar.filter((e) => e.funny).length;
+    const seen: string[] = [];
+    for (let n = 0; n < vulgar.length; n++) {
+      const { b } = await json(`/v1/random?level=vulgar&seed=42&n=${n}`);
+      expect(b.sequence).toEqual({ seed: 42, n, total: vulgar.length });
+      seen.push(b.id);
+    }
+    expect(new Set(seen).size).toBe(vulgar.length);
+    expect(seen.slice(0, funny).every((id) => entries.find((e) => e.id === id)!.funny)).toBe(true);
+    const again = await json(`/v1/random?level=vulgar&seed=42&n=${vulgar.length}`);
+    expect(again.b.id).toBe(seen[0]);
+    expect(again.b.sequence.n).toBe(0);
+  });
+  it("another seed gives another order; no seed gives no sequence field", async () => {
+    const a = await Promise.all([0, 1, 2, 3, 4].map((n) => json(`/v1/random?seed=1&n=${n}`)));
+    const b = await Promise.all([0, 1, 2, 3, 4].map((n) => json(`/v1/random?seed=2&n=${n}`)));
+    expect(a.map((x) => x.b.id)).not.toEqual(b.map((x) => x.b.id));
+    expect((await json("/v1/random")).b.sequence).toBeUndefined();
+  });
+  it("bad seed or n gives 400", async () => {
+    for (const q of ["seed=-1", "seed=abc", "seed=1&n=x", "n=3"]) {
+      expect((await get(`/v1/random?${q}`)).status, q).toBe(400);
+      expect((await get(`/v1/generate?${q}`)).status, q).toBe(400);
+    }
+  });
+  it("/v1/generate: a whole cycle has no repeated text", async () => {
+    const first = (await json("/v1/generate?seed=3&n=0")).b;
+    const texts = new Set<string>([first.text]);
+    let n = first.sequence.n + 1;
+    while (n < first.sequence.total) {
+      const { b } = await json(`/v1/generate?seed=3&n=${n}`);
+      if (b.sequence.n < n) break; // wrapped: only texts that already exist were left
+      expect(texts.has(b.text), b.text).toBe(false);
+      texts.add(b.text);
+      n = b.sequence.n + 1;
+    }
+    expect(texts.size).toBeGreaterThan(first.sequence.total * 0.9);
+  });
+  it("/v1/generate: 600 steps, no repeated text, patterns and fillers spread out", async () => {
+    const texts = new Set<string>();
+    const fills = new Map<string, number>();
+    let n = 0;
+    for (let i = 0; i < 600; i++) {
+      const { b } = await json(`/v1/generate?seed=7&n=${n}`);
+      expect(b.generated).toBe(true);
+      expect(b.sequence.seed).toBe(7);
+      expect(b.sequence.n).toBeGreaterThanOrEqual(n);
+      n = b.sequence.n + 1;
+      texts.add(b.text);
+      fills.set(b.pieces.fill.text, (fills.get(b.pieces.fill.text) ?? 0) + 1);
+    }
+    expect(texts.size).toBe(600);
+    // A filler comes back only after the others of its family: none is used 4 times as often as average.
+    const avg = 600 / fills.size;
+    expect(Math.max(...fills.values())).toBeLessThanOrEqual(Math.ceil(avg * 4));
+  });
+});

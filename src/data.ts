@@ -263,8 +263,11 @@ export function secondsUntilMidnight(d: Date): number {
 // so no entry repeats until all of them have been used.
 const funnyEntries = entries.filter((e) => e.funny).sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
 const permutations = new Map<number, number[]>();
-function shuffle(cycle: number): number[] {
-  let state = (0x9e3779b9 ^ Math.imul(cycle, 0x85ebca6b)) >>> 0;
+const shuffle = (cycle: number) => seededOrder(funnyEntries.length, cycle);
+
+/** The indexes 0..length-1 in an order that depends only on the seed (mulberry32 + Fisher-Yates). */
+export function seededOrder(length: number, seed: number): number[] {
+  let state = (0x9e3779b9 ^ Math.imul(seed, 0x85ebca6b)) >>> 0;
   const rnd = () => {
     state = (state + 0x6d2b79f5) >>> 0;
     let t = state;
@@ -272,7 +275,7 @@ function shuffle(cycle: number): number[] {
     t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
     return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
   };
-  const p = funnyEntries.map((_, i) => i);
+  const p = Array.from({ length }, (_, i) => i);
   for (let i = p.length - 1; i > 0; i--) {
     const j = Math.floor(rnd() * (i + 1));
     [p[i], p[j]] = [p[j], p[i]];
@@ -289,6 +292,19 @@ function permutation(cycle: number): number[] {
   permutations.set(cycle, p);
   return p;
 }
+/**
+ * The entries in a fixed order for one seed: the funny ones first, then the rest, each part shuffled.
+ * Walking it with n = 0, 1, 2… shows every entry once before any repeats.
+ */
+export function seededSequence(list: Entry[], seed: number): Entry[] {
+  const funny = list.filter((e) => e.funny);
+  const rest = list.filter((e) => !e.funny);
+  return [
+    ...seededOrder(funny.length, seed).map((i) => funny[i]),
+    ...seededOrder(rest.length, seed ^ 0x5bd1e995).map((i) => rest[i]),
+  ];
+}
+
 /** The entry of the day for a "YYYY-MM-DD" date (already validated). */
 export function entryOfTheDay(date: string): Entry | null {
   const n = funnyEntries.length;

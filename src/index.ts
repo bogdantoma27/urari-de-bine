@@ -13,6 +13,7 @@ import {
   countBy,
   countByLevel,
   vulgarFirst,
+  seededSequence,
   parseFilters,
   secondsUntilMidnight,
   distinctSources,
@@ -279,6 +280,23 @@ function parseBoundedInt(name: string, v: string | undefined, defaultValue: numb
 
 const pick = <T>(l: T[]): T => l[Math.floor(Math.random() * l.length)];
 
+/* seed + n: the n-th item of a fixed order, so a client that counts n = 0, 1, 2… sees no repeats. */
+const sequenceQuery = {
+  seed: param({ description: textKey("param.seed"), example: "12345" }),
+  n: param({ description: textKey("param.n"), example: "0" }),
+};
+const SequenceSchema = z
+  .object({ seed: z.number().int(), n: z.number().int(), total: z.number().int() })
+  .optional()
+  .openapi({ description: textKey("field.sequence") });
+function parseSequence(q: Record<string, string | undefined>): { seed: number; n: number } | null {
+  const hasSeed = q.seed !== undefined && q.seed !== "";
+  const hasN = q.n !== undefined && q.n !== "";
+  if (!hasSeed && !hasN) return null;
+  if (!hasSeed) throw new HttpError(400, '"n" needs "seed".');
+  return { seed: parseBoundedInt("seed", q.seed, 0, 0, 2147483647), n: parseBoundedInt("n", q.n, 0, 0, 2147483647) };
+}
+
 /** The application clock; tests can replace it. */
 export const clock = { now: () => new Date() };
 
@@ -378,6 +396,7 @@ app.openapi(
         ...filterQuery,
         sensitive: param({ description: textKey("param.sensitive"), example: "false" }),
         format: param({ description: textKey("param.format"), example: "json" }),
+        ...sequenceQuery,
       }),
     },
     responses: {
@@ -389,6 +408,7 @@ app.openapi(
               id: z.string(), text: z.string(), type: z.string(), level: z.string(),
               regions: z.array(z.string()), explanation: z.string().nullable(),
               translation: z.string().nullable(), source: z.string().nullable(), url: z.string(),
+              sequence: SequenceSchema,
             }).openapi({
               example: {
                 id: "manca-te-ar-gherla", text: "Mânca-te-ar gherla!", type: "curse", level: "clean", regions: [],
@@ -407,15 +427,25 @@ app.openapi(
     },
   }),
   ((c: Context) => {
-    const { funny: _funny, ...q } = queryParams(c); // /random picks the funny entries by itself
+    const { funny: _funny, seed: _seed, n: _n, ...q } = queryParams(c); // /random picks the funny entries by itself
+    const sequence = parseSequence({ seed: _seed, n: _n });
     const filters = parseFilters(q);
     const textRequested = wantsText(c);
     const matching = filterEntries(filters, filters.sensitive);
     // Funny entries first; if the filters leave none, fall back to everything that matches.
-    const funnyEntries = matching.filter((x) => x.funny);
-    const e = funnyEntries.length ? funnyEntries : matching;
-    if (!e.length) throw new HttpError(404, "No entry matches those filters.");
-    const r: Entry = pick(e);
+    if (!matching.length) throw new HttpError(404, "No entry matches those filters.");
+    let r: Entry;
+    let position: { seed: number; n: number; total: number } | undefined;
+    if (sequence) {
+      // Every matching entry once (funny ones first), then the order starts again.
+      const order = seededSequence(matching, sequence.seed);
+      const n = sequence.n % order.length;
+      r = order[n];
+      position = { seed: sequence.seed, n, total: order.length };
+    } else {
+      const funnyEntries = matching.filter((x) => x.funny);
+      r = pick(funnyEntries.length ? funnyEntries : matching);
+    }
     if (textRequested) return text(c, r.text);
     return c.json({
       id: r.id,
@@ -427,6 +457,7 @@ app.openapi(
       translation: r.translation,
       source: r.sources[0]?.title ?? null,
       url: `${origin(c)}/v1/entries/${r.id}`,
+      ...(position ? { sequence: position } : {}),
     });
   }) as never,
 );
@@ -589,6 +620,7 @@ app.openapi(
         theme: param({ description: textKey("param.theme"), example: "nature_elements" }),
         sensitive: param({ description: textKey("param.sensitive.generate"), example: "false" }),
         format: param({ description: textKey("param.format"), example: "json" }),
+        ...sequenceQuery,
       }),
     },
     responses: {
@@ -602,6 +634,7 @@ app.openapi(
                 pattern: z.object({ text: z.string(), entry: z.string() }),
                 fill: z.object({ text: z.string(), entry: z.string() }),
               }),
+              sequence: SequenceSchema,
             }).openapi({
               example: {
                 text: "Uscă-mi-aș chiloții pe mămăliga mă-tii", generated: true, attested: false, level: "vulgar",
@@ -624,8 +657,9 @@ app.openapi(
   ((c: Context) => {
     const p = queryParams(c);
     const f = parseFilters({ theme: p.theme, level: p.level, sensitive: p.sensitive });
+    const sequence = parseSequence(p);
     const textRequested = wantsText(c);
-    const r = generate(f.level, f.theme, f.sensitive);
+    const r = generate(f.level, f.theme, f.sensitive, sequence);
     if (!r) throw new HttpError(404, "Not enough pieces to compose a curse with those filters.");
     return textRequested ? text(c, r.text) : c.json(r);
   }) as never,
